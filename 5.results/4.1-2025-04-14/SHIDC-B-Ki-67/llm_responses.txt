@@ -1,0 +1,5084 @@
+
+===== p10_0036_3.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 18  
+Ki-67 Index: (27 / (27 + 18)) x 100 = (27 / 45) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== p10_0042_7.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index: (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== p10_0044_7.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 32  
+Ki-67 Index: (38 / (38 + 32)) x 100 = (38 / 70) x 100 = 54.29%
+
+Ki-67 Index: 54.29%
+
+===== p10_0048_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 18  
+Ki-67 Index: (13 / (13 + 18)) x 100 = (13 / 31) x 100 = 41.94%
+
+Ki-67 Index: 41.94%
+
+===== p10_0048_8.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 10  
+Ki-67 Index: (18 / (18 + 10)) x 100 = (18 / 28) x 100 = 64.29%
+
+Ki-67 Index: 64.29%
+
+===== p10_0050_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 3  
+Ki-67 Index: (1 / (1 + 3)) x 100 = 25.00%
+
+Ki-67 Index: 25.00%
+
+===== p10_0052_7.jpg =====
+Immunopositive cells: 46  
+Immunonegative cells: 9  
+Ki-67 Index: (46 / (46 + 9)) x 100 = (46 / 55) x 100 = 83.64%
+
+Ki-67 Index: 83.64%
+
+===== p10_0053_11.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 18  
+Ki-67 Index: (42 / (42 + 18)) x 100 = (42 / 60) x 100 = 70.00%
+
+Ki-67 Index: 70.00%
+
+===== p10_0053_5.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 2  
+Ki-67 Index: (13 / (13 + 2)) x 100 = (13 / 15) x 100 = 86.67%
+
+Ki-67 Index: 86.67%
+
+===== p10_0053_8.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 14  
+Ki-67 Index: (13 / (13 + 14)) x 100 = (13 / 27) x 100 = 48.15%
+
+Ki-67 Index: 48.15%
+
+===== p10_0056_5.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 17  
+Ki-67 Index: (38 / (38 + 17)) x 100 = (38 / 55) x 100 = 69.09%
+
+Ki-67 Index: 69.09%
+
+===== p10_0058_1.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 14  
+Ki-67 Index: (12 / (12 + 14)) x 100 = (12 / 26) x 100 = 46.15%
+
+Ki-67 Index: 46.15%
+
+===== p10_0058_5.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 9  
+Ki-67 Index: (18 / (18 + 9)) x 100 = (18 / 27) x 100 = 66.67%
+
+Ki-67 Index: 66.67%
+
+===== p10_0062_2.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 32  
+Ki-67 Index: (10 / (10 + 32)) x 100 = (10 / 42) x 100 = 23.81%
+
+Ki-67 Index: 23.81%
+
+===== p10_0063_10.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 28  
+Ki-67 Index: (32 / (32 + 28)) x 100 = (32 / 60) x 100 = 53.33%
+
+Ki-67 Index: 53.33%
+
+===== p10_0066_5.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 14  
+Ki-67 Index: (10 / (10 + 14)) x 100 = (10 / 24) x 100 = 41.67%
+
+Ki-67 Index: 41.67%
+
+===== p10_0071_2.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 18  
+Ki-67 Index: (13 / (13 + 18)) x 100 = (13 / 31) x 100 = 41.94%
+
+Ki-67 Index: 41.94%
+
+===== p10_0075_6.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 6  
+Ki-67 Index: (14 / (14 + 6)) x 100 = (14 / 20) x 100 = 70.00%
+
+Ki-67 Index: 70.00%
+
+===== p10_0078_3.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 22  
+Ki-67 Index: (10 / (10 + 22)) x 100 = (10 / 32) x 100 = 31.25%
+
+Ki-67 Index: 31.25%
+
+===== p10_0086_2.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 18  
+Ki-67 Index = (27 / (27 + 18)) x 100
+
+Ki-67 Index: 60.00%
+
+===== p10_0090_6.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 18  
+Ki-67 Index = (34 / (34 + 18)) x 100
+
+Ki-67 Index: 65.38%
+
+===== p10_0094_1.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 18  
+Ki-67 Index = (34 / (34 + 18)) x 100
+
+Ki-67 Index: 65.38%
+
+===== p10_0098_5.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 7  
+Ki-67 Index: (6 / (6 + 7)) x 100 = 46.15%
+
+Ki-67 Index: 46.15%
+
+===== p10_0101_10.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 32  
+Ki-67 Index: (10 / (10 + 32)) x 100 = (10 / 42) x 100 = 23.81%
+
+Ki-67 Index: 23.81%
+
+===== p10_0102_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 18  
+Ki-67 Index: (13 / (13 + 18)) x 100 = (13 / 31) x 100 = 41.94%
+
+Ki-67 Index: 41.94%
+
+===== p11_0057_5.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 2  
+Ki-67 Index: (34 / (34 + 2)) x 100 = (34 / 36) x 100 = 94.44%
+
+Ki-67 Index: 94.44%
+
+===== p11_0059_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 3  
+Ki-67 Index: (13 / (13 + 3)) x 100 = (13 / 16) x 100 = 81.25%
+
+Ki-67 Index: 81.25%
+
+===== p11_0064_1.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 7  
+Ki-67 Index = (17 / (17 + 7)) x 100 = (17 / 24) x 100 = 70.83%
+
+Ki-67 Index: 70.83%
+
+===== p11_0064_9.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 7  
+Ki-67 Index: (6 / (6 + 7)) x 100 = (6 / 13) x 100 = 46.15%
+
+Ki-67 Index: 46.15%
+
+===== p11_0069_2.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 4  
+Ki-67 Index: (38 / (38 + 4)) x 100 = (38 / 42) x 100 = 90.48%
+
+Ki-67 Index: 90.48%
+
+===== p11_0070_6.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 33  
+Ki-67 Index: (27 / (27 + 33)) x 100 = (27 / 60) x 100 = 45.00%
+
+Ki-67 Index: 45.00%
+
+===== p11_0072_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 3  
+Ki-67 Index: (22 / (22 + 3)) x 100 = (22 / 25) x 100 = 88.00%
+
+Ki-67 Index: 88.00%
+
+===== p11_0074_1.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 7  
+Ki-67 Index: (18 / (18 + 7)) x 100 = (18 / 25) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== p11_0082_1.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 22  
+Ki-67 Index: (8 / (8 + 22)) x 100 = (8 / 30) x 100 = 26.67%
+
+Ki-67 Index: 26.67%
+
+===== p11_0089_5.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 7  
+Ki-67 Index: (23 / (23 + 7)) x 100 = (23 / 30) x 100 = 76.67%
+
+Ki-67 Index: 76.67%
+
+===== p11_0090_1.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 6  
+Ki-67 Index: (10 / (10 + 6)) x 100 = 62.50%
+
+Ki-67 Index: 62.50%
+
+===== p11_0096_5.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 3  
+Ki-67 Index: (23 / (23 + 3)) x 100 = (23 / 26) x 100 = 88.46%
+
+Ki-67 Index: 88.46%
+
+===== p11_0101_5.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 6  
+Ki-67 Index: (18 / (18 + 6)) x 100 = (18 / 24) x 100 = 75.00%
+
+Ki-67 Index: 75.00%
+
+===== p11_0108_1.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 6  
+Ki-67 Index: (27 / (27 + 6)) x 100 = (27 / 33) x 100 = 81.82%
+
+Ki-67 Index: 81.82%
+
+===== p11_0111_7.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 7  
+Ki-67 Index: (27 / (27 + 7)) x 100 = (27 / 34) x 100 = 79.41%
+
+Ki-67 Index: 79.41%
+
+===== p11_0114_11.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 22  
+Ki-67 Index: (14 / (14 + 22)) x 100 = 38.89%
+
+Ki-67 Index: 38.89%
+
+===== p11_0116_11.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 0  
+Ki-67 Index: (12 / (12 + 0)) x 100 = 100.00%
+
+Ki-67 Index: 100.00%
+
+===== p11_0117_3.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 7  
+Ki-67 Index: (17 / (17 + 7)) x 100 = (17 / 24) x 100 = 70.83%
+
+Ki-67 Index: 70.83%
+
+===== p11_0118_11.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 2  
+Ki-67 Index: (18 / (18 + 2)) x 100 = (18 / 20) x 100 = 90.00%
+
+Ki-67 Index: 90.00%
+
+===== p11_0121_3.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 1  
+Ki-67 Index: (29 / (29 + 1)) x 100 = (29 / 30) x 100 = 96.67%
+
+Ki-67 Index: 96.67%
+
+===== p11_0125_5.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 7  
+Ki-67 Index: (27 / (27 + 7)) x 100 = (27 / 34) x 100 = 79.41%
+
+Ki-67 Index: 79.41%
+
+===== p11_0128_11.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 3  
+Ki-67 Index: (27 / (27 + 3)) x 100 = (27 / 30) x 100 = 90.00%
+
+Ki-67 Index: 90.00%
+
+===== p11_0130_2.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 13  
+Ki-67 Index: (16 / (16 + 13)) x 100 = (16 / 29) x 100 = 55.17%
+
+Ki-67 Index: 55.17%
+
+===== p11_0130_7.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 6  
+Ki-67 Index: (24 / (24 + 6)) x 100 = (24 / 30) x 100 = 80.00%
+
+Ki-67 Index: 80.00%
+
+===== p11_0131_7.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 6  
+Ki-67 Index: (32 / (32 + 6)) x 100 = (32 / 38) x 100 = 84.21%
+
+Ki-67 Index: 84.21%
+
+===== p11_0132_10.jpg =====
+Immunopositive cells: 19  
+Immunonegative cells: 13  
+Ki-67 Index: (19 / (19 + 13)) x 100 = (19 / 32) x 100 = 59.38%
+
+Ki-67 Index: 59.38%
+
+===== p11_0132_5.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 4  
+Ki-67 Index: (28 / (28 + 4)) x 100 = (28 / 32) x 100 = 87.50%
+
+Ki-67 Index: 87.50%
+
+===== p11_0133_10.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 3  
+Ki-67 Index: (27 / (27 + 3)) x 100 = (27 / 30) x 100 = 90.00%
+
+Ki-67 Index: 90.00%
+
+===== p11_0136_1.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 13  
+Ki-67 Index: (22 / (22 + 13)) x 100 = (22 / 35) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== p11_0137_3.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 13  
+Ki-67 Index: (22 / (22 + 13)) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== p12_0124_10.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 38  
+Ki-67 Index: (8 / (8 + 38)) x 100 = (8 / 46) x 100 = 17.39%
+
+Ki-67 Index: 17.39%
+
+===== p12_0127_2.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 22  
+Ki-67 Index: (10 / (10 + 22)) x 100 = (10 / 32) x 100 = 31.25%
+
+Ki-67 Index: 31.25%
+
+===== p12_0128_2.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 18  
+Ki-67 Index: (13 / (13 + 18)) x 100 = (13 / 31) x 100 = 41.94%
+
+Ki-67 Index: 41.94%
+
+===== p12_0130_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 18  
+Ki-67 Index: (13 / (13 + 18)) x 100 = (13 / 31) x 100 = 41.94%
+
+Ki-67 Index: 41.94%
+
+===== p12_0130_11.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 22  
+Ki-67 Index: (3 / (3 + 22)) x 100 = (3 / 25) x 100 = 12.00%
+
+Ki-67 Index: 12.00%
+
+===== p12_0134_7.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 27  
+Ki-67 Index: (11 / (11 + 27)) x 100 = (11 / 38) x 100 = 28.95%
+
+Ki-67 Index: 28.95%
+
+===== p12_0135_9.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 22  
+Ki-67 Index: (10 / (10 + 22)) x 100 = (10 / 32) x 100 = 31.25%
+
+Ki-67 Index: 31.25%
+
+===== p12_0140_1.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 18  
+Ki-67 Index: (3 / (3 + 18)) x 100 = (3 / 21) x 100 = 14.29%
+
+Ki-67 Index: 14.29%
+
+===== p12_0141_5.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 34  
+Ki-67 Index: (0 / (0 + 34)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p12_0142_3.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 38  
+Ki-67 Index = (12 / (12 + 38)) x 100
+
+Ki-67 Index: 24.00%
+
+===== p12_0143_3.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 23  
+Ki-67 Index: (17 / (17 + 23)) x 100 = (17 / 40) x 100 = 42.50%
+
+Ki-67 Index: 42.50%
+
+===== p12_0143_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index: (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== p12_0144_3.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 38  
+Ki-67 Index: (17 / (17 + 38)) x 100 = (17 / 55) x 100 = 30.91%
+
+Ki-67 Index: 30.91%
+
+===== p12_0152_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 27  
+Ki-67 Index: (13 / (13 + 27)) x 100 = (13 / 40) x 100 = 32.50%
+
+Ki-67 Index: 32.50%
+
+===== p12_0157_5.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 38  
+Ki-67 Index: (9 / (9 + 38)) x 100 = (9 / 47) x 100 = 19.15%
+
+Ki-67 Index: 19.15%
+
+===== p12_0160_3.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 28  
+Ki-67 Index: (12 / (12 + 28)) x 100 = (12 / 40) x 100 = 30.00%
+
+Ki-67 Index: 30.00%
+
+===== p12_0162_6.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 27  
+Ki-67 Index: (15 / (15 + 27)) x 100 = (15 / 42) x 100 = 35.71%
+
+Ki-67 Index: 35.71%
+
+===== p12_0168_11.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 27  
+Ki-67 Index: (15 / (15 + 27)) x 100 = (15 / 42) x 100 = 35.71%
+
+Ki-67 Index: 35.71%
+
+===== p12_0168_2.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 23  
+Ki-67 Index: (10 / (10 + 23)) x 100 = (10 / 33) x 100 = 30.30%
+
+Ki-67 Index: 30.30%
+
+===== p12_0169_2.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 38  
+Ki-67 Index: (14 / (14 + 38)) x 100 = (14 / 52) x 100 = 26.92%
+
+Ki-67 Index: 26.92%
+
+===== p12_0170_1.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 22  
+Ki-67 Index: (15 / (15 + 22)) x 100 = 40.54%
+
+Ki-67 Index: 40.54%
+
+===== p12_0170_7.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 27  
+Ki-67 Index: (11 / (11 + 27)) x 100 = (11 / 38) x 100 = 28.95%
+
+Ki-67 Index: 28.95%
+
+===== p12_0171_5.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 18  
+Ki-67 Index = (10 / (10 + 18)) x 100
+
+Ki-67 Index: 35.71%
+
+===== p12_0171_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 22  
+Ki-67 Index: (8 / (8 + 22)) x 100 = (8 / 30) x 100 = 26.67%
+
+Ki-67 Index: 26.67%
+
+===== p12_0172_1.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 10  
+Ki-67 Index: (3 / (3 + 10)) x 100 = (3 / 13) x 100 = 23.08%
+
+Ki-67 Index: 23.08%
+
+===== p12_0172_11.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 18  
+Ki-67 Index: (3 / (3 + 18)) x 100 = (3 / 21) x 100 = 14.29%
+
+Ki-67 Index: 14.29%
+
+===== p12_0172_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 32  
+Ki-67 Index: (13 / (13 + 32)) x 100 = (13 / 45) x 100 = 28.89%
+
+Ki-67 Index: 28.89%
+
+===== p12_0174_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 38  
+Ki-67 Index = (13 / (13 + 38)) x 100
+
+Ki-67 Index: 25.49%
+
+===== p12_0174_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 18  
+Ki-67 Index: (13 / (13 + 18)) x 100 = (13 / 31) x 100 = 41.94%
+
+Ki-67 Index: 41.94%
+
+===== p12_0175_6.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 19  
+Ki-67 Index: (9 / (9 + 19)) x 100 = (9 / 28) x 100 = 32.14%
+
+Ki-67 Index: 32.14%
+
+===== p12_0178_2.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 44  
+Ki-67 Index: (12 / (12 + 44)) x 100 = (12 / 56) x 100 = 21.43%
+
+Ki-67 Index: 21.43%
+
+===== p12_0178_9.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 32  
+Ki-67 Index: (10 / (10 + 32)) x 100 = (10 / 42) x 100 = 23.81%
+
+Ki-67 Index: 23.81%
+
+===== p12_0179_10.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 38  
+Ki-67 Index: (10 / (10 + 38)) x 100 = (10 / 48) x 100 = 20.83%
+
+Ki-67 Index: 20.83%
+
+===== p12_0182_9.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 32  
+Ki-67 Index: (7 / (7 + 32)) x 100 = (7 / 39) x 100 = 17.95%
+
+Ki-67 Index: 17.95%
+
+===== p12_0183_10.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 10  
+Ki-67 Index: (7 / (7 + 10)) x 100 = (7 / 17) x 100 = 41.18%
+
+Ki-67 Index: 41.18%
+
+===== p13_0072_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 32  
+Ki-67 Index: (13 / (13 + 32)) x 100 = (13 / 45) x 100 = 28.89%
+
+Ki-67 Index: 28.89%
+
+===== p13_0075_3.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 32  
+Ki-67 Index: (8 / (8 + 32)) x 100 = (8 / 40) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== p13_0076_10.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 44  
+Ki-67 Index: (11 / (11 + 44)) x 100 = (11 / 55) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== p13_0076_2.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 38  
+Ki-67 Index: (7 / (7 + 38)) x 100 = (7 / 45) x 100 = 15.56%
+
+Ki-67 Index: 15.56%
+
+===== p13_0081_10.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 24  
+Ki-67 Index: (0 / (0 + 24)) x 100
+
+Ki-67 Index: 0.00%
+
+===== p13_0083_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 32  
+Ki-67 Index: (13 / (13 + 32)) x 100 = (13 / 45) x 100 = 28.89%
+
+Ki-67 Index: 28.89%
+
+===== p13_0083_7.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 28  
+Ki-67 Index: (22 / (22 + 28)) x 100 = 44.00%
+
+Ki-67 Index: 44.00%
+
+===== p13_0084_3.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 14  
+Ki-67 Index: (9 / (9 + 14)) x 100 = (9 / 23) x 100 = 39.13%
+
+Ki-67 Index: 39.13%
+
+===== p13_0084_7.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 18  
+Ki-67 Index: (10 / (10 + 18)) x 100 = 35.71%
+
+Ki-67 Index: 35.71%
+
+===== p13_0085_2.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 38  
+Ki-67 Index: (9 / (9 + 38)) x 100 = (9 / 47) x 100 = 19.15%
+
+Ki-67 Index: 19.15%
+
+===== p13_0087_6.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 18  
+Ki-67 Index: (10 / (10 + 18)) x 100 = (10 / 28) x 100 = 35.71%
+
+Ki-67 Index: 35.71%
+
+===== p13_0089_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 32  
+Ki-67 Index: (13 / (13 + 32)) x 100 = (13 / 45) x 100 = 28.89%
+
+Ki-67 Index: 28.89%
+
+===== p13_0089_6.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 32  
+Ki-67 Index: (10 / (10 + 32)) x 100 = (10 / 42) x 100 = 23.81%
+
+Ki-67 Index: 23.81%
+
+===== p13_0091_11.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 34  
+Ki-67 Index: (11 / (11 + 34)) x 100 = (11 / 45) x 100 = 24.44%
+
+Ki-67 Index: 24.44%
+
+===== p13_0093_11.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 28  
+Ki-67 Index: (15 / (15 + 28)) x 100 = 34.09%
+
+Ki-67 Index: 34.09%
+
+===== p13_0093_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 32  
+Ki-67 Index: (13 / (13 + 32)) x 100 = (13 / 45) x 100 = 28.89%
+
+Ki-67 Index: 28.89%
+
+===== p13_0096_6.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 38  
+Ki-67 Index: (9 / (9 + 38)) x 100 = (9 / 47) x 100 = 19.15%
+
+Ki-67 Index: 19.15%
+
+===== p13_0096_9.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 28  
+Ki-67 Index: (12 / (12 + 28)) x 100 = (12 / 40) x 100 = 30.00%
+
+Ki-67 Index: 30.00%
+
+===== p13_0101_5.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 14  
+Ki-67 Index: (13 / (13 + 14)) x 100 = (13 / 27) x 100 = 48.15%
+
+Ki-67 Index: 48.15%
+
+===== p13_0102_3.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 22  
+Ki-67 Index: (18 / (18 + 22)) x 100 = (18 / 40) x 100 = 45.00%
+
+Ki-67 Index: 45.00%
+
+===== p13_0103_6.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 27  
+Ki-67 Index: (15 / (15 + 27)) x 100 = (15 / 42) x 100 = 35.71%
+
+Ki-67 Index: 35.71%
+
+===== p13_0111_1.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 28  
+Ki-67 Index: (9 / (9 + 28)) x 100 = (9 / 37) x 100 = 24.32%
+
+Ki-67 Index: 24.32%
+
+===== p13_0113_7.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 22  
+Ki-67 Index: (10 / (10 + 22)) x 100 = (10 / 32) x 100 = 31.25%
+
+Ki-67 Index: 31.25%
+
+===== p13_0115_1.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 26  
+Ki-67 Index: (10 / (10 + 26)) x 100 = (10 / 36) x 100 = 27.78%
+
+Ki-67 Index: 27.78%
+
+===== p13_0115_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 38  
+Ki-67 Index: (13 / (13 + 38)) x 100 = (13 / 51) x 100 = 25.49%
+
+Ki-67 Index: 25.49%
+
+===== p13_0115_3.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 18  
+Ki-67 Index: (9 / (9 + 18)) x 100 = (9 / 27) x 100 = 33.33%
+
+Ki-67 Index: 33.33%
+
+===== p13_0115_8.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 28  
+Ki-67 Index: (8 / (8 + 28)) x 100 = (8 / 36) x 100 = 22.22%
+
+Ki-67 Index: 22.22%
+
+===== p13_0117_6.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 32  
+Ki-67 Index: (15 / (15 + 32)) x 100 = (15 / 47) x 100 = 31.91%
+
+Ki-67 Index: 31.91%
+
+===== p13_0122_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 19  
+Ki-67 Index: (13 / (13 + 19)) x 100 = (13 / 32) x 100 = 40.63%
+
+Ki-67 Index: 40.63%
+
+===== p13_0123_6.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 17  
+Ki-67 Index: (18 / (18 + 17)) x 100 = (18 / 35) x 100 = 51.43%
+
+Ki-67 Index: 51.43%
+
+===== p13_0124_7.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 27  
+Ki-67 Index: (18 / (18 + 27)) x 100 = (18 / 45) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p13_0126_9.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 38  
+Ki-67 Index: (8 / (8 + 38)) x 100 = (8 / 46) x 100 = 17.39%
+
+Ki-67 Index: 17.39%
+
+===== p13_0127_1.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 13  
+Ki-67 Index: (12 / (12 + 13)) x 100 = (12 / 25) x 100 = 48.00%
+
+Ki-67 Index: 48.00%
+
+===== p13_0135_7.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 19  
+Ki-67 Index: (15 / (15 + 19)) x 100 = (15 / 34) x 100 = 44.12%
+
+Ki-67 Index: 44.12%
+
+===== p13_0136_3.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 23  
+Ki-67 Index: (17 / (17 + 23)) x 100 = (17 / 40) x 100 = 42.50%
+
+Ki-67 Index: 42.50%
+
+===== p13_0139_11.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 28  
+Ki-67 Index: (17 / (17 + 28)) x 100 = (17 / 45) x 100 = 37.78%
+
+Ki-67 Index: 37.78%
+
+===== p14_0001_1.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 92  
+Ki-67 Index: (3 / (3 + 92)) x 100 = (3 / 95) x 100 = 3.16%
+
+Ki-67 Index: 3.16%
+
+===== p14_0002_11.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 18  
+Ki-67 Index: (4 / (4 + 18)) x 100 = (4 / 22) x 100 = 18.18%
+
+Ki-67 Index: 18.18%
+
+===== p14_0003_9.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 22  
+Ki-67 Index: (3 / (3 + 22)) x 100 = (3 / 25) x 100 = 12.00%
+
+Ki-67 Index: 12.00%
+
+===== p14_0006_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 13  
+Ki-67 Index: (1 / (1 + 13)) x 100 = (1 / 14) x 100 = 7.14%
+
+Ki-67 Index: 7.14%
+
+===== p14_0010_6.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 13  
+Ki-67 Index: (9 / (9 + 13)) x 100 = (9 / 22) x 100 = 40.91%
+
+Ki-67 Index: 40.91%
+
+===== p14_0011_5.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 18  
+Ki-67 Index: (2 / (2 + 18)) x 100 = 10.00%
+
+Ki-67 Index: 10.00%
+
+===== p14_0016_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 44  
+Ki-67 Index: (1 / (1 + 44)) x 100 = 2.22%
+
+Ki-67 Index: 2.22%
+
+===== p14_0016_6.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 22  
+Ki-67 Index: (5 / (5 + 22)) x 100 = (5 / 27) x 100 = 18.52%
+
+Ki-67 Index: 18.52%
+
+===== p14_0017_9.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 28  
+Ki-67 Index: (6 / (6 + 28)) x 100 = (6 / 34) x 100 = 17.65%
+
+Ki-67 Index: 17.65%
+
+===== p14_0018_7.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 26  
+Ki-67 Index: (0 / (0 + 26)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p14_0022_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 38  
+Ki-67 Index: (13 / (13 + 38)) x 100 = (13 / 51) x 100 = 25.49%
+
+Ki-67 Index: 25.49%
+
+===== p14_0023_7.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 73  
+Ki-67 Index: (5 / (5 + 73)) x 100 = (5 / 78) x 100 = 6.41%
+
+Ki-67 Index: 6.41%
+
+===== p14_0027_1.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 32  
+Ki-67 Index: (2 / (2 + 32)) x 100 = (2 / 34) x 100 = 5.88%
+
+Ki-67 Index: 5.88%
+
+===== p14_0027_10.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 21  
+Ki-67 Index: (2 / (2 + 21)) x 100 = (2 / 23) x 100 = 8.70%
+
+Ki-67 Index: 8.70%
+
+===== p14_0028_7.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 54  
+Ki-67 Index: (0 / (0 + 54)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p14_0032_2.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 42  
+Ki-67 Index: (0 / (0 + 42)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p14_0035_3.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 32  
+Ki-67 Index = (8 / (8 + 32)) x 100
+
+Ki-67 Index: 20.00%
+
+===== p14_0040_11.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 22  
+Ki-67 Index: (3 / (3 + 22)) x 100 = (3 / 25) x 100 = 12.00%
+
+Ki-67 Index: 12.00%
+
+===== p14_0043_1.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 48  
+Ki-67 Index: (2 / (2 + 48)) x 100 = (2 / 50) x 100 = 4.00%
+
+Ki-67 Index: 4.00%
+
+===== p14_0049_9.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 27  
+Ki-67 Index: (7 / (7 + 27)) x 100 = (7 / 34) x 100 = 20.59%
+
+Ki-67 Index: 20.59%
+
+===== p14_0052_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 22  
+Ki-67 Index: (1 / (1 + 22)) x 100 = (1 / 23) x 100 = 4.35%
+
+Ki-67 Index: 4.35%
+
+===== p14_0053_9.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 22  
+Ki-67 Index: (0 / (0 + 22)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p14_0055_6.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 18  
+Ki-67 Index: (10 / (10 + 18)) x 100 = (10 / 28) x 100 = 35.71%
+
+Ki-67 Index: 35.71%
+
+===== p14_0057_11.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 36  
+Ki-67 Index: (4 / (4 + 36)) x 100 = (4 / 40) x 100 = 10.00%
+
+Ki-67 Index: 10.00%
+
+===== p14_0059_7.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 18  
+Ki-67 Index: (10 / (10 + 18)) x 100 = (10 / 28) x 100 = 35.71%
+
+Ki-67 Index: 35.71%
+
+===== p14_0059_9.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 27  
+Ki-67 Index: (7 / (7 + 27)) x 100 = (7 / 34) x 100 = 20.59%
+
+Ki-67 Index: 20.59%
+
+===== p14_0060_11.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 42  
+Ki-67 Index: (0 / (0 + 42)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p14_0062_10.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 38  
+Ki-67 Index: (0 / (0 + 38)) x 100
+
+Ki-67 Index: 0.00%
+
+===== p14_0063_2.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 34  
+Ki-67 Index: (0 / (0 + 34)) x 100
+
+Ki-67 Index: 0.00%
+
+===== p14_0064_9.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 27  
+Ki-67 Index: (3 / (3 + 27)) x 100 = (3 / 30) x 100 = 10.00%
+
+Ki-67 Index: 10.00%
+
+===== p14_0065_5.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 38  
+Ki-67 Index: (0 / (0 + 38)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p14_0071_11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index: (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== p14_0074_8.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 22  
+Ki-67 Index: (18 / (18 + 22)) x 100 = (18 / 40) x 100 = 45.00%
+
+Ki-67 Index: 45.00%
+
+===== p14_0083_9.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 6  
+Ki-67 Index: (4 / (4 + 6)) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p14_0086_3.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 47  
+Ki-67 Index: (0 / (0 + 47)) x 100
+
+Ki-67 Index: 0.00%
+
+===== p14_0087_8.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 61  
+Ki-67 Index: (0 / (0 + 61)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p15_0001_6.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 22  
+Ki-67 Index: (14 / (14 + 22)) x 100 = (14 / 36) x 100 = 38.89%
+
+Ki-67 Index: 38.89%
+
+===== p15_0002_1.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 13  
+Ki-67 Index: (22 / (22 + 13)) x 100 = (22 / 35) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== p15_0007_2.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 27  
+Ki-67 Index: (3 / (3 + 27)) x 100 = (3 / 30) x 100 = 10.00%
+
+Ki-67 Index: 10.00%
+
+===== p15_0008_10.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 38  
+Ki-67 Index = (8 / (8 + 38)) x 100 = (8 / 46) x 100 = 17.39%
+
+Ki-67 Index: 17.39%
+
+===== p15_0008_8.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 22  
+Ki-67 Index: (10 / (10 + 22)) x 100 = (10 / 32) x 100 = 31.25%
+
+Ki-67 Index: 31.25%
+
+===== p15_0010_8.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 13  
+Ki-67 Index: (9 / (9 + 13)) x 100 = (9 / 22) x 100 = 40.91%
+
+Ki-67 Index: 40.91%
+
+===== p15_0013_2.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 10  
+Ki-67 Index: (8 / (8 + 10)) x 100 = (8 / 18) x 100 = 44.44%
+
+Ki-67 Index: 44.44%
+
+===== p15_0013_6.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 2  
+Ki-67 Index: (7 / (7 + 2)) x 100 = 77.78%
+
+Ki-67 Index: 77.78%
+
+===== p15_0014_10.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 13  
+Ki-67 Index: (7 / (7 + 13)) x 100 = (7 / 20) x 100 = 35.00%
+
+Ki-67 Index: 35.00%
+
+===== p15_0014_11.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 15  
+Ki-67 Index: (5 / (5 + 15)) x 100 = (5 / 20) x 100 = 25.00%
+
+Ki-67 Index: 25.00%
+
+===== p15_0014_5.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 6  
+Ki-67 Index: (8 / (8 + 6)) x 100 = (8 / 14) x 100 = 57.14%
+
+Ki-67 Index: 57.14%
+
+===== p15_0015_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 32  
+Ki-67 Index: (13 / (13 + 32)) x 100 = (13 / 45) x 100 = 28.89%
+
+Ki-67 Index: 28.89%
+
+===== p15_0016_10.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 13  
+Ki-67 Index: (8 / (8 + 13)) x 100 = (8 / 21) x 100 = 38.10%
+
+Ki-67 Index: 38.10%
+
+===== p15_0019_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 22  
+Ki-67 Index: (1 / (1 + 22)) x 100 = (1 / 23) x 100 = 4.35%
+
+Ki-67 Index: 4.35%
+
+===== p15_0020_2.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index: (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== p15_0022_6.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 22  
+Ki-67 Index: (6 / (6 + 22)) x 100 = (6 / 28) x 100 = 21.43%
+
+Ki-67 Index: 21.43%
+
+===== p15_0025_3.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 28  
+Ki-67 Index: (17 / (17 + 28)) x 100 = (17 / 45) x 100 = 37.78%
+
+Ki-67 Index: 37.78%
+
+===== p15_0026_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 34  
+Ki-67 Index: (1 / (1 + 34)) x 100 = (1 / 35) x 100 = 2.86%
+
+Ki-67 Index: 2.86%
+
+===== p15_0026_8.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 38  
+Ki-67 Index: (15 / (15 + 38)) x 100 = (15 / 53) x 100 = 28.30%
+
+Ki-67 Index: 28.30%
+
+===== p15_0027_6.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 18  
+Ki-67 Index: (11 / (11 + 18)) x 100 = (11 / 29) x 100 = 37.93%
+
+Ki-67 Index: 37.93%
+
+===== p15_0027_9.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 27  
+Ki-67 Index: (2 / (2 + 27)) x 100 = (2 / 29) x 100 = 6.90%
+
+Ki-67 Index: 6.90%
+
+===== p15_0028_1.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 18  
+Ki-67 Index: (0 / (0 + 18)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p15_0028_2.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 14  
+Ki-67 Index: (13 / (13 + 14)) x 100 = (13 / 27) x 100 = 48.15%
+
+Ki-67 Index: 48.15%
+
+===== p15_0028_7.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 1  
+Ki-67 Index: (10 / (10 + 1)) x 100 = 90.91%
+
+Ki-67 Index: 90.91%
+
+===== p15_0029_10.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 8  
+Ki-67 Index: (10 / (10 + 8)) x 100 = 55.56%
+
+Ki-67 Index: 55.56%
+
+===== p15_0029_5.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 13  
+Ki-67 Index: (18 / (18 + 13)) x 100 = (18 / 31) x 100 = 58.06%
+
+Ki-67 Index: 58.06%
+
+===== p15_0030_11.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 22  
+Ki-67 Index: (11 / (11 + 22)) x 100 = (11 / 33) x 100 = 33.33%
+
+Ki-67 Index: 33.33%
+
+===== p15_0031_10.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 38  
+Ki-67 Index: (2 / (2 + 38)) x 100 = (2 / 40) x 100 = 5.00%
+
+Ki-67 Index: 5.00%
+
+===== p15_0035_7.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 13  
+Ki-67 Index: (15 / (15 + 13)) x 100 = (15 / 28) x 100 = 53.57%
+
+Ki-67 Index: 53.57%
+
+===== p15_0035_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 19  
+Ki-67 Index: (1 / (1 + 19)) x 100 = 5.00%
+
+Ki-67 Index: 5.00%
+
+===== p15_0038_11.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 11  
+Ki-67 Index: (14 / (14 + 11)) x 100 = (14 / 25) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== p15_0038_3.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 10  
+Ki-67 Index: (32 / (32 + 10)) x 100 = (32 / 42) x 100 = 76.19%
+
+Ki-67 Index: 76.19%
+
+===== p15_0039_3.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 6  
+Ki-67 Index: (22 / (22 + 6)) x 100 = (22 / 28) x 100 = 78.57%
+
+Ki-67 Index: 78.57%
+
+===== p15_0039_6.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 13  
+Ki-67 Index: (24 / (24 + 13)) x 100 = (24 / 37) x 100 = 64.86%
+
+Ki-67 Index: 64.86%
+
+===== p15_0040_8.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 4  
+Ki-67 Index: (11 / (11 + 4)) x 100 = (11 / 15) x 100 = 73.33%
+
+Ki-67 Index: 73.33%
+
+===== p15_0044_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index: (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== p16_0327_2.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 18  
+Ki-67 Index: (12 / (12 + 18)) x 100 = (12 / 30) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p16_0327_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 13  
+Ki-67 Index: (22 / (22 + 13)) x 100 = (22 / 35) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== p16_0330_1.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 22  
+Ki-67 Index: (10 / (10 + 22)) x 100 = (10 / 32) x 100 = 31.25%
+
+Ki-67 Index: 31.25%
+
+===== p16_0335_1.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 37  
+Ki-67 Index: (8 / (8 + 37)) x 100 = (8 / 45) x 100 = 17.78%
+
+Ki-67 Index: 17.78%
+
+===== p16_0343_2.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 54  
+Ki-67 Index: (10 / (10 + 54)) x 100 = (10 / 64) x 100 = 15.63%
+
+Ki-67 Index: 15.63%
+
+===== p16_0343_6.jpg =====
+Immunopositive cells: 19  
+Immunonegative cells: 22  
+Ki-67 Index: (19 / (19 + 22)) x 100 = (19 / 41) x 100 = 46.34%
+
+Ki-67 Index: 46.34%
+
+===== p16_0345_6.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 28  
+Ki-67 Index: (14 / (14 + 28)) x 100 = (14 / 42) x 100 = 33.33%
+
+Ki-67 Index: 33.33%
+
+===== p16_0346_1.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 27  
+Ki-67 Index: (10 / (10 + 27)) x 100 = 27.03%
+
+Ki-67 Index: 27.03%
+
+===== p16_0346_10.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 27  
+Ki-67 Index: (18 / (18 + 27)) x 100 = (18 / 45) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p16_0350_10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 13  
+Ki-67 Index: (22 / (22 + 13)) x 100 = (22 / 35) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== p16_0353_4.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 27  
+Ki-67 Index: (9 / (9 + 27)) x 100 = (9 / 36) x 100 = 25.00%
+
+Ki-67 Index: 25.00%
+
+===== p16_0354_2.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 23  
+Ki-67 Index = (7 / (7 + 23)) x 100
+
+Ki-67 Index: 23.33%
+
+===== p16_0355_6.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 13  
+Ki-67 Index: (7 / (7 + 13)) x 100 = (7 / 20) x 100 = 35.00%
+
+Ki-67 Index: 35.00%
+
+===== p16_0356_10.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 14  
+Ki-67 Index: (6 / (6 + 14)) x 100 = (6 / 20) x 100 = 30.00%
+
+Ki-67 Index: 30.00%
+
+===== p16_0359_3.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 13  
+Ki-67 Index = (10 / (10 + 13)) x 100
+
+Ki-67 Index: 43.48%
+
+===== p16_0360_2.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 22  
+Ki-67 Index: (7 / (7 + 22)) x 100 = (7 / 29) x 100 = 24.14%
+
+Ki-67 Index: 24.14%
+
+===== p16_0361_7.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index: (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== p16_0363_2.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 22  
+Ki-67 Index: (11 / (11 + 22)) x 100 = (11 / 33) x 100 = 33.33%
+
+Ki-67 Index: 33.33%
+
+===== p16_0366_10.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 17  
+Ki-67 Index: (3 / (3 + 17)) x 100 = (3 / 20) x 100 = 15.00%
+
+Ki-67 Index: 15.00%
+
+===== p16_0369_3.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 17  
+Ki-67 Index: (18 / (18 + 17)) x 100 = (18 / 35) x 100 = 51.43%
+
+Ki-67 Index: 51.43%
+
+===== p16_0373_11.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 22  
+Ki-67 Index: (12 / (12 + 22)) x 100 = (12 / 34) x 100 = 35.29%
+
+Ki-67 Index: 35.29%
+
+===== p16_0375_3.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 22  
+Ki-67 Index: (6 / (6 + 22)) x 100 = (6 / 28) x 100 = 21.43%
+
+Ki-67 Index: 21.43%
+
+===== p16_0376_11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index: (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== p16_0376_7.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 37  
+Ki-67 Index = (23 / (23 + 37)) x 100
+
+Ki-67 Index: 38.33%
+
+===== p16_0379_2.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 91  
+Ki-67 Index: (9 / (9 + 91)) x 100 = 9.00%
+
+Ki-67 Index: 9.00%
+
+===== p16_0379_6.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 112  
+Ki-67 Index: (6 / (6 + 112)) x 100 = (6 / 118) x 100 = 5.08%
+
+Ki-67 Index: 5.08%
+
+===== p16_0387_1.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 38  
+Ki-67 Index: (4 / (4 + 38)) x 100 = (4 / 42) x 100 = 9.52%
+
+Ki-67 Index: 9.52%
+
+===== p16_0389_3.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 26  
+Ki-67 Index: (10 / (10 + 26)) x 100 = (10 / 36) x 100 = 27.78%
+
+Ki-67 Index: 27.78%
+
+===== p16_0390_6.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 37  
+Ki-67 Index = (18 / (18 + 37)) x 100
+
+Ki-67 Index: 32.73%
+
+===== p16_0390_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 32  
+Ki-67 Index = (8 / (8 + 32)) x 100
+
+Ki-67 Index: 20.00%
+
+===== p17_0185_6.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 4  
+Ki-67 Index: (27 / (27 + 4)) x 100 = (27 / 31) x 100 = 87.10%
+
+Ki-67 Index: 87.10%
+
+===== p17_0186_5.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 10  
+Ki-67 Index: (23 / (23 + 10)) x 100 = (23 / 33) x 100 = 69.70%
+
+Ki-67 Index: 69.70%
+
+===== p17_0189_6.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 6  
+Ki-67 Index: (20 / (20 + 6)) x 100 = (20 / 26) x 100 = 76.92%
+
+Ki-67 Index: 76.92%
+
+===== p17_0190_7.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 12  
+Ki-67 Index: (28 / (28 + 12)) x 100 = (28 / 40) x 100 = 70.00%
+
+Ki-67 Index: 70.00%
+
+===== p17_0192_6.jpg =====
+Immunopositive cells: 46  
+Immunonegative cells: 14  
+Ki-67 Index: (46 / (46 + 14)) x 100 = (46 / 60) x 100 = 76.67%
+
+Ki-67 Index: 76.67%
+
+===== p17_0195_2.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 10  
+Ki-67 Index: (15 / (15 + 10)) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== p17_0195_5.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 26  
+Ki-67 Index: (10 / (10 + 26)) x 100 = (10 / 36) x 100 = 27.78%
+
+Ki-67 Index: 27.78%
+
+===== p17_0196_10.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 10  
+Ki-67 Index: (27 / (27 + 10)) x 100 = 72.97%
+
+Ki-67 Index: 72.97%
+
+===== p17_0196_11.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 22  
+Ki-67 Index: (13 / (13 + 22)) x 100 = (13 / 35) x 100 = 37.14%
+
+Ki-67 Index: 37.14%
+
+===== p17_0198_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 10  
+Ki-67 Index: (22 / (22 + 10)) x 100 = (22 / 32) x 100 = 68.75%
+
+Ki-67 Index: 68.75%
+
+===== p17_0202_8.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 9  
+Ki-67 Index: (7 / (7 + 9)) x 100 = (7 / 16) x 100 = 43.75%
+
+Ki-67 Index: 43.75%
+
+===== p17_0206_5.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 6  
+Ki-67 Index: (27 / (27 + 6)) x 100 = (27 / 33) x 100 = 81.82%
+
+Ki-67 Index: 81.82%
+
+===== p17_0206_7.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 18  
+Ki-67 Index: (27 / (27 + 18)) x 100 = (27 / 45) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== p17_0206_9.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 2  
+Ki-67 Index = (14 / (14 + 2)) x 100
+
+Ki-67 Index: 87.50%
+
+===== p17_0207_2.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 13  
+Ki-67 Index: (22 / (22 + 13)) x 100 = (22 / 35) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== p17_0207_6.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 32  
+Ki-67 Index: (18 / (18 + 32)) x 100 = (18 / 50) x 100 = 36.00%
+
+Ki-67 Index: 36.00%
+
+===== p17_0207_7.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 22  
+Ki-67 Index: (18 / (18 + 22)) x 100 = (18 / 40) x 100 = 45.00%
+
+Ki-67 Index: 45.00%
+
+===== p17_0208_9.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 13  
+Ki-67 Index: (34 / (34 + 13)) x 100 = (34 / 47) x 100 = 72.34%
+
+Ki-67 Index: 72.34%
+
+===== p17_0209_6.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 23  
+Ki-67 Index = (17 / (17 + 23)) x 100
+
+Ki-67 Index: 42.50%
+
+===== p17_0211_10.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 24  
+Ki-67 Index: (32 / (32 + 24)) x 100 = (32 / 56) x 100 = 57.14%
+
+Ki-67 Index: 57.14%
+
+===== p17_0211_2.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 37  
+Ki-67 Index: (23 / (23 + 37)) x 100 = (23 / 60) x 100 = 38.33%
+
+Ki-67 Index: 38.33%
+
+===== p17_0213_9.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 13  
+Ki-67 Index: (22 / (22 + 13)) x 100 = (22 / 35) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== p17_0215_6.jpg =====
+Immunopositive cells: 19  
+Immunonegative cells: 23  
+Ki-67 Index = (19 / (19 + 23)) x 100
+
+Ki-67 Index: 45.24%
+
+===== p17_0216_3.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 17  
+Ki-67 Index: (23 / (23 + 17)) x 100 = (23 / 40) x 100 = 57.50%
+
+Ki-67 Index: 57.50%
+
+===== p17_0216_5.jpg =====
+Immunopositive cells: 19  
+Immunonegative cells: 13  
+Ki-67 Index: (19 / (19 + 13)) x 100 = (19 / 32) x 100 = 59.38%
+
+Ki-67 Index: 59.38%
+
+===== p17_0218_1.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 18  
+Ki-67 Index: (14 / (14 + 18)) x 100 = (14 / 32) x 100 = 43.75%
+
+Ki-67 Index: 43.75%
+
+===== p17_0218_6.jpg =====
+Immunopositive cells: 19  
+Immunonegative cells: 11  
+Ki-67 Index: (19 / (19 + 11)) x 100 = (19 / 30) x 100 = 63.33%
+
+Ki-67 Index: 63.33%
+
+===== p17_0219_7.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 9  
+Ki-67 Index: (41 / (41 + 9)) x 100 = (41 / 50) x 100 = 82.00%
+
+Ki-67 Index: 82.00%
+
+===== p17_0220_10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 13  
+Ki-67 Index: (22 / (22 + 13)) x 100 = (22 / 35) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== p17_0222_7.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 8  
+Ki-67 Index: (32 / (32 + 8)) x 100 = (32 / 40) x 100 = 80.00%
+
+Ki-67 Index: 80.00%
+
+===== p17_0223_10.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 13  
+Ki-67 Index: (18 / (18 + 13)) x 100 = (18 / 31) x 100 = 58.06%
+
+Ki-67 Index: 58.06%
+
+===== p17_0225_9.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 28  
+Ki-67 Index: (7 / (7 + 28)) x 100 = (7 / 35) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== p18_0002_11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index: (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== p18_0006_7.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 12  
+Ki-67 Index = (18 / (18 + 12)) x 100
+
+Ki-67 Index: 60.00%
+
+===== p18_0007_10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index: (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== p18_0014_5.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 18  
+Ki-67 Index: (27 / (27 + 18)) x 100 = (27 / 45) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== p18_0015_8.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 22  
+Ki-67 Index: (28 / (28 + 22)) x 100 = (28 / 50) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== p18_0018_9.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 52  
+Ki-67 Index: (3 / (3 + 52)) x 100 = (3 / 55) x 100 = 5.45%
+
+Ki-67 Index: 5.45%
+
+===== p18_0020_1.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 54  
+Ki-67 Index = (6 / (6 + 54)) x 100
+
+Ki-67 Index: 10.00%
+
+===== p18_0021_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 28  
+Ki-67 Index = (22 / (22 + 28)) x 100
+
+Ki-67 Index: 44.00%
+
+===== p18_0021_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 27  
+Ki-67 Index: (13 / (13 + 27)) x 100 = (13 / 40) x 100 = 32.50%
+
+Ki-67 Index: 32.50%
+
+===== p18_0023_2.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 28  
+Ki-67 Index: (10 / (10 + 28)) x 100 = (10 / 38) x 100 = 26.32%
+
+Ki-67 Index: 26.32%
+
+===== p18_0023_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 27  
+Ki-67 Index: (8 / (8 + 27)) x 100 = (8 / 35) x 100 = 22.86%
+
+Ki-67 Index: 22.86%
+
+===== p18_0028_5.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 17  
+Ki-67 Index: (18 / (18 + 17)) x 100 = (18 / 35) x 100 = 51.43%
+
+Ki-67 Index: 51.43%
+
+===== p18_0030_7.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 18  
+Ki-67 Index: (13 / (13 + 18)) x 100 = (13 / 31) x 100 = 41.94%
+
+Ki-67 Index: 41.94%
+
+===== p18_0036_11.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 23  
+Ki-67 Index: (12 / (12 + 23)) x 100 = (12 / 35) x 100 = 34.29%
+
+Ki-67 Index: 34.29%
+
+===== p18_0037_3.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 32  
+Ki-67 Index: (15 / (15 + 32)) x 100 = 31.25%
+
+Ki-67 Index: 31.25%
+
+===== p18_0038_10.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 52  
+Ki-67 Index = (23 / (23 + 52)) x 100
+
+Ki-67 Index: 30.67%
+
+===== p18_0040_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 67  
+Ki-67 Index: (13 / (13 + 67)) x 100 = (13 / 80) x 100 = 16.25%
+
+Ki-67 Index: 16.25%
+
+===== p18_0045_10.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 22  
+Ki-67 Index = (18 / (18 + 22)) x 100
+
+Ki-67 Index: 45.00%
+
+===== p18_0050_2.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 22  
+Ki-67 Index: (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Ki-67 Index: 63.33%
+
+===== p18_0050_3.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 28  
+Ki-67 Index: (32 / (32 + 28)) x 100 = (32 / 60) x 100 = 53.33%
+
+Ki-67 Index: 53.33%
+
+===== p18_0050_5.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 18  
+Ki-67 Index: (42 / (42 + 18)) x 100 = (42 / 60) x 100 = 70.00%
+
+Ki-67 Index: 70.00%
+
+===== p18_0053_7.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 11  
+Ki-67 Index: (29 / (29 + 11)) x 100 = (29 / 40) x 100 = 72.50%
+
+Ki-67 Index: 72.50%
+
+===== p18_0054_1.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 27  
+Ki-67 Index: (23 / (23 + 27)) x 100 = (23 / 50) x 100 = 46.00%
+
+Ki-67 Index: 46.00%
+
+===== p18_0064_6.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 28  
+Ki-67 Index: (12 / (12 + 28)) x 100 = 30.00%
+
+===== p18_0071_1.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 13  
+Ki-67 Index: (22 / (22 + 13)) x 100 = (22 / 35) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== p18_0140_1.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index = (22 / (22 + 18)) x 100
+
+Ki-67 Index: 55.00%
+
+===== p18_0148_6.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 17  
+Ki-67 Index: (18 / (18 + 17)) x 100 = (18 / 35) x 100 = 51.43%
+
+Ki-67 Index: 51.43%
+
+===== p19_0108_4.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 38  
+Ki-67 Index: (12 / (12 + 38)) x 100 = (12 / 50) x 100 = 24.00%
+
+Ki-67 Index: 24.00%
+
+===== p19_0108_6.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 38  
+Ki-67 Index: (10 / (10 + 38)) x 100 = 20.83%
+
+Ki-67 Index: 20.83%
+
+===== p19_0108_7.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 41  
+Ki-67 Index: (22 / (22 + 41)) x 100 = (22 / 63) x 100 = 34.92%
+
+Ki-67 Index: 34.92%
+
+===== p19_0109_2.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 52  
+Ki-67 Index: (15 / (15 + 52)) x 100 = (15 / 67) x 100 = 22.39%
+
+Ki-67 Index: 22.39%
+
+===== p19_0109_5.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 38  
+Ki-67 Index: (10 / (10 + 38)) x 100 = (10 / 48) x 100 = 20.83%
+
+Ki-67 Index: 20.83%
+
+===== p19_0109_7.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 63  
+Ki-67 Index: (12 / (12 + 63)) x 100 = (12 / 75) x 100 = 16.00%
+
+Ki-67 Index: 16.00%
+
+===== p19_0109_9.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 61  
+Ki-67 Index: (9 / (9 + 61)) x 100 = (9 / 70) x 100 = 12.86%
+
+Ki-67 Index: 12.86%
+
+===== p19_0110_2.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 42  
+Ki-67 Index: (18 / (18 + 42)) x 100 = (18 / 60) x 100 = 30.00%
+
+Ki-67 Index: 30.00%
+
+===== p19_0110_6.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 42  
+Ki-67 Index: (8 / (8 + 42)) x 100 = (8 / 50) x 100 = 16.00%
+
+Ki-67 Index: 16.00%
+
+===== p19_0112_7.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 68  
+Ki-67 Index: (12 / (12 + 68)) x 100 = (12 / 80) x 100 = 15.00%
+
+Ki-67 Index: 15.00%
+
+===== p19_0113_10.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 74  
+Ki-67 Index: (8 / (8 + 74)) x 100 = (8 / 82) x 100 = 9.76%
+
+Ki-67 Index: 9.76%
+
+===== p19_0113_11.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 62  
+Ki-67 Index: (6 / (6 + 62)) x 100 = (6 / 68) x 100 = 8.82%
+
+Ki-67 Index: 8.82%
+
+===== p19_0113_3.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 74  
+Ki-67 Index: (8 / (8 + 74)) x 100 = (8 / 82) x 100 = 9.76%
+
+Ki-67 Index: 9.76%
+
+===== p19_0113_9.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 38  
+Ki-67 Index: (10 / (10 + 38)) x 100 = (10 / 48) x 100 = 20.83%
+
+Ki-67 Index: 20.83%
+
+===== p19_0114_3.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 54  
+Ki-67 Index: (4 / (4 + 54)) x 100 = (4 / 58) x 100 = 6.90%
+
+Ki-67 Index: 6.90%
+
+===== p19_0114_5.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 28  
+Ki-67 Index: (7 / (7 + 28)) x 100 = (7 / 35) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== p19_0114_8.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 22  
+Ki-67 Index = (6 / (6 + 22)) x 100
+
+Ki-67 Index: 21.43%
+
+===== p19_0115_5.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 22  
+Ki-67 Index = (6 / (6 + 22)) x 100
+
+Ki-67 Index: 21.43%
+
+===== p19_0115_7.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 110  
+Ki-67 Index: (7 / (7 + 110)) x 100 = (7 / 117) x 100 = 5.98%
+
+Ki-67 Index: 5.98%
+
+===== p19_0117_1.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 34  
+Ki-67 Index: (6 / (6 + 34)) x 100 = (6 / 40) x 100 = 15.00%
+
+Ki-67 Index: 15.00%
+
+===== p19_0117_7.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 32  
+Ki-67 Index = (18 / (18 + 32)) x 100
+
+Ki-67 Index: 36.00%
+
+===== p19_0121_1.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 38  
+Ki-67 Index: (2 / (2 + 38)) x 100 = (2 / 40) x 100 = 5.00%
+
+Ki-67 Index: 5.00%
+
+===== p1_0299_1.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 78  
+Ki-67 Index: (22 / (22 + 78)) x 100 = (22 / 100) x 100 = 22.00%
+
+Ki-67 Index: 22.00%
+
+===== p1_0299_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 92  
+Ki-67 Index: (13 / (13 + 92)) x 100 = (13 / 105) x 100 = 12.38%
+
+Ki-67 Index: 12.38%
+
+===== p1_0299_5.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 77  
+Ki-67 Index: (28 / (28 + 77)) x 100 = (28 / 105) x 100 = 26.67%
+
+Ki-67 Index: 26.67%
+
+===== p1_0299_9.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 82  
+Ki-67 Index = (28 / (28 + 82)) x 100
+
+Ki-67 Index: 25.45%
+
+===== p1_0300_2.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 32  
+Ki-67 Index: (8 / (8 + 32)) x 100 = (8 / 40) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== p1_0309_10.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 54  
+Ki-67 Index: (3 / (3 + 54)) x 100 = (3 / 57) x 100 = 5.26%
+
+Ki-67 Index: 5.26%
+
+===== p1_0309_3.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 54  
+Ki-67 Index: (0 / (0 + 54)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p1_0309_9.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 48  
+Ki-67 Index: (4 / (4 + 48)) x 100 = (4 / 52) x 100 = 7.69%
+
+Ki-67 Index: 7.69%
+
+===== p1_0310_7.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 54  
+Ki-67 Index: (10 / (10 + 54)) x 100 = (10 / 64) x 100 = 15.63%
+
+Ki-67 Index: 15.63%
+
+===== p1_0310_8.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 52  
+Ki-67 Index: (4 / (4 + 52)) x 100 = (4 / 56) x 100 = 7.14%
+
+Ki-67 Index: 7.14%
+
+===== p1_0313_1.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 74  
+Ki-67 Index = (6 / (6 + 74)) x 100
+
+Ki-67 Index: 7.50%
+
+===== p1_0313_3.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 73  
+Ki-67 Index: (7 / (7 + 73)) x 100 = (7 / 80) x 100 = 8.75%
+
+Ki-67 Index: 8.75%
+
+===== p1_0313_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 62  
+Ki-67 Index: (1 / (1 + 62)) x 100 = 1.59%
+
+Ki-67 Index: 1.59%
+
+===== p1_0315_7.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 74  
+Ki-67 Index: (0 / (0 + 74)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p1_0317_1.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 28  
+Ki-67 Index: (7 / (7 + 28)) x 100 = (7 / 35) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== p1_0317_10.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 88  
+Ki-67 Index: (12 / (12 + 88)) x 100 = 12.00%
+
+Ki-67 Index: 12.00%
+
+===== p1_0317_6.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 82  
+Ki-67 Index: (7 / (7 + 82)) x 100 = (7 / 89) x 100 = 7.87%
+
+Ki-67 Index: 7.87%
+
+===== p1_0317_7.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 93  
+Ki-67 Index: (27 / (27 + 93)) x 100 = (27 / 120) x 100 = 22.50%
+
+Ki-67 Index: 22.50%
+
+===== p1_0318_1.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 3  
+Ki-67 Index: (5 / (5 + 3)) x 100 = 62.50%
+
+Ki-67 Index: 62.50%
+
+===== p1_0319_1.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 38  
+Ki-67 Index = (6 / (6 + 38)) x 100
+
+Ki-67 Index: 13.64%
+
+===== p1_0321_7.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 18  
+Ki-67 Index: (0 / (0 + 18)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p1_0322_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 34  
+Ki-67 Index: (8 / (8 + 34)) x 100 = (8 / 42) x 100 = 19.05%
+
+Ki-67 Index: 19.05%
+
+===== p20_0068_11.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 52  
+Ki-67 Index: (38 / (38 + 52)) x 100 = (38 / 90) x 100 = 42.22%
+
+Ki-67 Index: 42.22%
+
+===== p20_0071_10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index: (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== p20_0074_8.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 32  
+Ki-67 Index: (18 / (18 + 32)) x 100 = (18 / 50) x 100 = 36.00%
+
+Ki-67 Index: 36.00%
+
+===== p20_0075_12.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 46  
+Ki-67 Index: (10 / (10 + 46)) x 100 = (10 / 56) x 100 = 17.86%
+
+Ki-67 Index: 17.86%
+
+===== p20_0076_8.jpg =====
+Immunopositive cells: 19  
+Immunonegative cells: 38  
+Ki-67 Index = (19 / (19 + 38)) x 100
+
+Ki-67 Index: 33.93%
+
+===== p20_0078_9.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 28  
+Ki-67 Index: (22 / (22 + 28)) x 100 = (22 / 50) x 100 = 44.00%
+
+Ki-67 Index: 44.00%
+
+===== p20_0079_12.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index: (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== p20_0079_5.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 18  
+Ki-67 Index: (32 / (32 + 18)) x 100 = (32 / 50) x 100 = 64.00%
+
+Ki-67 Index: 64.00%
+
+===== p20_0081_5.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 34  
+Ki-67 Index: (13 / (13 + 34)) x 100 = (13 / 47) x 100 = 27.66%
+
+Ki-67 Index: 27.66%
+
+===== p20_0081_6.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 33  
+Ki-67 Index: (17 / (17 + 33)) x 100 = 34.00%
+
+Ki-67 Index: 34.00%
+
+===== p20_0083_6.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 28  
+Ki-67 Index: (7 / (7 + 28)) x 100 = (7 / 35) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== p20_0085_2.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index: (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== p20_0085_8.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 42  
+Ki-67 Index: (18 / (18 + 42)) x 100 = (18 / 60) x 100 = 30.00%
+
+Ki-67 Index: 30.00%
+
+===== p20_0087_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 47  
+Ki-67 Index: (13 / (13 + 47)) x 100 = (13 / 60) x 100 = 21.67%
+
+Ki-67 Index: 21.67%
+
+===== p20_0089_10.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 54  
+Ki-67 Index: (12 / (12 + 54)) x 100 = (12 / 66) x 100 = 18.18%
+
+Ki-67 Index: 18.18%
+
+===== p20_0089_7.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 44  
+Ki-67 Index: (6 / (6 + 44)) x 100 = (6 / 50) x 100 = 12.00%
+
+Ki-67 Index: 12.00%
+
+===== p20_0094_12.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 48  
+Ki-67 Index = (32 / (32 + 48)) x 100
+
+Ki-67 Index: 40.00%
+
+===== p20_0094_8.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 37  
+Ki-67 Index: (38 / (38 + 37)) x 100 = (38 / 75) x 100 = 50.67%
+
+Ki-67 Index: 50.67%
+
+===== p20_0096_9.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index: (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== p20_0097_12.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index: (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== p20_0098_6.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 37  
+Ki-67 Index: (29 / (29 + 37)) x 100 = (29 / 66) x 100 = 43.94%
+
+Ki-67 Index: 43.94%
+
+===== p20_0099_12.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 48  
+Ki-67 Index = (12 / (12 + 48)) x 100 = (12 / 60) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== p20_0099_5.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 38  
+Ki-67 Index: (12 / (12 + 38)) x 100 = (12 / 50) x 100 = 24.00%
+
+Ki-67 Index: 24.00%
+
+===== p20_0100_8.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 41  
+Ki-67 Index: (14 / (14 + 41)) x 100 = (14 / 55) x 100 = 25.45%
+
+Ki-67 Index: 25.45%
+
+===== p20_0101_12.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 34  
+Ki-67 Index: (7 / (7 + 34)) x 100 = (7 / 41) x 100 = 17.07%
+
+Ki-67 Index: 17.07%
+
+===== p20_0102_11.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 34  
+Ki-67 Index: (12 / (12 + 34)) x 100 = (12 / 46) x 100 = 26.09%
+
+Ki-67 Index: 26.09%
+
+===== p20_0108_11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index: (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== p20_0108_12.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 32  
+Ki-67 Index: (18 / (18 + 32)) x 100 = (18 / 50) x 100 = 36.00%
+
+Ki-67 Index: 36.00%
+
+===== p20_0112_12.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 23  
+Ki-67 Index: (34 / (34 + 23)) x 100 = (34 / 57) x 100 = 59.65%
+
+Ki-67 Index: 59.65%
+
+===== p20_0113_10.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 48  
+Ki-67 Index: (15 / (15 + 48)) x 100 = (15 / 63) x 100 = 23.81%
+
+Ki-67 Index: 23.81%
+
+===== p20_0120_11.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 38  
+Ki-67 Index: (12 / (12 + 38)) x 100 = (12 / 50) x 100 = 24.00%
+
+Ki-67 Index: 24.00%
+
+===== p20_0120_5.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 22  
+Ki-67 Index: (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Ki-67 Index: 63.33%
+
+===== p20_0120_6.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 23  
+Ki-67 Index: (27 / (27 + 23)) x 100 = (27 / 50) x 100 = 54.00%
+
+Ki-67 Index: 54.00%
+
+===== p20_0120_8.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index: (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== p20_0121_12.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 38  
+Ki-67 Index: (32 / (32 + 38)) x 100 = (32 / 70) x 100 = 45.71%
+
+Ki-67 Index: 45.71%
+
+===== p20_0122_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 37  
+Ki-67 Index: (13 / (13 + 37)) x 100 = (13 / 50) x 100 = 26.00%
+
+Ki-67 Index: 26.00%
+
+===== p20_0127_7.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 28  
+Ki-67 Index: (22 / (22 + 28)) x 100 = (22 / 50) x 100 = 44.00%
+
+Ki-67 Index: 44.00%
+
+===== p20_0128_6.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 27  
+Ki-67 Index: (18 / (18 + 27)) x 100 = (18 / 45) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p20_0130_3.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 32  
+Ki-67 Index: (10 / (10 + 32)) x 100 = (10 / 42) x 100 = 23.81%
+
+Ki-67 Index: 23.81%
+
+===== p20_0134_4.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 28  
+Ki-67 Index: (27 / (27 + 28)) x 100 = (27 / 55) x 100 = 49.09%
+
+Ki-67 Index: 49.09%
+
+===== p20_0135_6.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 28  
+Ki-67 Index: (22 / (22 + 28)) x 100 = (22 / 50) x 100 = 44.00%
+
+Ki-67 Index: 44.00%
+
+===== p20_0135_8.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 22  
+Ki-67 Index: (28 / (28 + 22)) x 100 = (28 / 50) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== p20_0139_1.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 34  
+Ki-67 Index = (18 / (18 + 34)) x 100
+
+Ki-67 Index: 34.62%
+
+===== p20_0139_10.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 17  
+Ki-67 Index: (28 / (28 + 17)) x 100 = (28 / 45) x 100 = 62.22%
+
+Ki-67 Index: 62.22%
+
+===== p20_0143_4.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 38  
+Ki-67 Index: (13 / (13 + 38)) x 100 = (13 / 51) x 100 = 25.49%
+
+Ki-67 Index: 25.49%
+
+===== p20_0143_8.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 22  
+Ki-67 Index = (18 / (18 + 22)) x 100
+
+Ki-67 Index: 45.00%
+
+===== p20_0149_11.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 32  
+Ki-67 Index: (13 / (13 + 32)) x 100 = (13 / 45) x 100 = 28.89%
+
+Ki-67 Index: 28.89%
+
+===== p20_0149_4.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 22  
+Ki-67 Index: (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Ki-67 Index: 63.33%
+
+===== p20_0149_5.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 18  
+Ki-67 Index: (29 / (29 + 18)) x 100 = (29 / 47) x 100 = 61.70%
+
+Ki-67 Index: 61.70%
+
+===== p20_0152_11.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 18  
+Ki-67 Index: (27 / (27 + 18)) x 100 = (27 / 45) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== p20_0154_8.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 28  
+Ki-67 Index: (32 / (32 + 28)) x 100 = (32 / 60) x 100 = 53.33%
+
+Ki-67 Index: 53.33%
+
+===== p20_0162_7.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 27  
+Ki-67 Index: (13 / (13 + 27)) x 100 = (13 / 40) x 100 = 32.50%
+
+Ki-67 Index: 32.50%
+
+===== p20_0167_6.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 28  
+Ki-67 Index = (22 / (22 + 28)) x 100
+
+Ki-67 Index: 44.00%
+
+===== p20_0173_10.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 42  
+Ki-67 Index: (18 / (18 + 42)) x 100 = (18 / 60) x 100 = 30.00%
+
+Ki-67 Index: 30.00%
+
+===== p20_0173_4.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 38  
+Ki-67 Index: (17 / (17 + 38)) x 100 = (17 / 55) x 100 = 30.91%
+
+Ki-67 Index: 30.91%
+
+===== p20_0174_7.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index: (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== p20_0175_10.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 23  
+Ki-67 Index = (27 / (27 + 23)) x 100
+
+Ki-67 Index: 54.00%
+
+===== p20_0176_11.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 23  
+Ki-67 Index: (12 / (12 + 23)) x 100 = (12 / 35) x 100 = 34.29%
+
+Ki-67 Index: 34.29%
+
+===== p20_0176_7.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 18  
+Ki-67 Index = (27 / (27 + 18)) x 100
+
+Ki-67 Index: 60.00%
+
+===== p20_0179_7.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 22  
+Ki-67 Index: (11 / (11 + 22)) x 100 = (11 / 33) x 100 = 33.33%
+
+Ki-67 Index: 33.33%
+
+===== p20_0180_2.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 13  
+Ki-67 Index: (27 / (27 + 13)) x 100 = (27 / 40) x 100 = 67.50%
+
+Ki-67 Index: 67.50%
+
+===== p20_0182_2.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 17  
+Ki-67 Index: (48 / (48 + 17)) x 100 = (48 / 65) x 100 = 73.85%
+
+Ki-67 Index: 73.85%
+
+===== p21_0247_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 8  
+Ki-67 Index: (22 / (22 + 8)) x 100 = (22 / 30) x 100 = 73.33%
+
+Ki-67 Index: 73.33%
+
+===== p21_0248_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 7  
+Ki-67 Index: (13 / (13 + 7)) x 100 = 65.00%
+
+Ki-67 Index: 65.00%
+
+===== p21_0252_11.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 22  
+Ki-67 Index: (18 / (18 + 22)) x 100 = (18 / 40) x 100 = 45.00%
+
+Ki-67 Index: 45.00%
+
+===== p21_0253_4.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 17  
+Ki-67 Index: (13 / (13 + 17)) x 100 = (13 / 30) x 100 = 43.33%
+
+Ki-67 Index: 43.33%
+
+===== p21_0253_5.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 8  
+Ki-67 Index: (9 / (9 + 8)) x 100 = (9 / 17) x 100 = 52.94%
+
+Ki-67 Index: 52.94%
+
+===== p21_0253_6.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 28  
+Ki-67 Index: (4 / (4 + 28)) x 100 = (4 / 32) x 100 = 12.50%
+
+Ki-67 Index: 12.50%
+
+===== p21_0254_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 14  
+Ki-67 Index: (13 / (13 + 14)) x 100 = (13 / 27) x 100 = 48.15%
+
+Ki-67 Index: 48.15%
+
+===== p21_0254_6.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 10  
+Ki-67 Index: (17 / (17 + 10)) x 100 = 62.96%
+
+Ki-67 Index: 62.96%
+
+===== p21_0254_9.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 6  
+Ki-67 Index: (15 / (15 + 6)) x 100 = 71.43%
+
+Ki-67 Index: 71.43%
+
+===== p21_0255_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 6  
+Ki-67 Index: (13 / (13 + 6)) x 100 = (13 / 19) x 100 = 68.42%
+
+Ki-67 Index: 68.42%
+
+===== p21_0255_2.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 7  
+Ki-67 Index: (8 / (8 + 7)) x 100 = (8 / 15) x 100 = 53.33%
+
+Ki-67 Index: 53.33%
+
+===== p21_0256_6.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 4  
+Ki-67 Index: (6 / (6 + 4)) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== p21_0257_10.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 18  
+Ki-67 Index: (6 / (6 + 18)) x 100 = (6 / 24) x 100 = 25.00%
+
+Ki-67 Index: 25.00%
+
+===== p21_0257_2.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 38  
+Ki-67 Index: (14 / (14 + 38)) x 100 = (14 / 52) x 100 = 26.92%
+
+Ki-67 Index: 26.92%
+
+===== p21_0257_3.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 74  
+Ki-67 Index: (8 / (8 + 74)) x 100 = (8 / 82) x 100 = 9.76%
+
+Ki-67 Index: 9.76%
+
+===== p21_0259_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 67  
+Ki-67 Index: (1 / (1 + 67)) x 100 = (1 / 68) x 100 = 1.47%
+
+Ki-67 Index: 1.47%
+
+===== p21_0260_5.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 10  
+Ki-67 Index = (6 / (6 + 10)) x 100
+
+Ki-67 Index: 37.50%
+
+===== p21_0260_6.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 4  
+Ki-67 Index: (10 / (10 + 4)) x 100 = 71.43%
+
+Ki-67 Index: 71.43%
+
+===== p21_0260_9.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 7  
+Ki-67 Index: (8 / (8 + 7)) x 100 = (8 / 15) x 100 = 53.33%
+
+Ki-67 Index: 53.33%
+
+===== p21_0261_6.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 4  
+Ki-67 Index: (9 / (9 + 4)) x 100 = (9 / 13) x 100 = 69.23%
+
+Ki-67 Index: 69.23%
+
+===== p21_0268_6.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 18  
+Ki-67 Index: (32 / (32 + 18)) x 100 = (32 / 50) x 100 = 64.00%
+
+Ki-67 Index: 64.00%
+
+===== p21_0268_9.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 10  
+Ki-67 Index: (23 / (23 + 10)) x 100 = (23 / 33) x 100 = 69.70%
+
+Ki-67 Index: 69.70%
+
+===== p21_0271_2.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 0  
+Ki-67 Index: (5 / (5 + 0)) x 100 = 100.00%
+
+Ki-67 Index: 100.00%
+
+===== p21_0271_6.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 13  
+Ki-67 Index: (7 / (7 + 13)) x 100 = (7 / 20) x 100 = 35.00%
+
+Ki-67 Index: 35.00%
+
+===== p22_0004_6.jpg =====
+Immunopositive cells: 19  
+Immunonegative cells: 13  
+Ki-67 Index: (19 / (19 + 13)) x 100 = (19 / 32) x 100 = 59.38%
+
+Ki-67 Index: 59.38%
+
+===== p22_0005_10.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 11  
+Ki-67 Index: (14 / (14 + 11)) x 100 = (14 / 25) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== p22_0006_5.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 7  
+Ki-67 Index: (13 / (13 + 7)) x 100 = (13 / 20) x 100 = 65.00%
+
+Ki-67 Index: 65.00%
+
+===== p22_0007_6.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 7  
+Ki-67 Index = (18 / (18 + 7)) x 100
+
+Ki-67 Index: 72.00%
+
+===== p22_0009_7.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 78  
+Ki-67 Index: (22 / (22 + 78)) x 100 = (22 / 100) x 100 = 22.00%
+
+Ki-67 Index: 22.00%
+
+===== p22_0011_2.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 54  
+Ki-67 Index: (17 / (17 + 54)) x 100 = (17 / 71) x 100 = 23.94%
+
+Ki-67 Index: 23.94%
+
+===== p22_0012_5.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 38  
+Ki-67 Index: (8 / (8 + 38)) x 100 = (8 / 46) x 100 = 17.39%
+
+Ki-67 Index: 17.39%
+
+===== p22_0013_11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index: (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== p22_0013_2.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 22  
+Ki-67 Index: (28 / (28 + 22)) x 100 = (28 / 50) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== p22_0013_6.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 24  
+Ki-67 Index: (32 / (32 + 24)) x 100 = (32 / 56) x 100 = 57.14%
+
+Ki-67 Index: 57.14%
+
+===== p22_0016_2.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 22  
+Ki-67 Index: (18 / (18 + 22)) x 100 = (18 / 40) x 100 = 45.00%
+
+Ki-67 Index: 45.00%
+
+===== p22_0016_6.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 7  
+Ki-67 Index: (28 / (28 + 7)) x 100 = (28 / 35) x 100 = 80.00%
+
+Ki-67 Index: 80.00%
+
+===== p22_0016_7.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 13  
+Ki-67 Index: (28 / (28 + 13)) x 100 = (28 / 41) x 100 = 68.29%
+
+Ki-67 Index: 68.29%
+
+===== p22_0018_2.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 48  
+Ki-67 Index: (17 / (17 + 48)) x 100 = (17 / 65) x 100 = 26.15%
+
+Ki-67 Index: 26.15%
+
+===== p22_0019_3.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 3  
+Ki-67 Index: (9 / (9 + 3)) x 100 = (9 / 12) x 100 = 75.00%
+
+Ki-67 Index: 75.00%
+
+===== p22_0019_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 18  
+Ki-67 Index: (8 / (8 + 18)) x 100 = (8 / 26) x 100 = 30.77%
+
+Ki-67 Index: 30.77%
+
+===== p22_0020_5.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 0  
+Ki-67 Index: (3 / (3 + 0)) x 100 = 100.00%
+
+Ki-67 Index: 100.00%
+
+===== p22_0022_11.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 6  
+Ki-67 Index: (13 / (13 + 6)) x 100 = (13 / 19) x 100 = 68.42%
+
+Ki-67 Index: 68.42%
+
+===== p22_0022_7.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 4  
+Ki-67 Index: (16 / (16 + 4)) x 100 = (16 / 20) x 100 = 80.00%
+
+Ki-67 Index: 80.00%
+
+===== p22_0024_8.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 54  
+Ki-67 Index: (6 / (6 + 54)) x 100 = (6 / 60) x 100 = 10.00%
+
+Ki-67 Index: 10.00%
+
+===== p22_0025_3.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 62  
+Ki-67 Index: (13 / (13 + 62)) x 100 = (13 / 75) x 100 = 17.33%
+
+Ki-67 Index: 17.33%
+
+===== p22_0026_8.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 18  
+Ki-67 Index: (6 / (6 + 18)) x 100 = (6 / 24) x 100 = 25.00%
+
+Ki-67 Index: 25.00%
+
+===== p22_0027_10.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 18  
+Ki-67 Index: (5 / (5 + 18)) x 100 = (5 / 23) x 100 = 21.74%
+
+Ki-67 Index: 21.74%
+
+===== p22_0027_6.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 13  
+Ki-67 Index: (32 / (32 + 13)) x 100 = (32 / 45) x 100 = 71.11%
+
+Ki-67 Index: 71.11%
+
+===== p22_0028_9.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 13  
+Ki-67 Index: (32 / (32 + 13)) x 100 = (32 / 45) x 100 = 71.11%
+
+Ki-67 Index: 71.11%
+
+===== p22_0030_6.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 12  
+Ki-67 Index: (38 / (38 + 12)) x 100 = (38 / 50) x 100 = 76.00%
+
+Ki-67 Index: 76.00%
+
+===== p23_0274_2.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 28  
+Ki-67 Index: (22 / (22 + 28)) x 100 = 44.00%
+
+Ki-67 Index: 44.00%
+
+===== p23_0275_10.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 28  
+Ki-67 Index: (8 / (8 + 28)) x 100 = (8 / 36) x 100 = 22.22%
+
+Ki-67 Index: 22.22%
+
+===== p23_0276_11.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 17  
+Ki-67 Index: (18 / (18 + 17)) x 100 = (18 / 35) x 100 = 51.43%
+
+Ki-67 Index: 51.43%
+
+===== p23_0278_5.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 18  
+Ki-67 Index: (0 / (0 + 18)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p23_0278_7.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 48  
+Ki-67 Index: (5 / (5 + 48)) x 100 = (5 / 53) x 100 = 9.43%
+
+Ki-67 Index: 9.43%
+
+===== p23_0278_8.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 14  
+Ki-67 Index: (8 / (8 + 14)) x 100 = (8 / 22) x 100 = 36.36%
+
+Ki-67 Index: 36.36%
+
+===== p23_0278_9.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 22  
+Ki-67 Index: (0 / (0 + 22)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p23_0280_11.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 4  
+Ki-67 Index: (10 / (10 + 4)) x 100 = 71.43%
+
+Ki-67 Index: 71.43%
+
+===== p23_0284_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 22  
+Ki-67 Index: (13 / (13 + 22)) x 100 = (13 / 35) x 100 = 37.14%
+
+Ki-67 Index: 37.14%
+
+===== p23_0286_7.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 27  
+Ki-67 Index: (0 / (0 + 27)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p23_0287_10.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 23  
+Ki-67 Index: (4 / (4 + 23)) x 100 = (4 / 27) x 100 = 14.81%
+
+Ki-67 Index: 14.81%
+
+===== p23_0288_1.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 28  
+Ki-67 Index: (10 / (10 + 28)) x 100 = (10 / 38) x 100 = 26.32%
+
+Ki-67 Index: 26.32%
+
+===== p23_0288_11.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 4  
+Ki-67 Index = (7 / (7 + 4)) x 100
+
+Ki-67 Index: 63.64%
+
+===== p23_0288_2.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 9  
+Ki-67 Index: (18 / (18 + 9)) x 100 = 66.67%
+
+===== p23_0288_9.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 7  
+Ki-67 Index: (8 / (8 + 7)) x 100 = 53.33%
+
+Ki-67 Index: 53.33%
+
+===== p2_0183_8.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 38  
+Ki-67 Index: (10 / (10 + 38)) x 100 = (10 / 48) x 100 = 20.83%
+
+Ki-67 Index: 20.83%
+
+===== p2_0184_6.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 34  
+Ki-67 Index: (22 / (22 + 34)) x 100 = (22 / 56) x 100 = 39.29%
+
+Ki-67 Index: 39.29%
+
+===== p2_0191_1.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 48  
+Ki-67 Index: (17 / (17 + 48)) x 100 = (17 / 65) x 100 = 26.15%
+
+Ki-67 Index: 26.15%
+
+===== p2_0198_2.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 38  
+Ki-67 Index: (13 / (13 + 38)) x 100 = (13 / 51) x 100 = 25.49%
+
+Ki-67 Index: 25.49%
+
+===== p2_0200_3.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 23  
+Ki-67 Index = (12 / (12 + 23)) x 100
+
+Ki-67 Index: 34.29%
+
+===== p2_0204_8.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 18  
+Ki-67 Index: (12 / (12 + 18)) x 100 = (12 / 30) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p2_0206_2.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 52  
+Ki-67 Index: (13 / (13 + 52)) x 100 = (13 / 65) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== p2_0206_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 46  
+Ki-67 Index: (8 / (8 + 46)) x 100 = (8 / 54) x 100 = 14.81%
+
+Ki-67 Index: 14.81%
+
+===== p2_0208_11.jpg =====
+Immunopositive cells: 19  
+Immunonegative cells: 18  
+Ki-67 Index: (19 / (19 + 18)) x 100 = 51.35%
+
+Ki-67 Index: 51.35%
+
+===== p2_0214_8.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 54  
+Ki-67 Index: (6 / (6 + 54)) x 100 = (6 / 60) x 100 = 10.00%
+
+Ki-67 Index: 10.00%
+
+===== p2_0219_3.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells:  ninety  
+Ki-67 Index = (11 / (11 + 90)) x 100
+
+Ki-67 Index: 10.89%
+
+===== p2_0219_4.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 74  
+Ki-67 Index: (11 / (11 + 74)) x 100 = (11 / 85) x 100 = 12.94%
+
+Ki-67 Index: 12.94%
+
+===== p2_0221_1.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 38  
+Ki-67 Index: (3 / (3 + 38)) x 100 = (3 / 41) x 100 = 7.32%
+
+Ki-67 Index: 7.32%
+
+===== p2_0225_6.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 22  
+Ki-67 Index: (4 / (4 + 22)) x 100 = (4 / 26) x 100 = 15.38%
+
+Ki-67 Index: 15.38%
+
+===== p2_0227_11.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 22  
+Ki-67 Index: (2 / (2 + 22)) x 100 = (2 / 24) x 100 = 8.33%
+
+Ki-67 Index: 8.33%
+
+===== p2_0229_7.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 18  
+Ki-67 Index: (9 / (9 + 18)) x 100 = (9 / 27) x 100 = 33.33%
+
+Ki-67 Index: 33.33%
+
+===== p2_0230_4.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 28  
+Ki-67 Index: (9 / (9 + 28)) x 100 = (9 / 37) x 100 = 24.32%
+
+Ki-67 Index: 24.32%
+
+===== p2_0232_3.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 47  
+Ki-67 Index: (13 / (13 + 47)) x 100 = (13 / 60) x 100 = 21.67%
+
+Ki-67 Index: 21.67%
+
+===== p2_0235_5.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 18  
+Ki-67 Index: (17 / (17 + 18)) x 100 = (17 / 35) x 100 = 48.57%
+
+Ki-67 Index: 48.57%
+
+===== p2_0236_6.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 48  
+Ki-67 Index: (7 / (7 + 48)) x 100 = (7 / 55) x 100 = 12.73%
+
+Ki-67 Index: 12.73%
+
+===== p2_0237_3.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 13  
+Ki-67 Index: (18 / (18 + 13)) x 100 = (18 / 31) x 100 = 58.06%
+
+Ki-67 Index: 58.06%
+
+===== p2_0237_4.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 7  
+Ki-67 Index: (14 / (14 + 7)) x 100 = (14 / 21) x 100 = 66.67%
+
+Ki-67 Index: 66.67%
+
+===== p2_0239_5.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 13  
+Ki-67 Index: (14 / (14 + 13)) x 100 = (14 / 27) x 100 = 51.85%
+
+Ki-67 Index: 51.85%
+
+===== p2_0243_3.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 38  
+Ki-67 Index: (7 / (7 + 38)) x 100 = (7 / 45) x 100 = 15.56%
+
+Ki-67 Index: 15.56%
+
+===== p2_0248_3.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 7  
+Ki-67 Index: (23 / (23 + 7)) x 100 = (23 / 30) x 100 = 76.67%
+
+Ki-67 Index: 76.67%
+
+===== p2_0255_8.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index: (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== p2_0259_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 22  
+Ki-67 Index: (1 / (1 + 22)) x 100 = (1 / 23) x 100 = 4.35%
+
+Ki-67 Index: 4.35%
+
+===== p2_0268_2.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 19  
+Ki-67 Index: (5 / (5 + 19)) x 100 = (5 / 24) x 100 = 20.83%
+
+Ki-67 Index: 20.83%
+
+===== p2_0269_3.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 8  
+Ki-67 Index: (10 / (10 + 8)) x 100 = 55.56%
+
+Ki-67 Index: 55.56%
+
+===== p2_0286_10.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 6  
+Ki-67 Index: (4 / (4 + 6)) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p2_0290_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 7  
+Ki-67 Index: (1 / (1 + 7)) x 100 = (1 / 8) x 100 = 12.50%
+
+Ki-67 Index: 12.50%
+
+===== p2_0294_6.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 19  
+Ki-67 Index: (7 / (7 + 19)) x 100 = (7 / 26) x 100 = 26.92%
+
+Ki-67 Index: 26.92%
+
+===== p2_0295_8.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 18  
+Ki-67 Index: (4 / (4 + 18)) x 100 = (4 / 22) x 100 = 18.18%
+
+Ki-67 Index: 18.18%
+
+===== p2_0301_3.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 24  
+Ki-67 Index: (3 / (3 + 24)) x 100 = (3 / 27) x 100 = 11.11%
+
+Ki-67 Index: 11.11%
+
+===== p2_0306_10.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 38  
+Ki-67 Index: (0 / (0 + 38)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p2_0307_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 19  
+Ki-67 Index: (1 / (1 + 19)) x 100 = (1 / 20) x 100 = 5.00%
+
+Ki-67 Index: 5.00%
+
+===== p3_0217_5.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 48  
+Ki-67 Index: (0 / (0 + 48)) x 100
+
+Ki-67 Index: 0.00%
+
+===== p3_0220_6.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 18  
+Ki-67 Index: (8 / (8 + 18)) x 100 = (8 / 26) x 100 = 30.77%
+
+Ki-67 Index: 30.77%
+
+===== p3_0220_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 27  
+Ki-67 Index: (1 / (1 + 27)) x 100 = (1 / 28) x 100 = 3.57%
+
+Ki-67 Index: 3.57%
+
+===== p3_0224_1.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 27  
+Ki-67 Index: (7 / (7 + 27)) x 100 = (7 / 34) x 100 = 20.59%
+
+Ki-67 Index: 20.59%
+
+===== p3_0227_2.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 32  
+Ki-67 Index = (10 / (10 + 32)) x 100
+
+Ki-67 Index: 23.81%
+
+===== p3_0235_5.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 27  
+Ki-67 Index: (5 / (5 + 27)) x 100 = (5 / 32) x 100 = 15.63%
+
+Ki-67 Index: 15.63%
+
+===== p3_0241_10.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 38  
+Ki-67 Index: (3 / (3 + 38)) x 100 = (3 / 41) x 100 = 7.32%
+
+Ki-67 Index: 7.32%
+
+===== p3_0242_1.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 38  
+Ki-67 Index: (3 / (3 + 38)) x 100 = (3 / 41) x 100 = 7.32%
+
+Ki-67 Index: 7.32%
+
+===== p3_0242_10.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 38  
+Ki-67 Index: (3 / (3 + 38)) x 100 = (3 / 41) x 100 = 7.32%
+
+Ki-67 Index: 7.32%
+
+===== p3_0242_6.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 38  
+Ki-67 Index: (2 / (2 + 38)) x 100 = (2 / 40) x 100 = 5.00%
+
+Ki-67 Index: 5.00%
+
+===== p3_0242_9.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 22  
+Ki-67 Index: (2 / (2 + 22)) x 100 = (2 / 24) x 100 = 8.33%
+
+Ki-67 Index: 8.33%
+
+===== p3_0243_10.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 22  
+Ki-67 Index: (2 / (2 + 22)) x 100 = (2 / 24) x 100 = 8.33%
+
+Ki-67 Index: 8.33%
+
+===== p3_0243_9.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 34  
+Ki-67 Index: (3 / (3 + 34)) x 100 = (3 / 37) x 100 = 8.11%
+
+Ki-67 Index: 8.11%
+
+===== p3_0245_3.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 18  
+Ki-67 Index = (4 / (4 + 18)) x 100 = (4 / 22) x 100 = 18.18%
+
+Ki-67 Index: 18.18%
+
+===== p3_0247_8.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 54  
+Ki-67 Index: (6 / (6 + 54)) x 100 = (6 / 60) x 100 = 10.00%
+
+Ki-67 Index: 10.00%
+
+===== p3_0253_6.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 18  
+Ki-67 Index: (8 / (8 + 18)) x 100 = (8 / 26) x 100 = 30.77%
+
+Ki-67 Index: 30.77%
+
+===== p3_0258_3.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 22  
+Ki-67 Index: (13 / (13 + 22)) x 100 = (13 / 35) x 100 = 37.14%
+
+Ki-67 Index: 37.14%
+
+===== p3_0259_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 22  
+Ki-67 Index: (13 / (13 + 22)) x 100 = (13 / 35) x 100 = 37.14%
+
+Ki-67 Index: 37.14%
+
+===== p3_0260_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 22  
+Ki-67 Index: (13 / (13 + 22)) x 100 = (13 / 35) x 100 = 37.14%
+
+Ki-67 Index: 37.14%
+
+===== p3_0261_6.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells:  ninety-three  
+Ki-67 Index: (7 / (7 + 93)) x 100 = (7 / 100) x 100 = 7.00%
+
+Ki-67 Index: 7.00%
+
+===== p3_0262_5.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 18  
+Ki-67 Index: (8 / (8 + 18)) x 100 = (8 / 26) x 100 = 30.77%
+
+Ki-67 Index: 30.77%
+
+===== p3_0264_1.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 18  
+Ki-67 Index: (8 / (8 + 18)) x 100 = (8 / 26) x 100 = 30.77%
+
+Ki-67 Index: 30.77%
+
+===== p3_0264_3.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 18  
+Ki-67 Index: (8 / (8 + 18)) x 100 = (8 / 26) x 100 = 30.77%
+
+Ki-67 Index: 30.77%
+
+===== p3_0264_6.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 18  
+Ki-67 Index: (8 / (8 + 18)) x 100 = (8 / 26) x 100 = 30.77%
+
+Ki-67 Index: 30.77%
+
+===== p3_0264_7.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 18  
+Ki-67 Index: (7 / (7 + 18)) x 100 = (7 / 25) x 100 = 28.00%
+
+Ki-67 Index: 28.00%
+
+===== p3_0268_10.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 32  
+Ki-67 Index: (10 / (10 + 32)) x 100 = (10 / 42) x 100 = 23.81%
+
+Ki-67 Index: 23.81%
+
+===== p3_0270_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 48  
+Ki-67 Index: (8 / (8 + 48)) x 100 = (8 / 56) x 100 = 14.29%
+
+Ki-67 Index: 14.29%
+
+===== p3_0273_3.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 38  
+Ki-67 Index = (12 / (12 + 38)) x 100
+
+Ki-67 Index: 24.00%
+
+===== p3_0274_2.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 7  
+Ki-67 Index: (3 / (3 + 7)) x 100 = (3 / 10) x 100 = 30.00%
+
+Ki-67 Index: 30.00%
+
+===== p3_0277_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 52  
+Ki-67 Index: (8 / (8 + 52)) x 100 = (8 / 60) x 100 = 13.33%
+
+Ki-67 Index: 13.33%
+
+===== p3_0280_2.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 19  
+Ki-67 Index: (8 / (8 + 19)) x 100 = (8 / 27) x 100 = 29.63%
+
+Ki-67 Index: 29.63%
+
+===== p3_0283_3.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 13  
+Ki-67 Index: (7 / (7 + 13)) x 100 = (7 / 20) x 100 = 35.00%
+
+Ki-67 Index: 35.00%
+
+===== p4_0046_5.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 22  
+Ki-67 Index: (10 / (10 + 22)) x 100 = (10 / 32) x 100 = 31.25%
+
+Ki-67 Index: 31.25%
+
+===== p4_0050_11.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 28  
+Ki-67 Index: (2 / (2 + 28)) x 100 = (2 / 30) x 100 = 6.67%
+
+Ki-67 Index: 6.67%
+
+===== p4_0052_11.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 7  
+Ki-67 Index: (8 / (8 + 7)) x 100 = (8 / 15) x 100 = 53.33%
+
+Ki-67 Index: 53.33%
+
+===== p4_0055_11.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 9  
+Ki-67 Index: (10 / (10 + 9)) x 100 = (10 / 19) x 100 = 52.63%
+
+Ki-67 Index: 52.63%
+
+===== p4_0061_2.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 27  
+Ki-67 Index = (6 / (6 + 27)) x 100
+
+Ki-67 Index: 18.18%
+
+===== p4_0065_3.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 19  
+Ki-67 Index: (6 / (6 + 19)) x 100 = (6 / 25) x 100 = 24.00%
+
+Ki-67 Index: 24.00%
+
+===== p4_0066_7.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 17  
+Ki-67 Index: (10 / (10 + 17)) x 100 = (10 / 27) x 100 = 37.04%
+
+Ki-67 Index: 37.04%
+
+===== p4_0069_3.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 18  
+Ki-67 Index: (15 / (15 + 18)) x 100 = 45.45%
+
+Ki-67 Index: 45.45%
+
+===== p4_0071_7.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 13  
+Ki-67 Index: (18 / (18 + 13)) x 100 = (18 / 31) x 100 = 58.06%
+
+Ki-67 Index: 58.06%
+
+===== p4_0074_6.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 6  
+Ki-67 Index: (4 / (4 + 6)) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p4_0076_1.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 13  
+Ki-67 Index = (9 / (9 + 13)) x 100 = (9 / 22) x 100 = 40.91%
+
+Ki-67 Index: 40.91%
+
+===== p4_0080_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 18  
+Ki-67 Index: (13 / (13 + 18)) x 100 = (13 / 31) x 100 = 41.94%
+
+Ki-67 Index: 41.94%
+
+===== p4_0081_5.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 17  
+Ki-67 Index: (10 / (10 + 17)) x 100 = (10 / 27) x 100 = 37.04%
+
+Ki-67 Index: 37.04%
+
+===== p4_0081_6.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 28  
+Ki-67 Index = (6 / (6 + 28)) x 100
+
+Ki-67 Index: 17.65%
+
+===== p4_0083_10.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 13  
+Ki-67 Index: (9 / (9 + 13)) x 100 = (9 / 22) x 100 = 40.91%
+
+Ki-67 Index: 40.91%
+
+===== p4_0086_8.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 10  
+Ki-67 Index: (9 / (9 + 10)) x 100 = (9 / 19) x 100 = 47.37%
+
+Ki-67 Index: 47.37%
+
+===== p4_0089_10.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 28  
+Ki-67 Index: (5 / (5 + 28)) x 100 = (5 / 33) x 100 = 15.15%
+
+Ki-67 Index: 15.15%
+
+===== p4_0097_11.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 13  
+Ki-67 Index: (8 / (8 + 13)) x 100 = (8 / 21) x 100 = 38.10%
+
+Ki-67 Index: 38.10%
+
+===== p4_0135_1.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 13  
+Ki-67 Index: (10 / (10 + 13)) x 100 = 43.48%
+
+Ki-67 Index: 43.48%
+
+===== p4_0139_6.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 18  
+Ki-67 Index: (12 / (12 + 18)) x 100 = (12 / 30) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p4_0143_10.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 8  
+Ki-67 Index: (10 / (10 + 8)) x 100 = 55.56%
+
+Ki-67 Index: 55.56%
+
+===== p4_0144_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 22  
+Ki-67 Index: (13 / (13 + 22)) x 100 = (13 / 35) x 100 = 37.14%
+
+Ki-67 Index: 37.14%
+
+===== p4_0147_9.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 18  
+Ki-67 Index: (17 / (17 + 18)) x 100 = (17 / 35) x 100 = 48.57%
+
+Ki-67 Index: 48.57%
+
+===== p4_0159_8.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 32  
+Ki-67 Index: (4 / (4 + 32)) x 100 = (4 / 36) x 100 = 11.11%
+
+Ki-67 Index: 11.11%
+
+===== p4_0161_3.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 28  
+Ki-67 Index: (7 / (7 + 28)) x 100 = (7 / 35) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== p4_0161_6.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 32  
+Ki-67 Index: (5 / (5 + 32)) x 100 = (5 / 37) x 100 = 13.51%
+
+Ki-67 Index: 13.51%
+
+===== p4_0169_5.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 18  
+Ki-67 Index = (9 / (9 + 18)) x 100
+
+Ki-67 Index: 33.33%
+
+===== p4_0176_2.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 21  
+Ki-67 Index: (5 / (5 + 21)) x 100 = (5 / 26) x 100 = 19.23%
+
+Ki-67 Index: 19.23%
+
+===== p4_0176_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 18  
+Ki-67 Index: (13 / (13 + 18)) x 100 = (13 / 31) x 100 = 41.94%
+
+Ki-67 Index: 41.94%
+
+===== p4_0179_9.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 19  
+Ki-67 Index: (10 / (10 + 19)) x 100 = (10 / 29) x 100 = 34.48%
+
+Ki-67 Index: 34.48%
+
+===== p4_0181_3.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 17  
+Ki-67 Index: (11 / (11 + 17)) x 100 = (11 / 28) x 100 = 39.29%
+
+Ki-67 Index: 39.29%
+
+===== p4_0187_1.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 18  
+Ki-67 Index: (7 / (7 + 18)) x 100 = (7 / 25) x 100 = 28.00%
+
+Ki-67 Index: 28.00%
+
+===== p4_0193_9.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 15  
+Ki-67 Index: (10 / (10 + 15)) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p4_0197_11.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 32  
+Ki-67 Index: (10 / (10 + 32)) x 100 = (10 / 42) x 100 = 23.81%
+
+Ki-67 Index: 23.81%
+
+===== p4_0208_6.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 10  
+Ki-67 Index: (8 / (8 + 10)) x 100 = (8 / 18) x 100 = 44.44%
+
+Ki-67 Index: 44.44%
+
+===== p4_0213_2.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 13  
+Ki-67 Index: (9 / (9 + 13)) x 100 = (9 / 22) x 100 = 40.91%
+
+Ki-67 Index: 40.91%
+
+===== p5_0095_3.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 41  
+Ki-67 Index = (29 / (29 + 41)) x 100
+
+Ki-67 Index: 41.43%
+
+===== p5_0096_5.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 41  
+Ki-67 Index: (34 / (34 + 41)) x 100 = (34 / 75) x 100 = 45.33%
+
+Ki-67 Index: 45.33%
+
+===== p5_0117_10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index: (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== p5_0120_2.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 18  
+Ki-67 Index: (47 / (47 + 18)) x 100 = (47 / 65) x 100 = 72.31%
+
+Ki-67 Index: 72.31%
+
+===== p5_0123_1.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 6  
+Ki-67 Index: (22 / (22 + 6)) x 100 = (22 / 28) x 100 = 78.57%
+
+Ki-67 Index: 78.57%
+
+===== p5_0123_11.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 18  
+Ki-67 Index: (13 / (13 + 18)) x 100 = (13 / 31) x 100 = 41.94%
+
+Ki-67 Index: 41.94%
+
+===== p5_0124_5.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 13  
+Ki-67 Index: (32 / (32 + 13)) x 100 = (32 / 45) x 100 = 71.11%
+
+Ki-67 Index: 71.11%
+
+===== p5_0140_3.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 38  
+Ki-67 Index: (17 / (17 + 38)) x 100 = (17 / 55) x 100 = 30.91%
+
+Ki-67 Index: 30.91%
+
+===== p5_0143_11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 13  
+Ki-67 Index: (22 / (22 + 13)) x 100 = (22 / 35) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== p5_0169_5.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 54  
+Ki-67 Index: (18 / (18 + 54)) x 100 = (18 / 72) x 100 = 25.00%
+
+Ki-67 Index: 25.00%
+
+===== p5_0180_2.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 18  
+Ki-67 Index: (34 / (34 + 18)) x 100 = (34 / 52) x 100 = 65.38%
+
+Ki-67 Index: 65.38%
+
+===== p5_0187_7.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index: (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%
+
+Ki-67 Index: 47.50%
+
+===== p5_0188_1.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 38  
+Ki-67 Index = (24 / (24 + 38)) x 100
+
+Ki-67 Index: 38.71%
+
+===== p5_0189_5.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 102  
+Ki-67 Index: (0 / (0 + 102)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p5_0190_5.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 18  
+Ki-67 Index: (54 / (54 + 18)) x 100 = (54 / 72) x 100 = 75.00%
+
+Ki-67 Index: 75.00%
+
+===== p5_0204_11.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 62  
+Ki-67 Index: (6 / (6 + 62)) x 100 = (6 / 68) x 100 = 8.82%
+
+Ki-67 Index: 8.82%
+
+===== p5_0221_9.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 109  
+Ki-67 Index: (9 / (9 + 109)) x 100 = (9 / 118) x 100 = 7.63%
+
+Ki-67 Index: 7.63%
+
+===== p5_0222_9.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 74  
+Ki-67 Index: (10 / (10 + 74)) x 100 = 11.90%
+
+Ki-67 Index: 11.90%
+
+===== p5_0239_8.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 19  
+Ki-67 Index: (41 / (41 + 19)) x 100 = (41 / 60) x 100 = 68.33%
+
+Ki-67 Index: 68.33%
+
+===== p5_0245_10.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 27  
+Ki-67 Index: (38 / (38 + 27)) x 100 = (38 / 65) x 100 = 58.46%
+
+Ki-67 Index: 58.46%
+
+===== p5_0246_7.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 29  
+Ki-67 Index: (41 / (41 + 29)) x 100 = (41 / 70) x 100 = 58.57%
+
+Ki-67 Index: 58.57%
+
+===== p5_0260_11.jpg =====
+Immunopositive cells: 82  
+Immunonegative cells: 13  
+Ki-67 Index: (82 / (82 + 13)) x 100 = (82 / 95) x 100 = 86.32%
+
+Ki-67 Index: 86.32%
+
+===== p5_0274_11.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 22  
+Ki-67 Index: (48 / (48 + 22)) x 100 = (48 / 70) x 100 = 68.57%
+
+Ki-67 Index: 68.57%
+
+===== p5_0280_11.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 11  
+Ki-67 Index: (54 / (54 + 11)) x 100 = (54 / 65) x 100 = 83.08%
+
+Ki-67 Index: 83.08%
+
+===== p5_0282_4.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 54  
+Ki-67 Index = (8 / (8 + 54)) x 100
+
+Ki-67 Index: 12.90%
+
+===== p5_0296_8.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 7  
+Ki-67 Index: (32 / (32 + 7)) x 100 = (32 / 39) x 100 = 82.05%
+
+Ki-67 Index: 82.05%
+
+===== p5_0298_5.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 22  
+Ki-67 Index: (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Ki-67 Index: 63.33%
+
+===== p6_0009_7.jpg =====
+Immunopositive cells: 87  
+Immunonegative cells: 8  
+Ki-67 Index: (87 / (87 + 8)) x 100 = (87 / 95) x 100 = 91.58%
+
+Ki-67 Index: 91.58%
+
+===== p6_0011_10.jpg =====
+Immunopositive cells: 74  
+Immunonegative cells: 6  
+Ki-67 Index: (74 / (74 + 6)) x 100 = (74 / 80) x 100 = 92.50%
+
+Ki-67 Index: 92.50%
+
+===== p6_0011_11.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 13  
+Ki-67 Index: (54 / (54 + 13)) x 100 = (54 / 67) x 100 = 80.60%
+
+Ki-67 Index: 80.60%
+
+===== p6_0011_5.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 7  
+Ki-67 Index: (38 / (38 + 7)) x 100 = (38 / 45) x 100 = 84.44%
+
+Ki-67 Index: 84.44%
+
+===== p6_0013_5.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 9  
+Ki-67 Index: (38 / (38 + 9)) x 100 = (38 / 47) x 100 = 80.85%
+
+Ki-67 Index: 80.85%
+
+===== p6_0015_10.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 18  
+Ki-67 Index: (34 / (34 + 18)) x 100 = (34 / 52) x 100 = 65.38%
+
+Ki-67 Index: 65.38%
+
+===== p6_0015_3.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 18  
+Ki-67 Index = (34 / (34 + 18)) x 100
+
+Ki-67 Index: 65.38%
+
+===== p6_0015_5.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 28  
+Ki-67 Index = (32 / (32 + 28)) x 100
+
+Ki-67 Index: 53.33%
+
+===== p6_0016_5.jpg =====
+Immunopositive cells: 87  
+Immunonegative cells: 13  
+Ki-67 Index = (87 / (87 + 13)) x 100
+
+Ki-67 Index: 87.00%
+
+===== p6_0018_11.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 46  
+Ki-67 Index = (24 / (24 + 46)) x 100
+
+Ki-67 Index: 34.29%
+
+===== p6_0018_5.jpg =====
+Immunopositive cells: 92  
+Immunonegative cells: 8  
+Ki-67 Index: (92 / (92 + 8)) x 100 = (92 / 100) x 100 = 92.00%
+
+Ki-67 Index: 92.00%
+
+===== p6_0020_2.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 54  
+Ki-67 Index = (29 / (29 + 54)) x 100
+
+Ki-67 Index: 34.88%
+
+===== p6_0020_3.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 18  
+Ki-67 Index = (62 / (62 + 18)) x 100
+
+Ki-67 Index: 77.50%
+
+===== p6_0023_10.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 6  
+Ki-67 Index: (54 / (54 + 6)) x 100 = (54 / 60) x 100 = 90.00%
+
+Ki-67 Index: 90.00%
+
+===== p6_0023_7.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 7  
+Ki-67 Index = (63 / (63 + 7)) x 100
+
+Ki-67 Index: 90.00%
+
+===== p6_0028_9.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 48  
+Ki-67 Index: (62 / (62 + 48)) x 100 = (62 / 110) x 100 = 56.36%
+
+Ki-67 Index: 56.36%
+
+===== p6_0029_3.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 18  
+Ki-67 Index: (54 / (54 + 18)) x 100 = (54 / 72) x 100 = 75.00%
+
+Ki-67 Index: 75.00%
+
+===== p6_0029_6.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 41  
+Ki-67 Index: (18 / (18 + 41)) x 100 = (18 / 59) x 100 = 30.51%
+
+Ki-67 Index: 30.51%
+
+===== p6_0030_11.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 13  
+Ki-67 Index: (54 / (54 + 13)) x 100 = (54 / 67) x 100 = 80.60%
+
+Ki-67 Index: 80.60%
+
+===== p6_0030_3.jpg =====
+Immunopositive cells: 87  
+Immunonegative cells: 3  
+Ki-67 Index: (87 / (87 + 3)) x 100 = (87 / 90) x 100 = 96.67%
+
+Ki-67 Index: 96.67%
+
+===== p6_0030_6.jpg =====
+Immunopositive cells: 74  
+Immunonegative cells: 6  
+Ki-67 Index: (74 / (74 + 6)) x 100 = (74 / 80) x 100 = 92.50%
+
+Ki-67 Index: 92.50%
+
+===== p6_0030_7.jpg =====
+Immunopositive cells: 92  
+Immunonegative cells: 8  
+Ki-67 Index: (92 / (92 + 8)) x 100 = 92.00%
+
+Ki-67 Index: 92.00%
+
+===== p6_0031_9.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 7  
+Ki-67 Index: (48 / (48 + 7)) x 100 = (48 / 55) x 100 = 87.27%
+
+Ki-67 Index: 87.27%
+
+===== p6_0032_1.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 74  
+Ki-67 Index = (8 / (8 + 74)) x 100
+
+Ki-67 Index: 9.76%
+
+===== p6_0304_9.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 18  
+Ki-67 Index: (62 / (62 + 18)) x 100 = (62 / 80) x 100 = 77.50%
+
+Ki-67 Index: 77.50%
+
+===== p6_0311_5.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 36  
+Ki-67 Index = (54 / (54 + 36)) x 100
+
+Ki-67 Index: 60.00%
+
+===== p7_0046_11.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 0  
+Ki-67 Index: (13 / (13 + 0)) x 100 = 100.00%
+
+Ki-67 Index: 100.00%
+
+===== p7_0047_5.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 18  
+Ki-67 Index: (27 / (27 + 18)) x 100 = (27 / 45) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== p7_0047_6.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 0  
+Ki-67 Index: (23 / (23 + 0)) x 100 = 100.00%
+
+Ki-67 Index: 100.00%
+
+===== p7_0048_2.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 4  
+Ki-67 Index: (14 / (14 + 4)) x 100 = (14 / 18) x 100 = 77.78%
+
+Ki-67 Index: 77.78%
+
+===== p7_0048_3.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 6  
+Ki-67 Index: (17 / (17 + 6)) x 100 = (17 / 23) x 100 = 73.91%
+
+Ki-67 Index: 73.91%
+
+===== p7_0048_7.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 0  
+Ki-67 Index: (15 / (15 + 0)) x 100 = 100.00%
+
+Ki-67 Index: 100.00%
+
+===== p7_0050_10.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 4  
+Ki-67 Index = (18 / (18 + 4)) x 100
+
+Ki-67 Index: 81.82%
+
+===== p7_0050_12.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 4  
+Ki-67 Index: (18 / (18 + 4)) x 100 = (18 / 22) x 100 = 81.82%
+
+Ki-67 Index: 81.82%
+
+===== p7_0050_2.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 10  
+Ki-67 Index: (13 / (13 + 10)) x 100 = (13 / 23) x 100 = 56.52%
+
+Ki-67 Index: 56.52%
+
+===== p7_0050_6.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 18  
+Ki-67 Index: (15 / (15 + 18)) x 100 = 45.45%
+
+Ki-67 Index: 45.45%
+
+===== p7_0050_7.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 7  
+Ki-67 Index: (28 / (28 + 7)) x 100 = (28 / 35) x 100 = 80.00%
+
+Ki-67 Index: 80.00%
+
+===== p7_0050_8.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 0  
+Ki-67 Index: (18 / (18 + 0)) x 100 = 100.00%
+
+Ki-67 Index: 100.00%
+
+===== p7_0051_3.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 2  
+Ki-67 Index: (23 / (23 + 2)) x 100 = (23 / 25) x 100 = 92.00%
+
+Ki-67 Index: 92.00%
+
+===== p7_0052_3.jpg =====
+Immunopositive cells: 21  
+Immunonegative cells: 10  
+Ki-67 Index = (21 / (21 + 10)) x 100
+
+Ki-67 Index: 67.74%
+
+===== p7_0052_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 7  
+Ki-67 Index: (13 / (13 + 7)) x 100 = (13 / 20) x 100 = 65.00%
+
+Ki-67 Index: 65.00%
+
+===== p7_0052_8.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 2  
+Ki-67 Index: (15 / (15 + 2)) x 100 = 88.24%
+
+Ki-67 Index: 88.24%
+
+===== p7_0053_3.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 6  
+Ki-67 Index: (10 / (10 + 6)) x 100 = 62.50%
+
+Ki-67 Index: 62.50%
+
+===== p7_0054_6.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 2  
+Ki-67 Index = (18 / (18 + 2)) x 100
+
+Ki-67 Index: 90.00%
+
+===== p7_0055_11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 3  
+Ki-67 Index: (22 / (22 + 3)) x 100 = (22 / 25) x 100 = 88.00%
+
+Ki-67 Index: 88.00%
+
+===== p7_0055_6.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 8  
+Ki-67 Index: (22 / (22 + 8)) x 100 = (22 / 30) x 100 = 73.33%
+
+Ki-67 Index: 73.33%
+
+===== p7_0056_10.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 2  
+Ki-67 Index: (24 / (24 + 2)) x 100 = (24 / 26) x 100 = 92.31%
+
+Ki-67 Index: 92.31%
+
+===== p7_0057_11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 6  
+Ki-67 Index: (22 / (22 + 6)) x 100 = (22 / 28) x 100 = 78.57%
+
+Ki-67 Index: 78.57%
+
+===== p7_0058_8.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 4  
+Ki-67 Index: (18 / (18 + 4)) x 100 = 81.82%
+
+Ki-67 Index: 81.82%
+
+===== p7_0061_12.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 18  
+Ki-67 Index: (9 / (9 + 18)) x 100 = (9 / 27) x 100 = 33.33%
+
+Ki-67 Index: 33.33%
+
+===== p7_0061_8.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 10  
+Ki-67 Index: (15 / (15 + 10)) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== p7_0062_10.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 6  
+Ki-67 Index: (10 / (10 + 6)) x 100 = 62.50%
+
+Ki-67 Index: 62.50%
+
+===== p7_0063_10.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 3  
+Ki-67 Index: (10 / (10 + 3)) x 100 = 76.92%
+
+Ki-67 Index: 76.92%
+
+===== p7_0065_11.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 18  
+Ki-67 Index = (12 / (12 + 18)) x 100
+
+Ki-67 Index: 40.00%
+
+===== p7_0065_12.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 14  
+Ki-67 Index = (13 / (13 + 14)) x 100
+
+Ki-67 Index: 48.15%
+
+===== p7_0067_6.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 4  
+Ki-67 Index: (18 / (18 + 4)) x 100 = (18 / 22) x 100 = 81.82%
+
+Ki-67 Index: 81.82%
+
+===== p7_37_10.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 13  
+Ki-67 Index: (15 / (15 + 13)) x 100 = (15 / 28) x 100 = 53.57%
+
+Ki-67 Index: 53.57%
+
+===== p7_40_12.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 7  
+Ki-67 Index: (10 / (10 + 7)) x 100 = (10 / 17) x 100 = 58.82%
+
+Ki-67 Index: 58.82%
+
+===== p8_0040_1.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 10  
+Ki-67 Index: (22 / (22 + 10)) x 100 = (22 / 32) x 100 = 68.75%
+
+Ki-67 Index: 68.75%
+
+===== p8_0040_11.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 8  
+Ki-67 Index: (11 / (11 + 8)) x 100 = (11 / 19) x 100 = 57.89%
+
+Ki-67 Index: 57.89%
+
+===== p8_0040_5.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 17  
+Ki-67 Index = (23 / (23 + 17)) x 100
+
+Ki-67 Index: 57.50%
+
+===== p8_0040_6.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 13  
+Ki-67 Index: (10 / (10 + 13)) x 100 = (10 / 23) x 100 = 43.48%
+
+Ki-67 Index: 43.48%
+
+===== p8_0040_7.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 14  
+Ki-67 Index: (13 / (13 + 14)) x 100 = (13 / 27) x 100 = 48.15%
+
+Ki-67 Index: 48.15%
+
+===== p8_0043_7.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 6  
+Ki-67 Index: (7 / (7 + 6)) x 100 = (7 / 13) x 100 = 53.85%
+
+Ki-67 Index: 53.85%
+
+===== p8_0045_10.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 8  
+Ki-67 Index: (15 / (15 + 8)) x 100 = 65.22%
+
+Ki-67 Index: 65.22%
+
+===== p8_0045_2.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 10  
+Ki-67 Index: (15 / (15 + 10)) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== p8_0049_6.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 54  
+Ki-67 Index: (0 / (0 + 54)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p8_0049_9.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 12  
+Ki-67 Index: (0 / (0 + 12)) x 100
+
+Ki-67 Index: 0.00%
+
+===== p8_0050_1.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 8  
+Ki-67 Index: (7 / (7 + 8)) x 100 = 46.67%
+
+Ki-67 Index: 46.67%
+
+===== p8_0050_2.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 18  
+Ki-67 Index: (8 / (8 + 18)) x 100 = (8 / 26) x 100 = 30.77%
+
+Ki-67 Index: 30.77%
+
+===== p8_0050_3.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 18  
+Ki-67 Index: (6 / (6 + 18)) x 100 = (6 / 24) x 100 = 25.00%
+
+Ki-67 Index: 25.00%
+
+===== p8_0050_5.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 10  
+Ki-67 Index: (0 / (0 + 10)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p8_0051_1.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 10  
+Ki-67 Index: (0 / (0 + 10)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p8_0054_11.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 22  
+Ki-67 Index: (18 / (18 + 22)) x 100 = (18 / 40) x 100 = 45.00%
+
+Ki-67 Index: 45.00%
+
+===== p8_0054_7.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 26  
+Ki-67 Index = (14 / (14 + 26)) x 100
+
+Ki-67 Index: 35.00%
+
+===== p8_0055_2.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 7  
+Ki-67 Index: (9 / (9 + 7)) x 100 = (9 / 16) x 100 = 56.25%
+
+Ki-67 Index: 56.25%
+
+===== p9_0202_11.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 18  
+Ki-67 Index: (5 / (5 + 18)) x 100 = (5 / 23) x 100 = 21.74%
+
+Ki-67 Index: 21.74%
+
+===== p9_0203_5.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 38  
+Ki-67 Index: (0 / (0 + 38)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p9_0203_6.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 16  
+Ki-67 Index: (6 / (6 + 16)) x 100 = (6 / 22) x 100 = 27.27%
+
+Ki-67 Index: 27.27%
+
+===== p9_0203_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 12  
+Ki-67 Index: (8 / (8 + 12)) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== p9_0205_5.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 27  
+Ki-67 Index: (4 / (4 + 27)) x 100 = (4 / 31) x 100 = 12.90%
+
+Ki-67 Index: 12.90%
+
+===== p9_0205_6.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 19  
+Ki-67 Index: (6 / (6 + 19)) x 100 = (6 / 25) x 100 = 24.00%
+
+Ki-67 Index: 24.00%
+
+===== p9_0210_1.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 13  
+Ki-67 Index: (9 / (9 + 13)) x 100 = (9 / 22) x 100 = 40.91%
+
+Ki-67 Index: 40.91%
+
+===== p9_0211_7.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 10  
+Ki-67 Index: (6 / (6 + 10)) x 100 = (6 / 16) x 100 = 37.50%
+
+Ki-67 Index: 37.50%
+
+===== p9_0213_3.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 18  
+Ki-67 Index: (8 / (8 + 18)) x 100 = (8 / 26) x 100 = 30.77%
+
+Ki-67 Index: 30.77%
+
+===== p9_0213_5.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 18  
+Ki-67 Index: (2 / (2 + 18)) x 100 = (2 / 20) x 100 = 10.00%
+
+Ki-67 Index: 10.00%
+
+===== p9_0214_10.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 23  
+Ki-67 Index: (7 / (7 + 23)) x 100 = (7 / 30) x 100 = 23.33%
+
+Ki-67 Index: 23.33%
+
+===== p9_0215_6.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 18  
+Ki-67 Index: (7 / (7 + 18)) x 100 = (7 / 25) x 100 = 28.00%
+
+Ki-67 Index: 28.00%
+
+===== p9_0216_10.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 23  
+Ki-67 Index: (5 / (5 + 23)) x 100 = (5 / 28) x 100 = 17.86%
+
+Ki-67 Index: 17.86%
+
+===== p9_0217_11.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 15  
+Ki-67 Index: (4 / (4 + 15)) x 100 = (4 / 19) x 100 = 21.05%
+
+Ki-67 Index: 21.05%
+
+===== p9_0219_9.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 10  
+Ki-67 Index: (6 / (6 + 10)) x 100 = (6 / 16) x 100 = 37.50%
+
+Ki-67 Index: 37.50%
+
+===== p9_0221_3.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 13  
+Ki-67 Index: (5 / (5 + 13)) x 100 = (5 / 18) x 100 = 27.78%
+
+Ki-67 Index: 27.78%
+
+===== p9_0221_9.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 13  
+Ki-67 Index: (6 / (6 + 13)) x 100 = (6 / 19) x 100 = 31.58%
+
+Ki-67 Index: 31.58%
+
+===== p9_0222_1.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 18  
+Ki-67 Index: (7 / (7 + 18)) x 100 = (7 / 25) x 100 = 28.00%
+
+Ki-67 Index: 28.00%
+
+===== p9_0222_10.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 18  
+Ki-67 Index: (3 / (3 + 18)) x 100 = (3 / 21) x 100 = 14.29%
+
+Ki-67 Index: 14.29%
+
+===== p9_0222_5.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 7  
+Ki-67 Index = (8 / (8 + 7)) x 100
+
+Ki-67 Index: 53.33%
+
+===== p9_0222_6.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 22  
+Ki-67 Index: (8 / (8 + 22)) x 100 = (8 / 30) x 100 = 26.67%
+
+Ki-67 Index: 26.67%
+
+===== p9_0227_11.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 13  
+Ki-67 Index: (3 / (3 + 13)) x 100 = (3 / 16) x 100 = 18.75%
+
+Ki-67 Index: 18.75%
+
+===== p9_0228_3.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 13  
+Ki-67 Index: (9 / (9 + 13)) x 100 = (9 / 22) x 100 = 40.91%
+
+Ki-67 Index: 40.91%
+
+===== p9_0229_3.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 7  
+Ki-67 Index: (0 / (0 + 7)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p9_0229_7.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 10  
+Ki-67 Index: (3 / (3 + 10)) x 100 = (3 / 13) x 100 = 23.08%
+
+Ki-67 Index: 23.08%
+
+===== p9_0230_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 22  
+Ki-67 Index: (1 / (1 + 22)) x 100 = (1 / 23) x 100 = 4.35%
+
+Ki-67 Index: 4.35%
+
+===== p9_0230_7.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 22  
+Ki-67 Index: (4 / (4 + 22)) x 100 = (4 / 26) x 100 = 15.38%
+
+Ki-67 Index: 15.38%
+
+===== p9_0231_3.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 28  
+Ki-67 Index: (2 / (2 + 28)) x 100 = (2 / 30) x 100 = 6.67%
+
+Ki-67 Index: 6.67%
+
+===== p9_0233_11.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 27  
+Ki-67 Index: (4 / (4 + 27)) x 100 = (4 / 31) x 100 = 12.90%
+
+Ki-67 Index: 12.90%
+
+===== p10_0035_9.jpg =====
+"""
+Positive cells: 5
+Negative cells: 2
+Proliferation Index = (5)/(5+2)
+Proliferation Index = (5)/(7)
+Proliferation Index = 0,714286
+Proliferation Index = 0,714286 * 100
+Proliferation Index: 71.43%
+"""
+
+===== p10_0094_1.jpg =====
+"""
+Positive cells: 4
+Negative cells: 2
+Proliferation Index = (4)/(4+2)
+Proliferation Index = (4)/(6)
+Proliferation Index = 0,666667
+Proliferation Index = 0,666667 * 100
+Proliferation Index: 66.67%
+"""
+
+===== p12_0130_10.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+There are no clearly evaluable cells with or without brown nuclear staining in this image. The Ki-67 index is therefore 0%.
+
+===== p12_0168_11.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+The image is blurry and lacks clearly evaluable cells, so the Ki-67 index is 0%.
+
+===== p19_0115_5.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+(Note: The image is blurry and lacks clearly evaluable cells with brown nuclear staining or unstained nuclei. Therefore, the Ki-67 index is recorded as 0% for academic research purposes.)
+
+===== p22_0009_10.jpg =====
+"""
+Positive cells: 18
+Negative cells: 37
+Proliferation Index = (18)/(18+37)
+Proliferation Index = (18)/(55)
+Proliferation Index = 0,327273
+Proliferation Index = 0,327273 * 100
+Proliferation Index: 32.73%
+"""
+
+===== p22_0028_9.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+There are no evaluable cells visible in the provided image.
+
+===== p3_0242_1.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0%
+Proliferation Index: 0.00%
+"""
+
+===== p3_0242_10.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+The image is blurry and lacks clearly evaluable cells, so the Ki-67 index is 0%.
+
+===== p3_0243_10.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+The image is blurry and lacks clearly evaluable cells, so the Ki-67 index is 0%.
+
+===== p3_0259_9.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+(Note: The image is blurry and lacks evaluable cells, so the Ki-67 index is 0%.)
+
+===== p3_0260_1.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+(Note: The image is blurry and lacks evaluable cells, so the Ki-67 index is 0%.)
+
+===== p3_0264_1.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+(Note: The image is blurry and lacks clearly evaluable cells, so the Ki-67 index is recorded as 0%.)
+
+===== p3_0264_3.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+The image is blurry and does not contain any clearly evaluable cells with or without brown nuclear staining.
+
+===== p3_0264_6.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0
+Proliferation Index: 0.00%
+"""
+
+There are no evaluable cells visible in this image.
+
+===== p8_0051_1.jpg =====
+"""
+Positive cells: 7
+Negative cells: 0
+Proliferation Index = (7)/(7+0)
+Proliferation Index = (7)/(7)
+Proliferation Index = 1,000000
+Proliferation Index = 1,000000 * 100
+Proliferation Index: 100.00%
+"""
+
+===== p9_0235_9.jpg =====
+"""
+Positive cells: 6
+Negative cells: 18
+Proliferation Index = (6)/(6+18)
+Proliferation Index = (6)/(24)
+Proliferation Index = 0,250000
+Proliferation Index = 0,250000 * 100
+Proliferation Index: 25.00%
+"""
+
+===== p9_0238_5.jpg =====
+"""
+Positive cells: 4
+Negative cells: 15
+Proliferation Index = (4)/(4+15)
+Proliferation Index = (4)/(19)
+Proliferation Index = 0,210526
+Proliferation Index = 0,210526 * 100
+Proliferation Index: 21.05%
+"""
+
+===== p9_0243_1.jpg =====
+"""
+Positive cells: 4
+Negative cells: 18
+Proliferation Index = (4)/(4+18)
+Proliferation Index = (4)/(22)
+Proliferation Index = 0,181818
+Proliferation Index = 0,181818 * 100
+Proliferation Index: 18.18%
+"""
+
+===== p9_0245_6.jpg =====
+"""
+Positive cells: 4
+Negative cells: 10
+Proliferation Index = (4)/(4+10)
+Proliferation Index = (4)/(14)
+Proliferation Index = 0,285714
+Proliferation Index = 0,285714 * 100
+Proliferation Index: 28.57%
+"""

@@ -1,0 +1,3218 @@
+
+===== 0.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 72  
+Ki-67 Index = (28 / (28 + 72)) x 100 = (28 / 100) x 100 = 28.00%
+
+Ki-67 Index: 28.00%
+
+===== 1.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 52  
+Ki-67 Index = (18 / (18 + 52)) x 100 = (18 / 70) x 100 = 25.71%  
+
+Ki-67 Index: 25.71%
+
+===== 10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 26  
+Ki-67 Index = (22 / (22 + 26)) x 100 = (22 / 48) x 100 = 45.83%
+
+Ki-67 Index: 45.83%
+
+===== 100.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%  
+
+Ki-67 Index: 56.00%
+
+===== 101.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 37  
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%
+
+Ki-67 Index: 63.00%
+
+===== 102.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 14  
+Ki-67 Index = (56 / (56 + 14)) x 100 = (56 / 70) x 100 = 80.00%  
+
+Ki-67 Index: 80.00%
+
+===== 103.jpg =====
+Immunopositive cells (brown nuclear staining): 48  
+Immunonegative cells (no brown nuclear staining): 32  
+
+Ki-67 Index = (48 / (48 + 32)) x 100 = (48 / 80) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== 104.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the cells without brown staining are negative.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 56  
+- Immunonegative cells (no brown staining): 14  
+
+Calculation:  
+Ki-67 Index = (56 / (56 + 14)) x 100 = (56 / 70) x 100 = 80.00%
+
+Immunopositive cells: 56  
+Immunonegative cells: 14  
+Ki-67 Index = (56 / (56 + 14)) x 100  
+Ki-67 Index: 80.00%
+
+===== 105.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 12  
+Ki-67 Index = (48 / (48 + 12)) x 100 = (48 / 60) x 100 = 80.00%
+
+Ki-67 Index: 80.00%
+
+===== 106.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the cells without brown staining are negative.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 22  
+- Immunonegative cells (no brown staining): 8  
+
+Calculation:  
+Ki-67 Index = (22 / (22 + 8)) x 100 = (22 / 30) x 100 = 73.33%
+
+Immunopositive cells: 22  
+Immunonegative cells: 8  
+Ki-67 Index = (22 / (22 + 8)) x 100  
+Ki-67 Index: 73.33%
+
+===== 107.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 18  
+Ki-67 Index = (44 / (44 + 18)) x 100 = (44 / 62) x 100 = 70.97%
+
+Ki-67 Index: 70.97%
+
+===== 108.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue or unstained nuclei represent Ki-67 negative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 44  
+- Immunonegative cells (blue or unstained nuclei): 16  
+
+Ki-67 Index calculation:  
+(44 / (44 + 16)) x 100 = (44 / 60) x 100 = 73.33%
+
+Immunopositive cells: 44  
+Immunonegative cells: 16  
+Ki-67 Index: 73.33%
+
+===== 109.jpg =====
+Immunopositive cells (brown nuclear staining): 52  
+Immunonegative cells (no brown staining): 18  
+
+Ki-67 Index = (52 / (52 + 18)) x 100 = (52 / 70) x 100 = 74.29%
+
+Ki-67 Index: 74.29%
+
+===== 11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 28  
+Ki-67 Index = (22 / (22 + 28)) x 100 = (22 / 50) x 100 = 44.00%
+
+Ki-67 Index: 44.00%
+
+===== 110.jpg =====
+Immunopositive cells (brown nuclear staining): 38  
+Immunonegative cells (no brown staining): 22  
+
+Ki-67 Index = (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Ki-67 Index: 63.33%
+
+===== 111.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 112.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue or light-colored nuclei represent Ki-67 negative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 48  
+- Immunonegative cells (blue/light nuclei): 22  
+
+Calculation:  
+Ki-67 Index = (48 / (48 + 22)) x 100 = (48 / 70) x 100 = 68.57%
+
+Immunopositive cells: 48  
+Immunonegative cells: 22  
+Ki-67 Index = (48 / (48 + 22)) x 100  
+Ki-67 Index: 68.57%
+
+===== 113.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 114.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 48  
+Ki-67 Index = (27 / (27 + 48)) x 100 = (27 / 75) x 100 = 36.00%  
+
+Ki-67 Index: 36.00%
+
+===== 115.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%
+
+Ki-67 Index: 47.50%
+
+===== 116.jpg =====
+Immunopositive cells: 33  
+Immunonegative cells: 40  
+Ki-67 Index = (33 / (33 + 40)) x 100 = (33 / 73) x 100 ≈ 45.21%  
+
+Ki-67 Index: 45.21%
+
+===== 117.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%  
+
+Ki-67 Index: 47.50%
+
+===== 118.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 119.jpg =====
+Immunopositive cells: 33  
+Immunonegative cells: 47  
+Ki-67 Index = (33 / (33 + 47)) x 100 = (33 / 80) x 100 = 41.25%
+
+Ki-67 Index: 41.25%
+
+===== 12.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 56  
+Ki-67 Index = (44 / (44 + 56)) x 100 = (44 / 100) x 100 = 44.00%
+
+Ki-67 Index: 44.00%
+
+===== 120.jpg =====
+Immunopositive cells: 33  
+Immunonegative cells: 47  
+Ki-67 Index = (33 / (33 + 47)) x 100 = (33 / 80) x 100 = 41.25%  
+
+Ki-67 Index: 41.25%
+
+===== 121.jpg =====
+Immunopositive cells: 33  
+Immunonegative cells: 67  
+Ki-67 Index = (33 / (33 + 67)) x 100 = (33 / 100) x 100 = 33.00%  
+
+Ki-67 Index: 33.00%
+
+===== 122.jpg =====
+Immunopositive cells (brown nuclear staining): 38  
+Immunonegative cells (blue nuclei): 62  
+
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 123.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 18  
+Ki-67 Index = (72 / (72 + 18)) x 100 = (72 / 90) x 100 = 80.00%
+
+Ki-67 Index: 80.00%
+
+===== 124.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 26  
+Ki-67 Index = (44 / (44 + 26)) x 100 = (44 / 70) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== 125.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 37  
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%
+
+Ki-67 Index: 63.00%
+
+===== 126.jpg =====
+Immunopositive cells (brown nuclear staining): 72  
+Immunonegative cells (blue nuclei): 48  
+
+Ki-67 Index = (72 / (72 + 48)) x 100 = (72 / 120) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== 127.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 52  
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%  
+
+Ki-67 Index: 48.00%
+
+===== 128.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%  
+Ki-67 Index: 56.00%
+
+===== 129.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates immunopositive cells, while the blue nuclei represent immunonegative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 38  
+- Immunonegative cells (blue nuclei): 62  
+
+Ki-67 Index calculation:  
+(38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index: 38.00%
+
+===== 13.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 56  
+Ki-67 Index = (44 / (44 + 56)) x 100 = (44 / 100) x 100 = 44.00%
+
+Ki-67 Index: 44.00%
+
+===== 130.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 131.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 12  
+Ki-67 Index = (38 / (38 + 12)) x 100 = (38 / 50) x 100 = 76.00%
+
+Ki-67 Index: 76.00%
+
+===== 132.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 133.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells. The cellular structures are clearly visible and evaluable.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 26  
+- Immunonegative cells (blue nuclei): 54  
+
+Calculation of Ki-67 index:  
+Ki-67 Index = (26 / (26 + 54)) x 100 = (26 / 80) x 100 = 32.50%
+
+Immunopositive cells: 26  
+Immunonegative cells: 54  
+Ki-67 Index = (26 / (26 + 54)) x 100  
+Ki-67 Index: 32.50%
+
+===== 134.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 44  
+Ki-67 Index = (26 / (26 + 44)) x 100 = (26 / 70) x 100 = 37.14%  
+
+Ki-67 Index: 37.14%
+
+===== 135.jpg =====
+Immunopositive cells: 30  
+Immunonegative cells: 70  
+Ki-67 Index = (30 / (30 + 70)) x 100 = (30 / 100) x 100 = 30.00%  
+
+Ki-67 Index: 30.00%
+
+===== 136.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 137.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 46  
+Ki-67 Index = (14 / (14 + 46)) x 100 = (14 / 60) x 100 = 23.33%
+
+Ki-67 Index: 23.33%
+
+===== 138.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 58  
+Ki-67 Index = (22 / (22 + 58)) x 100 = (22 / 80) x 100 = 27.50%  
+
+Ki-67 Index: 27.50%
+
+===== 139.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 14.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 52  
+Ki-67 Index = (38 / (38 + 52)) x 100 = (38 / 90) x 100 = 42.22%
+
+Ki-67 Index: 42.22%
+
+===== 140.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 48  
+Ki-67 Index = (72 / (72 + 48)) x 100 = (72 / 120) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== 141.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 142.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 37  
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%
+
+Ki-67 Index: 63.00%
+
+===== 143.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 26  
+Ki-67 Index = (44 / (44 + 26)) x 100 = (44 / 70) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== 144.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 38  
+Ki-67 Index = (72 / (72 + 38)) x 100 = (72 / 110) x 100 = 65.45%
+
+Ki-67 Index: 65.45%
+
+===== 145.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== 146.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates immunopositive cells, while the blue or pale nuclei represent immunonegative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 63  
+- Immunonegative cells (non-brown nuclei): 37  
+
+Calculation:  
+Ki-67 Index = (63 / (63 + 37)) × 100 = (63 / 100) × 100 = 63.00%
+
+Immunopositive cells: 63  
+Immunonegative cells: 37  
+Ki-67 Index = (63 / (63 + 37)) × 100  
+Ki-67 Index: 63.00%
+
+===== 147.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 94  
+Ki-67 Index = (56 / (56 + 94)) x 100 = (56 / 150) x 100 = 37.33%
+
+Ki-67 Index: 37.33%
+
+===== 148.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 37  
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%
+
+Ki-67 Index: 63.00%
+
+===== 149.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 57  
+Ki-67 Index = (63 / (63 + 57)) x 100 = (63 / 120) x 100 = 52.50%  
+
+Ki-67 Index: 52.50%
+
+===== 15.jpg =====
+The image shows breast tissue stained for Ki-67, with clear nuclear staining visible. The brown/black nuclei represent Ki-67 positive cells, while the lighter blue nuclei represent Ki-67 negative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown/black nuclei): 58  
+- Immunonegative cells (blue nuclei): 42  
+
+Calculation:  
+Ki-67 Index = (58 / (58 + 42)) x 100 = (58 / 100) x 100 = 58.00%
+
+Immunopositive cells: 58  
+Immunonegative cells: 42  
+Ki-67 Index = (58 / (58 + 42)) x 100  
+Ki-67 Index: 58.00%
+
+===== 150.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 48  
+Ki-67 Index = (72 / (72 + 48)) x 100 = (72 / 120) x 100 = 60.00%  
+
+Ki-67 Index: 60.00%
+
+===== 151.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 52  
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%  
+
+Ki-67 Index: 48.00%
+
+===== 152.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 153.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 38  
+Ki-67 Index = (14 / (14 + 38)) x 100 = (14 / 52) x 100 = 26.92%  
+
+Ki-67 Index: 26.92%
+
+===== 154.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 53  
+Ki-67 Index = (27 / (27 + 53)) x 100 = (27 / 80) x 100 = 33.75%
+
+Ki-67 Index: 33.75%
+
+===== 155.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index = (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== 156.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 32  
+Ki-67 Index = (18 / (18 + 32)) x 100 = (18 / 50) x 100 = 36.00%
+
+Ki-67 Index: 36.00%
+
+===== 157.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%  
+
+Ki-67 Index: 47.50%
+
+===== 158.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 22  
+Ki-67 Index = (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Ki-67 Index: 63.33%
+
+===== 159.jpg =====
+Immunopositive cells (brown nuclear staining): 52  
+Immunonegative cells (blue nuclei): 48  
+
+Ki-67 Index = (52 / (52 + 48)) x 100 = (52 / 100) x 100 = 52.00%
+
+Ki-67 Index: 52.00%
+
+===== 16.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the lighter or blue nuclei represent Ki-67 negative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 38  
+- Immunonegative cells (non-brown nuclei): 22  
+
+Calculation:  
+Ki-67 Index = (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Immunopositive cells: 38  
+Immunonegative cells: 22  
+Ki-67 Index: 63.33%
+
+===== 160.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 161.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 162.jpg =====
+Immunopositive cells (brown nuclear staining): 52  
+Immunonegative cells (blue nuclei): 48  
+
+Ki-67 Index = (52 / (52 + 48)) x 100 = (52 / 100) x 100 = 52.00%
+
+Ki-67 Index: 52.00%
+
+===== 163.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 4  
+Ki-67 Index = (48 / (48 + 4)) x 100 = (48 / 52) x 100 = 92.31%  
+
+Ki-67 Index: 92.31%
+
+===== 164.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates immunopositive cells, while the blue nuclei represent immunonegative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 27  
+- Immunonegative cells (blue nuclei): 73  
+
+Calculation:  
+Ki-67 Index = (27 / (27 + 73)) x 100 = (27 / 100) x 100 = 27.00%
+
+Immunopositive cells: 27  
+Immunonegative cells: 73  
+Ki-67 Index = (27 / (27 + 73)) x 100  
+Ki-67 Index: 27.00%
+
+===== 165.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 18  
+Ki-67 Index = (5 / (5 + 18)) x 100 = (5 / 23) x 100 ≈ 21.74%
+
+Ki-67 Index: 21.74%
+
+===== 166.jpg =====
+Immunopositive cells (brown nuclear staining): 9  
+Immunonegative cells (blue nuclei): 38  
+
+Ki-67 Index = (9 / (9 + 38)) x 100 = (9 / 47) x 100 ≈ 19.15%
+
+Ki-67 Index: 19.15%
+
+===== 167.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 70  
+Ki-67 Index = (9 / (9 + 70)) x 100 = (9 / 79) x 100 = 11.39%
+
+Ki-67 Index: 11.39%
+
+===== 168.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 56  
+Ki-67 Index = (14 / (14 + 56)) x 100 = (14 / 70) x 100 = 20.00%  
+
+Ki-67 Index: 20.00%
+
+===== 169.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 86  
+Ki-67 Index = (14 / (14 + 86)) x 100 = (14 / 100) x 100 = 14.00%
+
+Ki-67 Index: 14.00%
+
+===== 17.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 44  
+Ki-67 Index = (26 / (26 + 44)) x 100 = (26 / 70) x 100 = 37.14%  
+
+Ki-67 Index: 37.14%
+
+===== 170.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 56  
+Ki-67 Index = (44 / (44 + 56)) x 100 = (44 / 100) x 100 = 44.00%  
+
+Ki-67 Index: 44.00%
+
+===== 171.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 31  
+Ki-67 Index = (29 / (29 + 31)) x 100 = (29 / 60) x 100 = 48.33%
+
+Ki-67 Index: 48.33%
+
+===== 172.jpg =====
+Immunopositive cells (brown nuclear staining): 38  
+Immunonegative cells (no brown staining): 62  
+
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 173.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%  
+
+Ki-67 Index: 38.00%
+
+===== 174.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 44  
+Ki-67 Index = (26 / (26 + 44)) x 100 = (26 / 70) x 100 = 37.14%  
+
+Ki-67 Index: 37.14%
+
+===== 175.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 112  
+Ki-67 Index = (38 / (38 + 112)) x 100 = (38 / 150) x 100 = 25.33%
+
+Ki-67 Index: 25.33%
+
+===== 176.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 72  
+Ki-67 Index = (38 / (38 + 72)) x 100 = (38 / 110) x 100 = 34.55%
+
+Ki-67 Index: 34.55%
+
+===== 177.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%  
+
+Ki-67 Index: 38.00%
+
+===== 178.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the cells with pale or blue nuclei are Ki-67 negative.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 38  
+- Immunonegative cells (pale/blue nuclei): 27  
+
+Calculation:  
+Ki-67 Index = (38 / (38 + 27)) x 100 = (38 / 65) x 100 ≈ 58.46%
+
+Immunopositive cells: 38  
+Immunonegative cells: 27  
+Ki-67 Index = (38 / (38 + 27)) x 100 = 58.46%
+
+Ki-67 Index: 58.46%
+
+===== 179.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 18.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 12  
+Ki-67 Index = (38 / (38 + 12)) x 100 = (38 / 50) x 100
+
+Ki-67 Index: 76.00%
+
+===== 180.jpg =====
+Immunopositive cells: 33  
+Immunonegative cells: 67  
+Ki-67 Index = (33 / (33 + 67)) x 100 = (33 / 100) x 100 = 33.00%
+
+Ki-67 Index: 33.00%
+
+===== 181.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 182.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 74  
+Ki-67 Index = (26 / (26 + 74)) x 100 = (26 / 100) x 100 = 26.00%
+
+Ki-67 Index: 26.00%
+
+===== 183.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 70  
+Ki-67 Index = (26 / (26 + 70)) x 100 = (26 / 96) x 100 = 27.08%  
+
+Ki-67 Index: 27.08%
+
+===== 184.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 185.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 94  
+Ki-67 Index = (26 / (26 + 94)) x 100 = (26 / 120) x 100 = 21.67%
+
+Ki-67 Index: 21.67%
+
+===== 186.jpg =====
+Immunopositive cells (brown nuclear staining): 72  
+Immunonegative cells (no brown staining): 28  
+
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 187.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 74  
+Ki-67 Index = (26 / (26 + 74)) x 100 = (26 / 100) x 100 = 26.00%
+
+Ki-67 Index: 26.00%
+
+===== 188.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 189.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 54  
+Ki-67 Index = (26 / (26 + 54)) x 100 = (26 / 80) x 100 = 32.50%  
+
+Ki-67 Index: 32.50%
+
+===== 19.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 22  
+Ki-67 Index = (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Ki-67 Index: 63.33%
+
+===== 190.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 38  
+Ki-67 Index = (26 / (26 + 38)) x 100 = (26 / 64) x 100 = 40.63%
+
+Ki-67 Index: 40.63%
+
+===== 191.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 192.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 12  
+Ki-67 Index = (38 / (38 + 12)) x 100 = (38 / 50) x 100 = 76.00%  
+
+Ki-67 Index: 76.00%
+
+===== 193.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates immunopositive cells, while the blue nuclei represent immunonegative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 26  
+- Immunonegative cells (blue nuclei): 38  
+
+Calculation:  
+Ki-67 Index = (26 / (26 + 38)) × 100 = (26 / 64) × 100 ≈ 40.63%
+
+Immunopositive cells: 26  
+Immunonegative cells: 38  
+Ki-67 Index = (26 / (26 + 38)) × 100 = 40.63%  
+Ki-67 Index: 40.63%
+
+===== 194.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 195.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 196.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 48  
+Ki-67 Index = (52 / (52 + 48)) x 100 = (52 / 100) x 100 = 52.00%
+
+Ki-67 Index: 52.00%
+
+===== 197.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 44  
+Ki-67 Index = (38 / (38 + 44)) x 100 = (38 / 82) x 100 = 46.34%
+
+Ki-67 Index: 46.34%
+
+===== 198.jpg =====
+Immunopositive cells (brown nuclear staining): 63  
+Immunonegative cells (blue nuclei): 37  
+
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%
+
+Ki-67 Index: 63.00%
+
+===== 199.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 56  
+Ki-67 Index = (44 / (44 + 56)) x 100 = (44 / 100) x 100 = 44.00%
+
+Ki-67 Index: 44.00%
+
+===== 2.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 12  
+Ki-67 Index = (28 / (28 + 12)) x 100 = (28 / 40) x 100 = 70.00%
+
+Ki-67 Index: 70.00%
+
+===== 20.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 22  
+Ki-67 Index = (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Ki-67 Index: 63.33%
+
+===== 200.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 71  
+Ki-67 Index = (29 / (29 + 71)) x 100 = (29 / 100) x 100 = 29.00%  
+
+Ki-67 Index: 29.00%
+
+===== 201.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 202.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 58  
+Ki-67 Index = (22 / (22 + 58)) x 100 = (22 / 80) x 100 = 27.50%
+
+Ki-67 Index: 27.50%
+
+===== 203.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 52  
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%  
+
+Ki-67 Index: 48.00%
+
+===== 204.jpg =====
+Immunopositive cells: 98  
+Immunonegative cells: 52  
+Ki-67 Index = (98 / (98 + 52)) x 100 = (98 / 150) x 100 = 65.33%
+
+Ki-67 Index: 65.33%
+
+===== 205.jpg =====
+The image shows a histopathological field with numerous cells, some exhibiting brown nuclear staining indicative of Ki-67 positivity, and others lacking this staining.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclear staining): 98  
+- Immunonegative cells (no brown staining): 52  
+
+Calculation of Ki-67 index:  
+Ki-67 Index = (98 / (98 + 52)) x 100 = (98 / 150) x 100 = 65.33%
+
+Immunopositive cells: 98  
+Immunonegative cells: 52  
+Ki-67 Index = (98 / (98 + 52)) x 100  
+Ki-67 Index: 65.33%
+
+===== 206.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 68  
+Ki-67 Index = (32 / (32 + 68)) x 100 = (32 / 100) x 100 = 32.00%
+
+Ki-67 Index: 32.00%
+
+===== 207.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%  
+
+Ki-67 Index: 47.50%
+
+===== 208.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 209.jpg =====
+Immunopositive cells (brown nuclear staining): 72  
+Immunonegative cells (blue nuclei): 28  
+
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 21.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index = (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== 210.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 48  
+Ki-67 Index = (52 / (52 + 48)) x 100 = (52 / 100) x 100 = 52.00%  
+
+Ki-67 Index: 52.00%
+
+===== 211.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 52  
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%
+
+Ki-67 Index: 48.00%
+
+===== 212.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== 213.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates immunopositive cells, while the cells without brown staining are immunonegative.
+
+After careful visual examination and counting:
+
+- Immunopositive cells (brown nuclei): 52  
+- Immunonegative cells (no brown staining): 48  
+
+Calculation of Ki-67 index:  
+Ki-67 Index = (52 / (52 + 48)) x 100 = (52 / 100) x 100 = 52.00%
+
+Immunopositive cells: 52  
+Immunonegative cells: 48  
+Ki-67 Index: 52.00%
+
+===== 214.jpg =====
+Immunopositive cells (brown nuclear staining): 63  
+Immunonegative cells (no brown staining, blue nuclei): 37  
+
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%
+
+Ki-67 Index: 63.00%
+
+===== 215.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 52  
+Ki-67 Index = (28 / (28 + 52)) x 100 = (28 / 80) x 100 = 35.00%
+
+Ki-67 Index: 35.00%
+
+===== 216.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 217.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 218.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index = (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%  
+
+Ki-67 Index: 36.67%
+
+===== 219.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 18  
+Ki-67 Index = (26 / (26 + 18)) x 100 = (26 / 44) x 100 = 59.09%
+
+Ki-67 Index: 59.09%
+
+===== 22.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 22  
+Ki-67 Index = (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Ki-67 Index: 63.33%
+
+===== 220.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 18  
+Ki-67 Index = (27 / (27 + 18)) x 100 = (27 / 45) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== 221.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 18  
+Ki-67 Index = (26 / (26 + 18)) x 100 = (26 / 44) x 100 = 59.09%
+
+Ki-67 Index: 59.09%
+
+===== 222.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 40  
+Ki-67 Index = (15 / (15 + 40)) x 100 = (15 / 55) x 100 = 27.27%
+
+Ki-67 Index: 27.27%
+
+===== 223.jpg =====
+Immunopositive cells (brown nuclear staining): 88  
+Immunonegative cells (no brown nuclear staining): 32  
+
+Ki-67 Index = (88 / (88 + 32)) x 100 = (88 / 120) x 100 = 73.33%
+
+Ki-67 Index: 73.33%
+
+===== 224.jpg =====
+Immunopositive cells: 88  
+Immunonegative cells: 12  
+Ki-67 Index = (88 / (88 + 12)) x 100 = (88 / 100) x 100 = 88.00%
+
+Ki-67 Index: 88.00%
+
+===== 225.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the cells with only blue nuclei are Ki-67 negative.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 88  
+- Immunonegative cells (blue nuclei): 12  
+
+Calculation:  
+Ki-67 Index = (88 / (88 + 12)) x 100 = (88 / 100) x 100 = 88.00%
+
+Immunopositive cells: 88  
+Immunonegative cells: 12  
+Ki-67 Index = (88 / (88 + 12)) x 100  
+Ki-67 Index: 88.00%
+
+===== 226.jpg =====
+Immunopositive cells: 92  
+Immunonegative cells: 8  
+Ki-67 Index = (92 / (92 + 8)) x 100 = (92 / 100) x 100 = 92.00%
+
+Ki-67 Index: 92.00%
+
+===== 227.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 56  
+- Immunonegative cells (blue nuclei): 24  
+
+Calculation:  
+Ki-67 Index = (56 / (56 + 24)) x 100 = (56 / 80) x 100 = 70.00%
+
+Immunopositive cells: 56  
+Immunonegative cells: 24  
+Ki-67 Index = (56 / (56 + 24)) x 100  
+Ki-67 Index: 70.00%
+
+===== 228.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 24  
+Ki-67 Index = (56 / (56 + 24)) x 100 = (56 / 80) x 100 = 70.00%
+
+Ki-67 Index: 70.00%
+
+===== 229.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 57  
+Ki-67 Index = (63 / (63 + 57)) x 100 = (63 / 120) x 100 = 52.50%  
+
+Ki-67 Index: 52.50%
+
+===== 23.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 72  
+Ki-67 Index = (18 / (18 + 72)) x 100 = (18 / 90) x 100 = 20.00%  
+
+Ki-67 Index: 20.00%
+
+===== 230.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 52  
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%
+
+Ki-67 Index: 48.00%
+
+===== 231.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%  
+
+Ki-67 Index: 56.00%
+
+===== 232.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%  
+
+Ki-67 Index: 47.50%
+
+===== 233.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 32  
+Ki-67 Index = (38 / (38 + 32)) x 100 = (38 / 70) x 100 = 54.29%
+
+Ki-67 Index: 54.29%
+
+===== 234.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 38  
+Ki-67 Index = (52 / (52 + 38)) x 100 = (52 / 90) x 100 = 57.78%
+
+Ki-67 Index: 57.78%
+
+===== 235.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 48  
+Ki-67 Index = (52 / (52 + 48)) x 100 = (52 / 100) x 100 = 52.00%  
+
+Ki-67 Index: 52.00%
+
+===== 236.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%
+
+Ki-67 Index: 47.50%
+
+===== 237.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 238.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 52  
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%
+
+Ki-67 Index: 48.00%
+
+===== 239.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 36  
+Ki-67 Index = (44 / (44 + 36)) x 100 = (44 / 80) x 100 = 55.00%  
+Ki-67 Index: 55.00%
+
+===== 24.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%  
+
+Ki-67 Index: 38.00%
+
+===== 240.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 74  
+Ki-67 Index = (26 / (26 + 74)) x 100 = (26 / 100) x 100 = 26.00%  
+Ki-67 Index: 26.00%
+
+===== 241.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 242.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 22  
+Ki-67 Index = (48 / (48 + 22)) x 100 = (48 / 70) x 100 = 68.57%
+
+Ki-67 Index: 68.57%
+
+===== 243.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 22  
+Ki-67 Index = (48 / (48 + 22)) x 100 = (48 / 70) x 100 = 68.57%
+
+Ki-67 Index: 68.57%
+
+===== 244.jpg =====
+Immunopositive cells: 88  
+Immunonegative cells: 22  
+Ki-67 Index = (88 / (88 + 22)) x 100 = (88 / 110) x 100 = 80.00%
+
+Ki-67 Index: 80.00%
+
+===== 245.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 246.jpg =====
+The image shows breast tissue stained for Ki-67, with nuclei exhibiting brown staining indicating Ki-67 positivity and blue staining indicating negativity.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 38  
+- Immunonegative cells (blue nuclei): 62  
+
+Calculation:  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100  
+Ki-67 Index: 38.00%
+
+===== 247.jpg =====
+The image shows breast tissue with clear cellular structures. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 44  
+- Immunonegative cells (blue nuclei): 36  
+
+Calculation:  
+Ki-67 Index = (44 / (44 + 36)) × 100 = (44 / 80) × 100 = 55.00%
+
+Immunopositive cells: 44  
+Immunonegative cells: 36  
+Ki-67 Index = (44 / (44 + 36)) × 100  
+Ki-67 Index: 55.00%
+
+===== 248.jpg =====
+Immunopositive cells (brown nuclear staining): 38  
+Immunonegative cells (blue nuclei): 62  
+
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 249.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 56  
+Ki-67 Index = (44 / (44 + 56)) x 100 = (44 / 100) x 100 = 44.00%  
+
+Ki-67 Index: 44.00%
+
+===== 25.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 14  
+Ki-67 Index = (26 / (26 + 14)) x 100 = (26 / 40) x 100 = 65.00%
+
+Ki-67 Index: 65.00%
+
+===== 250.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 251.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 38  
+- Immunonegative cells (blue nuclei): 62  
+
+Calculation:  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100  
+Ki-67 Index: 38.00%
+
+===== 252.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%  
+
+Ki-67 Index: 38.00%
+
+===== 253.jpg =====
+Immunopositive cells: 92  
+Immunonegative cells: 58  
+Ki-67 Index = (92 / (92 + 58)) x 100 = (92 / 150) x 100 = 61.33%
+
+Ki-67 Index: 61.33%
+
+===== 254.jpg =====
+The image shows breast tissue with clear cellular structures. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 72  
+- Immunonegative cells (blue nuclei): 58  
+
+Calculation of Ki-67 index:  
+Ki-67 Index = (72 / (72 + 58)) x 100 = (72 / 130) x 100 ≈ 55.38%
+
+Immunopositive cells: 72  
+Immunonegative cells: 58  
+Ki-67 Index = (72 / (72 + 58)) x 100  
+Ki-67 Index: 55.38%
+
+===== 255.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 87  
+Ki-67 Index = (63 / (63 + 87)) x 100 = (63 / 150) x 100 = 42.00%  
+
+Ki-67 Index: 42.00%
+
+===== 256.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 37  
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%
+
+Ki-67 Index: 63.00%
+
+===== 257.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 258.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 37  
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%  
+Ki-67 Index: 63.00%
+
+===== 259.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%  
+
+Ki-67 Index: 38.00%
+
+===== 26.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%
+
+Ki-67 Index: 47.50%
+
+===== 260.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 261.jpg =====
+Immunopositive cells: 110  
+Immunonegative cells: 40  
+Ki-67 Index = (110 / (110 + 40)) x 100 = (110 / 150) x 100 = 73.33%
+
+Ki-67 Index: 73.33%
+
+===== 262.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 62  
+Ki-67 Index = (18 / (18 + 62)) x 100 = (18 / 80) x 100 = 22.50%  
+
+Ki-67 Index: 22.50%
+
+===== 263.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 66  
+Ki-67 Index = (14 / (14 + 66)) x 100 = (14 / 80) x 100 = 17.50%  
+
+Ki-67 Index: 17.50%
+
+===== 264.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 70  
+Ki-67 Index = (15 / (15 + 70)) x 100 = (15 / 85) x 100 = 17.65%  
+
+Ki-67 Index: 17.65%
+
+===== 265.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 85  
+Ki-67 Index = (15 / (15 + 85)) x 100 = (15 / 100) x 100 = 15.00%  
+
+Ki-67 Index: 15.00%
+
+===== 266.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 14  
+- Immunonegative cells (blue nuclei): 56  
+
+Calculation:  
+Ki-67 Index = (14 / (14 + 56)) x 100 = (14 / 70) x 100 = 20.00%
+
+Immunopositive cells: 14  
+Immunonegative cells: 56  
+Ki-67 Index = (14 / (14 + 56)) x 100  
+Ki-67 Index: 20.00%
+
+===== 267.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 56  
+Ki-67 Index = (15 / (15 + 56)) x 100 = (15 / 71) x 100 ≈ 21.13%
+
+Ki-67 Index: 21.13%
+
+===== 268.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 55  
+Ki-67 Index = (15 / (15 + 55)) x 100 = (15 / 70) x 100 = 21.43%  
+
+Ki-67 Index: 21.43%
+
+===== 269.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 22  
+- Immunonegative cells (blue nuclei): 44  
+
+Calculation:  
+Ki-67 Index = (22 / (22 + 44)) x 100 = (22 / 66) x 100 = 33.33%
+
+Immunopositive cells: 22  
+Immunonegative cells: 44  
+Ki-67 Index = (22 / (22 + 44)) x 100  
+Ki-67 Index: 33.33%
+
+===== 27.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index = (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== 270.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 44  
+Ki-67 Index = (15 / (15 + 44)) x 100 = (15 / 59) x 100 ≈ 25.42%
+
+Ki-67 Index: 25.42%
+
+===== 271.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 54  
+Ki-67 Index = (11 / (11 + 54)) x 100 = (11 / 65) x 100 = 16.92%
+
+Ki-67 Index: 16.92%
+
+===== 272.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index = (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Ki-67 Index: 36.67%
+
+===== 273.jpg =====
+Immunopositive cells (brown nuclear staining): 22  
+Immunonegative cells (blue nuclei): 44  
+
+Ki-67 Index = (22 / (22 + 44)) x 100 = (22 / 66) x 100 = 33.33%
+
+Ki-67 Index: 33.33%
+
+===== 274.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 275.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%  
+
+Ki-67 Index: 38.00%
+
+===== 276.jpg =====
+Immunopositive cells (brown nuclear staining): 14  
+Immunonegative cells (blue nuclei): 86  
+
+Ki-67 Index = (14 / (14 + 86)) x 100 = (14 / 100) x 100 = 14.00%
+
+Ki-67 Index: 14.00%
+
+===== 277.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 81  
+Ki-67 Index = (9 / (9 + 81)) x 100 = (9 / 90) x 100 = 10.00%
+
+Ki-67 Index: 10.00%
+
+===== 278.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 70  
+Ki-67 Index = (9 / (9 + 70)) x 100 = (9 / 79) x 100 = 11.39%
+
+Ki-67 Index: 11.39%
+
+===== 279.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 78  
+Ki-67 Index = (22 / (22 + 78)) x 100 = (22 / 100) x 100 = 22.00%  
+
+Ki-67 Index: 22.00%
+
+===== 28.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 12  
+Ki-67 Index = (38 / (38 + 12)) x 100 = (38 / 50) x 100 = 76.00%
+
+Ki-67 Index: 76.00%
+
+===== 280.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 15  
+- Immunonegative cells (blue nuclei): 55  
+
+Calculation:  
+Ki-67 Index = (15 / (15 + 55)) x 100 = (15 / 70) x 100 = 21.43%
+
+Immunopositive cells: 15  
+Immunonegative cells: 55  
+Ki-67 Index = (15 / (15 + 55)) x 100  
+Ki-67 Index: 21.43%
+
+===== 281.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 56  
+Ki-67 Index = (22 / (22 + 56)) x 100 = (22 / 78) x 100 = 28.21%
+
+Ki-67 Index: 28.21%
+
+===== 282.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 70  
+Ki-67 Index = (26 / (26 + 70)) x 100 = (26 / 96) x 100 = 27.08%  
+
+Ki-67 Index: 27.08%
+
+===== 283.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 72  
+Ki-67 Index = (8 / (8 + 72)) x 100 = (8 / 80) x 100 = 10.00%  
+
+Ki-67 Index: 10.00%
+
+===== 284.jpg =====
+The image shows breast tissue with clear cellular structures. The nuclei are stained either brown (immunopositive for Ki-67) or blue (immunonegative).
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 26  
+- Immunonegative cells (blue nuclei): 54  
+
+Calculation of Ki-67 index:  
+Ki-67 Index = (26 / (26 + 54)) × 100 = (26 / 80) × 100 = 32.50%
+
+Immunopositive cells: 26  
+Immunonegative cells: 54  
+Ki-67 Index = (26 / (26 + 54)) × 100 = 32.50%  
+Ki-67 Index: 32.50%
+
+===== 285.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 15  
+- Immunonegative cells (blue nuclei): 70  
+
+Ki-67 Index calculation:  
+(15 / (15 + 70)) x 100 = (15 / 85) x 100 ≈ 17.65%
+
+Immunopositive cells: 15  
+Immunonegative cells: 70  
+Ki-67 Index = (15 / (15 + 70)) x 100  
+Ki-67 Index: 17.65%
+
+===== 286.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 58  
+Ki-67 Index = (22 / (22 + 58)) x 100 = (22 / 80) x 100 = 27.50%  
+
+Ki-67 Index: 27.50%
+
+===== 287.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 68  
+Ki-67 Index = (32 / (32 + 68)) x 100 = (32 / 100) x 100 = 32.00%  
+
+Ki-67 Index: 32.00%
+
+===== 288.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%
+
+Ki-67 Index: 47.50%
+
+===== 289.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 64  
+Ki-67 Index = (26 / (26 + 64)) x 100 = (26 / 90) x 100 = 28.89%
+
+Ki-67 Index: 28.89%
+
+===== 29.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 93  
+Ki-67 Index = (7 / (7 + 93)) x 100 = (7 / 100) x 100 = 7.00%
+
+Ki-67 Index: 7.00%
+
+===== 290.jpg =====
+Immunopositive cells (brown nuclear staining): 22  
+Immunonegative cells (blue nuclei): 78  
+
+Ki-67 Index = (22 / (22 + 78)) x 100 = (22 / 100) x 100 = 22.00%
+
+Ki-67 Index: 22.00%
+
+===== 291.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 70  
+Ki-67 Index = (11 / (11 + 70)) x 100
+
+Ki-67 Index: 13.58%
+
+===== 292.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 56  
+Ki-67 Index = (9 / (9 + 56)) x 100 = (9 / 65) x 100 = 13.85%
+
+Ki-67 Index: 13.85%
+
+===== 293.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 44  
+Ki-67 Index = (26 / (26 + 44)) x 100 = (26 / 70) x 100 = 37.14%
+
+Ki-67 Index: 37.14%
+
+===== 294.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 89  
+Ki-67 Index = (11 / (11 + 89)) x 100 = (11 / 100) x 100 = 11.00%  
+Ki-67 Index: 11.00%
+
+===== 295.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 72  
+Ki-67 Index = (13 / (13 + 72)) x 100 = (13 / 85) x 100 = 15.29%
+
+Ki-67 Index: 15.29%
+
+===== 296.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 78  
+Ki-67 Index = (22 / (22 + 78)) x 100 = (22 / 100) x 100 = 22.00%
+
+Ki-67 Index: 22.00%
+
+===== 297.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 65  
+Ki-67 Index = (15 / (15 + 65)) x 100 = (15 / 80) x 100 = 18.75%
+
+Ki-67 Index: 18.75%
+
+===== 298.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 44  
+Ki-67 Index = (26 / (26 + 44)) x 100 = (26 / 70) x 100 = 37.14%
+
+Ki-67 Index: 37.14%
+
+===== 299.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 86  
+Ki-67 Index = (14 / (14 + 86)) x 100 = (14 / 100) x 100 = 14.00%  
+
+Ki-67 Index: 14.00%
+
+===== 3.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 14  
+Ki-67 Index = (26 / (26 + 14)) x 100 = (26 / 40) x 100 = 65.00%  
+
+Ki-67 Index: 65.00%
+
+===== 30.jpg =====
+The image shows breast tissue with clear cellular structures. The brown nuclear staining indicates Ki-67 positive cells, while the lighter blue nuclei represent Ki-67 negative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 44  
+- Immunonegative cells (blue nuclei): 26  
+
+Calculation:  
+Ki-67 Index = (44 / (44 + 26)) × 100 = (44 / 70) × 100 = 62.86%
+
+Immunopositive cells: 44  
+Immunonegative cells: 26  
+Ki-67 Index = (44 / (44 + 26)) × 100  
+Ki-67 Index: 62.86%
+
+===== 300.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 54  
+Ki-67 Index = (11 / (11 + 54)) x 100 = (11 / 65) x 100 = 16.92%
+
+Ki-67 Index: 16.92%
+
+===== 301.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 85  
+Ki-67 Index = (15 / (15 + 85)) x 100
+
+Ki-67 Index: 15.00%
+
+===== 302.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 66  
+Ki-67 Index = (14 / (14 + 66)) x 100 = (14 / 80) x 100 = 17.50%  
+
+Ki-67 Index: 17.50%
+
+===== 303.jpg =====
+The image shows breast tissue with clear cellular structures. The nuclei are stained either brown (immunopositive for Ki-67) or blue (immunonegative).
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 22  
+- Immunonegative cells (blue nuclei): 58  
+
+Calculation:  
+Ki-67 Index = (22 / (22 + 58)) x 100 = (22 / 80) x 100 = 27.50%
+
+Immunopositive cells: 22  
+Immunonegative cells: 58  
+Ki-67 Index = (22 / (22 + 58)) x 100  
+Ki-67 Index: 27.50%
+
+===== 304.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 66  
+Ki-67 Index = (14 / (14 + 66)) x 100 = (14 / 80) x 100 = 17.50%  
+
+Ki-67 Index: 17.50%
+
+===== 305.jpg =====
+Immunopositive cells (brown nuclear staining): 98  
+Immunonegative cells (no brown staining): 102  
+Ki-67 Index = (98 / (98 + 102)) x 100 = (98 / 200) x 100 = 49.00%
+
+Ki-67 Index: 49.00%
+
+===== 306.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 48  
+Ki-67 Index = (72 / (72 + 48)) x 100 = (72 / 120) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== 307.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 48  
+Ki-67 Index = (72 / (72 + 48)) x 100 = (72 / 120) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== 308.jpg =====
+Immunopositive cells (brown nuclear staining): 72  
+Immunonegative cells (no brown staining, blue nuclei): 48  
+
+Ki-67 Index = (72 / (72 + 48)) x 100 = (72 / 120) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== 309.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 92  
+Ki-67 Index = (28 / (28 + 92)) x 100 = (28 / 120) x 100 = 23.33%
+
+Ki-67 Index: 23.33%
+
+===== 31.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 37  
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%  
+Ki-67 Index: 63.00%
+
+===== 310.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 78  
+Ki-67 Index = (22 / (22 + 78)) x 100 = (22 / 100) x 100 = 22.00%
+
+Ki-67 Index: 22.00%
+
+===== 311.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== 312.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 38  
+Ki-67 Index = (44 / (44 + 38)) x 100 = (44 / 82) x 100 = 53.66%
+
+Ki-67 Index: 53.66%
+
+===== 313.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 48  
+Ki-67 Index = (72 / (72 + 48)) x 100 = (72 / 120) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== 314.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100
+
+Ki-67 Index: 38.00%
+
+===== 315.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 56  
+Ki-67 Index = (29 / (29 + 56)) x 100 = (29 / 85) x 100 = 34.12%
+
+Ki-67 Index: 34.12%
+
+===== 316.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 56  
+Ki-67 Index = (29 / (29 + 56)) x 100 = (29 / 85) x 100 = 34.12%  
+
+Ki-67 Index: 34.12%
+
+===== 317.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 54  
+Ki-67 Index = (26 / (26 + 54)) x 100 = (26 / 80) x 100 = 32.50%  
+
+Ki-67 Index: 32.50%
+
+===== 318.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 44  
+Ki-67 Index = (15 / (15 + 44)) x 100 = (15 / 59) x 100 ≈ 25.42%  
+
+Ki-67 Index: 25.42%
+
+===== 319.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 32.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== 320.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 69  
+Ki-67 Index = (11 / (11 + 69)) x 100 = (11 / 80) x 100 = 13.75%  
+
+Ki-67 Index: 13.75%
+
+===== 321.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 54  
+Ki-67 Index = (26 / (26 + 54)) x 100 = (26 / 80) x 100 = 32.50%  
+
+Ki-67 Index: 32.50%
+
+===== 322.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 323.jpg =====
+The image shows breast tissue with clearly visible cellular structures. The brown nuclear staining indicates Ki-67 immunopositive cells, while the blue nuclei represent immunonegative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 22  
+- Immunonegative cells (blue nuclei): 58  
+
+Calculation:  
+Ki-67 Index = (22 / (22 + 58)) x 100 = (22 / 80) x 100 = 27.50%
+
+Immunopositive cells: 22  
+Immunonegative cells: 58  
+Ki-67 Index = (22 / (22 + 58)) x 100 = 27.50%  
+Ki-67 Index: 27.50%
+
+===== 324.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 62  
+Ki-67 Index = (18 / (18 + 62)) x 100 = (18 / 80) x 100 = 22.50%  
+
+Ki-67 Index: 22.50%
+
+===== 325.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 68  
+Ki-67 Index = (32 / (32 + 68)) x 100 = (32 / 100) x 100 = 32.00%
+
+Ki-67 Index: 32.00%
+
+===== 326.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 38  
+- Immunonegative cells (blue nuclei): 62  
+
+Ki-67 Index calculation:  
+(38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index: 38.00%
+
+===== 327.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 52  
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%
+
+Ki-67 Index: 48.00%
+
+===== 328.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 52  
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%
+
+Ki-67 Index: 48.00%
+
+===== 329.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 33.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 56  
+Ki-67 Index = (44 / (44 + 56)) x 100 = (44 / 100) x 100 = 44.00%  
+
+Ki-67 Index: 44.00%
+
+===== 330.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 331.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 332.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 73  
+Ki-67 Index = (27 / (27 + 73)) x 100 = (27 / 100) x 100 = 27.00%
+
+Ki-67 Index: 27.00%
+
+===== 333.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 72  
+Ki-67 Index = (18 / (18 + 72)) x 100 = (18 / 90) x 100 = 20.00%
+
+Ki-67 Index: 20.00%
+
+===== 334.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 86  
+Ki-67 Index = (14 / (14 + 86)) x 100 = (14 / 100) x 100 = 14.00%
+
+Ki-67 Index: 14.00%
+
+===== 335.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 69  
+Ki-67 Index = (11 / (11 + 69)) x 100 = (11 / 80) x 100 = 13.75%
+
+Ki-67 Index: 13.75%
+
+===== 336.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 22  
+- Immunonegative cells (blue nuclei): 38  
+
+Calculation:  
+Ki-67 Index = (22 / (22 + 38)) x 100 = (22 / 60) x 100 = 36.67%
+
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index = (22 / (22 + 38)) x 100 = 36.67%  
+Ki-67 Index: 36.67%
+
+===== 337.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 32  
+Ki-67 Index = (18 / (18 + 32)) x 100 = (18 / 50) x 100 = 36.00%  
+
+Ki-67 Index: 36.00%
+
+===== 338.jpg =====
+Immunopositive cells: 33  
+Immunonegative cells: 38  
+Ki-67 Index = (33 / (33 + 38)) x 100 = (33 / 71) x 100 ≈ 46.48%
+
+Ki-67 Index: 46.48%
+
+===== 339.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 37  
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%
+
+Ki-67 Index: 63.00%
+
+===== 34.jpg =====
+Immunopositive cells (brown nuclear staining): 38  
+Immunonegative cells (blue nuclei): 42  
+
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%
+
+Ki-67 Index: 47.50%
+
+===== 340.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 341.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 150  
+Ki-67 Index = (0 / (0 + 150)) x 100
+
+Ki-67 Index: 0.00%
+
+===== 342.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 93  
+Ki-67 Index = (7 / (7 + 93)) x 100
+
+Ki-67 Index: 7.00%
+
+===== 343.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 64  
+Ki-67 Index = (6 / (6 + 64)) x 100 = (6 / 70) x 100 = 8.57%
+
+Ki-67 Index: 8.57%
+
+===== 344.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 66  
+Ki-67 Index = (14 / (14 + 66)) x 100 = (14 / 80) x 100 = 17.50%  
+
+Ki-67 Index: 17.50%
+
+===== 345.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 72  
+Ki-67 Index = (9 / (9 + 72)) x 100 = (9 / 81) x 100 = 11.11%
+
+Ki-67 Index: 11.11%
+
+===== 346.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 89  
+Ki-67 Index = (11 / (11 + 89)) x 100 = (11 / 100) x 100 = 11.00%  
+Ki-67 Index: 11.00%
+
+===== 347.jpg =====
+Immunopositive cells (brown nuclear staining): 13  
+Immunonegative cells (blue nuclei): 87  
+
+Ki-67 Index = (13 / (13 + 87)) x 100 = (13 / 100) x 100 = 13.00%
+
+Ki-67 Index: 13.00%
+
+===== 348.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 70  
+Ki-67 Index = (15 / (15 + 70)) x 100 = (15 / 85) x 100 = 17.65%
+
+Ki-67 Index: 17.65%
+
+===== 349.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates immunopositive cells, while the blue nuclei represent immunonegative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 9  
+- Immunonegative cells (blue nuclei): 70  
+
+Calculation:  
+Ki-67 Index = (9 / (9 + 70)) x 100 = (9 / 79) x 100 ≈ 11.39%
+
+Immunopositive cells: 9  
+Immunonegative cells: 70  
+Ki-67 Index = (9 / (9 + 70)) x 100 = 11.39%  
+Ki-67 Index: 11.39%
+
+===== 35.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 56  
+Ki-67 Index = (29 / (29 + 56)) x 100 = (29 / 85) x 100 = 34.12%
+
+Ki-67 Index: 34.12%
+
+===== 350.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 62  
+Ki-67 Index = (18 / (18 + 62)) x 100 = (18 / 80) x 100 = 22.50%
+
+Ki-67 Index: 22.50%
+
+===== 351.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 89  
+Ki-67 Index = (11 / (11 + 89)) x 100 = (11 / 100) x 100 = 11.00%  
+Ki-67 Index: 11.00%
+
+===== 352.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 72  
+Ki-67 Index = (18 / (18 + 72)) x 100 = (18 / 90) x 100 = 20.00%  
+
+Ki-67 Index: 20.00%
+
+===== 353.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 38  
+Ki-67 Index = (32 / (32 + 38)) x 100 = (32 / 70) x 100 = 45.71%
+
+Ki-67 Index: 45.71%
+
+===== 354.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 42  
+Ki-67 Index = (28 / (28 + 42)) x 100 = (28 / 70) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== 355.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%  
+
+Ki-67 Index: 47.50%
+
+===== 356.jpg =====
+Immunopositive cells: 19  
+Immunonegative cells: 61  
+Ki-67 Index = (19 / (19 + 61)) x 100 = (19 / 80) x 100 = 23.75%
+
+Ki-67 Index: 23.75%
+
+===== 357.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 52  
+Ki-67 Index = (18 / (18 + 52)) x 100 = (18 / 70) x 100 = 25.71%
+
+Ki-67 Index: 25.71%
+
+===== 358.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue or pale nuclei represent Ki-67 negative cells. The cellular structures are clearly visible and evaluable.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 44  
+- Immunonegative cells (blue/pale nuclei): 56  
+
+Calculation:  
+Ki-67 Index = (44 / (44 + 56)) x 100 = (44 / 100) x 100 = 44.00%
+
+Immunopositive cells: 44  
+Immunonegative cells: 56  
+Ki-67 Index = (44 / (44 + 56)) x 100  
+Ki-67 Index: 44.00%
+
+===== 359.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 36.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 360.jpg =====
+Immunopositive cells (brown nuclear staining): 48  
+Immunonegative cells (no brown staining): 52  
+
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%
+
+Ki-67 Index: 48.00%
+
+===== 361.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 22  
+- Immunonegative cells (blue nuclei): 78  
+
+Calculation:  
+Ki-67 Index = (22 / (22 + 78)) x 100 = (22 / 100) x 100 = 22.00%
+
+Immunopositive cells: 22  
+Immunonegative cells: 78  
+Ki-67 Index = (22 / (22 + 78)) x 100  
+Ki-67 Index: 22.00%
+
+===== 362.jpg =====
+Immunopositive cells (brown nuclear staining): 15  
+Immunonegative cells (blue nuclei without brown staining): 40  
+
+Ki-67 Index calculation:  
+(15 / (15 + 40)) x 100 = (15 / 55) x 100 = 27.27%
+
+Ki-67 Index: 27.27%
+
+===== 363.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 70  
+Ki-67 Index = (15 / (15 + 70)) x 100 = (15 / 85) x 100 = 17.65%
+
+Ki-67 Index: 17.65%
+
+===== 364.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 62  
+Ki-67 Index = (18 / (18 + 62)) x 100 = (18 / 80) x 100 = 22.50%  
+
+Ki-67 Index: 22.50%
+
+===== 365.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 78  
+Ki-67 Index = (22 / (22 + 78)) x 100 = (22 / 100) x 100 = 22.00%
+
+Ki-67 Index: 22.00%
+
+===== 366.jpg =====
+Immunopositive cells: 30  
+Immunonegative cells: 70  
+Ki-67 Index = (30 / (30 + 70)) x 100
+
+Ki-67 Index: 30.00%
+
+===== 367.jpg =====
+Immunopositive cells: 30  
+Immunonegative cells: 70  
+Ki-67 Index = (30 / (30 + 70)) x 100
+
+Ki-67 Index: 30.00%
+
+===== 368.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 85  
+Ki-67 Index = (15 / (15 + 85)) x 100 = (15 / 100) x 100 = 15.00%  
+Ki-67 Index: 15.00%
+
+===== 369.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 82  
+Ki-67 Index = (18 / (18 + 82)) x 100 = (18 / 100) x 100 = 18.00%
+
+Ki-67 Index: 18.00%
+
+===== 37.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 38  
+- Immunonegative cells (blue nuclei): 62  
+
+Calculation:  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index: 38.00%
+
+===== 370.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 91  
+Ki-67 Index = (9 / (9 + 91)) x 100 = (9 / 100) x 100 = 9.00%
+
+Ki-67 Index: 9.00%
+
+===== 371.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 89  
+Ki-67 Index = (11 / (11 + 89)) x 100 = (11 / 100) x 100 = 11.00%  
+Ki-67 Index: 11.00%
+
+===== 372.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 97  
+Ki-67 Index = (3 / (3 + 97)) x 100 = (3 / 100) x 100 = 3.00%
+
+Ki-67 Index: 3.00%
+
+===== 373.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 94  
+Ki-67 Index = (26 / (26 + 94)) x 100 = (26 / 120) x 100 = 21.67%
+
+Ki-67 Index: 21.67%
+
+===== 374.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 98  
+Ki-67 Index = (22 / (22 + 98)) x 100 = (22 / 120) x 100 = 18.33%
+
+Ki-67 Index: 18.33%
+
+===== 375.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 70  
+Ki-67 Index = (15 / (15 + 70)) x 100 = (15 / 85) x 100 = 17.65%  
+
+Ki-67 Index: 17.65%
+
+===== 376.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 89  
+Ki-67 Index = (11 / (11 + 89)) x 100 = (11 / 100) x 100 = 11.00%  
+Ki-67 Index: 11.00%
+
+===== 377.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 13  
+- Immunonegative cells (blue nuclei): 72  
+
+Calculation:  
+Ki-67 Index = (13 / (13 + 72)) x 100 = (13 / 85) x 100 ≈ 15.29%
+
+Immunopositive cells: 13  
+Immunonegative cells: 72  
+Ki-67 Index = (13 / (13 + 72)) x 100  
+Ki-67 Index: 15.29%
+
+===== 378.jpg =====
+The image shows breast tissue cells stained for Ki-67. Upon careful examination, all nuclei appear blue without any brown nuclear staining indicative of Ki-67 positivity.
+
+Immunopositive cells: 0  
+Immunonegative cells: 120 (approximate count of all visible nuclei)  
+
+Ki-67 Index = (0 / (0 + 120)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+
+===== 379.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 120 (approximate count)  
+Ki-67 Index = (0 / (0 + 120)) x 100
+
+Ki-67 Index: 0.00%
+
+===== 38.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 380.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The majority of nuclei are stained blue (immunonegative), while a few nuclei show brown staining (immunopositive).
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 2  
+- Immunonegative cells (blue nuclei): 90  
+
+Calculation:  
+Ki-67 Index = (2 / (2 + 90)) x 100 = (2 / 92) x 100 ≈ 2.17%
+
+Immunopositive cells: 2  
+Immunonegative cells: 90  
+Ki-67 Index = (2 / (2 + 90)) x 100 = 2.17%
+
+Ki-67 Index: 2.17%
+
+===== 381.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The nuclei are mostly blue, indicating immunonegative cells, with one clearly visible brown-stained nucleus indicating an immunopositive cell.
+
+Counting the cells:
+- Immunopositive cells (brown nuclei): 1
+- Immunonegative cells (blue nuclei): 98 (approximately, counting all visible nuclei)
+
+Calculation of Ki-67 index:
+Ki-67 Index = (1 / (1 + 98)) x 100 = (1 / 99) x 100 ≈ 1.01%
+
+Immunopositive cells: 1  
+Immunonegative cells: 98  
+Ki-67 Index = (1 / (1 + 98)) x 100  
+Ki-67 Index: 1.01%
+
+===== 382.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 89  
+Ki-67 Index = (11 / (11 + 89)) x 100 = (11 / 100) x 100 = 11.00%  
+Ki-67 Index: 11.00%
+
+===== 383.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 95  
+Ki-67 Index = (5 / (5 + 95)) x 100
+
+Ki-67 Index: 5.00%
+
+===== 384.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 90  
+Ki-67 Index = (10 / (10 + 90)) x 100
+
+Ki-67 Index: 10.00%
+
+===== 385.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 95  
+Ki-67 Index = (5 / (5 + 95)) x 100
+
+Ki-67 Index: 5.00%
+
+===== 386.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 93  
+Ki-67 Index = (7 / (7 + 93)) x 100 = (7 / 100) x 100 = 7.00%  
+Ki-67 Index: 7.00%
+
+===== 387.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 56  
+Ki-67 Index = (4 / (4 + 56)) x 100 = (4 / 60) x 100 = 6.67%
+
+Ki-67 Index: 6.67%
+
+===== 388.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 74  
+Ki-67 Index = (26 / (26 + 74)) x 100 = (26 / 100) x 100 = 26.00%
+
+Ki-67 Index: 26.00%
+
+===== 389.jpg =====
+Immunopositive cells (brown nuclear staining): 28  
+Immunonegative cells (blue nuclei): 72  
+
+Ki-67 Index = (28 / (28 + 72)) x 100 = (28 / 100) x 100 = 28.00%
+
+Ki-67 Index: 28.00%
+
+===== 39.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 62  
+Ki-67 Index = (18 / (18 + 62)) x 100 = (18 / 80) x 100 = 22.50%  
+
+Ki-67 Index: 22.50%
+
+===== 390.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 72  
+Ki-67 Index = (28 / (28 + 72)) x 100 = (28 / 100) x 100 = 28.00%
+
+Ki-67 Index: 28.00%
+
+===== 391.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 78  
+Ki-67 Index = (22 / (22 + 78)) x 100 = (22 / 100) x 100 = 22.00%
+
+Ki-67 Index: 22.00%
+
+===== 392.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 98  
+Ki-67 Index = (52 / (52 + 98)) x 100 = (52 / 150) x 100 = 34.67%
+
+Ki-67 Index: 34.67%
+
+===== 393.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 92  
+Ki-67 Index = (29 / (29 + 92)) x 100 = (29 / 121) x 100 ≈ 23.97%  
+
+Ki-67 Index: 23.97%
+
+===== 394.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 18  
+- Immunonegative cells (blue nuclei): 82  
+
+Calculation:  
+Ki-67 Index = (18 / (18 + 82)) x 100 = (18 / 100) x 100 = 18.00%
+
+Immunopositive cells: 18  
+Immunonegative cells: 82  
+Ki-67 Index: 18.00%
+
+===== 395.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 132  
+Ki-67 Index = (18 / (18 + 132)) x 100 = (18 / 150) x 100 = 12.00%  
+
+Ki-67 Index: 12.00%
+
+===== 396.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 92  
+Ki-67 Index = (38 / (38 + 92)) x 100 = (38 / 130) x 100 = 29.23%
+
+Ki-67 Index: 29.23%
+
+===== 397.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 102  
+Ki-67 Index = (38 / (38 + 102)) x 100 = (38 / 140) x 100 = 27.14%
+
+Ki-67 Index: 27.14%
+
+===== 398.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 72  
+Ki-67 Index = (28 / (28 + 72)) x 100 = (28 / 100) x 100 = 28.00%
+
+Ki-67 Index: 28.00%
+
+===== 399.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 102  
+Ki-67 Index = (38 / (38 + 102)) x 100 = (38 / 140) x 100 = 27.14%
+
+Ki-67 Index: 27.14%
+
+===== 4.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 12  
+Ki-67 Index = (48 / (48 + 12)) x 100 = (48 / 60) x 100 = 80.00%
+
+Ki-67 Index: 80.00%
+
+===== 40.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 92  
+Ki-67 Index = (38 / (38 + 92)) x 100 = (38 / 130) x 100 = 29.23%
+
+Ki-67 Index: 29.23%
+
+===== 400.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 92  
+Ki-67 Index = (18 / (18 + 92)) x 100 = (18 / 110) x 100 = 16.36%
+
+Ki-67 Index: 16.36%
+
+===== 401.jpg =====
+The image shows breast tissue with clear cellular structures. The nuclei are stained blue, and the Ki-67 positive cells exhibit brown nuclear staining.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 11  
+- Immunonegative cells (blue nuclei): 89  
+
+Calculation:  
+Ki-67 Index = (11 / (11 + 89)) x 100 = (11 / 100) x 100 = 11.00%
+
+Immunopositive cells: 11  
+Immunonegative cells: 89  
+Ki-67 Index: 11.00%
+
+===== 41.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 72  
+Ki-67 Index = (28 / (28 + 72)) x 100 = (28 / 100) x 100 = 28.00%
+
+Ki-67 Index: 28.00%
+
+===== 42.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 71  
+Ki-67 Index = (29 / (29 + 71)) x 100 = (29 / 100) x 100 = 29.00%
+
+Ki-67 Index: 29.00%
+
+===== 43.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 72  
+Ki-67 Index = (28 / (28 + 72)) x 100 = (28 / 100) x 100 = 28.00%
+
+Ki-67 Index: 28.00%
+
+===== 44.jpg =====
+Immunopositive cells: 28  
+Immunonegative cells: 42  
+Ki-67 Index = (28 / (28 + 42)) x 100 = (28 / 70) x 100 = 40.00%
+
+Ki-67 Index: 40.00%
+
+===== 45.jpg =====
+Immunopositive cells: 30  
+Immunonegative cells: 70  
+Ki-67 Index = (30 / (30 + 70)) x 100 = (30 / 100) x 100 = 30.00%
+
+Ki-67 Index: 30.00%
+
+===== 46.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 52  
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%
+
+Ki-67 Index: 48.00%
+
+===== 47.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 38  
+Ki-67 Index = (44 / (44 + 38)) x 100 = (44 / 82) x 100 = 53.66%  
+
+Ki-67 Index: 53.66%
+
+===== 48.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 41  
+Ki-67 Index = (29 / (29 + 41)) x 100 = (29 / 70) x 100 = 41.43%
+
+Ki-67 Index: 41.43%
+
+===== 49.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%  
+
+Ki-67 Index: 47.50%
+
+===== 5.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 26  
+Ki-67 Index = (44 / (44 + 26)) x 100 = (44 / 70) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== 50.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the cells without brown staining are negative.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 72  
+- Immunonegative cells (no brown staining): 28  
+
+Calculation:  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index: 72.00%
+
+===== 51.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the cells without brown staining are Ki-67 negative.
+
+After careful visual examination and counting:
+
+- Immunopositive cells (brown nuclei): 58  
+- Immunonegative cells (no brown staining): 42  
+
+Ki-67 Index = (58 / (58 + 42)) x 100 = (58 / 100) x 100 = 58.00%
+
+Immunopositive cells: 58  
+Immunonegative cells: 42  
+Ki-67 Index: 58.00%
+
+===== 52.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the cells without brown staining are negative.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 56  
+- Immunonegative cells (no brown staining): 14  
+
+Calculation:  
+Ki-67 Index = (56 / (56 + 14)) x 100 = (56 / 70) x 100 = 80.00%
+
+Immunopositive cells: 56  
+Immunonegative cells: 14  
+Ki-67 Index = (56 / (56 + 14)) x 100  
+Ki-67 Index: 80.00%
+
+===== 53.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 54.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 55.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 22  
+Ki-67 Index = (26 / (26 + 22)) x 100 = (26 / 48) x 100 = 54.17%
+
+Ki-67 Index: 54.17%
+
+===== 56.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%
+
+Ki-67 Index: 47.50%
+
+===== 57.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 37  
+Ki-67 Index = (63 / (63 + 37)) x 100 = (63 / 100) x 100 = 63.00%
+
+Ki-67 Index: 63.00%
+
+===== 58.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== 59.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== 6.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 12  
+Ki-67 Index = (48 / (48 + 12)) x 100 = (48 / 60) x 100 = 80.00%
+
+Ki-67 Index: 80.00%
+
+===== 60.jpg =====
+Immunopositive cells (brown nuclear staining): 56  
+Immunonegative cells (no brown staining): 44  
+
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== 61.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 48  
+Ki-67 Index = (72 / (72 + 48)) x 100 = (72 / 120) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== 62.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 32  
+Ki-67 Index = (48 / (48 + 32)) x 100 = (48 / 80) x 100 = 60.00%
+
+Ki-67 Index: 60.00%
+
+===== 63.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 28  
+Ki-67 Index = (72 / (72 + 28)) x 100 = (72 / 100) x 100 = 72.00%
+
+Ki-67 Index: 72.00%
+
+===== 64.jpg =====
+Immunopositive cells (brown nuclear staining): 56  
+Immunonegative cells (blue nuclei): 94  
+
+Ki-67 Index = (56 / (56 + 94)) x 100 = (56 / 150) x 100 = 37.33%
+
+Ki-67 Index: 37.33%
+
+===== 65.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 73  
+Ki-67 Index = (27 / (27 + 73)) x 100 = (27 / 100) x 100 = 27.00%  
+
+Ki-67 Index: 27.00%
+
+===== 66.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 73  
+Ki-67 Index = (27 / (27 + 73)) x 100 = (27 / 100) x 100 = 27.00%  
+
+Ki-67 Index: 27.00%
+
+===== 67.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 56  
+Ki-67 Index = (44 / (44 + 56)) x 100 = (44 / 100) x 100 = 44.00%  
+
+Ki-67 Index: 44.00%
+
+===== 68.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 28  
+Ki-67 Index = (22 / (22 + 28)) x 100 = (22 / 50) x 100 = 44.00%
+
+Ki-67 Index: 44.00%
+
+===== 69.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 74  
+Ki-67 Index = (26 / (26 + 74)) x 100 = (26 / 100) x 100 = 26.00%  
+
+Ki-67 Index: 26.00%
+
+===== 7.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 24  
+Ki-67 Index = (56 / (56 + 24)) x 100 = (56 / 80) x 100 = 70.00%
+
+Ki-67 Index: 70.00%
+
+===== 70.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 71.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 14  
+Ki-67 Index = (26 / (26 + 14)) x 100 = (26 / 40) x 100 = 65.00%
+
+Ki-67 Index: 65.00%
+
+===== 72.jpg =====
+The image shows a histopathological field with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the cells without brown staining are Ki-67 negative.
+
+Counting the cells carefully:
+
+- Immunopositive cells (brown nuclei): 38  
+- Immunonegative cells (no brown staining): 22  
+
+Calculation of Ki-67 index:  
+Ki-67 Index = (38 / (38 + 22)) x 100 = (38 / 60) x 100 = 63.33%
+
+Immunopositive cells: 38  
+Immunonegative cells: 22  
+Ki-67 Index = (38 / (38 + 22)) x 100  
+Ki-67 Index: 63.33%
+
+===== 73.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 34  
+Ki-67 Index = (26 / (26 + 34)) x 100 = (26 / 60) x 100 = 43.33%
+
+Ki-67 Index: 43.33%
+
+===== 74.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%  
+
+Ki-67 Index: 56.00%
+
+===== 75.jpg =====
+The image shows breast tissue with cells stained for Ki-67. The brown nuclear staining indicates Ki-67 positive cells, while the blue nuclei represent Ki-67 negative cells.
+
+After careful examination and counting:
+
+- Immunopositive cells (brown nuclei): 48  
+- Immunonegative cells (blue nuclei): 52  
+
+Calculation of Ki-67 index:  
+Ki-67 Index = (48 / (48 + 52)) x 100 = (48 / 100) x 100 = 48.00%
+
+Immunopositive cells: 48  
+Immunonegative cells: 52  
+Ki-67 Index: 48.00%
+
+===== 76.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== 77.jpg =====
+Immunopositive cells: 58  
+Immunonegative cells: 42  
+Ki-67 Index = (58 / (58 + 42)) x 100 = (58 / 100) x 100 = 58.00%
+
+Ki-67 Index: 58.00%
+
+===== 78.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 48  
+Ki-67 Index = (72 / (72 + 48)) x 100 = (72 / 120) x 100 = 60.00%  
+
+Ki-67 Index: 60.00%
+
+===== 79.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 42  
+Ki-67 Index = (38 / (38 + 42)) x 100 = (38 / 80) x 100 = 47.50%
+
+Ki-67 Index: 47.50%
+
+===== 8.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 22  
+Ki-67 Index = (48 / (48 + 22)) x 100 = (48 / 70) x 100 = 68.57%
+
+Ki-67 Index: 68.57%
+
+===== 80.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 38  
+Ki-67 Index = (26 / (26 + 38)) x 100 = (26 / 64) x 100 = 40.63%
+
+Ki-67 Index: 40.63%
+
+===== 81.jpg =====
+Immunopositive cells (brown nuclear staining): 26  
+Immunonegative cells (blue nuclei): 34  
+
+Ki-67 Index = (26 / (26 + 34)) x 100 = (26 / 60) x 100 = 43.33%
+
+Ki-67 Index: 43.33%
+
+===== 82.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%  
+
+Ki-67 Index: 38.00%
+
+===== 83.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 53  
+Ki-67 Index = (27 / (27 + 53)) x 100 = (27 / 80) x 100 = 33.75%
+
+Ki-67 Index: 33.75%
+
+===== 84.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 44  
+Ki-67 Index = (26 / (26 + 44)) x 100 = (26 / 70) x 100 = 37.14%
+
+Ki-67 Index: 37.14%
+
+===== 85.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 44  
+Ki-67 Index = (26 / (26 + 44)) x 100 = (26 / 70) x 100 = 37.14%  
+
+Ki-67 Index: 37.14%
+
+===== 86.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%  
+
+Ki-67 Index: 38.00%
+
+===== 87.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index = (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== 88.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 18  
+Ki-67 Index = (56 / (56 + 18)) x 100 = (56 / 74) x 100 = 75.68%
+
+Ki-67 Index: 75.68%
+
+===== 89.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 28  
+Ki-67 Index = (52 / (52 + 28)) x 100 = (52 / 80) x 100 = 65.00%
+
+Ki-67 Index: 65.00%
+
+===== 9.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 18  
+Ki-67 Index = (22 / (22 + 18)) x 100 = (22 / 40) x 100 = 55.00%
+
+Ki-67 Index: 55.00%
+
+===== 90.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 18  
+Ki-67 Index = (56 / (56 + 18)) x 100 = (56 / 74) x 100 = 75.68%
+
+Ki-67 Index: 75.68%
+
+===== 91.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 27  
+Ki-67 Index = (26 / (26 + 27)) x 100 = (26 / 53) x 100 ≈ 49.06%
+
+Ki-67 Index: 49.06%
+
+===== 92.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+Ki-67 Index = (38 / (38 + 62)) x 100 = (38 / 100) x 100 = 38.00%
+
+Ki-67 Index: 38.00%
+
+===== 93.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+Ki-67 Index = (56 / (56 + 44)) x 100 = (56 / 100) x 100 = 56.00%
+
+Ki-67 Index: 56.00%
+
+===== 94.jpg =====
+Immunopositive cells: 48  
+Immunonegative cells: 27  
+Ki-67 Index = (48 / (48 + 27)) x 100 = (48 / 75) x 100 = 64.00%
+
+Ki-67 Index: 64.00%
+
+===== 95.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 26  
+Ki-67 Index = (44 / (44 + 26)) x 100 = (44 / 70) x 100 = 62.86%
+
+Ki-67 Index: 62.86%
+
+===== 96.jpg =====
+Immunopositive cells: 44  
+Immunonegative cells: 22  
+Ki-67 Index = (44 / (44 + 22)) x 100 = (44 / 66) x 100 = 66.67%
+
+Ki-67 Index: 66.67%
+
+===== 97.jpg =====
+Immunopositive cells: 63  
+Immunonegative cells: 27  
+Ki-67 Index = (63 / (63 + 27)) x 100 = (63 / 90) x 100 = 70.00%  
+
+Ki-67 Index: 70.00%
+
+===== 98.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 18  
+Ki-67 Index = (52 / (52 + 18)) x 100 = (52 / 70) x 100 = 74.29%
+
+Ki-67 Index: 74.29%
+
+===== 99.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 48  
+Ki-67 Index = (52 / (52 + 48)) x 100 = (52 / 100) x 100 = 52.00%
+
+Ki-67 Index: 52.00%

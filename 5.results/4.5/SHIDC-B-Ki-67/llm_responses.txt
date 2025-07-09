@@ -1,0 +1,6876 @@
+
+===== p10_0035_9.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 9  
+Ki-67 Index = (5 / (5 + 9)) x 100  
+Ki-67 Index: 35.71%
+
+===== p10_0036_3.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 56  
+Ki-67 Index = (32 / (32 + 56)) x 100  
+Ki-67 Index: 36.36%
+
+===== p10_0042_7.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 68  
+Ki-67 Index = (32 / (32 + 68)) x 100  
+Ki-67 Index: 32.00%
+
+===== p10_0044_7.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 66  
+Ki-67 Index = (42 / (42 + 66)) x 100  
+Ki-67 Index: 38.89%
+
+===== p10_0048_1.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 56  
+Ki-67 Index = (22 / (22 + 56)) x 100  
+Ki-67 Index: 28.21%
+
+===== p10_0048_8.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 32  
+Ki-67 Index = (29 / (29 + 32)) x 100  
+Ki-67 Index: 47.54%
+
+===== p10_0050_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 5  
+Ki-67 Index = (1 / (1 + 5)) x 100  
+Ki-67 Index: 16.67%
+
+===== p10_0052_7.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 61  
+Ki-67 Index: (47 / (47 + 61)) x 100 = 43.52%  
+
+Ki-67 Index: 43.52%
+
+===== p10_0053_11.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 66  
+
+Ki-67 Index = (47 / (47 + 66)) x 100  
+Ki-67 Index = (47 / 113) x 100  
+Ki-67 Index = 41.59%  
+
+Ki-67 Index: 41.59%
+
+===== p10_0053_5.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 22  
+
+Ki-67 Index = (20 / (20 + 22)) x 100  
+Ki-67 Index = (20 / 42) x 100  
+Ki-67 Index = 47.62%  
+
+Ki-67 Index: 47.62%
+
+===== p10_0053_8.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 20  
+
+Ki-67 Index = (13 / (13 + 20)) x 100  
+Ki-67 Index = (13 / 33) x 100  
+Ki-67 Index = 39.39%  
+
+Ki-67 Index: 39.39%
+
+===== p10_0056_5.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 54  
+
+Ki-67 Index = (47 / (47 + 54)) x 100  
+Ki-67 Index = (47 / 101) x 100  
+Ki-67 Index = 46.53%  
+
+Ki-67 Index: 46.53%
+
+===== p10_0058_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 17  
+Ki-67 Index: (13 / (13 + 17)) x 100 = 43.33%  
+
+Ki-67 Index: 43.33%
+
+===== p10_0058_5.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 40  
+Ki-67 Index = (24 / (24 + 40)) x 100 = (24 / 64) x 100 = 37.50%
+
+Ki-67 Index: 37.50%
+
+===== p10_0062_2.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 56  
+Ki-67 Index = (10 / (10 + 56)) x 100  
+Ki-67 Index: 15.15%
+
+===== p10_0063_10.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 56  
+Ki-67 Index = (34 / (34 + 56)) x 100  
+Ki-67 Index: 37.78%
+
+===== p10_0066_5.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 22  
+Ki-67 Index = (13 / (13 + 22)) x 100 = 37.14%
+
+Ki-67 Index: 37.14%
+
+===== p10_0071_2.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 32  
+
+Ki-67 Index = (17 / (17 + 32)) x 100  
+Ki-67 Index = (17 / 49) x 100  
+Ki-67 Index = 34.69%  
+
+Ki-67 Index: 34.69%
+
+===== p10_0075_6.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 24  
+
+Ki-67 Index = (18 / (18 + 24)) x 100  
+Ki-67 Index = (18 / 42) x 100  
+Ki-67 Index = 42.86%  
+
+Ki-67 Index: 42.86%
+
+===== p10_0078_3.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 42  
+
+Ki-67 Index = (13 / (13 + 42)) x 100  
+Ki-67 Index = (13 / 55) x 100  
+Ki-67 Index = 23.64%  
+
+Ki-67 Index: 23.64%
+
+===== p10_0086_2.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 60  
+Ki-67 Index = (32 / (32 + 60)) x 100  
+Ki-67 Index: 34.78%
+
+===== p10_0090_6.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 66  
+
+Ki-67 Index = (42 / (42 + 66)) x 100  
+
+Ki-67 Index: 38.89%
+
+===== p10_0094_1.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 4  
+Ki-67 Index = (3 / (3 + 4)) x 100  
+Ki-67 Index: 42.86%
+
+===== p10_0098_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 14  
+Ki-67 Index = (1 / (1 + 14)) x 100  
+Ki-67 Index: 6.67%
+
+===== p10_0101_10.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 52  
+Ki-67 Index = (8 / (8 + 52)) x 100  
+Ki-67 Index: 13.33%
+
+===== p10_0102_10.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 34  
+Ki-67 Index = (20 / (20 + 34)) x 100  
+Ki-67 Index: 37.04%
+
+===== p11_0057_5.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 17  
+
+Ki-67 Index = (36 / (36 + 17)) x 100  
+
+Ki-67 Index: 67.92%
+
+===== p11_0059_1.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 13  
+Ki-67 Index: (17 / (17 + 13)) x 100 = 56.67%  
+
+Ki-67 Index: 56.67%
+
+===== p11_0064_1.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 32  
+Ki-67 Index = (20 / (20 + 32)) x 100  
+Ki-67 Index: 38.46%
+
+===== p11_0064_9.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 10  
+Ki-67 Index = (11 / (11 + 10)) x 100  
+Ki-67 Index: 52.38%
+
+===== p11_0069_2.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 23  
+
+Ki-67 Index = (41 / (41 + 23)) x 100  
+
+Ki-67 Index: 64.06%
+
+===== p11_0070_6.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 54  
+
+Ki-67 Index = (32 / (32 + 54)) x 100  
+
+Ki-67 Index: 37.21%
+
+===== p11_0072_5.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 24  
+Ki-67 Index = (20 / (20 + 24)) x 100  
+Ki-67 Index: 45.45%
+
+===== p11_0074_1.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 32  
+
+Ki-67 Index = (16 / (16 + 32)) x 100  
+
+Ki-67 Index: 33.33%
+
+===== p11_0082_1.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 34  
+Ki-67 Index = (6 / (6 + 34)) x 100  
+Ki-67 Index: 15.00%
+
+===== p11_0089_5.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 27  
+Ki-67 Index = (24 / (24 + 27)) x 100  
+Ki-67 Index: 47.06%
+
+===== p11_0090_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 22  
+Ki-67 Index = (13 / (13 + 22)) x 100  
+Ki-67 Index: 37.14%
+
+===== p11_0096_5.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 21  
+
+Ki-67 Index = (27 / (27 + 21)) x 100  
+
+Ki-67 Index: 56.25%
+
+===== p11_0101_5.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 16  
+Ki-67 Index = (17 / (17 + 16)) x 100  
+Ki-67 Index: 51.52%
+
+===== p11_0108_1.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 25  
+Ki-67 Index = (23 / (23 + 25)) x 100  
+Ki-67 Index: 47.92%
+
+===== p11_0111_7.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 22  
+Ki-67 Index = (23 / (23 + 22)) x 100  
+Ki-67 Index: 51.11%
+
+===== p11_0114_11.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 52  
+
+Ki-67 Index = (17 / (17 + 52)) x 100  
+Ki-67 Index = (17 / 69) x 100  
+Ki-67 Index = 24.64%  
+
+Ki-67 Index: 24.64%
+
+===== p11_0116_11.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 20  
+
+Ki-67 Index = (17 / (17 + 20)) x 100  
+
+Ki-67 Index: 45.95%
+
+===== p11_0117_3.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 24  
+
+Ki-67 Index = (16 / (16 + 24)) x 100  
+
+Ki-67 Index: 40.00%
+
+===== p11_0118_11.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 20  
+Ki-67 Index = (14 / (14 + 20)) x 100  
+Ki-67 Index: 41.18%
+
+===== p11_0121_3.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 20  
+
+Ki-67 Index = (34 / (34 + 20)) x 100  
+
+Ki-67 Index: 62.96%
+
+===== p11_0125_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 36  
+Ki-67 Index: (22 / (22 + 36)) x 100 = 37.93%  
+
+Ki-67 Index: 37.93%
+
+===== p11_0128_11.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 22  
+
+Ki-67 Index = (27 / (27 + 22)) x 100  
+
+Ki-67 Index: 55.10%
+
+===== p11_0130_2.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 34  
+Ki-67 Index = (17 / (17 + 34)) x 100 = (17 / 51) x 100 = 33.33%
+
+Ki-67 Index: 33.33%
+
+===== p11_0130_7.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 27  
+
+Ki-67 Index = (32 / (32 + 27)) x 100  
+
+Ki-67 Index: 54.24%
+
+===== p11_0131_7.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 24  
+Ki-67 Index: (27 / (27 + 24)) x 100 = 52.94%
+
+Ki-67 Index: 52.94%
+
+===== p11_0132_10.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 34  
+
+Ki-67 Index = (24 / (24 + 34)) x 100  
+Ki-67 Index = (24 / 58) x 100  
+Ki-67 Index = 41.38%  
+
+Ki-67 Index: 41.38%
+
+===== p11_0132_5.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 22  
+Ki-67 Index = (32 / (32 + 22)) x 100  
+Ki-67 Index: 59.26%
+
+===== p11_0133_10.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 20  
+
+Ki-67 Index = (32 / (32 + 20)) x 100  
+
+Ki-67 Index: 61.54%
+
+===== p11_0136_1.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 32  
+
+Ki-67 Index = (20 / (20 + 32)) x 100  
+Ki-67 Index = (20 / 52) x 100  
+Ki-67 Index = 38.46%  
+
+Ki-67 Index: 38.46%
+
+===== p11_0137_3.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 34  
+Ki-67 Index = (16 / (16 + 34)) x 100  
+Ki-67 Index: 32.00%
+
+===== p12_0124_10.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 74  
+Ki-67 Index = (9 / (9 + 74)) x 100  
+Ki-67 Index: 10.84%
+
+===== p12_0127_2.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 41  
+Ki-67 Index = (12 / (12 + 41)) x 100  
+Ki-67 Index: 22.64%
+
+===== p12_0128_2.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 49  
+Ki-67 Index = (20 / (20 + 49)) x 100  
+Ki-67 Index: 28.99%
+
+===== p12_0130_10.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 49  
+Ki-67 Index = (20 / (20 + 49)) x 100  
+Ki-67 Index: 28.99%
+
+===== p12_0130_11.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 54  
+Ki-67 Index = (6 / (6 + 54)) x 100  
+Ki-67 Index: 10.00%
+
+===== p12_0134_7.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 54  
+Ki-67 Index = (13 / (13 + 54)) x 100  
+Ki-67 Index: 19.40%
+
+===== p12_0135_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 41  
+
+Ki-67 Index = (13 / (13 + 41)) x 100  
+Ki-67 Index = (13 / 54) x 100  
+Ki-67 Index = 24.07%  
+
+Ki-67 Index: 24.07%
+
+===== p12_0140_1.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 32  
+Ki-67 Index = (2 / (2 + 32)) x 100 = (2 / 34) x 100 = 5.88%
+
+Ki-67 Index: 5.88%
+
+===== p12_0141_5.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 34  
+Ki-67 Index = (0 / (0 + 34)) x 100 = 0.00%
+
+Ki-67 Index: 0.00%
+
+===== p12_0142_3.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 66  
+
+Ki-67 Index = (13 / (13 + 66)) x 100  
+Ki-67 Index = (13 / 79) x 100  
+Ki-67 Index = 16.46%  
+
+Ki-67 Index: 16.46%
+
+===== p12_0143_3.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 54  
+
+Ki-67 Index = (22 / (22 + 54)) x 100  
+Ki-67 Index = (22 / 76) x 100  
+Ki-67 Index = 28.95%  
+
+Ki-67 Index: 28.95%
+
+===== p12_0143_5.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 49  
+
+Ki-67 Index = (32 / (32 + 49)) x 100  
+Ki-67 Index = (32 / 81) x 100  
+Ki-67 Index = 39.51%  
+
+Ki-67 Index: 39.51%
+
+===== p12_0144_3.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 86  
+
+Ki-67 Index = (17 / (17 + 86)) x 100  
+
+Ki-67 Index: 16.50%
+
+===== p12_0152_6.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 56  
+
+Ki-67 Index = (17 / (17 + 56)) x 100  
+Ki-67 Index = (17 / 73) x 100  
+Ki-67 Index = 23.29%  
+
+Ki-67 Index: 23.29%
+
+===== p12_0157_5.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 56  
+Ki-67 Index = (12 / (12 + 56)) x 100  
+Ki-67 Index: 17.65%
+
+===== p12_0160_3.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 66  
+Ki-67 Index = (13 / (13 + 66)) x 100  
+Ki-67 Index: 16.46%
+
+===== p12_0162_6.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 62  
+Ki-67 Index = (14 / (14 + 62)) x 100  
+Ki-67 Index: 18.42%
+
+===== p12_0168_11.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 32  
+
+Ki-67 Index = (2 / (2 + 32)) x 100  
+
+Ki-67 Index: 5.88%
+
+===== p12_0168_2.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 66  
+Ki-67 Index = (7 / (7 + 66)) x 100  
+Ki-67 Index: 9.59%
+
+===== p12_0169_2.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 66  
+
+Ki-67 Index = (16 / (16 + 66)) x 100  
+Ki-67 Index = (16 / 82) x 100  
+Ki-67 Index = 19.51%  
+
+Ki-67 Index: 19.51%
+
+===== p12_0170_1.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 47  
+Ki-67 Index = (15 / (15 + 47)) x 100  
+Ki-67 Index: 24.19%
+
+===== p12_0170_7.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 39  
+Ki-67 Index = (10 / (10 + 39)) x 100 = 20.41%
+
+Ki-67 Index: 20.41%
+
+===== p12_0171_5.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 34  
+Ki-67 Index = (13 / (13 + 34)) x 100  
+Ki-67 Index: 27.66%
+
+===== p12_0171_7.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 56  
+Ki-67 Index = (10 / (10 + 56)) x 100  
+Ki-67 Index: 15.15%
+
+===== p12_0172_1.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 24  
+Ki-67 Index = (2 / (2 + 24)) x 100  
+Ki-67 Index: 7.69%
+
+===== p12_0172_11.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 24  
+Ki-67 Index = (3 / (3 + 24)) x 100  
+Ki-67 Index: 11.11%
+
+===== p12_0172_9.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 62  
+
+Ki-67 Index = (18 / (18 + 62)) x 100  
+Ki-67 Index = (18 / 80) x 100  
+Ki-67 Index = 22.50%  
+
+Ki-67 Index: 22.50%
+
+===== p12_0174_1.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 85  
+Ki-67 Index: (15 / (15 + 85)) x 100 = 15.00%
+
+Ki-67 Index: 15.00%
+
+===== p12_0174_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 41  
+Ki-67 Index = (13 / (13 + 41)) x 100  
+Ki-67 Index: 24.07%
+
+===== p12_0175_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 47  
+
+Ki-67 Index = (13 / (13 + 47)) x 100  
+Ki-67 Index = (13 / 60) x 100  
+Ki-67 Index = 21.67%  
+
+Ki-67 Index: 21.67%
+
+===== p12_0178_2.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 106  
+Ki-67 Index = (14 / (14 + 106)) x 100  
+Ki-67 Index: 11.67%
+
+===== p12_0178_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 66  
+Ki-67 Index = (13 / (13 + 66)) x 100  
+Ki-67 Index: 16.46%
+
+===== p12_0179_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 74  
+Ki-67 Index = (13 / (13 + 74)) x 100  
+Ki-67 Index: 14.94%
+
+===== p12_0182_9.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 41  
+Ki-67 Index = (7 / (7 + 41)) x 100  
+Ki-67 Index: 14.58%
+
+===== p12_0183_10.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 23  
+
+Ki-67 Index = (3 / (3 + 23)) x 100  
+Ki-67 Index = (3 / 26) x 100  
+Ki-67 Index = 11.54%  
+
+Ki-67 Index: 11.54%
+
+===== p13_0072_6.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 56  
+Ki-67 Index = (16 / (16 + 56)) x 100  
+Ki-67 Index: 22.22%
+
+===== p13_0075_3.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 44  
+
+Ki-67 Index = (6 / (6 + 44)) x 100  
+Ki-67 Index = (6 / 50) x 100  
+Ki-67 Index = 12.00%  
+
+Ki-67 Index: 12.00%
+
+===== p13_0076_10.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 74  
+Ki-67 Index = (14 / (14 + 74)) x 100  
+Ki-67 Index: 15.91%
+
+===== p13_0076_2.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 47  
+Ki-67 Index = (6 / (6 + 47)) x 100  
+Ki-67 Index: 11.32%
+
+===== p13_0081_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p13_0083_10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 66  
+
+Ki-67 Index = (22 / (22 + 66)) x 100  
+Ki-67 Index = (22 / 88) x 100  
+Ki-67 Index = 25.00%  
+
+Ki-67 Index: 25.00%
+
+===== p13_0083_7.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 41  
+
+Ki-67 Index = (22 / (22 + 41)) x 100  
+Ki-67 Index = (22 / 63) x 100  
+Ki-67 Index = 34.92%  
+
+Ki-67 Index: 34.92%
+
+===== p13_0084_3.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 30  
+
+Ki-67 Index = (13 / (13 + 30)) x 100  
+Ki-67 Index = (13 / 43) x 100  
+Ki-67 Index = 30.23%  
+
+Ki-67 Index: 30.23%
+
+===== p13_0084_7.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 32  
+
+Ki-67 Index = (13 / (13 + 32)) x 100  
+Ki-67 Index = (13 / 45) x 100  
+Ki-67 Index = 28.89%  
+
+Ki-67 Index: 28.89%
+
+===== p13_0085_2.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 62  
+Ki-67 Index = (8 / (8 + 62)) x 100  
+Ki-67 Index: 11.43%
+
+===== p13_0087_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 27  
+Ki-67 Index: (13 / (13 + 27)) x 100 = 32.50%  
+
+Ki-67 Index: 32.50%
+
+===== p13_0089_1.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 66  
+Ki-67 Index = (17 / (17 + 66)) x 100  
+Ki-67 Index: 20.48%
+
+===== p13_0089_6.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 56  
+Ki-67 Index = (9 / (9 + 56)) x 100  
+Ki-67 Index: 13.85%
+
+===== p13_0091_11.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 56  
+Ki-67 Index = (13 / (13 + 56)) x 100  
+Ki-67 Index: 18.84%
+
+===== p13_0093_11.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 49  
+
+Ki-67 Index = (17 / (17 + 49)) x 100  
+Ki-67 Index = (17 / 66) x 100  
+Ki-67 Index = 25.76%
+
+Ki-67 Index: 25.76%
+
+===== p13_0093_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 56  
+
+Ki-67 Index = (13 / (13 + 56)) x 100  
+Ki-67 Index = (13 / 69) x 100  
+Ki-67 Index = 18.84%  
+
+Ki-67 Index: 18.84%
+
+===== p13_0096_6.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 66  
+Ki-67 Index = (11 / (11 + 66)) x 100  
+Ki-67 Index: 14.29%
+
+===== p13_0096_9.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 56  
+Ki-67 Index = (15 / (15 + 56)) x 100  
+Ki-67 Index: 21.13%
+
+===== p13_0101_5.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 36  
+Ki-67 Index = (14 / (14 + 36)) x 100  
+Ki-67 Index: 28.00%
+
+===== p13_0102_3.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 32  
+
+Ki-67 Index = (15 / (15 + 32)) x 100  
+Ki-67 Index = (15 / 47) x 100  
+Ki-67 Index = 31.91%  
+
+Ki-67 Index: 31.91%
+
+===== p13_0103_6.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 56  
+
+Ki-67 Index = (22 / (22 + 56)) x 100  
+Ki-67 Index = (22 / 78) x 100  
+Ki-67 Index = 28.21%  
+
+Ki-67 Index: 28.21%
+
+===== p13_0111_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 49  
+Ki-67 Index = (13 / (13 + 49)) x 100  
+Ki-67 Index: 20.97%
+
+===== p13_0113_7.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 49  
+
+Ki-67 Index = (17 / (17 + 49)) x 100  
+Ki-67 Index = (17 / 66) x 100  
+Ki-67 Index = 25.76%
+
+Ki-67 Index: 25.76%
+
+===== p13_0115_1.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 49  
+Ki-67 Index = (16 / (16 + 49)) x 100  
+Ki-67 Index: 24.62%
+
+===== p13_0115_10.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 66  
+Ki-67 Index: (20 / (20 + 66)) x 100 = 23.26%
+
+Ki-67 Index: 23.26%
+
+===== p13_0115_3.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 42  
+Ki-67 Index = (10 / (10 + 42)) x 100  
+Ki-67 Index: 19.23%
+
+===== p13_0115_8.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 37  
+
+Ki-67 Index = (13 / (13 + 37)) x 100  
+
+Ki-67 Index: 26.00%
+
+===== p13_0117_6.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 47  
+
+Ki-67 Index = (23 / (23 + 47)) x 100  
+Ki-67 Index = (23 / 70) x 100  
+Ki-67 Index = 32.86%  
+
+Ki-67 Index: 32.86%
+
+===== p13_0122_1.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 47  
+
+Ki-67 Index = (17 / (17 + 47)) x 100  
+Ki-67 Index = (17 / 64) x 100  
+Ki-67 Index = 26.56%  
+
+Ki-67 Index: 26.56%
+
+===== p13_0123_6.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 29  
+Ki-67 Index = (22 / (22 + 29)) x 100  
+Ki-67 Index: 43.14%
+
+===== p13_0124_7.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 54  
+
+Ki-67 Index = (23 / (23 + 54)) x 100  
+Ki-67 Index = (23 / 77) x 100  
+Ki-67 Index = 29.87%  
+
+Ki-67 Index: 29.87%
+
+===== p13_0126_9.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 66  
+Ki-67 Index = (10 / (10 + 66)) x 100  
+Ki-67 Index: 13.16%
+
+===== p13_0127_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 32  
+Ki-67 Index = (13 / (13 + 32)) x 100  
+Ki-67 Index: 28.89%
+
+===== p13_0135_7.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 32  
+Ki-67 Index = (16 / (16 + 32)) x 100  
+Ki-67 Index: 33.33%
+
+===== p13_0136_3.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 41  
+
+Ki-67 Index = (13 / (13 + 41)) x 100  
+Ki-67 Index = (13 / 54) x 100  
+Ki-67 Index = 24.07%  
+
+Ki-67 Index: 24.07%
+
+===== p13_0139_11.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 54  
+
+Ki-67 Index = (17 / (17 + 54)) x 100  
+Ki-67 Index = (17 / 71) x 100  
+Ki-67 Index = 23.94%  
+
+Ki-67 Index: 23.94%
+
+===== p14_0001_1.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 95  
+
+Ki-67 Index = (2 / (2 + 95)) x 100  
+
+Ki-67 Index: 2.06%
+
+===== p14_0002_11.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 39  
+Ki-67 Index = (6 / (6 + 39)) x 100  
+Ki-67 Index: 13.33%
+
+===== p14_0003_9.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 32  
+Ki-67 Index = (4 / (4 + 32)) x 100  
+Ki-67 Index: 11.11%
+
+===== p14_0006_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 24  
+Ki-67 Index = (1 / (1 + 24)) x 100  
+Ki-67 Index: 4.00%
+
+===== p14_0010_6.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 22  
+Ki-67 Index = (10 / (10 + 22)) x 100  
+Ki-67 Index: 31.25%
+
+===== p14_0011_5.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 34  
+Ki-67 Index = (3 / (3 + 34)) x 100  
+Ki-67 Index: 8.11%
+
+===== p14_0016_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 56  
+Ki-67 Index = (1 / (1 + 56)) x 100  
+Ki-67 Index: 1.75%
+
+===== p14_0016_6.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 38  
+Ki-67 Index = (5 / (5 + 38)) x 100  
+Ki-67 Index: 11.63%
+
+===== p14_0017_9.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 52  
+
+Ki-67 Index = (6 / (6 + 52)) x 100  
+Ki-67 Index = (6 / 58) x 100  
+Ki-67 Index = 10.34%  
+
+Ki-67 Index: 10.34%
+
+===== p14_0018_7.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 32  
+Ki-67 Index = (0 / (0 + 32)) x 100  
+Ki-67 Index: 0.00%
+
+===== p14_0022_6.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 66  
+
+Ki-67 Index = (11 / (11 + 66)) x 100  
+Ki-67 Index = (11 / 77) x 100  
+Ki-67 Index = 14.29%  
+
+Ki-67 Index: 14.29%
+
+===== p14_0023_7.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 78  
+Ki-67 Index: (3 / (3 + 78)) x 100 = 3.70%  
+
+Ki-67 Index: 3.70%
+
+===== p14_0027_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 42  
+Ki-67 Index = (1 / (1 + 42)) x 100  
+Ki-67 Index: 2.33%
+
+===== p14_0027_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 38  
+Ki-67 Index = (1 / (1 + 38)) x 100  
+Ki-67 Index: 2.56%
+
+===== p14_0028_7.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 78  
+Ki-67 Index = (0 / (0 + 78)) x 100  
+Ki-67 Index: 0.00%
+
+===== p14_0032_2.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 47  
+Ki-67 Index = (6 / (6 + 47)) x 100  
+Ki-67 Index: 11.32%
+
+===== p14_0035_3.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 54  
+
+Ki-67 Index = (3 / (3 + 54)) x 100  
+Ki-67 Index = (3 / 57) x 100  
+Ki-67 Index = 5.26%  
+
+Ki-67 Index: 5.26%
+
+===== p14_0040_11.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 34  
+Ki-67 Index = (2 / (2 + 34)) x 100  
+Ki-67 Index: 5.56%
+
+===== p14_0043_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 52  
+Ki-67 Index = (1 / (1 + 52)) x 100  
+Ki-67 Index: 1.89%
+
+===== p14_0049_9.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 39  
+Ki-67 Index = (3 / (3 + 39)) x 100  
+Ki-67 Index: 7.14%
+
+===== p14_0052_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 29  
+Ki-67 Index = (1 / (1 + 29)) x 100  
+Ki-67 Index: 3.33%
+
+===== p14_0053_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0055_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0057_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0059_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0059_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0060_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0062_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0063_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0064_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0065_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0071_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0074_8.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0083_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0086_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0087_8.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0001_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0002_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0007_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0008_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0008_8.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0010_8.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0013_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0013_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0014_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0014_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0014_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0015_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0016_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0019_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0020_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0022_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0025_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0026_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0026_8.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0027_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0027_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0028_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0028_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0028_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0029_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0029_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0030_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0031_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0035_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0035_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0038_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0038_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0039_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0039_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0040_8.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p15_0044_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0327_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0327_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0330_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0335_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0343_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0343_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0345_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0346_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0346_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0350_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0353_4.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0354_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0355_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0356_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0359_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0360_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0361_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0363_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0366_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0369_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0373_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0375_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0376_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0376_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0379_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0379_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0387_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0389_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0390_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p16_0390_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0185_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0186_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0189_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0190_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0192_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0195_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0195_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0196_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0196_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0198_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0202_8.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0206_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0206_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0206_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0207_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0207_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0207_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0208_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0209_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0211_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0211_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0213_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0215_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0216_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0216_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0218_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0218_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0219_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0220_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0222_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0223_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p17_0225_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0002_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0006_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0007_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0014_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0015_8.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0018_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0020_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0021_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0021_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0023_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0023_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0028_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0030_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0036_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0037_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0038_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0040_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0045_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0050_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0050_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0050_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0053_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0054_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0064_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0071_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0140_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p18_0148_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0108_4.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0108_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0108_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0109_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0109_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0109_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0109_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0110_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0110_6.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0112_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0113_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0113_11.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0113_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0113_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0114_3.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0114_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0114_8.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0115_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0115_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0117_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0117_7.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p19_0121_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p1_0299_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p1_0299_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p1_0299_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p1_0299_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p1_0300_2.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p1_0309_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 32  
+Ki-67 Index = (1 / (1 + 32)) x 100  
+Ki-67 Index: 3.03%
+
+===== p14_0055_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 42  
+
+Ki-67 Index = (13 / (13 + 42)) x 100  
+Ki-67 Index = (13 / 55) x 100  
+Ki-67 Index = 23.64%  
+
+Ki-67 Index: 23.64%
+
+===== p14_0057_11.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 47  
+Ki-67 Index = (3 / (3 + 47)) x 100  
+Ki-67 Index: 6.00%
+
+===== p14_0059_7.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 32  
+
+Ki-67 Index = (13 / (13 + 32)) x 100  
+Ki-67 Index = (13 / 45) x 100  
+Ki-67 Index = 28.89%  
+
+Ki-67 Index: 28.89%
+
+===== p14_0059_9.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 47  
+
+Ki-67 Index = (5 / (5 + 47)) x 100  
+Ki-67 Index = (5 / 52) x 100  
+Ki-67 Index = 9.62%  
+
+Ki-67 Index: 9.62%
+
+===== p14_0060_11.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 52  
+Ki-67 Index = (8 / (8 + 52)) x 100  
+Ki-67 Index: 13.33%
+
+===== p14_0062_10.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 42  
+Ki-67 Index = (1 / (1 + 42)) x 100  
+Ki-67 Index: 2.33%
+
+===== p14_0063_2.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 38  
+Ki-67 Index = (0 / (0 + 38)) x 100  
+Ki-67 Index: 0.00%
+
+===== p14_0064_9.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 43  
+Ki-67 Index = (4 / (4 + 43)) x 100  
+Ki-67 Index: 8.51%
+
+===== p14_0065_5.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 47  
+Ki-67 Index = (0 / (0 + 47)) x 100  
+Ki-67 Index: 0.00%
+
+===== p14_0071_11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 47  
+
+Ki-67 Index = (22 / (22 + 47)) x 100  
+
+Ki-67 Index: 31.88%
+
+===== p14_0074_8.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 47  
+
+Ki-67 Index = (13 / (13 + 47)) x 100  
+Ki-67 Index = (13 / 60) x 100  
+Ki-67 Index = 21.67%  
+
+Ki-67 Index: 21.67%
+
+===== p14_0083_9.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 11  
+Ki-67 Index = (2 / (2 + 11)) x 100  
+Ki-67 Index: 15.38%
+
+===== p14_0086_3.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 52  
+Ki-67 Index: (0 / (0 + 52)) x 100  
+Ki-67 Index: 0.00%
+
+===== p14_0087_8.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 74  
+Ki-67 Index = (1 / (1 + 74)) x 100  
+Ki-67 Index: 1.33%
+
+===== p15_0001_6.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 41  
+Ki-67 Index = (17 / (17 + 41)) x 100  
+Ki-67 Index: 29.31%
+
+===== p15_0002_1.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 47  
+
+Ki-67 Index = (32 / (32 + 47)) x 100  
+Ki-67 Index = (32 / 79) x 100  
+Ki-67 Index = 40.51%  
+
+Ki-67 Index: 40.51%
+
+===== p15_0007_2.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 44  
+Ki-67 Index = (3 / (3 + 44)) x 100  
+Ki-67 Index: 6.38%
+
+===== p15_0008_10.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 78  
+Ki-67 Index = (9 / (9 + 78)) x 100  
+Ki-67 Index: 10.34%
+
+===== p15_0008_8.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 49  
+
+Ki-67 Index = (11 / (11 + 49)) x 100  
+Ki-67 Index = (11 / 60) x 100  
+Ki-67 Index = 18.33%  
+
+Ki-67 Index: 18.33%
+
+===== p15_0010_8.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 32  
+
+Ki-67 Index = (11 / (11 + 32)) x 100  
+Ki-67 Index = (11 / 43) x 100  
+Ki-67 Index = 25.58%
+
+Ki-67 Index: 25.58%
+
+===== p15_0013_2.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 26  
+
+Ki-67 Index = (8 / (8 + 26)) x 100  
+Ki-67 Index = (8 / 34) x 100  
+Ki-67 Index = 23.53%  
+
+Ki-67 Index: 23.53%
+
+===== p15_0013_6.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 6  
+Ki-67 Index = (8 / (8 + 6)) x 100  
+Ki-67 Index: 57.14%
+
+===== p15_0014_10.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 24  
+
+Ki-67 Index = (10 / (10 + 24)) x 100  
+Ki-67 Index = (10 / 34) x 100  
+Ki-67 Index = 29.41%  
+
+Ki-67 Index: 29.41%
+
+===== p15_0014_11.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 32  
+Ki-67 Index = (5 / (5 + 32)) x 100  
+Ki-67 Index: 13.51%
+
+===== p15_0014_5.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 12  
+Ki-67 Index = (13 / (13 + 12)) x 100  
+Ki-67 Index: 52.00%
+
+===== p15_0015_6.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 52  
+
+Ki-67 Index = (20 / (20 + 52)) x 100  
+Ki-67 Index = (20 / 72) x 100  
+Ki-67 Index = 27.78%  
+
+Ki-67 Index: 27.78%
+
+===== p15_0016_10.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 22  
+Ki-67 Index = (11 / (11 + 22)) x 100 = (11 / 33) x 100 = 33.33%
+
+Ki-67 Index: 33.33%
+
+===== p15_0019_6.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 34  
+Ki-67 Index = (2 / (2 + 34)) x 100 = 5.56%
+
+Ki-67 Index: 5.56%
+
+===== p15_0020_2.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 41  
+
+Ki-67 Index = (32 / (32 + 41)) x 100  
+
+Ki-67 Index: 43.84%
+
+===== p15_0022_6.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 52  
+
+Ki-67 Index = (6 / (6 + 52)) x 100  
+Ki-67 Index = (6 / 58) x 100  
+Ki-67 Index = 10.34%  
+
+Ki-67 Index: 10.34%
+
+===== p15_0025_3.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 47  
+
+Ki-67 Index = (13 / (13 + 47)) x 100  
+Ki-67 Index = (13 / 60) x 100  
+Ki-67 Index = 21.67%  
+
+Ki-67 Index: 21.67%
+
+===== p15_0026_5.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 47  
+Ki-67 Index: (1 / (1 + 47)) x 100 = 2.08%
+
+Ki-67 Index: 2.08%
+
+===== p15_0026_8.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 74  
+
+Ki-67 Index = (23 / (23 + 74)) x 100  
+
+Ki-67 Index: 23.71%
+
+===== p15_0027_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 34  
+Ki-67 Index = (13 / (13 + 34)) x 100 = (13 / 47) x 100 = 27.66%
+
+Ki-67 Index: 27.66%
+
+===== p15_0027_9.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 42  
+Ki-67 Index = (2 / (2 + 42)) x 100  
+Ki-67 Index: 4.55%
+
+===== p15_0028_1.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 26  
+Ki-67 Index = (4 / (4 + 26)) x 100  
+Ki-67 Index: 13.33%
+
+===== p15_0028_2.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 29  
+
+Ki-67 Index = (10 / (10 + 29)) x 100  
+
+Ki-67 Index: 25.64%
+
+===== p15_0028_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 4  
+
+Ki-67 Index = (8 / (8 + 4)) x 100  
+Ki-67 Index = (8 / 12) x 100  
+Ki-67 Index = 66.67%  
+
+Ki-67 Index: 66.67%
+
+===== p15_0029_10.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 27  
+Ki-67 Index = (10 / (10 + 27)) x 100  
+Ki-67 Index: 27.03%
+
+===== p15_0029_5.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 41  
+
+Ki-67 Index = (23 / (23 + 41)) x 100  
+Ki-67 Index = (23 / 64) x 100  
+Ki-67 Index = 35.94%  
+
+Ki-67 Index: 35.94%
+
+===== p15_0030_11.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 56  
+
+Ki-67 Index = (17 / (17 + 56)) x 100  
+Ki-67 Index = (17 / 73) x 100  
+Ki-67 Index = 23.29%  
+
+Ki-67 Index: 23.29%
+
+===== p15_0031_10.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 56  
+Ki-67 Index = (2 / (2 + 56)) x 100  
+Ki-67 Index: 3.45%
+
+===== p15_0035_7.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 32  
+Ki-67 Index = (17 / (17 + 32)) x 100  
+Ki-67 Index: 34.69%
+
+===== p15_0035_9.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 22  
+Ki-67 Index = (1 / (1 + 22)) x 100  
+Ki-67 Index: 4.35%
+
+===== p15_0038_11.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 41  
+Ki-67 Index = (22 / (22 + 41)) x 100  
+Ki-67 Index: 34.92%
+
+===== p15_0038_3.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 26  
+Ki-67 Index = (32 / (32 + 26)) x 100  
+Ki-67 Index: 55.17%
+
+===== p15_0039_3.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 24  
+
+Ki-67 Index = (20 / (20 + 24)) x 100  
+Ki-67 Index = (20 / 44) x 100  
+Ki-67 Index = 45.45%  
+
+Ki-67 Index: 45.45%
+
+===== p15_0039_6.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 41  
+Ki-67 Index = (29 / (29 + 41)) x 100  
+Ki-67 Index: 41.43%
+
+===== p15_0040_8.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 32  
+
+Ki-67 Index = (16 / (16 + 32)) x 100  
+Ki-67 Index = (16 / 48) x 100  
+Ki-67 Index = 33.33%  
+
+Ki-67 Index: 33.33%
+
+===== p15_0044_5.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 41  
+Ki-67 Index = (23 / (23 + 41)) x 100  
+Ki-67 Index: 35.94%
+
+===== p16_0327_2.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 56  
+
+Ki-67 Index = (17 / (17 + 56)) x 100  
+
+Ki-67 Index: 23.29%
+
+===== p16_0327_5.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 28  
+Ki-67 Index = (26 / (26 + 28)) x 100  
+Ki-67 Index: 48.15%
+
+===== p16_0330_1.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 66  
+Ki-67 Index = (11 / (11 + 66)) x 100  
+Ki-67 Index: 14.29%
+
+===== p16_0335_1.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 66  
+Ki-67 Index = (9 / (9 + 66)) x 100  
+Ki-67 Index: 12.00%
+
+===== p16_0343_2.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 103  
+Ki-67 Index: (13 / (13 + 103)) x 100 = 11.21%
+
+Ki-67 Index: 11.21%
+
+===== p16_0343_6.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 58  
+
+Ki-67 Index = (20 / (20 + 58)) x 100  
+Ki-67 Index = (20 / 78) x 100  
+Ki-67 Index = 25.64%  
+
+Ki-67 Index: 25.64%
+
+===== p16_0345_6.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 66  
+
+Ki-67 Index = (17 / (17 + 66)) x 100  
+Ki-67 Index = (17 / 83) x 100  
+Ki-67 Index = 20.48%  
+
+Ki-67 Index: 20.48%
+
+===== p16_0346_1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 56  
+
+Ki-67 Index = (13 / (13 + 56)) x 100  
+Ki-67 Index = (13 / 69) x 100  
+Ki-67 Index = 18.84%
+
+Ki-67 Index: 18.84%
+
+===== p16_0346_10.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 62  
+
+Ki-67 Index = (20 / (20 + 62)) x 100  
+Ki-67 Index = (20 / 82) x 100  
+Ki-67 Index = 24.39%
+
+Ki-67 Index: 24.39%
+
+===== p16_0350_10.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 41  
+
+Ki-67 Index = (32 / (32 + 41)) x 100  
+
+Ki-67 Index: 43.84%
+
+===== p16_0353_4.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 56  
+
+Ki-67 Index = (13 / (13 + 56)) x 100  
+Ki-67 Index = (13 / 69) x 100  
+Ki-67 Index = 18.84%  
+
+Ki-67 Index: 18.84%
+
+===== p16_0354_2.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 56  
+Ki-67 Index = (3 / (3 + 56)) x 100  
+Ki-67 Index: 5.08%
+
+===== p16_0355_6.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 24  
+Ki-67 Index = (8 / (8 + 24)) x 100  
+Ki-67 Index: 25.00%
+
+===== p16_0356_10.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 42  
+Ki-67 Index = (3 / (3 + 42)) x 100  
+Ki-67 Index: 6.67%
+
+===== p16_0359_3.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 49  
+
+Ki-67 Index = (17 / (17 + 49)) x 100  
+Ki-67 Index = (17 / 66) x 100  
+Ki-67 Index = 25.76%
+
+Ki-67 Index: 25.76%
+
+===== p16_0360_2.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 44  
+Ki-67 Index = (6 / (6 + 44)) x 100  
+Ki-67 Index: 12.00%
+
+===== p16_0361_7.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 56  
+
+Ki-67 Index = (22 / (22 + 56)) x 100  
+Ki-67 Index = (22 / 78) x 100  
+Ki-67 Index = 28.21%  
+
+Ki-67 Index: 28.21%
+
+===== p16_0363_2.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 66  
+Ki-67 Index = (11 / (11 + 66)) x 100  
+Ki-67 Index: 14.29%
+
+===== p16_0366_10.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 41  
+Ki-67 Index = (2 / (2 + 41)) x 100  
+Ki-67 Index: 4.65%
+
+===== p16_0369_3.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 47  
+Ki-67 Index = (20 / (20 + 47)) x 100  
+Ki-67 Index: 29.85%
+
+===== p16_0373_11.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 47  
+Ki-67 Index = (13 / (13 + 47)) x 100  
+Ki-67 Index: 21.67%
+
+===== p16_0375_3.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 56  
+Ki-67 Index = (7 / (7 + 56)) x 100  
+Ki-67 Index: 11.11%
+
+===== p16_0376_11.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 66  
+
+Ki-67 Index = (23 / (23 + 66)) x 100  
+
+Ki-67 Index: 25.84%
+
+===== p16_0376_7.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 66  
+
+Ki-67 Index = (27 / (27 + 66)) x 100  
+Ki-67 Index = (27 / 93) x 100  
+Ki-67 Index = 29.03%  
+
+Ki-67 Index: 29.03%
+
+===== p16_0379_2.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 140  
+
+Ki-67 Index = (13 / (13 + 140)) x 100  
+Ki-67 Index = (13 / 153) x 100  
+Ki-67 Index = 8.50%  
+
+Ki-67 Index: 8.50%
+
+===== p16_0379_6.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 140  
+Ki-67 Index = (5 / (5 + 140)) x 100  
+Ki-67 Index: 3.45%
+
+===== p16_0387_1.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 56  
+Ki-67 Index = (4 / (4 + 56)) x 100  
+Ki-67 Index: 6.67%
+
+===== p16_0389_3.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 66  
+Ki-67 Index = (13 / (13 + 66)) x 100  
+Ki-67 Index: 16.46%
+
+===== p16_0390_6.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 66  
+Ki-67 Index = (22 / (22 + 66)) x 100  
+Ki-67 Index: 25.00%
+
+===== p16_0390_7.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 66  
+
+Ki-67 Index = (13 / (13 + 66)) x 100  
+Ki-67 Index = (13 / 79) x 100  
+Ki-67 Index = 16.46%  
+
+Ki-67 Index: 16.46%
+
+===== p17_0185_6.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 17  
+
+Ki-67 Index = (32 / (32 + 17)) x 100  
+Ki-67 Index = (32 / 49) x 100  
+Ki-67 Index = 65.31%  
+
+Ki-67 Index: 65.31%
+
+===== p17_0186_5.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 32  
+
+Ki-67 Index = (27 / (27 + 32)) x 100  
+Ki-67 Index = (27 / 59) x 100  
+Ki-67 Index = 45.76%  
+
+Ki-67 Index: 45.76%
+
+===== p17_0189_6.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 18  
+
+Ki-67 Index = (20 / (20 + 18)) x 100  
+
+Ki-67 Index: 52.63%
+
+===== p17_0190_7.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 32  
+
+Ki-67 Index = (34 / (34 + 32)) x 100  
+
+Ki-67 Index: 51.52%
+
+===== p17_0192_6.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 49  
+
+Ki-67 Index = (52 / (52 + 49)) x 100  
+
+Ki-67 Index: 51.49%
+
+===== p17_0195_2.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 43  
+
+Ki-67 Index = (23 / (23 + 43)) x 100  
+Ki-67 Index = (23 / 66) x 100  
+Ki-67 Index = 34.85%  
+
+Ki-67 Index: 34.85%
+
+===== p17_0195_5.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 56  
+
+Ki-67 Index = (13 / (13 + 56)) x 100  
+Ki-67 Index = (13 / 69) x 100  
+Ki-67 Index = 18.84%  
+
+Ki-67 Index: 18.84%
+
+===== p17_0196_10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 34  
+
+Ki-67 Index = (22 / (22 + 34)) x 100  
+
+Ki-67 Index: 39.29%
+
+===== p17_0196_11.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 47  
+
+Ki-67 Index = (17 / (17 + 47)) x 100  
+Ki-67 Index = (17 / 64) x 100  
+Ki-67 Index = 26.56%  
+
+Ki-67 Index: 26.56%
+
+===== p17_0198_5.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 27  
+Ki-67 Index = (23 / (23 + 27)) x 100  
+Ki-67 Index: 46.00%
+
+===== p17_0202_8.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 27  
+Ki-67 Index = (3 / (3 + 27)) x 100  
+Ki-67 Index: 10.00%
+
+===== p17_0206_5.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 22  
+
+Ki-67 Index = (24 / (24 + 22)) x 100  
+Ki-67 Index = (24 / 46) x 100  
+Ki-67 Index = 52.17%  
+
+Ki-67 Index: 52.17%
+
+===== p17_0206_7.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 34  
+
+Ki-67 Index = (32 / (32 + 34)) x 100  
+
+Ki-67 Index: 48.48%
+
+===== p17_0206_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 17  
+Ki-67 Index = (13 / (13 + 17)) x 100  
+Ki-67 Index: 43.33%
+
+===== p17_0207_2.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 47  
+Ki-67 Index = (23 / (23 + 47)) x 100  
+Ki-67 Index: 32.86%
+
+===== p17_0207_6.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 74  
+
+Ki-67 Index = (20 / (20 + 74)) x 100  
+
+Ki-67 Index: 21.28%
+
+===== p17_0207_7.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 54  
+
+Ki-67 Index = (20 / (20 + 54)) x 100  
+
+Ki-67 Index: 27.03%
+
+===== p17_0208_9.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 54  
+Ki-67 Index = (47 / (47 + 54)) x 100  
+Ki-67 Index: 46.53%
+
+===== p17_0209_6.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 56  
+Ki-67 Index = (20 / (20 + 56)) x 100 = 26.32%
+
+Ki-67 Index: 26.32%
+
+===== p17_0211_10.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+Ki-67 Index: (34 / (34 + 66)) x 100 = 34.00%  
+
+Ki-67 Index: 34.00%
+
+===== p17_0211_2.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 78  
+
+Ki-67 Index = (29 / (29 + 78)) x 100  
+Ki-67 Index = (29 / 107) x 100  
+Ki-67 Index = 27.10%  
+
+Ki-67 Index: 27.10%
+
+===== p17_0213_9.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 34  
+
+Ki-67 Index = (27 / (27 + 34)) x 100  
+Ki-67 Index = (27 / 61) x 100  
+Ki-67 Index = 44.26%  
+
+Ki-67 Index: 44.26%
+
+===== p17_0215_6.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 66  
+Ki-67 Index = (32 / (32 + 66)) x 100  
+Ki-67 Index: 32.65%
+
+===== p17_0216_3.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 54  
+Ki-67 Index = (32 / (32 + 54)) x 100  
+Ki-67 Index: 37.21%
+
+===== p17_0216_5.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 34  
+
+Ki-67 Index = (29 / (29 + 34)) x 100  
+
+Ki-67 Index: 46.03%
+
+===== p17_0218_1.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 56  
+
+Ki-67 Index = (22 / (22 + 56)) x 100  
+
+Ki-67 Index: 28.21%
+
+===== p17_0218_6.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 41  
+
+Ki-67 Index = (23 / (23 + 41)) x 100  
+Ki-67 Index = (23 / 64) x 100  
+Ki-67 Index = 35.94%  
+
+Ki-67 Index: 35.94%
+
+===== p17_0219_7.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 34  
+Ki-67 Index = (47 / (47 + 34)) x 100  
+Ki-67 Index: 58.02%
+
+===== p17_0220_10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 32  
+Ki-67 Index = (22 / (22 + 32)) x 100  
+Ki-67 Index: 40.74%
+
+===== p17_0222_7.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 29  
+
+Ki-67 Index = (32 / (32 + 29)) x 100  
+
+Ki-67 Index: 52.46%
+
+===== p17_0223_10.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 32  
+
+Ki-67 Index = (20 / (20 + 32)) x 100  
+Ki-67 Index = (20 / 52) x 100  
+Ki-67 Index = 38.46%  
+
+Ki-67 Index: 38.46%
+
+===== p17_0225_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 49  
+
+Ki-67 Index = (13 / (13 + 49)) x 100  
+
+Ki-67 Index: 20.97%
+
+===== p18_0002_11.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 95  
+
+Ki-67 Index = (27 / (27 + 95)) x 100  
+Ki-67 Index = (27 / 122) x 100  
+Ki-67 Index = 22.13%  
+
+Ki-67 Index: 22.13%
+
+===== p18_0006_7.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 41  
+
+Ki-67 Index = (16 / (16 + 41)) x 100  
+Ki-67 Index = (16 / 57) x 100  
+Ki-67 Index = 28.07%
+
+Ki-67 Index: 28.07%
+
+===== p18_0007_10.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 56  
+
+Ki-67 Index = (23 / (23 + 56)) x 100  
+
+Ki-67 Index: 29.11%
+
+===== p18_0014_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 56  
+
+Ki-67 Index = (22 / (22 + 56)) x 100  
+Ki-67 Index = (22 / 78) x 100  
+Ki-67 Index = 28.21%  
+
+Ki-67 Index: 28.21%
+
+===== p18_0015_8.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 66  
+Ki-67 Index: (23 / (23 + 66)) x 100 = 25.84%
+
+Ki-67 Index: 25.84%
+
+===== p18_0018_9.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 56  
+Ki-67 Index = (3 / (3 + 56)) x 100  
+Ki-67 Index: 5.08%
+
+===== p18_0020_1.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 78  
+Ki-67 Index = (7 / (7 + 78)) x 100  
+Ki-67 Index: 8.24%
+
+===== p18_0021_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 66  
+Ki-67 Index = (22 / (22 + 66)) x 100  
+Ki-67 Index: 25.00%
+
+===== p18_0021_6.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 56  
+
+Ki-67 Index = (17 / (17 + 56)) x 100  
+Ki-67 Index = (17 / 73) x 100  
+Ki-67 Index = 23.29%  
+
+Ki-67 Index: 23.29%
+
+===== p18_0023_2.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 47  
+Ki-67 Index = (10 / (10 + 47)) x 100  
+Ki-67 Index: 17.54%
+
+===== p18_0023_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 50  
+
+Ki-67 Index = (8 / (8 + 50)) x 100  
+
+Ki-67 Index: 13.79%
+
+===== p18_0028_5.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 56  
+
+Ki-67 Index = (22 / (22 + 56)) x 100  
+Ki-67 Index = (22 / 78) x 100  
+Ki-67 Index = 28.21%  
+
+Ki-67 Index: 28.21%
+
+===== p18_0030_7.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 47  
+
+Ki-67 Index = (17 / (17 + 47)) x 100  
+
+Ki-67 Index: 26.56%
+
+===== p18_0036_11.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 41  
+Ki-67 Index = (14 / (14 + 41)) x 100  
+Ki-67 Index: 25.45%
+
+===== p18_0037_3.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 56  
+
+Ki-67 Index = (23 / (23 + 56)) x 100  
+Ki-67 Index = (23 / 79) x 100  
+Ki-67 Index = 29.11%  
+
+Ki-67 Index: 29.11%
+
+===== p18_0038_10.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 106  
+
+Ki-67 Index = (34 / (34 + 106)) x 100  
+Ki-67 Index = (34 / 140) x 100  
+Ki-67 Index = 24.29%  
+
+Ki-67 Index: 24.29%
+
+===== p18_0040_10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 120  
+Ki-67 Index = (22 / (22 + 120)) x 100  
+Ki-67 Index: 15.49%
+
+===== p18_0045_10.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 56  
+
+Ki-67 Index = (22 / (22 + 56)) x 100  
+Ki-67 Index = (22 / 78) x 100  
+Ki-67 Index = 28.21%  
+
+Ki-67 Index: 28.21%
+
+===== p18_0050_2.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 74  
+Ki-67 Index = (32 / (32 + 74)) x 100  
+Ki-67 Index: 30.19%
+
+===== p18_0050_3.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 68  
+Ki-67 Index: (32 / (32 + 68)) x 100 = 32.00%  
+
+Ki-67 Index: 32.00%
+
+===== p18_0050_5.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 68  
+
+Ki-67 Index = (32 / (32 + 68)) x 100  
+
+Ki-67 Index: 32.00%
+
+===== p18_0053_7.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 43  
+Ki-67 Index = (29 / (29 + 43)) x 100  
+Ki-67 Index: 40.28%
+
+===== p18_0054_1.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 66  
+
+Ki-67 Index = (27 / (27 + 66)) x 100  
+Ki-67 Index = (27 / 93) x 100  
+Ki-67 Index = 29.03%  
+
+Ki-67 Index: 29.03%
+
+===== p18_0064_6.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 47  
+Ki-67 Index = (14 / (14 + 47)) x 100  
+Ki-67 Index: 22.95%
+
+===== p18_0071_1.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 41  
+
+Ki-67 Index = (22 / (22 + 41)) x 100  
+
+Ki-67 Index: 34.92%
+
+===== p18_0140_1.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 56  
+
+Ki-67 Index = (23 / (23 + 56)) x 100  
+Ki-67 Index = (23 / 79) x 100  
+Ki-67 Index = 29.11%
+
+Ki-67 Index: 29.11%
+
+===== p18_0148_6.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 41  
+Ki-67 Index = (22 / (22 + 41)) x 100  
+Ki-67 Index: 34.92%
+
+===== p19_0108_4.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 66  
+Ki-67 Index = (13 / (13 + 66)) x 100  
+Ki-67 Index: 16.46%
+
+===== p19_0108_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 66  
+Ki-67 Index = (13 / (13 + 66)) x 100  
+Ki-67 Index: 16.46%
+
+===== p19_0108_7.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 84  
+
+Ki-67 Index = (23 / (23 + 84)) x 100  
+
+Ki-67 Index: 21.50%
+
+===== p19_0109_2.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 86  
+
+Ki-67 Index = (16 / (16 + 86)) x 100  
+Ki-67 Index = (16 / 102) x 100  
+Ki-67 Index = 15.69%
+
+Ki-67 Index: 15.69%
+
+===== p19_0109_5.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 74  
+Ki-67 Index = (9 / (9 + 74)) x 100  
+Ki-67 Index: 10.84%
+
+===== p19_0109_7.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 92  
+Ki-67 Index = (13 / (13 + 92)) x 100  
+Ki-67 Index: 12.38%
+
+===== p19_0109_9.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 92  
+Ki-67 Index = (13 / (13 + 92)) x 100  
+Ki-67 Index: 12.38%
+
+===== p19_0110_2.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 103  
+Ki-67 Index = (26 / (26 + 103)) x 100  
+Ki-67 Index: 20.16%
+
+===== p19_0110_6.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 66  
+Ki-67 Index = (13 / (13 + 66)) x 100  
+Ki-67 Index: 16.46%
+
+===== p19_0112_7.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 106  
+Ki-67 Index = (16 / (16 + 106)) x 100  
+Ki-67 Index: 13.11%
+
+===== p19_0113_10.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 92  
+Ki-67 Index = (8 / (8 + 92)) x 100  
+Ki-67 Index: 8.00%
+
+===== p19_0113_11.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 92  
+Ki-67 Index = (4 / (4 + 92)) x 100  
+Ki-67 Index: 4.17%
+
+===== p19_0113_3.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 106  
+Ki-67 Index = (7 / (7 + 106)) x 100  
+Ki-67 Index: 6.19%
+
+===== p19_0113_9.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 66  
+Ki-67 Index = (11 / (11 + 66)) x 100  
+Ki-67 Index: 14.29%
+
+===== p19_0114_3.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 56  
+Ki-67 Index = (4 / (4 + 56)) x 100  
+Ki-67 Index: 6.67%
+
+===== p19_0114_5.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 47  
+Ki-67 Index = (5 / (5 + 47)) x 100  
+Ki-67 Index: 9.62%
+
+===== p19_0114_8.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 42  
+Ki-67 Index = (4 / (4 + 42)) x 100  
+Ki-67 Index: 8.70%
+
+===== p19_0115_5.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 42  
+Ki-67 Index = (4 / (4 + 42)) x 100  
+Ki-67 Index: 8.70%
+
+===== p19_0115_7.jpg =====
+Immunopositive cells: 8  
+Immunonegative cells: 120  
+Ki-67 Index = (8 / (8 + 120)) x 100  
+Ki-67 Index: 6.25%
+
+===== p19_0117_1.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 38  
+Ki-67 Index = (3 / (3 + 38)) x 100 = 7.32%
+
+Ki-67 Index: 7.32%
+
+===== p19_0117_7.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 66  
+Ki-67 Index = (11 / (11 + 66)) x 100  
+Ki-67 Index: 14.29%
+
+===== p19_0121_1.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 50  
+Ki-67 Index = (1 / (1 + 50)) x 100  
+Ki-67 Index: 1.96%
+
+===== p1_0299_1.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 183  
+Ki-67 Index = (27 / (27 + 183)) x 100  
+Ki-67 Index: 12.86%
+
+===== p1_0299_10.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 156  
+
+Ki-67 Index = (17 / (17 + 156)) x 100  
+Ki-67 Index = (17 / 173) x 100  
+Ki-67 Index = 9.83%  
+
+Ki-67 Index: 9.83%
+
+===== p1_0299_5.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 170  
+Ki-67 Index = (34 / (34 + 170)) x 100  
+Ki-67 Index: 16.67%
+
+===== p1_0299_9.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 141  
+Ki-67 Index = (32 / (32 + 141)) x 100  
+Ki-67 Index: 18.50%
+
+===== p1_0300_2.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 47  
+Ki-67 Index = (9 / (9 + 47)) x 100 = (9 / 56) x 100 = 16.07%
+
+Ki-67 Index: 16.07%
+
+===== p1_0309_10.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 64  
+Ki-67 Index = (3 / (3 + 64)) x 100  
+Ki-67 Index: 4.48%
+
+===== p1_0309_3.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 56  
+Ki-67 Index = (4 / (4 + 56)) x 100  
+Ki-67 Index: 6.67%
+
+===== p1_0309_9.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 74  
+Ki-67 Index = (3 / (3 + 74)) x 100  
+Ki-67 Index: 3.90%
+
+===== p1_0310_7.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 86  
+Ki-67 Index = (11 / (11 + 86)) x 100  
+Ki-67 Index: 11.34%
+
+===== p1_0310_8.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 66  
+
+Ki-67 Index = (3 / (3 + 66)) x 100  
+Ki-67 Index = (3 / 69) x 100  
+Ki-67 Index = 4.35%  
+
+Ki-67 Index: 4.35%
+
+===== p1_0313_1.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 92  
+Ki-67 Index: (4 / (4 + 92)) x 100 = 4.17%
+
+Ki-67 Index: 4.17%
+
+===== p1_0313_3.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 106  
+Ki-67 Index: (9 / (9 + 106)) x 100 = 7.83%  
+
+Ki-67 Index: 7.83%
+
+===== p1_0313_5.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 74  
+Ki-67 Index = (2 / (2 + 74)) x 100  
+Ki-67 Index: 2.63%
+
+===== p1_0315_7.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 78  
+Ki-67 Index = (4 / (4 + 78)) x 100  
+Ki-67 Index: 4.88%
+
+===== p1_0317_1.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 47  
+Ki-67 Index = (11 / (11 + 47)) x 100  
+Ki-67 Index: 18.97%
+
+===== p1_0317_10.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 184  
+Ki-67 Index = (13 / (13 + 184)) x 100  
+Ki-67 Index: 6.60%
+
+===== p1_0317_6.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 105  
+Ki-67 Index = (5 / (5 + 105)) x 100  
+Ki-67 Index: 4.55%
+
+===== p1_0317_7.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 180  
+Ki-67 Index = (32 / (32 + 180)) x 100  
+Ki-67 Index: 15.09%
+
+===== p1_0318_1.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 22  
+Ki-67 Index = (4 / (4 + 22)) x 100  
+Ki-67 Index: 15.38%
+
+===== p1_0319_1.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 66  
+
+Ki-67 Index = (5 / (5 + 66)) x 100  
+Ki-67 Index = (5 / 71) x 100  
+Ki-67 Index = 7.04%
+
+Ki-67 Index: 7.04%
+
+===== p1_0321_7.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 42  
+Ki-67 Index = (10 / (10 + 42)) x 100  
+Ki-67 Index: 19.23%
+
+===== p1_0322_7.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 49  
+Ki-67 Index = (10 / (10 + 49)) x 100 = 16.95%
+
+Ki-67 Index: 16.95%
+
+===== p20_0068_11.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 72  
+Ki-67 Index = (29 / (29 + 72)) x 100  
+Ki-67 Index: 28.71%
+
+===== p20_0071_10.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 66  
+
+Ki-67 Index = (27 / (27 + 66)) x 100  
+Ki-67 Index = (27 / 93) x 100  
+Ki-67 Index = 29.03%  
+
+Ki-67 Index: 29.03%
+
+===== p20_0074_8.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 66  
+
+Ki-67 Index = (22 / (22 + 66)) x 100  
+Ki-67 Index = (22 / 88) x 100  
+Ki-67 Index = 25.00%  
+
+Ki-67 Index: 25.00%
+
+===== p20_0075_12.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 92  
+
+Ki-67 Index = (11 / (11 + 92)) x 100  
+Ki-67 Index = (11 / 103) x 100  
+Ki-67 Index = 10.68%
+
+Ki-67 Index: 10.68%
+
+===== p20_0076_8.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 66  
+Ki-67 Index = (24 / (24 + 66)) x 100  
+Ki-67 Index: 26.67%
+
+===== p20_0078_9.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 66  
+Ki-67 Index = (27 / (27 + 66)) x 100  
+Ki-67 Index: 29.03%
+
+===== p20_0079_12.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 66  
+Ki-67 Index = (23 / (23 + 66)) x 100  
+Ki-67 Index: 25.84%
+
+===== p12_0130_10.jpg =====
+Positive cells: 2
+Negative cells: 15
+Proliferation Index = (2)/(2+15)
+Proliferation Index = (2)/(17)
+Proliferation Index = 0,117647
+Proliferation Index = 0,117647 * 100
+Proliferation Index: 11.76%
+
+===== p19_0115_5.jpg =====
+"""
+Positive cells: 0
+Negative cells: 20
+Proliferation Index = (0)/(0+20)
+Proliferation Index = (0)/(20)
+Proliferation Index = 0,000000
+Proliferation Index = 0,000000 * 100
+Proliferation Index: 0.00%
+"""
+
+===== p20_0079_5.jpg =====
+Positive cells: 41
+Negative cells: 62
+Proliferation Index = (41)/(41+62)
+Proliferation Index = (41)/(103)
+Proliferation Index = 0,398058
+Proliferation Index = 0,398058 * 100
+Proliferation Index: 39.81%
+
+===== p20_0081_5.jpg =====
+Positive cells: 14
+Negative cells: 72
+Proliferation Index = (14)/(14+72)
+Proliferation Index = (14)/(86)
+Proliferation Index = 0,162791
+Proliferation Index = 0,162791 * 100
+Proliferation Index: 16.28%
+
+===== p20_0081_6.jpg =====
+Positive cells: 23
+Negative cells: 66
+Proliferation Index = (23)/(23+66)
+Proliferation Index = (23)/(89)
+Proliferation Index = 0,258427
+Proliferation Index = 0,258427 * 100
+Proliferation Index: 25.84%
+
+===== p20_0083_6.jpg =====
+Positive cells: 6
+Negative cells: 47
+Proliferation Index = (6)/(6+47)
+Proliferation Index = (6)/(53)
+Proliferation Index = 0,113208
+Proliferation Index = 0,113208 * 100
+Proliferation Index: 11.32%
+
+===== p20_0085_2.jpg =====
+Positive cells: 27
+Negative cells: 66
+Proliferation Index = (27)/(27+66)
+Proliferation Index = (27)/(93)
+Proliferation Index = 0,290323
+Proliferation Index = 0,290323 * 100
+Proliferation Index: 29.03%
+
+===== p20_0085_8.jpg =====
+Positive cells: 32
+Negative cells: 95
+Proliferation Index = (32)/(32+95)
+Proliferation Index = (32)/(127)
+Proliferation Index = 0,251969
+Proliferation Index = 0,251969 * 100
+Proliferation Index: 25.20%
+
+===== p20_0087_9.jpg =====
+Positive cells: 20
+Negative cells: 72
+Proliferation Index = (20)/(20+72)
+Proliferation Index = (20)/(92)
+Proliferation Index = 0,217391
+Proliferation Index = 0,217391 * 100
+Proliferation Index: 21.74%
+
+===== p20_0089_10.jpg =====
+Positive cells: 11
+Negative cells: 95
+Proliferation Index = (11)/(11+95)
+Proliferation Index = (11)/(106)
+Proliferation Index = 0,103774
+Proliferation Index = 0,103774 * 100
+Proliferation Index: 10.38%
+
+===== p20_0089_7.jpg =====
+Positive cells: 6
+Negative cells: 78
+Proliferation Index = (6)/(6+78)
+Proliferation Index = (6)/(84)
+Proliferation Index = 0,071429
+Proliferation Index = 0,071429 * 100
+Proliferation Index: 7.14%
+
+===== p20_0094_12.jpg =====
+Positive cells: 34
+Negative cells: 106
+Proliferation Index = (34)/(34+106)
+Proliferation Index = (34)/(140)
+Proliferation Index = 0,242857
+Proliferation Index = 0,242857 * 100
+Proliferation Index: 24.29%
+
+===== p20_0094_8.jpg =====
+Positive cells: 41
+Negative cells: 72
+Proliferation Index = (41)/(41+72)
+Proliferation Index = (41)/(113)
+Proliferation Index = 0,362832
+Proliferation Index = 0,362832 * 100
+Proliferation Index: 36.28%
+
+===== p20_0096_9.jpg =====
+Positive cells: 27
+Negative cells: 56
+Proliferation Index = (27)/(27+56)
+Proliferation Index = (27)/(83)
+Proliferation Index = 0,325301
+Proliferation Index = 0,325301 * 100
+Proliferation Index: 32.53%
+
+===== p20_0097_12.jpg =====
+Positive cells: 24
+Negative cells: 72
+Proliferation Index = (24)/(24+72)
+Proliferation Index = (24)/(96)
+Proliferation Index = 0,250000
+Proliferation Index = 0,250000 * 100
+Proliferation Index: 25.00%
+
+===== p20_0098_6.jpg =====
+Positive cells: 27
+Negative cells: 74
+Proliferation Index = (27)/(27+74)
+Proliferation Index = (27)/(101)
+Proliferation Index = 0,267327
+Proliferation Index = 0,267327 * 100
+Proliferation Index: 26.73%
+
+===== p20_0099_12.jpg =====
+Positive cells: 20
+Negative cells: 74
+Proliferation Index = (20)/(20+74)
+Proliferation Index = (20)/(94)
+Proliferation Index = 0,212766
+Proliferation Index = 0,212766 * 100
+Proliferation Index: 21.28%
+
+===== p20_0099_5.jpg =====
+Positive cells: 17
+Negative cells: 95
+Proliferation Index = (17)/(17+95)
+Proliferation Index = (17)/(112)
+Proliferation Index = 0,151786
+Proliferation Index = 0,151786 * 100
+Proliferation Index: 15.18%
+
+===== p20_0100_8.jpg =====
+Positive cells: 20
+Negative cells: 78
+Proliferation Index = (20)/(20+78)
+Proliferation Index = (20)/(98)
+Proliferation Index = 0,204082
+Proliferation Index = 0,204082 * 100
+Proliferation Index: 20.41%
+
+===== p20_0101_12.jpg =====
+Positive cells: 10
+Negative cells: 56
+Proliferation Index = (10)/(10+56)
+Proliferation Index = (10)/(66)
+Proliferation Index = 0,151515
+Proliferation Index = 0,151515 * 100
+Proliferation Index: 15.15%
+
+===== p20_0102_11.jpg =====
+Positive cells: 15
+Negative cells: 56
+Proliferation Index = (15)/(15+56)
+Proliferation Index = (15)/(71)
+Proliferation Index = 0,211268
+Proliferation Index = 0,211268 * 100
+Proliferation Index: 21.13%
+
+===== p20_0108_11.jpg =====
+Positive cells: 22
+Negative cells: 56
+Proliferation Index = (22)/(22+56)
+Proliferation Index = (22)/(78)
+Proliferation Index = 0,282051
+Proliferation Index = 0,282051 * 100
+Proliferation Index: 28.21%
+
+===== p20_0108_12.jpg =====
+Positive cells: 22
+Negative cells: 72
+Proliferation Index = (22)/(22+72)
+Proliferation Index = (22)/(94)
+Proliferation Index = 0,234043
+Proliferation Index = 0,234043 * 100
+Proliferation Index: 23.40%
+
+===== p20_0112_12.jpg =====
+Positive cells: 32
+Negative cells: 74
+Proliferation Index = (32)/(32+74)
+Proliferation Index = (32)/(106)
+Proliferation Index = 0,301887
+Proliferation Index = 0,301887 * 100
+Proliferation Index: 30.19%
+
+===== p20_0113_10.jpg =====
+Positive cells: 22
+Negative cells: 78
+Proliferation Index = (22)/(22+78)
+Proliferation Index = (22)/(100)
+Proliferation Index = 0,220000
+Proliferation Index = 0,220000 * 100
+Proliferation Index: 22.00%
+
+===== p20_0120_11.jpg =====
+Positive cells: 17
+Negative cells: 74
+Proliferation Index = (17)/(17+74)
+Proliferation Index = (17)/(91)
+Proliferation Index = 0,186813
+Proliferation Index = 0,186813 * 100
+Proliferation Index: 18.68%
+
+===== p20_0120_5.jpg =====
+Positive cells: 41
+Negative cells: 62
+Proliferation Index = (41)/(41+62)
+Proliferation Index = (41)/(103)
+Proliferation Index = 0,398058
+Proliferation Index = 0,398058 * 100
+Proliferation Index: 39.81%
+
+===== p20_0120_6.jpg =====
+Positive cells: 27
+Negative cells: 56
+Proliferation Index = (27)/(27+56)
+Proliferation Index = (27)/(83)
+Proliferation Index = 0,325301
+Proliferation Index = 0,325301 * 100
+Proliferation Index: 32.53%
+
+===== p20_0120_8.jpg =====
+Positive cells: 32
+Negative cells: 47
+Proliferation Index = (32)/(32+47)
+Proliferation Index = (32)/(79)
+Proliferation Index = 0,405063
+Proliferation Index = 0,405063 * 100
+Proliferation Index: 40.51%
+
+===== p20_0121_12.jpg =====
+Positive cells: 32
+Negative cells: 61
+Proliferation Index = (32)/(32+61)
+Proliferation Index = (32)/(93)
+Proliferation Index = 0,344086
+Proliferation Index = 0,344086 * 100
+Proliferation Index: 34.41%
+
+===== p20_0122_10.jpg =====
+Positive cells: 20
+Negative cells: 72
+Proliferation Index = (20)/(20+72)
+Proliferation Index = (20)/(92)
+Proliferation Index = 0,217391
+Proliferation Index = 0,217391 * 100
+Proliferation Index: 21.74%
+
+===== p20_0127_7.jpg =====
+Positive cells: 20
+Negative cells: 72
+Proliferation Index = (20)/(20+72)
+Proliferation Index = (20)/(92)
+Proliferation Index = 0,217391
+Proliferation Index = 0,217391 * 100
+Proliferation Index: 21.74%
+
+===== p20_0128_6.jpg =====
+Positive cells: 26
+Negative cells: 54
+Proliferation Index = (26)/(26+54)
+Proliferation Index = (26)/(80)
+Proliferation Index = 0,325000
+Proliferation Index = 0,325000 * 100
+Proliferation Index: 32.50%
+
+===== p20_0130_3.jpg =====
+Positive cells: 15
+Negative cells: 72
+Proliferation Index = (15)/(15+72)
+Proliferation Index = (15)/(87)
+Proliferation Index = 0,172414
+Proliferation Index = 0,172414 * 100
+Proliferation Index: 17.24%
+
+===== p20_0134_4.jpg =====
+Positive cells: 32
+Negative cells: 66
+Proliferation Index = (32)/(32+66)
+Proliferation Index = (32)/(98)
+Proliferation Index = 0,326531
+Proliferation Index = 0,326531 * 100
+Proliferation Index: 32.65%
+
+===== p20_0135_6.jpg =====
+Positive cells: 32
+Negative cells: 60
+Proliferation Index = (32)/(32+60)
+Proliferation Index = (32)/(92)
+Proliferation Index = 0,347826
+Proliferation Index = 0,347826 * 100
+Proliferation Index: 34.78%
+
+===== p20_0135_8.jpg =====
+Positive cells: 36
+Negative cells: 54
+Proliferation Index = (36)/(36+54)
+Proliferation Index = (36)/(90)
+Proliferation Index = 0,400000
+Proliferation Index = 0,400000 * 100
+Proliferation Index: 40.00%
+
+===== p20_0139_1.jpg =====
+Positive cells: 34
+Negative cells: 62
+Proliferation Index = (34)/(34+62)
+Proliferation Index = (34)/(96)
+Proliferation Index = 0,354167
+Proliferation Index = 0,354167 * 100
+Proliferation Index: 35.42%
+
+===== p20_0139_10.jpg =====
+Positive cells: 34
+Negative cells: 47
+Proliferation Index = (34)/(34+47)
+Proliferation Index = (34)/(81)
+Proliferation Index = 0,419753
+Proliferation Index = 0,419753 * 100
+Proliferation Index: 41.98%
+
+===== p20_0143_4.jpg =====
+"""
+Positive cells: 20
+Negative cells: 72
+Proliferation Index = (20)/(20+72)
+Proliferation Index = (20)/(92)
+Proliferation Index = 0,217391
+Proliferation Index = 0,217391 * 100
+Proliferation Index: 21.74%
+"""
+
+===== p20_0143_8.jpg =====
+Positive cells: 23
+Negative cells: 42
+Proliferation Index = (23)/(23+42)
+Proliferation Index = (23)/(65)
+Proliferation Index = 0.353846
+Proliferation Index = 0.353846 * 100
+Proliferation Index: 35.38%
+
+===== p20_0149_11.jpg =====
+Positive cells: 17
+Negative cells: 66
+Proliferation Index = (17)/(17+66)
+Proliferation Index = (17)/(83)
+Proliferation Index = 0,204819
+Proliferation Index = 0,204819 * 100
+Proliferation Index: 20.48%
+
+===== p20_0149_4.jpg =====
+Positive cells: 41
+Negative cells: 47
+Proliferation Index = (41)/(41+47)
+Proliferation Index = (41)/(88)
+Proliferation Index = 0,465909
+Proliferation Index = 0,465909 * 100
+Proliferation Index: 46.59%
+
+===== p20_0149_5.jpg =====
+Positive cells: 36
+Negative cells: 41
+Proliferation Index = (36)/(36+41)
+Proliferation Index = (36)/(77)
+Proliferation Index = 0,467532
+Proliferation Index = 0,467532 * 100
+Proliferation Index: 46.75%
+
+===== p20_0152_11.jpg =====
+Positive cells: 23
+Negative cells: 66
+Proliferation Index = (23)/(23+66)
+Proliferation Index = (23)/(89)
+Proliferation Index = 0,258427
+Proliferation Index = 0,258427 * 100
+Proliferation Index: 25.84%
+
+===== p20_0154_8.jpg =====
+Positive cells: 27
+Negative cells: 74
+Proliferation Index = (27)/(27+74)
+Proliferation Index = (27)/(101)
+Proliferation Index = 0,267327
+Proliferation Index = 0,267327 * 100
+Proliferation Index: 26.73%
+
+===== p20_0162_7.jpg =====
+Positive cells: 17
+Negative cells: 64
+Proliferation Index = (17)/(17+64)
+Proliferation Index = (17)/(81)
+Proliferation Index = 0,209877
+Proliferation Index = 0,209877 * 100
+Proliferation Index: 20.99%
+
+===== p20_0167_6.jpg =====
+Positive cells: 32
+Negative cells: 64
+Proliferation Index = (32)/(32+64)
+Proliferation Index = (32)/(96)
+Proliferation Index = 0,333333
+Proliferation Index = 0,333333 * 100
+Proliferation Index: 33.33%
+
+===== p20_0173_10.jpg =====
+"""
+Positive cells: 23
+Negative cells: 78
+Proliferation Index = (23)/(23+78)
+Proliferation Index = (23)/(101)
+Proliferation Index = 0,227723
+Proliferation Index = 0,227723 * 100
+Proliferation Index: 22.77%
+"""
+
+===== p20_0173_4.jpg =====
+Positive cells: 27
+Negative cells: 66
+Proliferation Index = (27)/(27+66)
+Proliferation Index = (27)/(93)
+Proliferation Index = 0,290323
+Proliferation Index = 0,290323 * 100
+Proliferation Index: 29.03%
+
+===== p20_0174_7.jpg =====
+Positive cells: 32
+Negative cells: 58
+Proliferation Index = (32)/(32+58)
+Proliferation Index = (32)/(90)
+Proliferation Index = 0,355556
+Proliferation Index = 0,355556 * 100
+Proliferation Index: 35.56%
+
+===== p20_0175_10.jpg =====
+Positive cells: 23
+Negative cells: 56
+Proliferation Index = (23)/(23+56)
+Proliferation Index = (23)/(79)
+Proliferation Index = 0.291139
+Proliferation Index = 0.291139 * 100
+Proliferation Index: 29.11%
+
+===== p20_0176_11.jpg =====
+Positive cells: 20
+Negative cells: 56
+Proliferation Index = (20)/(20+56)
+Proliferation Index = (20)/(76)
+Proliferation Index = 0,263158
+Proliferation Index = 0,263158 * 100
+Proliferation Index: 26.32%
+
+===== p20_0176_7.jpg =====
+Positive cells: 27
+Negative cells: 56
+Proliferation Index = (27)/(27+56)
+Proliferation Index = (27)/(83)
+Proliferation Index = 0,325301
+Proliferation Index = 0,325301 * 100
+Proliferation Index: 32.53%
+
+===== p20_0179_7.jpg =====
+Positive cells: 20
+Negative cells: 47
+Proliferation Index = (20)/(20+47)
+Proliferation Index = (20)/(67)
+Proliferation Index = 0,298507
+Proliferation Index = 0,298507 * 100
+Proliferation Index: 29.85%
+
+===== p20_0180_2.jpg =====
+Positive cells: 36
+Negative cells: 41
+Proliferation Index = (36)/(36+41)
+Proliferation Index = (36)/(77)
+Proliferation Index = 0,467532
+Proliferation Index = 0,467532 * 100
+Proliferation Index: 46.75%
+
+===== p20_0182_2.jpg =====
+Positive cells: 56
+Negative cells: 41
+Proliferation Index = (56)/(56+41)
+Proliferation Index = (56)/(97)
+Proliferation Index = 0,577320
+Proliferation Index = 0,577320 * 100
+Proliferation Index: 57.73%
+
+===== p21_0247_5.jpg =====
+Positive cells: 32
+Negative cells: 18
+Proliferation Index = (32)/(32+18)
+Proliferation Index = (32)/(50)
+Proliferation Index = 0,640000
+Proliferation Index = 0,640000 * 100
+Proliferation Index: 64.00%
+
+===== p21_0248_9.jpg =====
+Positive cells: 20
+Negative cells: 13
+Proliferation Index = (20)/(20+13)
+Proliferation Index = (20)/(33)
+Proliferation Index = 0,606061
+Proliferation Index = 0,606061 * 100
+Proliferation Index: 60.61%
+
+===== p21_0252_11.jpg =====
+Positive cells: 23
+Negative cells: 34
+Proliferation Index = (23)/(23+34)
+Proliferation Index = (23)/(57)
+Proliferation Index = 0,403509
+Proliferation Index = 0,403509 * 100
+Proliferation Index: 40.35%
+
+===== p21_0253_4.jpg =====
+"""
+Positive cells: 20
+Negative cells: 41
+Proliferation Index = (20)/(20+41)
+Proliferation Index = (20)/(61)
+Proliferation Index = 0,327869
+Proliferation Index = 0,327869 * 100
+Proliferation Index: 32.79%
+"""
+
+===== p21_0253_5.jpg =====
+Positive cells: 10
+Negative cells: 32
+Proliferation Index = (10)/(10+32)
+Proliferation Index = (10)/(42)
+Proliferation Index = 0,238095
+Proliferation Index = 0,238095 * 100
+Proliferation Index: 23.81%
+
+===== p21_0253_6.jpg =====
+Positive cells: 3
+Negative cells: 43
+Proliferation Index = (3)/(3+43)
+Proliferation Index = (3)/(46)
+Proliferation Index = 0,065217
+Proliferation Index = 0,065217 * 100
+Proliferation Index: 6.52%
+
+===== p21_0254_10.jpg =====
+Positive cells: 23
+Negative cells: 41
+Proliferation Index = (23)/(23+41)
+Proliferation Index = (23)/(64)
+Proliferation Index = 0,359375
+Proliferation Index = 0,359375 * 100
+Proliferation Index: 35.94%
+
+===== p21_0254_6.jpg =====
+Positive cells: 22
+Negative cells: 34
+Proliferation Index = (22)/(22+34)
+Proliferation Index = (22)/(56)
+Proliferation Index = 0,392857
+Proliferation Index = 0,392857 * 100
+Proliferation Index: 39.29%
+
+===== p21_0254_9.jpg =====
+Positive cells: 20
+Negative cells: 9
+Proliferation Index = (20)/(20+9)
+Proliferation Index = (20)/(29)
+Proliferation Index = 0,689655
+Proliferation Index = 0,689655 * 100
+Proliferation Index: 68.97%
+
+===== p21_0255_10.jpg =====
+Positive cells: 17
+Negative cells: 20
+Proliferation Index = (17)/(17+20)
+Proliferation Index = (17)/(37)
+Proliferation Index = 0,459459
+Proliferation Index = 0,459459 * 100
+Proliferation Index: 45.95%
+
+===== p21_0255_2.jpg =====
+Positive cells: 9
+Negative cells: 23
+Proliferation Index = (9)/(9+23)
+Proliferation Index = (9)/(32)
+Proliferation Index = 0,281250
+Proliferation Index = 0,281250 * 100
+Proliferation Index: 28.13%
+
+===== p21_0256_6.jpg =====
+Positive cells: 7
+Negative cells: 10
+Proliferation Index = (7)/(7+10)
+Proliferation Index = (7)/(17)
+Proliferation Index = 0,411765
+Proliferation Index = 0,411765 * 100
+Proliferation Index: 41.18%
+
+===== p21_0257_10.jpg =====
+"""
+Positive cells: 4
+Negative cells: 34
+Proliferation Index = (4)/(4+34)
+Proliferation Index = (4)/(38)
+Proliferation Index = 0,105263
+Proliferation Index = 0,105263 * 100
+Proliferation Index: 10.53%
+"""
+
+===== p21_0257_2.jpg =====
+Positive cells: 20
+Negative cells: 95
+Proliferation Index = (20)/(20+95)
+Proliferation Index = (20)/(115)
+Proliferation Index = 0,173913
+Proliferation Index = 0,173913 * 100
+Proliferation Index: 17.39%
+
+===== p21_0257_3.jpg =====
+Positive cells: 7
+Negative cells: 156
+Proliferation Index = (7)/(7+156)
+Proliferation Index = (7)/(163)
+Proliferation Index = 0,042945
+Proliferation Index = 0,042945 * 100
+Proliferation Index: 4.29%
+
+===== p21_0259_5.jpg =====
+Positive cells: 1
+Negative cells: 95
+Proliferation Index = (1)/(1+95)
+Proliferation Index = (1)/(96)
+Proliferation Index = 0,010417
+Proliferation Index = 0,010417 * 100
+Proliferation Index: 1.04%
+
+===== p21_0260_5.jpg =====
+Positive cells: 6
+Negative cells: 13
+Proliferation Index = (6)/(6+13)
+Proliferation Index = (6)/(19)
+Proliferation Index = 0,315789
+Proliferation Index = 0,315789 * 100
+Proliferation Index: 31.58%
+
+===== p21_0260_6.jpg =====
+Positive cells: 11
+Negative cells: 24
+Proliferation Index = (11)/(11+24)
+Proliferation Index = (11)/(35)
+Proliferation Index = 0,314286
+Proliferation Index = 0,314286 * 100
+Proliferation Index: 31.43%
+
+===== p21_0260_9.jpg =====
+Positive cells: 15
+Negative cells: 17
+Proliferation Index = (15)/(15+17)
+Proliferation Index = (15)/(32)
+Proliferation Index = 0,468750
+Proliferation Index = 0,468750 * 100
+Proliferation Index: 46.88%
+
+===== p21_0261_6.jpg =====
+Positive cells: 13
+Negative cells: 15
+Proliferation Index = (13)/(13+15)
+Proliferation Index = (13)/(28)
+Proliferation Index = 0,464286
+Proliferation Index = 0,464286 * 100
+Proliferation Index: 46.43%
+
+===== p21_0268_6.jpg =====
+Positive cells: 41
+Negative cells: 34
+Proliferation Index = (41)/(41+34)
+Proliferation Index = (41)/(75)
+Proliferation Index = 0,546667
+Proliferation Index = 0,546667 * 100
+Proliferation Index: 54.67%
+
+===== p21_0268_9.jpg =====
+Positive cells: 32
+Negative cells: 22
+Proliferation Index = (32)/(32+22)
+Proliferation Index = (32)/(54)
+Proliferation Index = 0,592593
+Proliferation Index = 0,592593 * 100
+Proliferation Index: 59.26%
+
+===== p21_0271_2.jpg =====
+Positive cells: 3
+Negative cells: 6
+Proliferation Index = (3)/(3+6)
+Proliferation Index = (3)/(9)
+Proliferation Index = 0,333333
+Proliferation Index = 0,333333 * 100
+Proliferation Index: 33.33%
+
+===== p21_0271_6.jpg =====
+Positive cells: 17
+Negative cells: 32
+Proliferation Index = (17)/(17+32)
+Proliferation Index = (17)/(49)
+Proliferation Index = 0,346939
+Proliferation Index = 0,346939 * 100
+Proliferation Index: 34.69%
+
+===== p22_0004_6.jpg =====
+Positive cells: 32
+Negative cells: 29
+Proliferation Index = (32)/(32+29)
+Proliferation Index = (32)/(61)
+Proliferation Index = 0,524590
+Proliferation Index = 0,524590 * 100
+Proliferation Index: 52.46%
+
+===== p22_0005_10.jpg =====
+Positive cells: 25
+Negative cells: 40
+Proliferation Index = (25)/(25+40)
+Proliferation Index = (25)/(65)
+Proliferation Index = 0,384615
+Proliferation Index = 0,384615 * 100
+Proliferation Index: 38.46%
+
+===== p22_0006_5.jpg =====
+Positive cells: 16
+Negative cells: 17
+Proliferation Index = (16)/(16+17)
+Proliferation Index = (16)/(33)
+Proliferation Index = 0,484848
+Proliferation Index = 0,484848 * 100
+Proliferation Index: 48.48%
+
+===== p22_0007_6.jpg =====
+Positive cells: 23
+Negative cells: 17
+Proliferation Index = (23)/(23+17)
+Proliferation Index = (23)/(40)
+Proliferation Index = 0,575000
+Proliferation Index = 0,575000 * 100
+Proliferation Index: 57.50%
+
+===== p22_0009_10.jpg =====
+Positive cells: 20
+Negative cells: 66
+Proliferation Index = (20)/(20+66)
+Proliferation Index = (20)/(86)
+Proliferation Index = 0,232558
+Proliferation Index = 0,232558 * 100
+Proliferation Index: 23.26%
+
+===== p22_0009_7.jpg =====
+Positive cells: 27
+Negative cells: 118
+Proliferation Index = (27)/(27+118)
+Proliferation Index = (27)/(145)
+Proliferation Index = 0,186207
+Proliferation Index = 0,186207 * 100
+Proliferation Index: 18.62%
+
+===== p22_0011_2.jpg =====
+Positive cells: 15
+Negative cells: 95
+Proliferation Index = (15)/(15+95)
+Proliferation Index = (15)/(110)
+Proliferation Index = 0,136364
+Proliferation Index = 0,136364 * 100
+Proliferation Index: 13.64%
+
+===== p22_0012_5.jpg =====
+Positive cells: 9
+Negative cells: 66
+Proliferation Index = (9)/(9+66)
+Proliferation Index = (9)/(75)
+Proliferation Index = 0,120000
+Proliferation Index = 0,120000 * 100
+Proliferation Index: 12.00%
+
+===== p22_0013_11.jpg =====
+Positive cells: 32
+Negative cells: 64
+Proliferation Index = (32)/(32+64)
+Proliferation Index = (32)/(96)
+Proliferation Index = 0,333333
+Proliferation Index = 0,333333 * 100
+Proliferation Index: 33.33%
+
+===== p22_0013_2.jpg =====
+Positive cells: 47
+Negative cells: 54
+Proliferation Index = (47)/(47+54)
+Proliferation Index = (47)/(101)
+Proliferation Index = 0,465347
+Proliferation Index = 0,465347 * 100
+Proliferation Index: 46.53%
+
+===== p22_0013_6.jpg =====
+Positive cells: 41
+Negative cells: 47
+Proliferation Index = (41)/(41+47)
+Proliferation Index = (41)/(88)
+Proliferation Index = 0,465909
+Proliferation Index = 0,465909 * 100
+Proliferation Index: 46.59%
+
+===== p22_0016_2.jpg =====
+Positive cells: 22
+Negative cells: 36
+Proliferation Index = (22)/(22+36)
+Proliferation Index = (22)/(58)
+Proliferation Index = 0,379310
+Proliferation Index = 0,379310 * 100
+Proliferation Index: 37.93%
+
+===== p22_0016_6.jpg =====
+Positive cells: 36
+Negative cells: 24
+Proliferation Index = (36)/(36+24)
+Proliferation Index = (36)/(60)
+Proliferation Index = 0,600000
+Proliferation Index = 0,600000 * 100
+Proliferation Index: 60.00%
+
+===== p22_0016_7.jpg =====
+Positive cells: 36
+Negative cells: 27
+Proliferation Index = (36)/(36+27)
+Proliferation Index = (36)/(63)
+Proliferation Index = 0,571429
+Proliferation Index = 0,571429 * 100
+Proliferation Index: 57.14%
+
+===== p22_0018_2.jpg =====
+Positive cells: 18
+Negative cells: 72
+Proliferation Index = (18)/(18+72)
+Proliferation Index = (18)/(90)
+Proliferation Index = 0.200000
+Proliferation Index = 0.200000 * 100
+Proliferation Index: 20.00%
+
+===== p22_0019_3.jpg =====
+"""
+Positive cells: 14
+Negative cells: 6
+Proliferation Index = (14)/(14+6)
+Proliferation Index = (14)/(20)
+Proliferation Index = 0,700000
+Proliferation Index = 0,700000 * 100
+Proliferation Index: 70.00%
+"""
+
+===== p22_0019_7.jpg =====
+Positive cells: 17
+Negative cells: 24
+Proliferation Index = (17)/(17+24)
+Proliferation Index = (17)/(41)
+Proliferation Index = 0,414634
+Proliferation Index = 0,414634 * 100
+Proliferation Index: 41.46%
+
+===== p22_0020_5.jpg =====
+"""
+Positive cells: 3
+Negative cells: 4
+Proliferation Index = (3)/(3+4)
+Proliferation Index = (3)/(7)
+Proliferation Index = 0,428571
+Proliferation Index = 0,428571 * 100
+Proliferation Index: 42.86%
+"""
+
+===== p22_0022_11.jpg =====
+Positive cells: 20
+Negative cells: 21
+Proliferation Index = (20)/(20+21)
+Proliferation Index = (20)/(41)
+Proliferation Index = 0,487805
+Proliferation Index = 0,487805 * 100
+Proliferation Index: 48.78%
+
+===== p22_0022_7.jpg =====
+Positive cells: 29
+Negative cells: 21
+Proliferation Index = (29)/(29+21)
+Proliferation Index = (29)/(50)
+Proliferation Index = 0,580000
+Proliferation Index = 0,580000 * 100
+Proliferation Index: 58.00%
+
+===== p22_0024_8.jpg =====
+Positive cells: 8
+Negative cells: 92
+Proliferation Index = (8)/(8+92)
+Proliferation Index = (8)/(100)
+Proliferation Index = 0,080000
+Proliferation Index = 0,080000 * 100
+Proliferation Index: 8.00%
+
+===== p22_0025_3.jpg =====
+Positive cells: 15
+Negative cells: 120
+Proliferation Index = (15)/(15+120)
+Proliferation Index = (15)/(135)
+Proliferation Index = 0,111111
+Proliferation Index = 0,111111 * 100
+Proliferation Index: 11.11%
+
+===== p22_0026_8.jpg =====
+Positive cells: 5
+Negative cells: 42
+Proliferation Index = (5)/(5+42)
+Proliferation Index = (5)/(47)
+Proliferation Index = 0,106383
+Proliferation Index = 0,106383 * 100
+Proliferation Index: 10.64%
+
+===== p22_0027_10.jpg =====
+Positive cells: 4
+Negative cells: 36
+Proliferation Index = (4)/(4+36)
+Proliferation Index = (4)/(40)
+Proliferation Index = 0,100000
+Proliferation Index = 0,100000 * 100
+Proliferation Index: 10.00%
+
+===== p22_0027_6.jpg =====
+Positive cells: 41
+Negative cells: 36
+Proliferation Index = (41)/(41+36)
+Proliferation Index = (41)/(77)
+Proliferation Index = 0,532468
+Proliferation Index = 0,532468 * 100
+Proliferation Index: 53.25%
+
+===== p22_0028_9.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0.00%
+"""
+
+===== p22_0030_6.jpg =====
+Positive cells: 47
+Negative cells: 54
+Proliferation Index = (47)/(47+54)
+Proliferation Index = (47)/(101)
+Proliferation Index = 0,465347
+Proliferation Index = 0,465347 * 100
+Proliferation Index: 46.53%
+
+===== p23_0274_2.jpg =====
+Positive cells: 10
+Negative cells: 52
+Proliferation Index = (10)/(10+52)
+Proliferation Index = (10)/(62)
+Proliferation Index = 0,161290
+Proliferation Index = 0,161290 * 100
+Proliferation Index: 16.13%
+
+===== p23_0275_10.jpg =====
+Positive cells: 7
+Negative cells: 64
+Proliferation Index = (7)/(7+64)
+Proliferation Index = (7)/(71)
+Proliferation Index = 0,098592
+Proliferation Index = 0,098592 * 100
+Proliferation Index: 9.86%
+
+===== p23_0276_11.jpg =====
+Positive cells: 27
+Negative cells: 41
+Proliferation Index = (27)/(27+41)
+Proliferation Index = (27)/(68)
+Proliferation Index = 0,397059
+Proliferation Index = 0,397059 * 100
+Proliferation Index: 39.71%
+
+===== p23_0278_5.jpg =====
+Positive cells: 6
+Negative cells: 29
+Proliferation Index = (6)/(6+29)
+Proliferation Index = (6)/(35)
+Proliferation Index = 0,171429
+Proliferation Index = 0,171429 * 100
+Proliferation Index: 17.14%
+
+===== p23_0278_7.jpg =====
+"""
+Positive cells: 6
+Negative cells: 56
+Proliferation Index = (6)/(6+56)
+Proliferation Index = (6)/(62)
+Proliferation Index = 0,096774
+Proliferation Index = 0,096774 * 100
+Proliferation Index: 9.68%
+"""
+
+===== p23_0278_8.jpg =====
+"""
+Positive cells: 6
+Negative cells: 26
+Proliferation Index = (6)/(6+26)
+Proliferation Index = (6)/(32)
+Proliferation Index = 0,187500
+Proliferation Index = 0,187500 * 100
+Proliferation Index: 18.75%
+"""
+
+===== p23_0278_9.jpg =====
+Positive cells: 3
+Negative cells: 29
+Proliferation Index = (3)/(3+29)
+Proliferation Index = (3)/(32)
+Proliferation Index = 0,093750
+Proliferation Index = 0,093750 * 100
+Proliferation Index: 9.38%
+
+===== p23_0280_11.jpg =====
+Positive cells: 15
+Negative cells: 9
+Proliferation Index = (15)/(15+9)
+Proliferation Index = (15)/(24)
+Proliferation Index = 0,625000
+Proliferation Index = 0,625000 * 100
+Proliferation Index: 62.50%
+
+===== p23_0284_9.jpg =====
+"""
+Positive cells: 17
+Negative cells: 12
+Proliferation Index = (17)/(17+12)
+Proliferation Index = (17)/(29)
+Proliferation Index = 0,586207
+Proliferation Index = 0,586207 * 100
+Proliferation Index: 58.62%
+"""
+
+===== p23_0286_7.jpg =====
+Positive cells: 3
+Negative cells: 41
+Proliferation Index = (3)/(3+41)
+Proliferation Index = (3)/(44)
+Proliferation Index = 0,068182
+Proliferation Index = 0,068182 * 100
+Proliferation Index: 6.82%
+
+===== p23_0287_10.jpg =====
+Positive cells: 2
+Negative cells: 29
+Proliferation Index = (2)/(2+29)
+Proliferation Index = (2)/(31)
+Proliferation Index = 0.064516
+Proliferation Index = 0.064516 * 100
+Proliferation Index: 6.45%
+
+===== p23_0288_1.jpg =====
+"""
+Positive cells: 15
+Negative cells: 47
+Proliferation Index = (15)/(15+47)
+Proliferation Index = (15)/(62)
+Proliferation Index = 0,241935
+Proliferation Index = 0,241935 * 100
+Proliferation Index: 24.19%
+"""
+
+===== p23_0288_11.jpg =====
+Positive cells: 1
+Negative cells: 15
+Proliferation Index = (1)/(1+15)
+Proliferation Index = (1)/(16)
+Proliferation Index = 0.062500
+Proliferation Index = 0.062500 * 100
+Proliferation Index: 6.25%
+
+===== p23_0288_2.jpg =====
+Positive cells: 4
+Negative cells: 41
+Proliferation Index = (4)/(4+41)
+Proliferation Index = (4)/(45)
+Proliferation Index = 0,088889
+Proliferation Index = 0,088889 * 100
+Proliferation Index: 8.89%
+
+===== p23_0288_9.jpg =====
+Positive cells: 8
+Negative cells: 15
+Proliferation Index = (8)/(8+15)
+Proliferation Index = (8)/(23)
+Proliferation Index = 0,347826
+Proliferation Index = 0,347826 * 100
+Proliferation Index: 34.78%
+
+===== p2_0183_8.jpg =====
+Positive cells: 11
+Negative cells: 41
+Proliferation Index = (11)/(11+41)
+Proliferation Index = (11)/(52)
+Proliferation Index = 0,211538
+Proliferation Index = 0,211538 * 100
+Proliferation Index: 21.15%
+
+===== p2_0184_6.jpg =====
+Positive cells: 22
+Negative cells: 58
+Proliferation Index = (22)/(22+58)
+Proliferation Index = (22)/(80)
+Proliferation Index = 0,275000
+Proliferation Index = 0,275000 * 100
+Proliferation Index: 27.50%
+
+===== p2_0191_1.jpg =====
+Positive cells: 23
+Negative cells: 106
+Proliferation Index = (23)/(23+106)
+Proliferation Index = (23)/(129)
+Proliferation Index = 0,178295
+Proliferation Index = 0,178295 * 100
+Proliferation Index: 17.83%
+
+===== p2_0198_2.jpg =====
+Positive cells: 17
+Negative cells: 86
+Proliferation Index = (17)/(17+86)
+Proliferation Index = (17)/(103)
+Proliferation Index = 0,165049
+Proliferation Index = 0,165049 * 100
+Proliferation Index: 16.50%
+
+===== p2_0200_3.jpg =====
+Positive cells: 16
+Negative cells: 47
+Proliferation Index = (16)/(16+47)
+Proliferation Index = (16)/(63)
+Proliferation Index = 0,253968
+Proliferation Index = 0,253968 * 100
+Proliferation Index: 25.40%
+
+===== p2_0204_8.jpg =====
+Positive cells: 20
+Negative cells: 29
+Proliferation Index = (20)/(20+29)
+Proliferation Index = (20)/(49)
+Proliferation Index = 0,408163
+Proliferation Index = 0,408163 * 100
+Proliferation Index: 40.82%
+
+===== p2_0206_2.jpg =====
+Positive cells: 23
+Negative cells: 92
+Proliferation Index = (23)/(23+92)
+Proliferation Index = (23)/(115)
+Proliferation Index = 0,200000
+Proliferation Index = 0,200000 * 100
+Proliferation Index: 20.00%
+
+===== p2_0206_7.jpg =====
+Positive cells: 9
+Negative cells: 103
+Proliferation Index = (9)/(9+103)
+Proliferation Index = (9)/(112)
+Proliferation Index = 0,080357
+Proliferation Index = 0,080357 * 100
+Proliferation Index: 8.04%
+
+===== p2_0208_11.jpg =====
+Positive cells: 26
+Negative cells: 47
+Proliferation Index = (26)/(26+47)
+Proliferation Index = (26)/(73)
+Proliferation Index = 0,356164
+Proliferation Index = 0,356164 * 100
+Proliferation Index: 35.62%
+
+===== p2_0214_8.jpg =====
+"""
+Positive cells: 1
+Negative cells: 105
+Proliferation Index = (1)/(1+105)
+Proliferation Index = (1)/(106)
+Proliferation Index = 0,009434
+Proliferation Index = 0,009434 * 100
+Proliferation Index: 0.94%
+"""
+
+===== p2_0219_3.jpg =====
+"""
+Positive cells: 13
+Negative cells: 120
+Proliferation Index = (13)/(13+120)
+Proliferation Index = (13)/(133)
+Proliferation Index = 0,097744
+Proliferation Index = 0,097744 * 100
+Proliferation Index: 9.77%
+"""
+
+===== p2_0219_4.jpg =====
+Positive cells: 17
+Negative cells: 120
+Proliferation Index = (17)/(17+120)
+Proliferation Index = (17)/(137)
+Proliferation Index = 0,124088
+Proliferation Index = 0,124088 * 100
+Proliferation Index: 12.41%
+
+===== p2_0221_1.jpg =====
+Positive cells: 3
+Negative cells: 74
+Proliferation Index = (3)/(3+74)
+Proliferation Index = (3)/(77)
+Proliferation Index = 0,038961
+Proliferation Index = 0,038961 * 100
+Proliferation Index: 3.90%
+
+===== p2_0225_6.jpg =====
+Positive cells: 4
+Negative cells: 41
+Proliferation Index = (4)/(4+41)
+Proliferation Index = (4)/(45)
+Proliferation Index = 0.088889
+Proliferation Index = 0.088889 * 100
+Proliferation Index: 8.89%
+
+===== p2_0227_11.jpg =====
+Positive cells: 2
+Negative cells: 29
+Proliferation Index = (2)/(2+29)
+Proliferation Index = (2)/(31)
+Proliferation Index = 0,064516
+Proliferation Index = 0,064516 * 100
+Proliferation Index: 6.45%
+
+===== p2_0229_7.jpg =====
+Positive cells: 14
+Negative cells: 66
+Proliferation Index = (14)/(14+66)
+Proliferation Index = (14)/(80)
+Proliferation Index = 0,175000
+Proliferation Index = 0,175000 * 100
+Proliferation Index: 17.50%
+
+===== p2_0230_4.jpg =====
+"""
+Positive cells: 13
+Negative cells: 47
+Proliferation Index = (13)/(13+47)
+Proliferation Index = (13)/(60)
+Proliferation Index = 0,216667
+Proliferation Index = 0,216667 * 100
+Proliferation Index: 21.67%
+"""
+
+===== p2_0232_3.jpg =====
+Positive cells: 22
+Negative cells: 95
+Proliferation Index = (22)/(22+95)
+Proliferation Index = (22)/(117)
+Proliferation Index = 0,188034
+Proliferation Index = 0,188034 * 100
+Proliferation Index: 18.80%
+
+===== p2_0235_5.jpg =====
+Positive cells: 17
+Negative cells: 39
+Proliferation Index = (17)/(17+39)
+Proliferation Index = (17)/(56)
+Proliferation Index = 0,303571
+Proliferation Index = 0,303571 * 100
+Proliferation Index: 30.36%
+
+===== p2_0236_6.jpg =====
+Positive cells: 8
+Negative cells: 95
+Proliferation Index = (8)/(8+95)
+Proliferation Index = (8)/(103)
+Proliferation Index = 0,077670
+Proliferation Index = 0,077670 * 100
+Proliferation Index: 7.77%
+
+===== p2_0237_3.jpg =====
+Positive cells: 27
+Negative cells: 32
+Proliferation Index = (27)/(27+32)
+Proliferation Index = (27)/(59)
+Proliferation Index = 0,457627
+Proliferation Index = 0,457627 * 100
+Proliferation Index: 45.76%
+
+===== p2_0237_4.jpg =====
+Positive cells: 24
+Negative cells: 32
+Proliferation Index = (24)/(24+32)
+Proliferation Index = (24)/(56)
+Proliferation Index = 0,428571
+Proliferation Index = 0,428571 * 100
+Proliferation Index: 42.86%
+
+===== p2_0239_5.jpg =====
+Positive cells: 14
+Negative cells: 38
+Proliferation Index = (14)/(14+38)
+Proliferation Index = (14)/(52)
+Proliferation Index = 0,269231
+Proliferation Index = 0,269231 * 100
+Proliferation Index: 26.92%
+
+===== p2_0243_3.jpg =====
+Positive cells: 8
+Negative cells: 66
+Proliferation Index = (8)/(8+66)
+Proliferation Index = (8)/(74)
+Proliferation Index = 0,108108
+Proliferation Index = 0,108108 * 100
+Proliferation Index: 10.81%
+
+===== p2_0248_3.jpg =====
+Positive cells: 32
+Negative cells: 29
+Proliferation Index = (32)/(32+29)
+Proliferation Index = (32)/(61)
+Proliferation Index = 0,524590
+Proliferation Index = 0,524590 * 100
+Proliferation Index: 52.46%
+
+===== p2_0255_8.jpg =====
+Positive cells: 36
+Negative cells: 64
+Proliferation Index = (36)/(36+64)
+Proliferation Index = (36)/(100)
+Proliferation Index = 0,360000
+Proliferation Index = 0,360000 * 100
+Proliferation Index: 36.00%
+
+===== p2_0259_2.jpg =====
+Positive cells: 1
+Negative cells: 38
+Proliferation Index = (1)/(1+38)
+Proliferation Index = (1)/(39)
+Proliferation Index = 0,025641
+Proliferation Index = 0,025641 * 100
+Proliferation Index: 2.56%
+
+===== p2_0268_2.jpg =====
+Positive cells: 6
+Negative cells: 36
+Proliferation Index = (6)/(6+36)
+Proliferation Index = (6)/(42)
+Proliferation Index = 0,142857
+Proliferation Index = 0,142857 * 100
+Proliferation Index: 14.29%
+
+===== p2_0269_3.jpg =====
+Positive cells: 13
+Negative cells: 22
+Proliferation Index = (13)/(13+22)
+Proliferation Index = (13)/(35)
+Proliferation Index = 0,371429
+Proliferation Index = 0,371429 * 100
+Proliferation Index: 37.14%
+
+===== p2_0286_10.jpg =====
+Positive cells: 6
+Negative cells: 14
+Proliferation Index = (6)/(6+14)
+Proliferation Index = (6)/(20)
+Proliferation Index = 0,300000
+Proliferation Index = 0,300000 * 100
+Proliferation Index: 30.00%
+
+===== p2_0290_1.jpg =====
+Positive cells: 1
+Negative cells: 15
+Proliferation Index = (1)/(1+15)
+Proliferation Index = (1)/(16)
+Proliferation Index = 0,062500
+Proliferation Index = 0,062500 * 100
+Proliferation Index: 6.25%
+
+===== p2_0294_6.jpg =====
+Positive cells: 11
+Negative cells: 41
+Proliferation Index = (11)/(11+41)
+Proliferation Index = (11)/(52)
+Proliferation Index = 0,211538
+Proliferation Index = 0,211538 * 100
+Proliferation Index: 21.15%
+
+===== p2_0295_8.jpg =====
+Positive cells: 3
+Negative cells: 27
+Proliferation Index = (3)/(3+27)
+Proliferation Index = (3)/(30)
+Proliferation Index = 0,100000
+Proliferation Index = 0,100000 * 100
+Proliferation Index: 10.00%
+
+===== p2_0301_3.jpg =====
+Positive cells: 2
+Negative cells: 36
+Proliferation Index = (2)/(2+36)
+Proliferation Index = (2)/(38)
+Proliferation Index = 0,052632
+Proliferation Index = 0,052632 * 100
+Proliferation Index: 5.26%
+
+===== p2_0306_10.jpg =====
+Positive cells: 1
+Negative cells: 47
+Proliferation Index = (1)/(1+47)
+Proliferation Index = (1)/(48)
+Proliferation Index = 0,020833
+Proliferation Index = 0,020833 * 100
+Proliferation Index: 2.08%
+
+===== p2_0307_6.jpg =====
+Positive cells: 1
+Negative cells: 29
+Proliferation Index = (1)/(1+29)
+Proliferation Index = (1)/(30)
+Proliferation Index = 0,033333
+Proliferation Index = 0,033333 * 100
+Proliferation Index: 3.33%
+
+===== p3_0217_5.jpg =====
+Positive cells: 2
+Negative cells: 66
+Proliferation Index = (2)/(2+66)
+Proliferation Index = (2)/(68)
+Proliferation Index = 0.029412
+Proliferation Index = 0.029412 * 100
+Proliferation Index: 2.94%
+
+===== p3_0220_6.jpg =====
+Positive cells: 10
+Negative cells: 66
+Proliferation Index = (10)/(10+66)
+Proliferation Index = (10)/(76)
+Proliferation Index = 0,131579
+Proliferation Index = 0,131579 * 100
+Proliferation Index: 13.16%
+
+===== p3_0220_9.jpg =====
+Positive cells: 2
+Negative cells: 47
+Proliferation Index = (2)/(2+47)
+Proliferation Index = (2)/(49)
+Proliferation Index = 0,040816
+Proliferation Index = 0,040816 * 100
+Proliferation Index: 4.08%
+
+===== p3_0224_1.jpg =====
+Positive cells: 11
+Negative cells: 56
+Proliferation Index = (11)/(11+56)
+Proliferation Index = (11)/(67)
+Proliferation Index = 0,164179
+Proliferation Index = 0,164179 * 100
+Proliferation Index: 16.42%
+
+===== p3_0227_2.jpg =====
+Positive cells: 11
+Negative cells: 56
+Proliferation Index = (11)/(11+56)
+Proliferation Index = (11)/(67)
+Proliferation Index = 0,164179
+Proliferation Index = 0,164179 * 100
+Proliferation Index: 16.42%
+
+===== p3_0235_5.jpg =====
+Positive cells: 4
+Negative cells: 56
+Proliferation Index = (4)/(4+56)
+Proliferation Index = (4)/(60)
+Proliferation Index = 0.066667
+Proliferation Index = 0.066667 * 100
+Proliferation Index: 6.67%
+
+===== p3_0241_10.jpg =====
+Positive cells: 1
+Negative cells: 78
+Proliferation Index = (1)/(1+78)
+Proliferation Index = (1)/(79)
+Proliferation Index = 0,012658
+Proliferation Index = 0,012658 * 100
+Proliferation Index: 1.27%
+
+===== p3_0242_1.jpg =====
+"""
+Positive cells: 1
+Negative cells: 4
+Proliferation Index = (1)/(1+4)
+Proliferation Index = (1)/(5)
+Proliferation Index = 0.200000
+Proliferation Index = 0.200000 * 100
+Proliferation Index: 20.00%
+"""
+
+===== p3_0242_10.jpg =====
+Positive cells: 2
+Negative cells: 22
+Proliferation Index = (2)/(2+22)
+Proliferation Index = (2)/(24)
+Proliferation Index = 0,083333
+Proliferation Index = 0,083333 * 100
+Proliferation Index: 8.33%
+
+===== p3_0242_6.jpg =====
+Positive cells: 8
+Negative cells: 78
+Proliferation Index = (8)/(8+78)
+Proliferation Index = (8)/(86)
+Proliferation Index = 0,093023
+Proliferation Index = 0,093023 * 100
+Proliferation Index: 9.30%
+
+===== p3_0242_9.jpg =====
+Positive cells: 2
+Negative cells: 47
+Proliferation Index = (2)/(2+47)
+Proliferation Index = (2)/(49)
+Proliferation Index = 0,040816
+Proliferation Index = 0,040816 * 100
+Proliferation Index: 4.08%
+
+===== p3_0243_10.jpg =====
+Positive cells: 6
+Negative cells: 41
+Proliferation Index = (6)/(6+41)
+Proliferation Index = (6)/(47)
+Proliferation Index = 0.127659
+Proliferation Index = 0.127659 * 100
+Proliferation Index: 12.77%
+
+===== p3_0243_9.jpg =====
+Positive cells: 6
+Negative cells: 64
+Proliferation Index = (6)/(6+64)
+Proliferation Index = (6)/(70)
+Proliferation Index = 0.085714
+Proliferation Index = 0.085714 * 100
+Proliferation Index: 8.57%
+
+===== p3_0245_3.jpg =====
+Positive cells: 4
+Negative cells: 56
+Proliferation Index = (4)/(4+56)
+Proliferation Index = (4)/(60)
+Proliferation Index = 0,066667
+Proliferation Index = 0,066667 * 100
+Proliferation Index: 6.67%
+
+===== p3_0247_8.jpg =====
+"""
+Positive cells: 9
+Negative cells: 95
+Proliferation Index = (9)/(9+95)
+Proliferation Index = (9)/(104)
+Proliferation Index = 0,086538
+Proliferation Index = 0,086538 * 100
+Proliferation Index: 8.65%
+"""
+
+===== p3_0253_6.jpg =====
+Positive cells: 7
+Negative cells: 20
+Proliferation Index = (7)/(7+20)
+Proliferation Index = (7)/(27)
+Proliferation Index = 0,259259
+Proliferation Index = 0,259259 * 100
+Proliferation Index: 25.93%
+
+===== p3_0258_3.jpg =====
+Positive cells: 15
+Negative cells: 56
+Proliferation Index = (15)/(15+56)
+Proliferation Index = (15)/(71)
+Proliferation Index = 0,211268
+Proliferation Index = 0,211268 * 100
+Proliferation Index: 21.13%
+
+===== p3_0259_9.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index = 0
+Proliferation Index = 0 * 100
+Proliferation Index: 0.00%
+"""
+
+===== p3_0260_1.jpg =====
+"""
+Positive cells: 0
+Negative cells: 0
+Proliferation Index = (0)/(0+0)
+Proliferation Index = (0)/(0)
+Proliferation Index: 0.00%
+"""
+
+===== p3_0261_6.jpg =====
+Positive cells: 7
+Negative cells: 120
+Proliferation Index = (7)/(7+120)
+Proliferation Index = (7)/(127)
+Proliferation Index = 0.055118
+Proliferation Index = 0.055118 * 100
+Proliferation Index: 5.51%
+
+===== p3_0262_5.jpg =====
+Positive cells: 8
+Negative cells: 29
+Proliferation Index = (8)/(8+29)
+Proliferation Index = (8)/(37)
+Proliferation Index = 0,216216
+Proliferation Index = 0,216216 * 100
+Proliferation Index: 21.62%
+
+===== p3_0264_1.jpg =====
+Positive cells: 3
+Negative cells: 35
+Proliferation Index = (3)/(3+35)
+Proliferation Index = (3)/(38)
+Proliferation Index = 0,078947
+Proliferation Index = 0,078947 * 100
+Proliferation Index: 7.89%
+
+===== p3_0264_3.jpg =====
+"""
+Positive cells: 5
+Negative cells: 32
+Proliferation Index = (5)/(5+32)
+Proliferation Index = (5)/(37)
+Proliferation Index = 0,135135
+Proliferation Index = 0,135135 * 100
+Proliferation Index: 13.51%
+"""
+
+===== p3_0264_6.jpg =====
+"""
+Positive cells: 1
+Negative cells: 12
+Proliferation Index = (1)/(1+12)
+Proliferation Index = (1)/(13)
+Proliferation Index = 0,076923
+Proliferation Index = 0,076923 * 100
+Proliferation Index: 7.69%
+"""
+
+===== p3_0264_7.jpg =====
+"""
+Positive cells: 6
+Negative cells: 39
+Proliferation Index = (6)/(6+39)
+Proliferation Index = (6)/(45)
+Proliferation Index = 0,133333
+Proliferation Index = 0,133333 * 100
+Proliferation Index: 13.33%
+"""
+
+===== p3_0268_10.jpg =====
+Positive cells: 10
+Negative cells: 56
+Proliferation Index = (10)/(10+56)
+Proliferation Index = (10)/(66)
+Proliferation Index = 0,151515
+Proliferation Index = 0,151515 * 100
+Proliferation Index: 15.15%
+
+===== p3_0270_7.jpg =====
+Positive cells: 7
+Negative cells: 66
+Proliferation Index = (7)/(7+66)
+Proliferation Index = (7)/(73)
+Proliferation Index = 0,095890
+Proliferation Index = 0,095890 * 100
+Proliferation Index: 9.59%
+
+===== p3_0273_3.jpg =====
+Positive cells: 12
+Negative cells: 18
+Proliferation Index = (12)/(12+18)
+Proliferation Index = (12)/(30)
+Proliferation Index = 0,400000
+Proliferation Index = 0,400000 * 100
+Proliferation Index: 40.00%
+
+===== p3_0274_2.jpg =====
+Positive cells: 3
+Negative cells: 29
+Proliferation Index = (3)/(3+29)
+Proliferation Index = (3)/(32)
+Proliferation Index = 0.093750
+Proliferation Index = 0.093750 * 100
+Proliferation Index: 9.38%
+
+===== p3_0277_7.jpg =====
+Positive cells: 13
+Negative cells: 95
+Proliferation Index = (13)/(13+95)
+Proliferation Index = (13)/(108)
+Proliferation Index = 0,120370
+Proliferation Index = 0,120370 * 100
+Proliferation Index: 12.04%
+
+===== p3_0280_2.jpg =====
+Positive cells: 9
+Negative cells: 41
+Proliferation Index = (9)/(9+41)
+Proliferation Index = (9)/(50)
+Proliferation Index = 0,180000
+Proliferation Index = 0,180000 * 100
+Proliferation Index: 18.00%
+
+===== p3_0283_3.jpg =====
+Positive cells: 9
+Negative cells: 32
+Proliferation Index = (9)/(9+32)
+Proliferation Index = (9)/(41)
+Proliferation Index = 0,219512
+Proliferation Index = 0,219512 * 100
+Proliferation Index: 21.95%
+
+===== p4_0046_5.jpg =====
+Positive cells: 13
+Negative cells: 34
+Proliferation Index = (13)/(13+34)
+Proliferation Index = (13)/(47)
+Proliferation Index = 0.276596
+Proliferation Index = 0.276596 * 100
+Proliferation Index: 27.66%
+
+===== p4_0050_11.jpg =====
+Positive cells: 2
+Negative cells: 32
+Proliferation Index = (2)/(2+32)
+Proliferation Index = (2)/(34)
+Proliferation Index = 0,058824
+Proliferation Index = 0,058824 * 100
+Proliferation Index: 5.88%
+
+===== p4_0052_11.jpg =====
+"""
+Positive cells: 11
+Negative cells: 26
+Proliferation Index = (11)/(11+26)
+Proliferation Index = (11)/(37)
+Proliferation Index = 0,297297
+Proliferation Index = 0,297297 * 100
+Proliferation Index: 29.73%
+"""
+
+===== p4_0055_11.jpg =====
+Positive cells: 13
+Negative cells: 20
+Proliferation Index = (13)/(13+20)
+Proliferation Index = (13)/(33)
+Proliferation Index = 0,393939
+Proliferation Index = 0,393939 * 100
+Proliferation Index: 39.39%
+
+===== p4_0061_2.jpg =====
+"""
+Positive cells: 6
+Negative cells: 47
+Proliferation Index = (6)/(6+47)
+Proliferation Index = (6)/(53)
+Proliferation Index = 0,113208
+Proliferation Index = 0,113208 * 100
+Proliferation Index: 11.32%
+"""
+
+===== p4_0065_3.jpg =====
+Positive cells: 6
+Negative cells: 43
+Proliferation Index = (6)/(6+43)
+Proliferation Index = (6)/(49)
+Proliferation Index = 0,122449
+Proliferation Index = 0,122449 * 100
+Proliferation Index: 12.24%
+
+===== p4_0066_7.jpg =====
+Positive cells: 13
+Negative cells: 22
+Proliferation Index = (13)/(13+22)
+Proliferation Index = (13)/(35)
+Proliferation Index = 0,371429
+Proliferation Index = 0,371429 * 100
+Proliferation Index: 37.14%
+
+===== p4_0069_3.jpg =====
+Positive cells: 17
+Negative cells: 44
+Proliferation Index = (17)/(17+44)
+Proliferation Index = (17)/(61)
+Proliferation Index = 0,278689
+Proliferation Index = 0,278689 * 100
+Proliferation Index: 27.87%
+
+===== p4_0071_7.jpg =====
+Positive cells: 17
+Negative cells: 24
+Proliferation Index = (17)/(17+24)
+Proliferation Index = (17)/(41)
+Proliferation Index = 0,414634
+Proliferation Index = 0,414634 * 100
+Proliferation Index: 41.46%
+
+===== p4_0074_6.jpg =====
+Positive cells: 2
+Negative cells: 13
+Proliferation Index = (2)/(2+13)
+Proliferation Index = (2)/(15)
+Proliferation Index = 0,133333
+Proliferation Index = 0,133333 * 100
+Proliferation Index: 13.33%
+
+===== p4_0076_1.jpg =====
+Positive cells: 14
+Negative cells: 29
+Proliferation Index = (14)/(14+29)
+Proliferation Index = (14)/(43)
+Proliferation Index = 0,325581
+Proliferation Index = 0,325581 * 100
+Proliferation Index: 32.56%
+
+===== p4_0080_10.jpg =====
+Positive cells: 13
+Negative cells: 41
+Proliferation Index = (13)/(13+41)
+Proliferation Index = (13)/(54)
+Proliferation Index = 0,240741
+Proliferation Index = 0,240741 * 100
+Proliferation Index: 24.07%
+
+===== p4_0081_5.jpg =====
+Positive cells: 11
+Negative cells: 41
+Proliferation Index = (11)/(11+41)
+Proliferation Index = (11)/(52)
+Proliferation Index = 0,211538
+Proliferation Index = 0,211538 * 100
+Proliferation Index: 21.15%
+
+===== p4_0081_6.jpg =====
+Positive cells: 4
+Negative cells: 54
+Proliferation Index = (4)/(4+54)
+Proliferation Index = (4)/(58)
+Proliferation Index = 0.068966
+Proliferation Index = 0.068966 * 100
+Proliferation Index: 6.90%
+
+===== p4_0083_10.jpg =====
+Positive cells: 13
+Negative cells: 34
+Proliferation Index = (13)/(13+34)
+Proliferation Index = (13)/(47)
+Proliferation Index = 0,276596
+Proliferation Index = 0,276596 * 100
+Proliferation Index: 27.66%
+
+===== p4_0086_8.jpg =====
+Positive cells: 8
+Negative cells: 42
+Proliferation Index = (8)/(8+42)
+Proliferation Index = (8)/(50)
+Proliferation Index = 0,160000
+Proliferation Index = 0,160000 * 100
+Proliferation Index: 16.00%
+
+===== p4_0089_10.jpg =====
+Positive cells: 3
+Negative cells: 56
+Proliferation Index = (3)/(3+56)
+Proliferation Index = (3)/(59)
+Proliferation Index = 0.050847
+Proliferation Index = 0.050847 * 100
+Proliferation Index: 5.08%
+
+===== p4_0097_11.jpg =====
+Positive cells: 11
+Negative cells: 32
+Proliferation Index = (11)/(11+32)
+Proliferation Index = (11)/(43)
+Proliferation Index = 0,255814
+Proliferation Index = 0,255814 * 100
+Proliferation Index: 25.58%
+
+===== p4_0135_1.jpg =====
+Positive cells: 13
+Negative cells: 27
+Proliferation Index = (13)/(13+27)
+Proliferation Index = (13)/(40)
+Proliferation Index = 0,325000
+Proliferation Index = 0,325000 * 100
+Proliferation Index: 32.50%
+
+===== p4_0139_6.jpg =====
+Positive cells: 15
+Negative cells: 39
+Proliferation Index = (15)/(15+39)
+Proliferation Index = (15)/(54)
+Proliferation Index = 0.277778
+Proliferation Index = 0.277778 * 100
+Proliferation Index: 27.78%
+
+===== p4_0143_10.jpg =====
+Positive cells: 15
+Negative cells: 27
+Proliferation Index = (15)/(15+27)
+Proliferation Index = (15)/(42)
+Proliferation Index = 0,357143
+Proliferation Index = 0,357143 * 100
+Proliferation Index: 35.71%
+
+===== p4_0144_6.jpg =====
+Positive cells: 16
+Negative cells: 56
+Proliferation Index = (16)/(16+56)
+Proliferation Index = (16)/(72)
+Proliferation Index = 0,222222
+Proliferation Index = 0,222222 * 100
+Proliferation Index: 22.22%
+
+===== p4_0147_9.jpg =====
+Positive cells: 22
+Negative cells: 36
+Proliferation Index = (22)/(22+36)
+Proliferation Index = (22)/(58)
+Proliferation Index = 0,379310
+Proliferation Index = 0,379310 * 100
+Proliferation Index: 37.93%
+
+===== p4_0159_8.jpg =====
+Positive cells: 6
+Negative cells: 50
+Proliferation Index = (6)/(6+50)
+Proliferation Index = (6)/(56)
+Proliferation Index = 0,107143
+Proliferation Index = 0,107143 * 100
+Proliferation Index: 10.71%
+
+===== p4_0161_3.jpg =====
+Positive cells: 7
+Negative cells: 39
+Proliferation Index = (7)/(7+39)
+Proliferation Index = (7)/(46)
+Proliferation Index = 0,152174
+Proliferation Index = 0,152174 * 100
+Proliferation Index: 15.22%
+
+===== p4_0161_6.jpg =====
+Positive cells: 6
+Negative cells: 47
+Proliferation Index = (6)/(6+47)
+Proliferation Index = (6)/(53)
+Proliferation Index = 0,113208
+Proliferation Index = 0,113208 * 100
+Proliferation Index: 11.32%
+
+===== p4_0169_5.jpg =====
+Positive cells: 13
+Negative cells: 29
+Proliferation Index = (13)/(13+29)
+Proliferation Index = (13)/(42)
+Proliferation Index = 0,309524
+Proliferation Index = 0,309524 * 100
+Proliferation Index: 30.95%
+
+===== p4_0176_2.jpg =====
+Positive cells: 4
+Negative cells: 41
+Proliferation Index = (4)/(4+41)
+Proliferation Index = (4)/(45)
+Proliferation Index = 0,088889
+Proliferation Index = 0,088889 * 100
+Proliferation Index: 8.89%
+
+===== p4_0176_9.jpg =====
+Positive cells: 16
+Negative cells: 38
+Proliferation Index = (16)/(16+38)
+Proliferation Index = (16)/(54)
+Proliferation Index = 0,296296
+Proliferation Index = 0,296296 * 100
+Proliferation Index: 29.63%
+
+===== p4_0179_9.jpg =====
+Positive cells: 15
+Negative cells: 41
+Proliferation Index = (15)/(15+41)
+Proliferation Index = (15)/(56)
+Proliferation Index = 0,267857
+Proliferation Index = 0,267857 * 100
+Proliferation Index: 26.79%
+
+===== p4_0181_3.jpg =====
+Positive cells: 14
+Negative cells: 32
+Proliferation Index = (14)/(14+32)
+Proliferation Index = (14)/(46)
+Proliferation Index = 0,304348
+Proliferation Index = 0,304348 * 100
+Proliferation Index: 30.43%
+
+===== p4_0187_1.jpg =====
+Positive cells: 6
+Negative cells: 26
+Proliferation Index = (6)/(6+26)
+Proliferation Index = (6)/(32)
+Proliferation Index = 0,187500
+Proliferation Index = 0,187500 * 100
+Proliferation Index: 18.75%
+
+===== p4_0193_9.jpg =====
+Positive cells: 13
+Negative cells: 27
+Proliferation Index = (13)/(13+27)
+Proliferation Index = (13)/(40)
+Proliferation Index = 0,325000
+Proliferation Index = 0,325000 * 100
+Proliferation Index: 32.50%
+
+===== p4_0197_11.jpg =====
+Positive cells: 15
+Negative cells: 54
+Proliferation Index = (15)/(15+54)
+Proliferation Index = (15)/(69)
+Proliferation Index = 0,217391
+Proliferation Index = 0,217391 * 100
+Proliferation Index: 21.74%
+
+===== p4_0208_6.jpg =====
+Positive cells: 10
+Negative cells: 27
+Proliferation Index = (10)/(10+27)
+Proliferation Index = (10)/(37)
+Proliferation Index = 0,270270
+Proliferation Index = 0,270270 * 100
+Proliferation Index: 27.03%
+
+===== p4_0213_2.jpg =====
+"""
+Positive cells: 15
+Negative cells: 29
+Proliferation Index = (15)/(15+29)
+Proliferation Index = (15)/(44)
+Proliferation Index = 0,340909
+Proliferation Index = 0,340909 * 100
+Proliferation Index: 34.09%
+"""
+
+===== p5_0095_3.jpg =====
+Positive cells: 32
+Negative cells: 78
+Proliferation Index = (32)/(32+78)
+Proliferation Index = (32)/(110)
+Proliferation Index = 0,290909
+Proliferation Index = 0,290909 * 100
+Proliferation Index: 29.09%
+
+===== p5_0096_5.jpg =====
+Positive cells: 32
+Negative cells: 78
+Proliferation Index = (32)/(32+78)
+Proliferation Index = (32)/(110)
+Proliferation Index = 0,290909
+Proliferation Index = 0,290909 * 100
+Proliferation Index: 29.09%
+
+===== p5_0117_10.jpg =====
+Positive cells: 41
+Negative cells: 54
+Proliferation Index = (41)/(41+54)
+Proliferation Index = (41)/(95)
+Proliferation Index = 0,431579
+Proliferation Index = 0,431579 * 100
+Proliferation Index: 43.16%
+
+===== p5_0120_2.jpg =====
+Positive cells: 56
+Negative cells: 41
+Proliferation Index = (56)/(56+41)
+Proliferation Index = (56)/(97)
+Proliferation Index = 0,577320
+Proliferation Index = 0,577320 * 100
+Proliferation Index: 57.73%
+
+===== p5_0123_1.jpg =====
+Positive cells: 17
+Negative cells: 22
+Proliferation Index = (17)/(17+22)
+Proliferation Index = (17)/(39)
+Proliferation Index = 0,435897
+Proliferation Index = 0,435897 * 100
+Proliferation Index: 43.59%
+
+===== p5_0123_11.jpg =====
+"""
+Positive cells: 24
+Negative cells: 27
+Proliferation Index = (24)/(24+27)
+Proliferation Index = (24)/(51)
+Proliferation Index = 0,470588
+Proliferation Index = 0,470588 * 100
+Proliferation Index: 47.06%
+"""
+
+===== p5_0124_5.jpg =====
+Positive cells: 22
+Negative cells: 52
+Proliferation Index = (22)/(22+52)
+Proliferation Index = (22)/(74)
+Proliferation Index = 0,297297
+Proliferation Index = 0,297297 * 100
+Proliferation Index: 29.73%
+
+===== p5_0140_3.jpg =====
+Positive cells: 17
+Negative cells: 66
+Proliferation Index = (17)/(17+66)
+Proliferation Index = (17)/(83)
+Proliferation Index = 0,204819
+Proliferation Index = 0,204819 * 100
+Proliferation Index: 20.48%
+
+===== p5_0143_11.jpg =====
+Positive cells: 34
+Negative cells: 41
+Proliferation Index = (34)/(34+41)
+Proliferation Index = (34)/(75)
+Proliferation Index = 0,453333
+Proliferation Index = 0,453333 * 100
+Proliferation Index: 45.33%
+
+===== p5_0169_5.jpg =====
+Positive cells: 17
+Negative cells: 78
+Proliferation Index = (17)/(17+78)
+Proliferation Index = (17)/(95)
+Proliferation Index = 0,178947
+Proliferation Index = 0,178947 * 100
+Proliferation Index: 17.89%
+
+===== p5_0180_2.jpg =====
+Positive cells: 32
+Negative cells: 64
+Proliferation Index = (32)/(32+64)
+Proliferation Index = (32)/(96)
+Proliferation Index = 0,333333
+Proliferation Index = 0,333333 * 100
+Proliferation Index: 33.33%
+
+===== p5_0187_7.jpg =====
+Positive cells: 42
+Negative cells: 89
+Proliferation Index = (42)/(42+89)
+Proliferation Index = (42)/(131)
+Proliferation Index = 0,320611
+Proliferation Index = 0,320611 * 100
+Proliferation Index: 32.06%
+
+===== p5_0188_1.jpg =====
+Positive cells: 27
+Negative cells: 74
+Proliferation Index = (27)/(27+74)
+Proliferation Index = (27)/(101)
+Proliferation Index = 0,267327
+Proliferation Index = 0,267327 * 100
+Proliferation Index: 26.73%
+
+===== p5_0189_5.jpg =====
+Positive cells: 8
+Negative cells: 92
+Proliferation Index = (8)/(8+92)
+Proliferation Index = (8)/(100)
+Proliferation Index = 0,080000
+Proliferation Index = 0,080000 * 100
+Proliferation Index: 8.00%
+
+===== p5_0190_5.jpg =====
+Positive cells: 67
+Negative cells: 49
+Proliferation Index = (67)/(67+49)
+Proliferation Index = (67)/(116)
+Proliferation Index = 0,577586
+Proliferation Index = 0,577586 * 100
+Proliferation Index: 57.76%
+
+===== p5_0204_11.jpg =====
+Positive cells: 8
+Negative cells: 95
+Proliferation Index = (8)/(8+95)
+Proliferation Index = (8)/(103)
+Proliferation Index = 0,077670
+Proliferation Index = 0,077670 * 100
+Proliferation Index: 7.77%
+
+===== p5_0221_9.jpg =====
+Positive cells: 14
+Negative cells: 170
+Proliferation Index = (14)/(14+170)
+Proliferation Index = (14)/(184)
+Proliferation Index = 0,076087
+Proliferation Index = 0,076087 * 100
+Proliferation Index: 7.61%
+
+===== p5_0222_9.jpg =====
+Positive cells: 17
+Negative cells: 78
+Proliferation Index = (17)/(17+78)
+Proliferation Index = (17)/(95)
+Proliferation Index = 0,178947
+Proliferation Index = 0,178947 * 100
+Proliferation Index: 17.89%
+
+===== p5_0239_8.jpg =====
+Positive cells: 47
+Negative cells: 56
+Proliferation Index = (47)/(47+56)
+Proliferation Index = (47)/(103)
+Proliferation Index = 0,456311
+Proliferation Index = 0,456311 * 100
+Proliferation Index: 45.63%
+
+===== p5_0245_10.jpg =====
+Positive cells: 41
+Negative cells: 72
+Proliferation Index = (41)/(41+72)
+Proliferation Index = (41)/(113)
+Proliferation Index = 0,362832
+Proliferation Index = 0,362832 * 100
+Proliferation Index: 36.28%
+
+===== p5_0246_7.jpg =====
+Positive cells: 42
+Negative cells: 72
+Proliferation Index = (42)/(42+72)
+Proliferation Index = (42)/(114)
+Proliferation Index = 0,368421
+Proliferation Index = 0,368421 * 100
+Proliferation Index: 36.84%
+
+===== p5_0260_11.jpg =====
+Positive cells: 122
+Negative cells: 41
+Proliferation Index = (122)/(122+41)
+Proliferation Index = (122)/(163)
+Proliferation Index = 0,748466
+Proliferation Index = 0,748466 * 100
+Proliferation Index: 74.85%
+
+===== p5_0274_11.jpg =====
+Positive cells: 62
+Negative cells: 29
+Proliferation Index = (62)/(62+29)
+Proliferation Index = (62)/(91)
+Proliferation Index = 0,681319
+Proliferation Index = 0,681319 * 100
+Proliferation Index: 68.13%
+
+===== p5_0280_11.jpg =====
+Positive cells: 66
+Negative cells: 24
+Proliferation Index = (66)/(66+24)
+Proliferation Index = (66)/(90)
+Proliferation Index = 0,733333
+Proliferation Index = 0,733333 * 100
+Proliferation Index: 73.33%
+
+===== p5_0282_4.jpg =====
+Positive cells: 11
+Negative cells: 74
+Proliferation Index = (11)/(11+74)
+Proliferation Index = (11)/(85)
+Proliferation Index = 0,129412
+Proliferation Index = 0,129412 * 100
+Proliferation Index: 12.94%
+
+===== p5_0296_8.jpg =====
+Positive cells: 36
+Negative cells: 22
+Proliferation Index = (36)/(36+22)
+Proliferation Index = (36)/(58)
+Proliferation Index = 0,620690
+Proliferation Index = 0,620690 * 100
+Proliferation Index: 62.07%
+
+===== p5_0298_5.jpg =====
+Positive cells: 47
+Negative cells: 62
+Proliferation Index = (47)/(47+62)
+Proliferation Index = (47)/(109)
+Proliferation Index = 0,431193
+Proliferation Index = 0,431193 * 100
+Proliferation Index: 43.12%
+
+===== p6_0009_7.jpg =====
+"""
+Positive cells: 95
+Negative cells: 17
+Proliferation Index = (95)/(95+17)
+Proliferation Index = (95)/(112)
+Proliferation Index = 0,848214
+Proliferation Index = 0,848214 * 100
+Proliferation Index: 84.82%
+"""
+
+===== p6_0011_10.jpg =====
+Positive cells: 95
+Negative cells: 17
+Proliferation Index = (95)/(95+17)
+Proliferation Index = (95)/(112)
+Proliferation Index = 0,848214
+Proliferation Index = 0,848214 * 100
+Proliferation Index: 84.82%
+
+===== p6_0011_11.jpg =====
+Positive cells: 83
+Negative cells: 24
+Proliferation Index = (83)/(83+24)
+Proliferation Index = (83)/(107)
+Proliferation Index = 0,775701
+Proliferation Index = 0,775701 * 100
+Proliferation Index: 77.57%
+
+===== p6_0011_5.jpg =====
+Positive cells: 56
+Negative cells: 41
+Proliferation Index = (56)/(56+41)
+Proliferation Index = (56)/(97)
+Proliferation Index = 0,577320
+Proliferation Index = 0,577320 * 100
+Proliferation Index: 57.73%
+
+===== p6_0013_5.jpg =====
+Positive cells: 47
+Negative cells: 30
+Proliferation Index = (47)/(47+30)
+Proliferation Index = (47)/(77)
+Proliferation Index = 0,610390
+Proliferation Index = 0,610390 * 100
+Proliferation Index: 61.04%
+
+===== p6_0015_10.jpg =====
+Positive cells: 47
+Negative cells: 29
+Proliferation Index = (47)/(47+29)
+Proliferation Index = (47)/(76)
+Proliferation Index = 0,618421
+Proliferation Index = 0,618421 * 100
+Proliferation Index: 61.84%
+
+===== p6_0015_3.jpg =====
+Positive cells: 34
+Negative cells: 47
+Proliferation Index = (34)/(34+47)
+Proliferation Index = (34)/(81)
+Proliferation Index = 0,419753
+Proliferation Index = 0,419753 * 100
+Proliferation Index: 41.98%
+
+===== p6_0015_5.jpg =====
+Positive cells: 20
+Negative cells: 56
+Proliferation Index = (20)/(20+56)
+Proliferation Index = (20)/(76)
+Proliferation Index = 0,263158
+Proliferation Index = 0,263158 * 100
+Proliferation Index: 26.32%
+
+===== p6_0016_5.jpg =====
+Positive cells: 112
+Negative cells: 43
+Proliferation Index = (112)/(112+43)
+Proliferation Index = (112)/(155)
+Proliferation Index = 0,722581
+Proliferation Index = 0,722581 * 100
+Proliferation Index: 72.26%
+
+===== p6_0018_11.jpg =====
+Positive cells: 27
+Negative cells: 78
+Proliferation Index = (27)/(27+78)
+Proliferation Index = (27)/(105)
+Proliferation Index = 0,257143
+Proliferation Index = 0,257143 * 100
+Proliferation Index: 25.71%
+
+===== p6_0018_5.jpg =====
+Positive cells: 112
+Negative cells: 24
+Proliferation Index = (112)/(112+24)
+Proliferation Index = (112)/(136)
+Proliferation Index = 0,823529
+Proliferation Index = 0,823529 * 100
+Proliferation Index: 82.35%
+
+===== p6_0020_2.jpg =====
+Positive cells: 41
+Negative cells: 95
+Proliferation Index = (41)/(41+95)
+Proliferation Index = (41)/(136)
+Proliferation Index = 0,301471
+Proliferation Index = 0,301471 * 100
+Proliferation Index: 30.15%
+
+===== p6_0020_3.jpg =====
+Positive cells: 72
+Negative cells: 34
+Proliferation Index = (72)/(72+34)
+Proliferation Index = (72)/(106)
+Proliferation Index = 0,679245
+Proliferation Index = 0,679245 * 100
+Proliferation Index: 67.92%
+
+===== p6_0023_10.jpg =====
+Positive cells: 74
+Negative cells: 22
+Proliferation Index = (74)/(74+22)
+Proliferation Index = (74)/(96)
+Proliferation Index = 0,770833
+Proliferation Index = 0,770833 * 100
+Proliferation Index: 77.08%
+
+===== p6_0023_7.jpg =====
+Positive cells: 78
+Negative cells: 22
+Proliferation Index = (78)/(78+22)
+Proliferation Index = (78)/(100)
+Proliferation Index = 0,780000
+Proliferation Index = 0,780000 * 100
+Proliferation Index: 78.00%
+
+===== p6_0028_9.jpg =====
+Positive cells: 64
+Negative cells: 120
+Proliferation Index = (64)/(64+120)
+Proliferation Index = (64)/(184)
+Proliferation Index = 0,347826
+Proliferation Index = 0,347826 * 100
+Proliferation Index: 34.78%
+
+===== p6_0029_3.jpg =====
+Positive cells: 56
+Negative cells: 34
+Proliferation Index = (56)/(56+34)
+Proliferation Index = (56)/(90)
+Proliferation Index = 0,622222
+Proliferation Index = 0,622222 * 100
+Proliferation Index: 62.22%
+
+===== p6_0029_6.jpg =====
+Positive cells: 27
+Negative cells: 66
+Proliferation Index = (27)/(27+66)
+Proliferation Index = (27)/(93)
+Proliferation Index = 0,290323
+Proliferation Index = 0,290323 * 100
+Proliferation Index: 29.03%
+
+===== p6_0030_11.jpg =====
+Positive cells: 62
+Negative cells: 41
+Proliferation Index = (62)/(62+41)
+Proliferation Index = (62)/(103)
+Proliferation Index = 0,601942
+Proliferation Index = 0,601942 * 100
+Proliferation Index: 60.19%
+
+===== p6_0030_3.jpg =====
+Positive cells: 83
+Negative cells: 17
+Proliferation Index = (83)/(83+17)
+Proliferation Index = (83)/(100)
+Proliferation Index = 0,830000
+Proliferation Index = 0,830000 * 100
+Proliferation Index: 83.00%
+
+===== p6_0030_6.jpg =====
+Positive cells: 95
+Negative cells: 22
+Proliferation Index = (95)/(95+22)
+Proliferation Index = (95)/(117)
+Proliferation Index = 0,811966
+Proliferation Index = 0,811966 * 100
+Proliferation Index: 81.20%
+
+===== p6_0030_7.jpg =====
+"""
+Positive cells: 95
+Negative cells: 15
+Proliferation Index = (95)/(95+15)
+Proliferation Index = (95)/(110)
+Proliferation Index = 0,863636
+Proliferation Index = 0,863636 * 100
+Proliferation Index: 86.36%
+"""
+
+===== p6_0031_9.jpg =====
+"""
+Positive cells: 62
+Negative cells: 24
+Proliferation Index = (62)/(62+24)
+Proliferation Index = (62)/(86)
+Proliferation Index = 0,720930
+Proliferation Index = 0,720930 * 100
+Proliferation Index: 72.09%
+"""
+
+===== p6_0032_1.jpg =====
+Positive cells: 4
+Negative cells: 66
+Proliferation Index = (4)/(4+66)
+Proliferation Index = (4)/(70)
+Proliferation Index = 0,057143
+Proliferation Index = 0,057143 * 100
+Proliferation Index: 5.71%
+
+===== p6_0304_9.jpg =====
+Positive cells: 66
+Negative cells: 34
+Proliferation Index = (66)/(66+34)
+Proliferation Index = (66)/(100)
+Proliferation Index = 0,660000
+Proliferation Index = 0,660000 * 100
+Proliferation Index: 66.00%
+
+===== p6_0311_5.jpg =====
+"""
+Positive cells: 72
+Negative cells: 47
+Proliferation Index = (72)/(72+47)
+Proliferation Index = (72)/(119)
+Proliferation Index = 0,605042
+Proliferation Index = 0,605042 * 100
+Proliferation Index: 60.50%
+"""
+
+===== p7_0046_11.jpg =====
+Positive cells: 20
+Negative cells: 17
+Proliferation Index = (20)/(20+17)
+Proliferation Index = (20)/(37)
+Proliferation Index = 0,540541
+Proliferation Index = 0,540541 * 100
+Proliferation Index: 54.05%
+
+===== p7_0047_5.jpg =====
+Positive cells: 41
+Negative cells: 47
+Proliferation Index = (41)/(41+47)
+Proliferation Index = (41)/(88)
+Proliferation Index = 0,465909
+Proliferation Index = 0,465909 * 100
+Proliferation Index: 46.59%
+
+===== p7_0047_6.jpg =====
+Positive cells: 32
+Negative cells: 9
+Proliferation Index = (32)/(32+9)
+Proliferation Index = (32)/(41)
+Proliferation Index = 0,780488
+Proliferation Index = 0,780488 * 100
+Proliferation Index: 78.05%
+
+===== p7_0048_2.jpg =====
+Positive cells: 20
+Negative cells: 22
+Proliferation Index = (20)/(20+22)
+Proliferation Index = (20)/(42)
+Proliferation Index = 0,476190
+Proliferation Index = 0,476190 * 100
+Proliferation Index: 47.62%
+
+===== p7_0048_3.jpg =====
+Positive cells: 23
+Negative cells: 11
+Proliferation Index = (23)/(23+11)
+Proliferation Index = (23)/(34)
+Proliferation Index = 0,676471
+Proliferation Index = 0,676471 * 100
+Proliferation Index: 67.65%
+
+===== p7_0048_7.jpg =====
+Positive cells: 27
+Negative cells: 4
+Proliferation Index = (27)/(27+4)
+Proliferation Index = (27)/(31)
+Proliferation Index = 0,870968
+Proliferation Index = 0,870968 * 100
+Proliferation Index: 87.10%
+
+===== p7_0050_10.jpg =====
+"""
+Positive cells: 32
+Negative cells: 18
+Proliferation Index = (32)/(32+18)
+Proliferation Index = (32)/(50)
+Proliferation Index = 0,640000
+Proliferation Index = 0,640000 * 100
+Proliferation Index: 64.00%
+"""
+
+===== p7_0050_12.jpg =====
+Positive cells: 22
+Negative cells: 9
+Proliferation Index = (22)/(22+9)
+Proliferation Index = (22)/(31)
+Proliferation Index = 0,709677
+Proliferation Index = 0,709677 * 100
+Proliferation Index: 70.97%
+
+===== p7_0050_2.jpg =====
+Positive cells: 13
+Negative cells: 24
+Proliferation Index = (13)/(13+24)
+Proliferation Index = (13)/(37)
+Proliferation Index = 0,351351
+Proliferation Index = 0,351351 * 100
+Proliferation Index: 35.14%
+
+===== p7_0054_6.jpg =====
+"""
+Positive cells: 27
+Negative cells: 17
+Proliferation Index = (27)/(27+17)
+Proliferation Index = (27)/(44)
+Proliferation Index = 0,613636
+Proliferation Index = 0,613636 * 100
+Proliferation Index: 61.36%
+"""
+
+===== p7_0055_11.jpg =====
+Positive cells: 41
+Negative cells: 17
+Proliferation Index = (41)/(41+17)
+Proliferation Index = (41)/(58)
+Proliferation Index = 0,706897
+Proliferation Index = 0,706897 * 100
+Proliferation Index: 70.69%
+
+===== p7_0055_6.jpg =====
+Positive cells: 32
+Negative cells: 41
+Proliferation Index = (32)/(32+41)
+Proliferation Index = (32)/(73)
+Proliferation Index = 0,438356
+Proliferation Index = 0,438356 * 100
+Proliferation Index: 43.84%
+
+===== p7_0056_10.jpg =====
+Positive cells: 36
+Negative cells: 20
+Proliferation Index = (36)/(36+20)
+Proliferation Index = (36)/(56)
+Proliferation Index = 0,642857
+Proliferation Index = 0,642857 * 100
+Proliferation Index: 64.29%
+
+===== p7_0057_11.jpg =====
+"""
+Positive cells: 41
+Negative cells: 24
+Proliferation Index = (41)/(41+24)
+Proliferation Index = (41)/(65)
+Proliferation Index = 0,630769
+Proliferation Index = 0,630769 * 100
+Proliferation Index: 63.08%
+"""
+
+===== p7_0058_8.jpg =====
+Positive cells: 23
+Negative cells: 13
+Proliferation Index = (23)/(23+13)
+Proliferation Index = (23)/(36)
+Proliferation Index = 0,638889
+Proliferation Index = 0,638889 * 100
+Proliferation Index: 63.89%
+
+===== p7_0061_12.jpg =====
+Positive cells: 17
+Negative cells: 34
+Proliferation Index = (17)/(17+34)
+Proliferation Index = (17)/(51)
+Proliferation Index = 0,333333
+Proliferation Index = 0,333333 * 100
+Proliferation Index: 33.33%
+
+===== p7_0061_8.jpg =====
+"""
+Positive cells: 20
+Negative cells: 32
+Proliferation Index = (20)/(20+32)
+Proliferation Index = (20)/(52)
+Proliferation Index = 0,384615
+Proliferation Index = 0,384615 * 100
+Proliferation Index: 38.46%
+"""
+
+===== p7_0062_10.jpg =====
+Positive cells: 13
+Negative cells: 20
+Proliferation Index = (13)/(13+20)
+Proliferation Index = (13)/(33)
+Proliferation Index = 0,393939
+Proliferation Index = 0,393939 * 100
+Proliferation Index: 39.39%
+
+===== p7_0063_10.jpg =====
+Positive cells: 15
+Negative cells: 6
+Proliferation Index = (15)/(15+6)
+Proliferation Index = (15)/(21)
+Proliferation Index = 0.714286
+Proliferation Index = 0.714286 * 100
+Proliferation Index: 71.43%
+
+===== p7_0065_11.jpg =====
+"""
+Positive cells: 23
+Negative cells: 34
+Proliferation Index = (23)/(23+34)
+Proliferation Index = (23)/(57)
+Proliferation Index = 0,403509
+Proliferation Index = 0,403509 * 100
+Proliferation Index: 40.35%
+"""
+
+===== p7_0065_12.jpg =====
+Positive cells: 18
+Negative cells: 20
+Proliferation Index = (18)/(18+20)
+Proliferation Index = (18)/(38)
+Proliferation Index = 0,473684
+Proliferation Index = 0,473684 * 100
+Proliferation Index: 47.37%
+
+===== p7_0067_6.jpg =====
+Positive cells: 32
+Negative cells: 17
+Proliferation Index = (32)/(32+17)
+Proliferation Index = (32)/(49)
+Proliferation Index = 0,653061
+Proliferation Index = 0,653061 * 100
+Proliferation Index: 65.31%
+
+===== p7_37_10.jpg =====
+Positive cells: 20
+Negative cells: 32
+Proliferation Index = (20)/(20+32)
+Proliferation Index = (20)/(52)
+Proliferation Index = 0,384615
+Proliferation Index = 0,384615 * 100
+Proliferation Index: 38.46%
+
+===== p7_40_12.jpg =====
+Positive cells: 22
+Negative cells: 20
+Proliferation Index = (22)/(22+20)
+Proliferation Index = (22)/(42)
+Proliferation Index = 0,523810
+Proliferation Index = 0,523810 * 100
+Proliferation Index: 52.38%
+
+===== p8_0040_1.jpg =====
+Positive cells: 27
+Negative cells: 17
+Proliferation Index = (27)/(27+17)
+Proliferation Index = (27)/(44)
+Proliferation Index = 0,613636
+Proliferation Index = 0,613636 * 100
+Proliferation Index: 61.36%
+
+===== p8_0040_11.jpg =====
+Positive cells: 13
+Negative cells: 20
+Proliferation Index = (13)/(13+20)
+Proliferation Index = (13)/(33)
+Proliferation Index = 0,393939
+Proliferation Index = 0,393939 * 100
+Proliferation Index: 39.39%
+
+===== p8_0040_5.jpg =====
+"""
+Positive cells: 20
+Negative cells: 26
+Proliferation Index = (20)/(20+26)
+Proliferation Index = (20)/(46)
+Proliferation Index = 0,434783
+Proliferation Index = 0,434783 * 100
+Proliferation Index: 43.48%
+"""
+
+===== p8_0040_6.jpg =====
+Positive cells: 13
+Negative cells: 17
+Proliferation Index = (13)/(13+17)
+Proliferation Index = (13)/(30)
+Proliferation Index = 0,433333
+Proliferation Index = 0,433333 * 100
+Proliferation Index: 43.33%
+
+===== p8_0040_7.jpg =====
+Positive cells: 20
+Negative cells: 24
+Proliferation Index = (20)/(20+24)
+Proliferation Index = (20)/(44)
+Proliferation Index = 0,454545
+Proliferation Index = 0,454545 * 100
+Proliferation Index: 45.45%
+
+===== p8_0043_7.jpg =====
+Positive cells: 12
+Negative cells: 15
+Proliferation Index = (12)/(12+15)
+Proliferation Index = (12)/(27)
+Proliferation Index = 0,444444
+Proliferation Index = 0,444444 * 100
+Proliferation Index: 44.44%
+
+===== p8_0045_10.jpg =====
+"""
+Positive cells: 17
+Negative cells: 15
+Proliferation Index = (17)/(17+15)
+Proliferation Index = (17)/(32)
+Proliferation Index = 0,531250
+Proliferation Index = 0,531250 * 100
+Proliferation Index: 53.13%
+"""
+
+===== p8_0045_2.jpg =====
+"""
+Positive cells: 20
+Negative cells: 32
+Proliferation Index = (20)/(20+32)
+Proliferation Index = (20)/(52)
+Proliferation Index = 0,384615
+Proliferation Index = 0,384615 * 100
+Proliferation Index: 38.46%
+"""
+
+===== p8_0049_6.jpg =====
+Positive cells: 0
+Negative cells: 66
+Proliferation Index = (0)/(0+66)
+Proliferation Index = (0)/(66)
+Proliferation Index = 0,000000
+Proliferation Index = 0,000000 * 100
+Proliferation Index: 0.00%
+
+===== p8_0049_9.jpg =====
+Positive cells: 0
+Negative cells: 16
+Proliferation Index = (0)/(0+16)
+Proliferation Index = (0)/(16)
+Proliferation Index = 0,000000
+Proliferation Index = 0,000000 * 100
+Proliferation Index: 0.00%
+
+===== p8_0050_1.jpg =====
+"""
+Positive cells: 3
+Negative cells: 7
+Proliferation Index = (3)/(3+7)
+Proliferation Index = (3)/(10)
+Proliferation Index = 0,300000
+Proliferation Index = 0,300000 * 100
+Proliferation Index: 30.00%
+"""
+
+===== p8_0050_2.jpg =====
+Positive cells: 3
+Negative cells: 22
+Proliferation Index = (3)/(3+22)
+Proliferation Index = (3)/(25)
+Proliferation Index = 0.120000
+Proliferation Index = 0.120000 * 100
+Proliferation Index: 12.00%
+
+===== p8_0050_3.jpg =====
+"""
+Positive cells: 3
+Negative cells: 27
+Proliferation Index = (3)/(3+27)
+Proliferation Index = (3)/(30)
+Proliferation Index = 0,100000
+Proliferation Index = 0,100000 * 100
+Proliferation Index: 10.00%
+"""
+
+===== p8_0050_5.jpg =====
+"""
+Positive cells: 0
+Negative cells: 11
+Proliferation Index = (0)/(0+11)
+Proliferation Index = (0)/(11)
+Proliferation Index = 0,000000
+Proliferation Index = 0,000000 * 100
+Proliferation Index: 0.00%
+"""
+
+===== p8_0051_1.jpg =====
+Positive cells: 7
+Negative cells: 4
+Proliferation Index = (7)/(7+4)
+Proliferation Index = (7)/(11)
+Proliferation Index = 0,636364
+Proliferation Index = 0,636364 * 100
+Proliferation Index: 63.64%
+
+===== p8_0054_11.jpg =====
+Positive cells: 20
+Negative cells: 52
+Proliferation Index = (20)/(20+52)
+Proliferation Index = (20)/(72)
+Proliferation Index = 0,277778
+Proliferation Index = 0,277778 * 100
+Proliferation Index: 27.78%
+
+===== p8_0054_7.jpg =====
+Positive cells: 20
+Negative cells: 47
+Proliferation Index = (20)/(20+47)
+Proliferation Index = (20)/(67)
+Proliferation Index = 0,298507
+Proliferation Index = 0,298507 * 100
+Proliferation Index: 29.85%
+
+===== p8_0055_2.jpg =====
+Positive cells: 13
+Negative cells: 20
+Proliferation Index = (13)/(13+20)
+Proliferation Index = (13)/(33)
+Proliferation Index = 0,393939
+Proliferation Index = 0,393939 * 100
+Proliferation Index: 39.39%
+
+===== p9_0202_11.jpg =====
+Positive cells: 3
+Negative cells: 34
+Proliferation Index = (3)/(3+34)
+Proliferation Index = (3)/(37)
+Proliferation Index = 0,081081
+Proliferation Index = 0,081081 * 100
+Proliferation Index: 8.11%
+
+===== p9_0203_5.jpg =====
+Positive cells: 0
+Negative cells: 38
+Proliferation Index = (0)/(0+38)
+Proliferation Index = (0)/(38)
+Proliferation Index = 0,000000
+Proliferation Index = 0,000000 * 100
+Proliferation Index: 0.00%
+
+===== p9_0203_6.jpg =====
+Positive cells: 4
+Negative cells: 32
+Proliferation Index = (4)/(4+32)
+Proliferation Index = (4)/(36)
+Proliferation Index = 0,111111
+Proliferation Index = 0,111111 * 100
+Proliferation Index: 11.11%
+
+===== p9_0203_7.jpg =====
+"""
+Positive cells: 9
+Negative cells: 32
+Proliferation Index = (9)/(9+32)
+Proliferation Index = (9)/(41)
+Proliferation Index = 0,219512
+Proliferation Index = 0,219512 * 100
+Proliferation Index: 21.95%
+"""
+
+===== p9_0205_5.jpg =====
+Positive cells: 4
+Negative cells: 43
+Proliferation Index = (4)/(4+43)
+Proliferation Index = (4)/(47)
+Proliferation Index = 0.085106
+Proliferation Index = 0.085106 * 100
+Proliferation Index: 8.51%
+
+===== p9_0205_6.jpg =====
+Positive cells: 5
+Negative cells: 34
+Proliferation Index = (5)/(5+34)
+Proliferation Index = (5)/(39)
+Proliferation Index = 0,128205
+Proliferation Index = 0,128205 * 100
+Proliferation Index: 12.82%
+
+===== p9_0210_1.jpg =====
+Positive cells: 9
+Negative cells: 32
+Proliferation Index = (9)/(9+32)
+Proliferation Index = (9)/(41)
+Proliferation Index = 0,219512
+Proliferation Index = 0,219512 * 100
+Proliferation Index: 21.95%
+
+===== p9_0211_7.jpg =====
+Positive cells: 5
+Negative cells: 20
+Proliferation Index = (5)/(5+20)
+Proliferation Index = (5)/(25)
+Proliferation Index = 0.200000
+Proliferation Index = 0.200000 * 100
+Proliferation Index: 20.00%
+
+===== p9_0213_3.jpg =====
+"""
+Positive cells: 11
+Negative cells: 34
+Proliferation Index = (11)/(11+34)
+Proliferation Index = (11)/(45)
+Proliferation Index = 0,244444
+Proliferation Index = 0,244444 * 100
+Proliferation Index: 24.44%
+"""
+
+===== p9_0213_5.jpg =====
+Positive cells: 2
+Negative cells: 41
+Proliferation Index = (2)/(2+41)
+Proliferation Index = (2)/(43)
+Proliferation Index = 0,046512
+Proliferation Index = 0,046512 * 100
+Proliferation Index: 4.65%
+
+===== p9_0214_10.jpg =====
+Positive cells: 6
+Negative cells: 47
+Proliferation Index = (6)/(6+47)
+Proliferation Index = (6)/(53)
+Proliferation Index = 0,113208
+Proliferation Index = 0,113208 * 100
+Proliferation Index: 11.32%
+
+===== p9_0215_6.jpg =====
+Positive cells: 8
+Negative cells: 32
+Proliferation Index = (8)/(8+32)
+Proliferation Index = (8)/(40)
+Proliferation Index = 0,200000
+Proliferation Index = 0,200000 * 100
+Proliferation Index: 20.00%
+
+===== p9_0216_10.jpg =====
+Positive cells: 6
+Negative cells: 47
+Proliferation Index = (6)/(6+47)
+Proliferation Index = (6)/(53)
+Proliferation Index = 0,113208
+Proliferation Index = 0,113208 * 100
+Proliferation Index: 11.32%
+
+===== p9_0217_11.jpg =====
+Positive cells: 3
+Negative cells: 27
+Proliferation Index = (3)/(3+27)
+Proliferation Index = (3)/(30)
+Proliferation Index = 0,100000
+Proliferation Index = 0,100000 * 100
+Proliferation Index: 10.00%
+
+===== p9_0219_9.jpg =====
+Positive cells: 5
+Negative cells: 20
+Proliferation Index = (5)/(5+20)
+Proliferation Index = (5)/(25)
+Proliferation Index = 0.200000
+Proliferation Index = 0.200000 * 100
+Proliferation Index: 20.00%
+
+===== p9_0221_3.jpg =====
+"""
+Positive cells: 5
+Negative cells: 15
+Proliferation Index = (5)/(5+15)
+Proliferation Index = (5)/(20)
+Proliferation Index = 0,250000
+Proliferation Index = 0,250000 * 100
+Proliferation Index: 25.00%
+"""
+
+===== p9_0221_9.jpg =====
+Positive cells: 4
+Negative cells: 32
+Proliferation Index = (4)/(4+32)
+Proliferation Index = (4)/(36)
+Proliferation Index = 0,111111
+Proliferation Index = 0,111111 * 100
+Proliferation Index: 11.11%
+
+===== p9_0222_1.jpg =====
+Positive cells: 7
+Negative cells: 32
+Proliferation Index = (7)/(7+32)
+Proliferation Index = (7)/(39)
+Proliferation Index = 0.179487
+Proliferation Index = 0.179487 * 100
+Proliferation Index: 17.95%
+
+===== p9_0222_10.jpg =====
+Positive cells: 4
+Negative cells: 26
+Proliferation Index = (4)/(4+26)
+Proliferation Index = (4)/(30)
+Proliferation Index = 0,133333
+Proliferation Index = 0,133333 * 100
+Proliferation Index: 13.33%
+
+===== p9_0222_5.jpg =====
+"""
+Positive cells: 4
+Negative cells: 23
+Proliferation Index = (4)/(4+23)
+Proliferation Index = (4)/(27)
+Proliferation Index = 0,148148
+Proliferation Index = 0,148148 * 100
+Proliferation Index: 14.81%
+"""
+
+===== p9_0222_6.jpg =====
+Positive cells: 11
+Negative cells: 34
+Proliferation Index = (11)/(11+34)
+Proliferation Index = (11)/(45)
+Proliferation Index = 0,244444
+Proliferation Index = 0,244444 * 100
+Proliferation Index: 24.44%
+
+===== p9_0227_11.jpg =====
+"""
+Positive cells: 3
+Negative cells: 24
+Proliferation Index = (3)/(3+24)
+Proliferation Index = (3)/(27)
+Proliferation Index = 0,111111
+Proliferation Index = 0,111111 * 100
+Proliferation Index: 11.11%
+"""
+
+===== p9_0228_3.jpg =====
+Positive cells: 4
+Negative cells: 39
+Proliferation Index = (4)/(4+39)
+Proliferation Index = (4)/(43)
+Proliferation Index = 0,093023
+Proliferation Index = 0,093023 * 100
+Proliferation Index: 9.30%
+
+===== p9_0229_3.jpg =====
+"""
+Positive cells: 0
+Negative cells: 15
+Proliferation Index = (0)/(0+15)
+Proliferation Index = (0)/(15)
+Proliferation Index = 0,000000
+Proliferation Index = 0,000000 * 100
+Proliferation Index: 0.00%
+"""
+
+===== p9_0229_7.jpg =====
+Positive cells: 3
+Negative cells: 26
+Proliferation Index = (3)/(3+26)
+Proliferation Index = (3)/(29)
+Proliferation Index = 0.103448
+Proliferation Index = 0.103448 * 100
+Proliferation Index: 10.34%
+
+===== p9_0230_10.jpg =====
+"""
+Positive cells: 1
+Negative cells: 34
+Proliferation Index = (1)/(1+34)
+Proliferation Index = (1)/(35)
+Proliferation Index = 0,028571
+Proliferation Index = 0,028571 * 100
+Proliferation Index: 2.86%
+"""
+
+===== p9_0230_7.jpg =====
+Positive cells: 3
+Negative cells: 41
+Proliferation Index = (3)/(3+41)
+Proliferation Index = (3)/(44)
+Proliferation Index = 0.068182
+Proliferation Index = 0.068182 * 100
+Proliferation Index: 6.82%
+
+===== p9_0231_3.jpg =====
+Positive cells: 1
+Negative cells: 50
+Proliferation Index = (1)/(1+50)
+Proliferation Index = (1)/(51)
+Proliferation Index = 0,019608
+Proliferation Index = 0,019608 * 100
+Proliferation Index: 1.96%
+
+===== p9_0233_11.jpg =====
+Positive cells: 3
+Negative cells: 47
+Proliferation Index = (3)/(3+47)
+Proliferation Index = (3)/(50)
+Proliferation Index = 0.060000
+Proliferation Index = 0.060000 * 100
+Proliferation Index: 6.00%
+
+===== p9_0235_9.jpg =====
+Positive cells: 1
+Negative cells: 32
+Proliferation Index = (1)/(1+32)
+Proliferation Index = (1)/(33)
+Proliferation Index = 0,030303
+Proliferation Index = 0,030303 * 100
+Proliferation Index: 3.03%
+
+===== p9_0238_5.jpg =====
+Positive cells: 3
+Negative cells: 34
+Proliferation Index = (3)/(3+34)
+Proliferation Index = (3)/(37)
+Proliferation Index = 0,081081
+Proliferation Index = 0,081081 * 100
+Proliferation Index: 8.11%
+
+===== p9_0243_1.jpg =====
+Positive cells: 3
+Negative cells: 29
+Proliferation Index = (3)/(3+29)
+Proliferation Index = (3)/(32)
+Proliferation Index = 0,093750
+Proliferation Index = 0,093750 * 100
+Proliferation Index: 9.38%
+
+===== p9_0245_6.jpg =====
+Positive cells: 3
+Negative cells: 22
+Proliferation Index = (3)/(3+22)
+Proliferation Index = (3)/(25)
+Proliferation Index = 0.120000
+Proliferation Index = 0.120000 * 100
+Proliferation Index: 12.00%
+
+===== p7_0050_6.jpg =====
+Positive cells: 29
+Negative cells: 34
+Proliferation Index = (29)/(29+34)
+Proliferation Index = (29)/(63)
+Proliferation Index = 0,460317
+Proliferation Index = 0,460317 * 100
+Proliferation Index: 46.03%
+
+===== p7_0050_7.jpg =====
+"""
+Positive cells: 36
+Negative cells: 15
+Proliferation Index = (36)/(36+15)
+Proliferation Index = (36)/(51)
+Proliferation Index = 0,705882
+Proliferation Index = 0,705882 * 100
+Proliferation Index: 70.59%
+"""
+
+===== p7_0050_8.jpg =====
+"""
+Positive cells: 23
+Negative cells: 6
+Proliferation Index = (23)/(23+6)
+Proliferation Index = (23)/(29)
+Proliferation Index = 0,793103
+Proliferation Index = 0,793103 * 100
+Proliferation Index: 79.31%
+"""
+
+===== p7_0051_3.jpg =====
+"""
+Positive cells: 32
+Negative cells: 13
+Proliferation Index = (32)/(32+13)
+Proliferation Index = (32)/(45)
+Proliferation Index = 0,711111
+Proliferation Index = 0,711111 * 100
+Proliferation Index: 71.11%
+"""
+
+===== p7_0052_3.jpg =====
+Positive cells: 47
+Negative cells: 24
+Proliferation Index = (47)/(47+24)
+Proliferation Index = (47)/(71)
+Proliferation Index = 0.661972
+Proliferation Index = 0.661972 * 100
+Proliferation Index: 66.20%
+
+===== p7_0052_6.jpg =====
+Positive cells: 22
+Negative cells: 34
+Proliferation Index = (22)/(22+34)
+Proliferation Index = (22)/(56)
+Proliferation Index = 0,392857
+Proliferation Index = 0,392857 * 100
+Proliferation Index: 39.29%
+
+===== p7_0052_8.jpg =====
+"""
+Positive cells: 17
+Negative cells: 8
+Proliferation Index = (17)/(17+8)
+Proliferation Index = (17)/(25)
+Proliferation Index = 0,680000
+Proliferation Index = 0,680000 * 100
+Proliferation Index: 68.00%
+"""
+
+===== p7_0053_3.jpg =====
+Positive cells: 22
+Negative cells: 15
+Proliferation Index = (22)/(22+15)
+Proliferation Index = (22)/(37)
+Proliferation Index = 0,594595
+Proliferation Index = 0,594595 * 100
+Proliferation Index: 59.46%

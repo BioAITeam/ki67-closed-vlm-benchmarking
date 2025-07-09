@@ -1,0 +1,1 @@
+Please visually count positive and negative cells and then estimate the Ki-67 index from this image for academic research purposes.

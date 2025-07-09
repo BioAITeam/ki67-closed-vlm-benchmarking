@@ -1,0 +1,3631 @@
+
+===== 0.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 56  
+
+Ki-67 Index = (27 / (27 + 56)) x 100  
+Ki-67 Index = (27 / 83) x 100  
+Ki-67 Index = 32.53%  
+
+Ki-67 Index: 32.53%
+
+===== 1.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 47  
+
+Ki-67 Index = (13 / (13 + 47)) x 100  
+Ki-67 Index = (13 / 60) x 100  
+Ki-67 Index = 21.67%  
+
+Ki-67 Index: 21.67%
+
+===== 10.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 23  
+Ki-67 Index = (17 / (17 + 23)) x 100  
+Ki-67 Index: 42.50%
+
+===== 100.jpg =====
+Immunopositive cells: 58  
+Immunonegative cells: 54  
+
+Ki-67 Index = (58 / (58 + 54)) x 100  
+Ki-67 Index = (58 / 112) x 100  
+Ki-67 Index = 51.79%  
+
+Ki-67 Index: 51.79%
+
+===== 101.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 14  
+
+Ki-67 Index = (67 / (67 + 14)) x 100  
+Ki-67 Index = (67 / 81) x 100  
+Ki-67 Index = 82.72%  
+
+Ki-67 Index: 82.72%
+
+===== 102.jpg =====
+Immunopositive cells: 43  
+Immunonegative cells: 13  
+
+Ki-67 Index = (43 / (43 + 13)) x 100  
+Ki-67 Index = (43 / 56) x 100  
+Ki-67 Index = 76.79%  
+
+Ki-67 Index: 76.79%
+
+===== 103.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 18  
+Ki-67 Index = (56 / (56 + 18)) x 100  
+Ki-67 Index: 75.68%
+
+===== 104.jpg =====
+Immunopositive cells: 64  
+Immunonegative cells: 4  
+Ki-67 Index = (64 / (64 + 4)) x 100  
+Ki-67 Index: 94.12%
+
+===== 105.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 24  
+
+Ki-67 Index = (47 / (47 + 24)) x 100  
+Ki-67 Index = (47 / 71) x 100  
+Ki-67 Index = 66.20%  
+
+Ki-67 Index: 66.20%
+
+===== 106.jpg =====
+Immunopositive cells: 21  
+Immunonegative cells: 15  
+
+Ki-67 Index = (21 / (21 + 15)) x 100  
+
+Ki-67 Index: 58.33%
+
+===== 107.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 20  
+Ki-67 Index = (41 / (41 + 20)) x 100  
+Ki-67 Index: 67.21%
+
+===== 108.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 10  
+
+Ki-67 Index = (41 / (41 + 10)) x 100  
+Ki-67 Index = (41 / 51) x 100  
+Ki-67 Index = 80.39%  
+
+Ki-67 Index: 80.39%
+
+===== 109.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 17  
+Ki-67 Index = (54 / (54 + 17)) x 100  
+Ki-67 Index: 76.06%
+
+===== 11.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 32  
+
+Ki-67 Index = (23 / (23 + 32)) x 100  
+Ki-67 Index = (23 / 55) x 100  
+Ki-67 Index = 41.82%  
+
+Ki-67 Index: 41.82%
+
+===== 110.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 18  
+Ki-67 Index = (42 / (42 + 18)) x 100  
+Ki-67 Index: 70.00%
+
+===== 111.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 24  
+Ki-67 Index = (72 / (72 + 24)) x 100  
+Ki-67 Index: 75.00%
+
+===== 112.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 32  
+
+Ki-67 Index = (62 / (62 + 32)) x 100  
+Ki-67 Index = (62 / 94) x 100  
+Ki-67 Index = 65.96%  
+
+Ki-67 Index: 65.96%
+
+===== 113.jpg =====
+Immunopositive cells: 64  
+Immunonegative cells: 23  
+
+Ki-67 Index = (64 / (64 + 23)) x 100  
+Ki-67 Index = (64 / 87) x 100  
+Ki-67 Index = 73.56%  
+
+Ki-67 Index: 73.56%
+
+===== 114.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 54  
+
+Ki-67 Index = (36 / (36 + 54)) x 100  
+Ki-67 Index = (36 / 90) x 100  
+Ki-67 Index = 40.00%  
+
+Ki-67 Index: 40.00%
+
+===== 115.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 29  
+
+Ki-67 Index = (34 / (34 + 29)) x 100  
+Ki-67 Index = (34 / 63) x 100  
+Ki-67 Index = 53.97%  
+
+Ki-67 Index: 53.97%
+
+===== 116.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 47  
+
+Ki-67 Index = (32 / (32 + 47)) x 100  
+Ki-67 Index = (32 / 79) x 100  
+Ki-67 Index = 40.51%  
+
+Ki-67 Index: 40.51%
+
+===== 117.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 41  
+
+Ki-67 Index = (34 / (34 + 41)) x 100  
+Ki-67 Index = (34 / 75) x 100  
+Ki-67 Index = 45.33%  
+
+Ki-67 Index: 45.33%
+
+===== 118.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 68  
+
+Ki-67 Index = (32 / (32 + 68)) x 100  
+Ki-67 Index = (32 / 100) x 100  
+Ki-67 Index = 32.00%  
+
+Ki-67 Index: 32.00%
+
+===== 119.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 49  
+
+Ki-67 Index = (32 / (32 + 49)) x 100  
+Ki-67 Index = (32 / 81) x 100  
+Ki-67 Index = 39.51%  
+
+Ki-67 Index: 39.51%
+
+===== 12.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 34  
+
+Ki-67 Index = (47 / (47 + 34)) x 100  
+Ki-67 Index = (47 / 81) x 100  
+Ki-67 Index = 58.02%  
+
+Ki-67 Index: 58.02%
+
+===== 120.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 56  
+
+Ki-67 Index = (32 / (32 + 56)) x 100  
+Ki-67 Index = (32 / 88) x 100  
+Ki-67 Index = 36.36%  
+
+Ki-67 Index: 36.36%
+
+===== 121.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 56  
+
+Ki-67 Index = (24 / (24 + 56)) x 100  
+Ki-67 Index = (24 / 80) x 100  
+Ki-67 Index = 30.00%  
+
+Ki-67 Index: 30.00%
+
+===== 122.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 47  
+
+Ki-67 Index = (34 / (34 + 47)) x 100  
+Ki-67 Index = (34 / 81) x 100  
+Ki-67 Index = 41.98%  
+
+Ki-67 Index: 41.98%
+
+===== 123.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 15  
+
+Ki-67 Index = (67 / (67 + 15)) x 100  
+Ki-67 Index = (67 / 82) x 100  
+Ki-67 Index = 81.71%  
+
+Ki-67 Index: 81.71%
+
+===== 124.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 29  
+
+Ki-67 Index = (47 / (47 + 29)) x 100  
+Ki-67 Index = (47 / 76) x 100  
+Ki-67 Index = 61.84%  
+
+Ki-67 Index: 61.84%
+
+===== 125.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 15  
+
+Ki-67 Index = (47 / (47 + 15)) x 100  
+Ki-67 Index = (47 / 62) x 100  
+Ki-67 Index = 75.81%  
+
+Ki-67 Index: 75.81%
+
+===== 126.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 27  
+
+Ki-67 Index = (56 / (56 + 27)) x 100  
+Ki-67 Index = (56 / 83) x 100  
+Ki-67 Index = 67.47%  
+
+Ki-67 Index: 67.47%
+
+===== 127.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 41  
+
+Ki-67 Index = (52 / (52 + 41)) x 100  
+Ki-67 Index = (52 / 93) x 100  
+Ki-67 Index = 55.91%  
+
+Ki-67 Index: 55.91%
+
+===== 128.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 22  
+Ki-67 Index = (47 / (47 + 22)) x 100  
+Ki-67 Index: 68.12%
+
+===== 129.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 66  
+
+Ki-67 Index = (47 / (47 + 66)) x 100  
+Ki-67 Index = (47 / 113) x 100  
+Ki-67 Index = 41.59%
+
+Ki-67 Index: 41.59%
+
+===== 13.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 52  
+
+Ki-67 Index = (34 / (34 + 52)) x 100  
+Ki-67 Index = (34 / 86) x 100  
+Ki-67 Index = 39.53%  
+
+Ki-67 Index: 39.53%
+
+===== 130.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 54  
+
+Ki-67 Index = (38 / (38 + 54)) x 100  
+Ki-67 Index = (38 / 92) x 100  
+Ki-67 Index = 41.30%  
+
+Ki-67 Index: 41.30%
+
+===== 131.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 13  
+Ki-67 Index = (41 / (41 + 13)) x 100  
+Ki-67 Index: 75.93%
+
+===== 132.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 66  
+Ki-67 Index = (47 / (47 + 66)) x 100  
+Ki-67 Index: 41.59%
+
+===== 133.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 56  
+
+Ki-67 Index = (24 / (24 + 56)) x 100  
+Ki-67 Index = (24 / 80) x 100  
+Ki-67 Index = 30.00%  
+
+Ki-67 Index: 30.00%
+
+===== 134.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 54  
+
+Ki-67 Index = (24 / (24 + 54)) x 100  
+Ki-67 Index = (24 / 78) x 100  
+Ki-67 Index = 30.77%  
+
+Ki-67 Index: 30.77%
+
+===== 135.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+
+Ki-67 Index = (34 / (34 + 66)) x 100  
+Ki-67 Index = (34 / 100) x 100  
+Ki-67 Index = 34.00%  
+
+Ki-67 Index: 34.00%
+
+===== 136.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 47  
+
+Ki-67 Index = (29 / (29 + 47)) x 100  
+Ki-67 Index = (29 / 76) x 100  
+Ki-67 Index = 38.16%  
+
+Ki-67 Index: 38.16%
+
+===== 137.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 56  
+Ki-67 Index = (13 / (13 + 56)) x 100  
+Ki-67 Index: 18.84%
+
+===== 138.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 66  
+
+Ki-67 Index = (23 / (23 + 66)) x 100  
+Ki-67 Index = (23 / 89) x 100  
+Ki-67 Index = 25.84%  
+
+Ki-67 Index: 25.84%
+
+===== 139.jpg =====
+Immunopositive cells: 43  
+Immunonegative cells: 89  
+
+Ki-67 Index = (43 / (43 + 89)) x 100  
+Ki-67 Index = (43 / 132) x 100  
+Ki-67 Index = 32.58%  
+
+Ki-67 Index: 32.58%
+
+===== 14.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 32  
+
+Ki-67 Index = (29 / (29 + 32)) x 100  
+
+Ki-67 Index: 47.54%
+
+===== 140.jpg =====
+Immunopositive cells: 74  
+Immunonegative cells: 49  
+
+Ki-67 Index = (74 / (74 + 49)) x 100  
+Ki-67 Index = (74 / 123) x 100  
+Ki-67 Index = 60.16%  
+
+Ki-67 Index: 60.16%
+
+===== 141.jpg =====
+Immunopositive cells: 83  
+Immunonegative cells: 36  
+
+Ki-67 Index = (83 / (83 + 36)) x 100  
+Ki-67 Index = (83 / 119) x 100  
+Ki-67 Index = 69.75%  
+
+Ki-67 Index: 69.75%
+
+===== 142.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 38  
+
+Ki-67 Index = (62 / (62 + 38)) x 100  
+
+Ki-67 Index: 62.00%
+
+===== 143.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 23  
+
+Ki-67 Index = (42 / (42 + 23)) x 100  
+Ki-67 Index = (42 / 65) x 100  
+Ki-67 Index = 64.62%  
+
+Ki-67 Index: 64.62%
+
+===== 144.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 38  
+
+Ki-67 Index = (62 / (62 + 38)) x 100  
+Ki-67 Index = (62 / 100) x 100  
+Ki-67 Index = 62.00%  
+
+Ki-67 Index: 62.00%
+
+===== 145.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 78  
+
+Ki-67 Index = (62 / (62 + 78)) x 100  
+Ki-67 Index = (62 / 140) x 100  
+Ki-67 Index = 44.29%  
+
+Ki-67 Index: 44.29%
+
+===== 146.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 56  
+
+Ki-67 Index = (62 / (62 + 56)) x 100  
+
+Ki-67 Index: 52.54%
+
+===== 147.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 74  
+
+Ki-67 Index = (67 / (67 + 74)) x 100  
+Ki-67 Index = (67 / 141) x 100  
+Ki-67 Index = 47.52%  
+
+Ki-67 Index: 47.52%
+
+===== 148.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 34  
+
+Ki-67 Index = (72 / (72 + 34)) x 100  
+Ki-67 Index = (72 / 106) x 100  
+Ki-67 Index = 67.92%  
+
+Ki-67 Index: 67.92%
+
+===== 149.jpg =====
+Immunopositive cells: 64  
+Immunonegative cells: 83  
+
+Ki-67 Index = (64 / (64 + 83)) x 100  
+Ki-67 Index = (64 / 147) x 100  
+Ki-67 Index = 43.54%  
+
+Ki-67 Index: 43.54%
+
+===== 15.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 66  
+
+Ki-67 Index = (56 / (56 + 66)) x 100  
+Ki-67 Index = (56 / 122) x 100  
+Ki-67 Index = 45.90%  
+
+Ki-67 Index: 45.90%
+
+===== 150.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 74  
+
+Ki-67 Index = (67 / (67 + 74)) x 100  
+Ki-67 Index = (67 / 141) x 100  
+Ki-67 Index = 47.52%  
+
+Ki-67 Index: 47.52%
+
+===== 151.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 58  
+
+Ki-67 Index = (36 / (36 + 58)) x 100  
+Ki-67 Index = (36 / 94) x 100  
+Ki-67 Index = 38.30%  
+
+Ki-67 Index: 38.30%
+
+===== 152.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 74  
+
+Ki-67 Index = (47 / (47 + 74)) x 100  
+Ki-67 Index = (47 / 121) x 100  
+Ki-67 Index = 38.84%  
+
+Ki-67 Index: 38.84%
+
+===== 153.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 47  
+
+Ki-67 Index = (14 / (14 + 47)) x 100  
+Ki-67 Index = (14 / 61) x 100  
+Ki-67 Index = 22.95%  
+
+Ki-67 Index: 22.95%
+
+===== 154.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 56  
+
+Ki-67 Index = (32 / (32 + 56)) x 100  
+Ki-67 Index = (32 / 88) x 100  
+Ki-67 Index = 36.36%  
+
+Ki-67 Index: 36.36%
+
+===== 155.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 41  
+Ki-67 Index = (22 / (22 + 41)) x 100  
+Ki-67 Index: 34.92%
+
+===== 156.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 29  
+
+Ki-67 Index = (16 / (16 + 29)) x 100  
+Ki-67 Index = (16 / 45) x 100  
+Ki-67 Index = 35.56%  
+
+Ki-67 Index: 35.56%
+
+===== 157.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 39  
+
+Ki-67 Index = (36 / (36 + 39)) x 100  
+Ki-67 Index = (36 / 75) x 100  
+Ki-67 Index = 48.00%  
+
+Ki-67 Index: 48.00%
+
+===== 158.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 32  
+Ki-67 Index = (42 / (42 + 32)) x 100  
+Ki-67 Index: 56.76%
+
+===== 159.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 56  
+
+Ki-67 Index = (52 / (52 + 56)) x 100  
+Ki-67 Index = (52 / 108) x 100  
+Ki-67 Index = 48.15%  
+
+Ki-67 Index: 48.15%
+
+===== 16.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 20  
+Ki-67 Index = (36 / (36 + 20)) x 100  
+Ki-67 Index: 64.29%
+
+===== 160.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+
+Ki-67 Index = (56 / (56 + 44)) x 100  
+
+Ki-67 Index: 56.00%
+
+===== 161.jpg =====
+Immunopositive cells: 43  
+Immunonegative cells: 78  
+
+Ki-67 Index = (43 / (43 + 78)) x 100  
+Ki-67 Index = (43 / 121) x 100  
+Ki-67 Index = 35.54%  
+
+Ki-67 Index: 35.54%
+
+===== 162.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 47  
+
+Ki-67 Index = (67 / (67 + 47)) x 100  
+Ki-67 Index = (67 / 114) x 100  
+Ki-67 Index = 58.77%  
+
+Ki-67 Index: 58.77%
+
+===== 163.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 6  
+
+Ki-67 Index = (42 / (42 + 6)) x 100  
+
+Ki-67 Index: 87.50%
+
+===== 164.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 83  
+
+Ki-67 Index = (24 / (24 + 83)) x 100  
+Ki-67 Index = (24 / 107) x 100  
+Ki-67 Index = 22.43%  
+
+Ki-67 Index: 22.43%
+
+===== 165.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 26  
+Ki-67 Index = (5 / (5 + 26)) x 100  
+Ki-67 Index: 16.13%
+
+===== 166.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 34  
+Ki-67 Index = (6 / (6 + 34)) x 100 = 15.00%
+
+Ki-67 Index: 15.00%
+
+===== 167.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 78  
+Ki-67 Index = (7 / (7 + 78)) x 100  
+Ki-67 Index: 8.24%
+
+===== 168.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 72  
+
+Ki-67 Index = (10 / (10 + 72)) x 100  
+Ki-67 Index = (10 / 82) x 100  
+Ki-67 Index = 12.20%
+
+Ki-67 Index: 12.20%
+
+===== 169.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 103  
+
+Ki-67 Index = (16 / (16 + 103)) x 100  
+Ki-67 Index = (16 / 119) x 100  
+Ki-67 Index = 13.45%  
+
+Ki-67 Index: 13.45%
+
+===== 17.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 47  
+Ki-67 Index = (26 / (26 + 47)) x 100  
+Ki-67 Index: 35.62%
+
+===== 170.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 62  
+
+Ki-67 Index = (38 / (38 + 62)) x 100  
+Ki-67 Index = (38 / 100) x 100  
+Ki-67 Index = 38.00%  
+
+Ki-67 Index: 38.00%
+
+===== 171.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 34  
+Ki-67 Index = (24 / (24 + 34)) x 100  
+Ki-67 Index: 41.38%
+
+===== 172.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 84  
+
+Ki-67 Index = (36 / (36 + 84)) x 100  
+Ki-67 Index = (36 / 120) x 100  
+Ki-67 Index = 30.00%  
+
+Ki-67 Index: 30.00%
+
+===== 173.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 74  
+
+Ki-67 Index = (47 / (47 + 74)) x 100  
+Ki-67 Index = (47 / 121) x 100  
+Ki-67 Index = 38.84%  
+
+Ki-67 Index: 38.84%
+
+===== 174.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 47  
+
+Ki-67 Index = (22 / (22 + 47)) x 100  
+Ki-67 Index = (22 / 69) x 100  
+Ki-67 Index = 31.88%  
+
+Ki-67 Index: 31.88%
+
+===== 175.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 148  
+
+Ki-67 Index = (27 / (27 + 148)) x 100  
+Ki-67 Index = (27 / 175) x 100  
+Ki-67 Index = 15.43%  
+
+Ki-67 Index: 15.43%
+
+===== 176.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 128  
+Ki-67 Index = (42 / (42 + 128)) x 100  
+Ki-67 Index: 24.71%
+
+===== 177.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 41  
+
+Ki-67 Index = (27 / (27 + 41)) x 100  
+Ki-67 Index = (27 / 68) x 100  
+Ki-67 Index = 39.71%
+
+Ki-67 Index: 39.71%
+
+===== 178.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 41  
+Ki-67 Index = (34 / (34 + 41)) x 100  
+Ki-67 Index: 45.33%
+
+===== 179.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+
+Ki-67 Index = (34 / (34 + 66)) x 100  
+Ki-67 Index = (34 / 100) x 100  
+Ki-67 Index = 34.00%  
+
+Ki-67 Index: 34.00%
+
+===== 18.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+
+Ki-67 Index = (34 / (34 + 66)) x 100  
+Ki-67 Index = (34 / 100) x 100  
+Ki-67 Index = 34.00%  
+
+Ki-67 Index: 34.00%
+
+===== 180.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+
+Ki-67 Index = (34 / (34 + 66)) x 100  
+Ki-67 Index = (34 / 100) x 100  
+Ki-67 Index = 34.00%  
+
+Ki-67 Index: 34.00%
+
+===== 18.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 15  
+
+Ki-67 Index = (27 / (27 + 15)) x 100  
+Ki-67 Index = (27 / 42) x 100  
+Ki-67 Index = 64.29%  
+
+Ki-67 Index: 64.29%
+
+===== 180.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 43  
+
+Ki-67 Index = (29 / (29 + 43)) x 100  
+Ki-67 Index = (29 / 72) x 100  
+Ki-67 Index = 40.28%  
+
+Ki-67 Index: 40.28%
+
+===== 181.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 56  
+
+Ki-67 Index = (34 / (34 + 56)) x 100  
+Ki-67 Index = (34 / 90) x 100  
+Ki-67 Index = 37.78%  
+
+Ki-67 Index: 37.78%
+
+===== 182.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 95  
+
+Ki-67 Index = (24 / (24 + 95)) x 100  
+Ki-67 Index = (24 / 119) x 100  
+Ki-67 Index = 20.17%  
+
+Ki-67 Index: 20.17%
+
+===== 183.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 92  
+
+Ki-67 Index = (26 / (26 + 92)) x 100  
+Ki-67 Index = (26 / 118) x 100  
+Ki-67 Index = 22.03%  
+
+Ki-67 Index: 22.03%
+
+===== 184.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 95  
+
+Ki-67 Index = (26 / (26 + 95)) x 100  
+Ki-67 Index = (26 / 121) x 100  
+Ki-67 Index = 21.49%
+
+Ki-67 Index: 21.49%
+
+===== 185.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 148  
+Ki-67 Index = (32 / (32 + 148)) x 100  
+Ki-67 Index: 17.78%
+
+===== 186.jpg =====
+Immunopositive cells: 74  
+Immunonegative cells: 26  
+
+Ki-67 Index = (74 / (74 + 26)) x 100  
+Ki-67 Index = (74 / 100) x 100  
+Ki-67 Index = 74.00%  
+
+Ki-67 Index: 74.00%
+
+===== 187.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 103  
+
+Ki-67 Index = (24 / (24 + 103)) x 100  
+Ki-67 Index = (24 / 127) x 100  
+Ki-67 Index = 18.90%  
+
+Ki-67 Index: 18.90%
+
+===== 188.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 89  
+
+Ki-67 Index = (42 / (42 + 89)) x 100  
+Ki-67 Index = (42 / 131) x 100  
+Ki-67 Index = 32.06%  
+
+Ki-67 Index: 32.06%
+
+===== 189.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 52  
+
+Ki-67 Index = (24 / (24 + 52)) x 100  
+Ki-67 Index = (24 / 76) x 100  
+Ki-67 Index = 31.58%  
+
+Ki-67 Index: 31.58%
+
+===== 19.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 15  
+
+Ki-67 Index = (36 / (36 + 15)) x 100  
+Ki-67 Index = (36 / 51) x 100  
+Ki-67 Index = 70.59%  
+
+Ki-67 Index: 70.59%
+
+===== 190.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 41  
+
+Ki-67 Index = (22 / (22 + 41)) x 100  
+Ki-67 Index = (22 / 63) x 100  
+Ki-67 Index = 34.92%  
+
+Ki-67 Index: 34.92%
+
+===== 191.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 66  
+
+Ki-67 Index = (32 / (32 + 66)) x 100  
+Ki-67 Index = (32 / 98) x 100  
+Ki-67 Index = 32.65%
+
+Ki-67 Index: 32.65%
+
+===== 192.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 20  
+Ki-67 Index = (27 / (27 + 20)) x 100  
+Ki-67 Index: 57.45%
+
+===== 193.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 51  
+Ki-67 Index = (22 / (22 + 51)) x 100  
+Ki-67 Index: 30.14%
+
+===== 194.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 56  
+
+Ki-67 Index = (36 / (36 + 56)) x 100  
+Ki-67 Index = (36 / 92) x 100  
+Ki-67 Index = 39.13%  
+
+Ki-67 Index: 39.13%
+
+===== 195.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 74  
+
+Ki-67 Index = (47 / (47 + 74)) x 100  
+Ki-67 Index = (47 / 121) x 100  
+Ki-67 Index = 38.84%  
+
+Ki-67 Index: 38.84%
+
+===== 196.jpg =====
+Immunopositive cells: 43  
+Immunonegative cells: 78  
+
+Ki-67 Index = (43 / (43 + 78)) x 100  
+Ki-67 Index = (43 / 121) x 100  
+Ki-67 Index = 35.54%  
+
+Ki-67 Index: 35.54%
+
+===== 197.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 56  
+
+Ki-67 Index = (42 / (42 + 56)) x 100  
+Ki-67 Index = (42 / 98) x 100  
+Ki-67 Index = 42.86%  
+
+Ki-67 Index: 42.86%
+
+===== 198.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 34  
+
+Ki-67 Index = (54 / (54 + 34)) x 100  
+Ki-67 Index = (54 / 88) x 100  
+Ki-67 Index = 61.36%  
+
+Ki-67 Index: 61.36%
+
+===== 199.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 74  
+
+Ki-67 Index = (41 / (41 + 74)) x 100  
+Ki-67 Index = (41 / 115) x 100  
+Ki-67 Index = 35.65%  
+
+Ki-67 Index: 35.65%
+
+===== 2.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 20  
+
+Ki-67 Index = (32 / (32 + 20)) x 100  
+Ki-67 Index = (32 / 52) x 100  
+Ki-67 Index = 61.54%  
+
+Ki-67 Index: 61.54%
+
+===== 20.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 24  
+
+Ki-67 Index = (32 / (32 + 24)) x 100  
+Ki-67 Index = (32 / 56) x 100  
+Ki-67 Index = 57.14%  
+
+Ki-67 Index: 57.14%
+
+===== 200.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 89  
+
+Ki-67 Index = (26 / (26 + 89)) x 100  
+Ki-67 Index = (26 / 115) x 100  
+Ki-67 Index = 22.61%  
+
+Ki-67 Index: 22.61%
+
+===== 201.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+
+Ki-67 Index = (34 / (34 + 66)) x 100  
+Ki-67 Index = (34 / 100) x 100  
+Ki-67 Index = 34.00%  
+
+Ki-67 Index: 34.00%
+
+===== 202.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 64  
+
+Ki-67 Index = (16 / (16 + 64)) x 100  
+Ki-67 Index = (16 / 80) x 100  
+Ki-67 Index = 20.00%  
+
+Ki-67 Index: 20.00%
+
+===== 203.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 58  
+
+Ki-67 Index = (42 / (42 + 58)) x 100  
+Ki-67 Index = (42 / 100) x 100  
+Ki-67 Index = 42.00%  
+
+Ki-67 Index: 42.00%
+
+===== 204.jpg =====
+Immunopositive cells: 112  
+Immunonegative cells: 43  
+
+Ki-67 Index = (112 / (112 + 43)) x 100  
+Ki-67 Index = (112 / 155) x 100  
+Ki-67 Index = 72.26%  
+
+Ki-67 Index: 72.26%
+
+===== 205.jpg =====
+Immunopositive cells: 112  
+Immunonegative cells: 11  
+
+Ki-67 Index = (112 / (112 + 11)) x 100  
+Ki-67 Index = (112 / 123) x 100  
+Ki-67 Index = 91.06%  
+
+Ki-67 Index: 91.06%
+
+===== 206.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 89  
+
+Ki-67 Index = (27 / (27 + 89)) x 100  
+Ki-67 Index = (27 / 116) x 100  
+Ki-67 Index = 23.28%
+
+Ki-67 Index: 23.28%
+
+===== 207.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 47  
+Ki-67 Index = (36 / (36 + 47)) x 100  
+Ki-67 Index: 43.37%
+
+===== 208.jpg =====
+Immunopositive cells: 92  
+Immunonegative cells: 12  
+Ki-67 Index = (92 / (92 + 12)) x 100  
+Ki-67 Index: 88.46%
+
+===== 209.jpg =====
+Immunopositive cells: 78  
+Immunonegative cells: 17  
+
+Ki-67 Index = (78 / (78 + 17)) x 100  
+Ki-67 Index = (78 / 95) x 100  
+Ki-67 Index = 82.11%  
+
+Ki-67 Index: 82.11%
+
+===== 21.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 36  
+
+Ki-67 Index = (22 / (22 + 36)) x 100  
+Ki-67 Index = (22 / 58) x 100  
+Ki-67 Index = 37.93%  
+
+Ki-67 Index: 37.93%
+
+===== 210.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 72  
+
+Ki-67 Index = (52 / (52 + 72)) x 100  
+Ki-67 Index = (52 / 124) x 100  
+Ki-67 Index = 41.94%  
+
+Ki-67 Index: 41.94%
+
+===== 211.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 53  
+
+Ki-67 Index = (47 / (47 + 53)) x 100  
+Ki-67 Index = (47 / 100) x 100  
+Ki-67 Index = 47.00%  
+
+Ki-67 Index: 47.00%
+
+===== 212.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 61  
+
+Ki-67 Index = (54 / (54 + 61)) x 100  
+Ki-67 Index = (54 / 115) x 100  
+Ki-67 Index = 46.96%  
+
+Ki-67 Index: 46.96%
+
+===== 213.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+
+Ki-67 Index = (56 / (56 + 44)) x 100  
+Ki-67 Index = (56 / 100) x 100  
+Ki-67 Index = 56.00%  
+
+Ki-67 Index: 56.00%
+
+===== 214.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 36  
+
+Ki-67 Index = (56 / (56 + 36)) x 100  
+Ki-67 Index = (56 / 92) x 100  
+Ki-67 Index = 60.87%  
+
+Ki-67 Index: 60.87%
+
+===== 215.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 47  
+Ki-67 Index = (20 / (20 + 47)) x 100  
+Ki-67 Index: 29.85%
+
+===== 216.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 95  
+
+Ki-67 Index = (32 / (32 + 95)) x 100  
+Ki-67 Index = (32 / 127) x 100  
+Ki-67 Index = 25.20%
+
+Ki-67 Index: 25.20%
+
+===== 217.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 66  
+
+Ki-67 Index = (36 / (36 + 66)) x 100  
+Ki-67 Index = (36 / 102) x 100  
+Ki-67 Index = 35.29%  
+
+Ki-67 Index: 35.29%
+
+===== 218.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 32  
+
+Ki-67 Index = (20 / (20 + 32)) x 100  
+Ki-67 Index = (20 / 52) x 100  
+Ki-67 Index = 38.46%  
+
+Ki-67 Index: 38.46%
+
+===== 219.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 29  
+
+Ki-67 Index = (26 / (26 + 29)) x 100  
+
+Ki-67 Index: 47.27%
+
+===== 22.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 20  
+
+Ki-67 Index = (34 / (34 + 20)) x 100  
+Ki-67 Index = (34 / 54) x 100  
+Ki-67 Index = 62.96%  
+
+Ki-67 Index: 62.96%
+
+===== 220.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 20  
+
+Ki-67 Index = (26 / (26 + 20)) x 100  
+Ki-67 Index = (26 / 46) x 100  
+Ki-67 Index = 56.52%  
+
+Ki-67 Index: 56.52%
+
+===== 221.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 20  
+
+Ki-67 Index = (26 / (26 + 20)) x 100  
+Ki-67 Index = (26 / 46) x 100  
+Ki-67 Index = 56.52%  
+
+Ki-67 Index: 56.52%
+
+===== 222.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 41  
+
+Ki-67 Index = (16 / (16 + 41)) x 100  
+Ki-67 Index = (16 / 57) x 100  
+Ki-67 Index = 28.07%  
+
+Ki-67 Index: 28.07%
+
+===== 223.jpg =====
+Immunopositive cells: 78  
+Immunonegative cells: 22  
+
+Ki-67 Index = (78 / (78 + 22)) x 100  
+Ki-67 Index = (78 / 100) x 100  
+Ki-67 Index = 78.00%  
+
+Ki-67 Index: 78.00%
+
+===== 224.jpg =====
+Immunopositive cells: 92  
+Immunonegative cells: 15  
+
+Ki-67 Index = (92 / (92 + 15)) x 100  
+Ki-67 Index = (92 / 107) x 100  
+Ki-67 Index = 85.98%  
+
+Ki-67 Index: 85.98%
+
+===== 225.jpg =====
+Immunopositive cells: 83  
+Immunonegative cells: 17  
+
+Ki-67 Index = (83 / (83 + 17)) x 100  
+
+Ki-67 Index: 83.00%
+
+===== 226.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 13  
+
+Ki-67 Index = (72 / (72 + 13)) x 100  
+Ki-67 Index = (72 / 85) x 100  
+Ki-67 Index = 84.71%  
+
+Ki-67 Index: 84.71%
+
+===== 227.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 20  
+
+Ki-67 Index = (54 / (54 + 20)) x 100  
+Ki-67 Index = (54 / 74) x 100  
+Ki-67 Index = 72.97%  
+
+Ki-67 Index: 72.97%
+
+===== 228.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 54  
+
+Ki-67 Index = (47 / (47 + 54)) x 100  
+Ki-67 Index = (47 / 101) x 100  
+Ki-67 Index = 46.53%  
+
+Ki-67 Index: 46.53%
+
+===== 229.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 74  
+
+Ki-67 Index = (54 / (54 + 74)) x 100  
+Ki-67 Index = (54 / 128) x 100  
+Ki-67 Index = 42.19%  
+
+Ki-67 Index: 42.19%
+
+===== 23.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 62  
+
+Ki-67 Index = (18 / (18 + 62)) x 100  
+Ki-67 Index = (18 / 80) x 100  
+Ki-67 Index = 22.50%  
+
+Ki-67 Index: 22.50%
+
+===== 230.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 56  
+
+Ki-67 Index = (47 / (47 + 56)) x 100  
+
+Ki-67 Index: 45.63%
+
+===== 231.jpg =====
+Immunopositive cells: 49  
+Immunonegative cells: 54  
+
+Ki-67 Index = (49 / (49 + 54)) x 100  
+Ki-67 Index = (49 / 103) x 100  
+Ki-67 Index = 47.57%  
+
+Ki-67 Index: 47.57%
+
+===== 232.jpg =====
+Immunopositive cells: 39  
+Immunonegative cells: 47  
+
+Ki-67 Index = (39 / (39 + 47)) x 100  
+Ki-67 Index = (39 / 86) x 100  
+Ki-67 Index = 45.35%
+
+Ki-67 Index: 45.35%
+
+===== 233.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 29  
+
+Ki-67 Index = (32 / (32 + 29)) x 100  
+Ki-67 Index = (32 / 61) x 100  
+Ki-67 Index = 52.46%  
+
+Ki-67 Index: 52.46%
+
+===== 234.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 36  
+
+Ki-67 Index = (52 / (52 + 36)) x 100  
+
+Ki-67 Index: 59.09%
+
+===== 235.jpg =====
+Immunopositive cells: 43  
+Immunonegative cells: 41  
+
+Ki-67 Index = (43 / (43 + 41)) x 100  
+Ki-67 Index = (43 / 84) x 100  
+Ki-67 Index = 51.19%  
+
+Ki-67 Index: 51.19%
+
+===== 236.jpg =====
+Immunopositive cells: 39  
+Immunonegative cells: 47  
+
+Ki-67 Index = (39 / (39 + 47)) x 100  
+Ki-67 Index = (39 / 86) x 100  
+Ki-67 Index = 45.35%  
+
+Ki-67 Index: 45.35%
+
+===== 237.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 62  
+Ki-67 Index = (34 / (34 + 62)) x 100  
+Ki-67 Index: 35.42%
+
+===== 238.jpg =====
+Immunopositive cells: 39  
+Immunonegative cells: 41  
+Ki-67 Index = (39 / (39 + 41)) x 100  
+Ki-67 Index: 48.75%
+
+===== 239.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 34  
+
+Ki-67 Index = (47 / (47 + 34)) x 100  
+Ki-67 Index = (47 / 81) x 100  
+Ki-67 Index = 58.02%  
+
+Ki-67 Index: 58.02%
+
+===== 24.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 54  
+
+Ki-67 Index = (41 / (41 + 54)) x 100  
+Ki-67 Index = (41 / 95) x 100  
+Ki-67 Index = 43.16%  
+
+Ki-67 Index: 43.16%
+
+===== 240.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 103  
+Ki-67 Index = (22 / (22 + 103)) x 100  
+Ki-67 Index: 17.60%
+
+===== 241.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 61  
+
+Ki-67 Index = (32 / (32 + 61)) x 100  
+Ki-67 Index = (32 / 93) x 100  
+Ki-67 Index = 34.41%  
+
+Ki-67 Index: 34.41%
+
+===== 242.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 13  
+Ki-67 Index = (52 / (52 + 13)) x 100  
+Ki-67 Index: 80.00%
+
+===== 243.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 13  
+
+Ki-67 Index = (47 / (47 + 13)) x 100  
+Ki-67 Index = (47 / 60) x 100  
+Ki-67 Index = 78.33%  
+
+Ki-67 Index: 78.33%
+
+===== 244.jpg =====
+Immunopositive cells: 72  
+Immunonegative cells: 20  
+
+Ki-67 Index = (72 / (72 + 20)) x 100  
+Ki-67 Index = (72 / 92) x 100  
+Ki-67 Index = 78.26%  
+
+Ki-67 Index: 78.26%
+
+===== 245.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 72  
+
+Ki-67 Index = (38 / (38 + 72)) x 100  
+Ki-67 Index = (38 / 110) x 100  
+Ki-67 Index = 34.55%  
+
+Ki-67 Index: 34.55%
+
+===== 246.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 64  
+Ki-67 Index = (36 / (36 + 64)) x 100  
+Ki-67 Index: 36.00%
+
+===== 247.jpg =====
+Immunopositive cells: 43  
+Immunonegative cells: 32  
+
+Ki-67 Index = (43 / (43 + 32)) x 100  
+Ki-67 Index = (43 / 75) x 100  
+Ki-67 Index = 57.33%  
+
+Ki-67 Index: 57.33%
+
+===== 248.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 64  
+
+Ki-67 Index = (36 / (36 + 64)) x 100  
+Ki-67 Index = (36 / 100) x 100  
+Ki-67 Index = 36.00%  
+
+Ki-67 Index: 36.00%
+
+===== 249.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 56  
+
+Ki-67 Index = (36 / (36 + 56)) x 100  
+Ki-67 Index = (36 / 92) x 100  
+Ki-67 Index = 39.13%  
+
+Ki-67 Index: 39.13%
+
+===== 25.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 29  
+
+Ki-67 Index = (23 / (23 + 29)) x 100  
+Ki-67 Index = (23 / 52) x 100  
+Ki-67 Index = 44.23%  
+
+Ki-67 Index: 44.23%
+
+===== 250.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+
+Ki-67 Index = (34 / (34 + 66)) x 100  
+Ki-67 Index = (34 / 100) x 100  
+Ki-67 Index = 34.00%  
+
+Ki-67 Index: 34.00%
+
+===== 251.jpg =====
+Immunopositive cells: 43  
+Immunonegative cells: 66  
+
+Ki-67 Index = (43 / (43 + 66)) x 100  
+Ki-67 Index = (43 / 109) x 100  
+Ki-67 Index = 39.45%  
+
+Ki-67 Index: 39.45%
+
+===== 252.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 56  
+Ki-67 Index = (34 / (34 + 56)) x 100  
+Ki-67 Index: 37.78%
+
+===== 253.jpg =====
+Immunopositive cells: 92  
+Immunonegative cells: 74  
+
+Ki-67 Index = (92 / (92 + 74)) x 100  
+Ki-67 Index = (92 / 166) x 100  
+Ki-67 Index = 55.42%
+
+Ki-67 Index: 55.42%
+
+===== 254.jpg =====
+Immunopositive cells: 112  
+Immunonegative cells: 88  
+
+Ki-67 Index = (112 / (112 + 88)) x 100  
+Ki-67 Index = (112 / 200) x 100  
+Ki-67 Index = 56.00%  
+
+Ki-67 Index: 56.00%
+
+===== 255.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 66  
+
+Ki-67 Index = (54 / (54 + 66)) x 100  
+Ki-67 Index = (54 / 120) x 100  
+Ki-67 Index = 45.00%  
+
+Ki-67 Index: 45.00%
+
+===== 256.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 43  
+
+Ki-67 Index = (67 / (67 + 43)) x 100  
+Ki-67 Index = (67 / 110) x 100  
+Ki-67 Index = 60.91%  
+
+Ki-67 Index: 60.91%
+
+===== 257.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 49  
+
+Ki-67 Index = (67 / (67 + 49)) x 100  
+Ki-67 Index = (67 / 116) x 100  
+Ki-67 Index = 57.76%  
+
+Ki-67 Index: 57.76%
+
+===== 258.jpg =====
+Immunopositive cells: 74  
+Immunonegative cells: 47  
+
+Ki-67 Index = (74 / (74 + 47)) x 100  
+Ki-67 Index = (74 / 121) x 100  
+Ki-67 Index = 61.16%  
+
+Ki-67 Index: 61.16%
+
+===== 259.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 41  
+Ki-67 Index = (34 / (34 + 41)) x 100  
+Ki-67 Index: 45.33%
+
+===== 26.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 64  
+
+Ki-67 Index = (29 / (29 + 64)) x 100  
+Ki-67 Index = (29 / 93) x 100  
+Ki-67 Index = 31.18%
+
+Ki-67 Index: 31.18%
+
+===== 260.jpg =====
+Immunopositive cells: 39  
+Immunonegative cells: 56  
+
+Ki-67 Index = (39 / (39 + 56)) x 100  
+Ki-67 Index = (39 / 95) x 100  
+Ki-67 Index = 41.05%
+
+Ki-67 Index: 41.05%
+
+===== 261.jpg =====
+Immunopositive cells: 92  
+Immunonegative cells: 34  
+
+Ki-67 Index = (92 / (92 + 34)) x 100  
+
+Ki-67 Index: 73.02%
+
+===== 262.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 66  
+
+Ki-67 Index = (17 / (17 + 66)) x 100  
+Ki-67 Index = (17 / 83) x 100  
+Ki-67 Index = 20.48%
+
+Ki-67 Index: 20.48%
+
+===== 263.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 66  
+Ki-67 Index = (11 / (11 + 66)) x 100  
+Ki-67 Index: 14.29%
+
+===== 264.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 78  
+
+Ki-67 Index = (11 / (11 + 78)) x 100  
+Ki-67 Index = (11 / 89) x 100  
+Ki-67 Index = 12.36%
+
+Ki-67 Index: 12.36%
+
+===== 265.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 66  
+
+Ki-67 Index = (17 / (17 + 66)) x 100  
+Ki-67 Index = (17 / 83) x 100  
+Ki-67 Index = 20.48%  
+
+Ki-67 Index: 20.48%
+
+===== 266.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 74  
+Ki-67 Index = (14 / (14 + 74)) x 100  
+Ki-67 Index: 15.91%
+
+===== 267.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 66  
+Ki-67 Index = (14 / (14 + 66)) x 100  
+Ki-67 Index: 17.50%
+
+===== 268.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 56  
+
+Ki-67 Index = (17 / (17 + 56)) x 100  
+Ki-67 Index = (17 / 73) x 100  
+Ki-67 Index = 23.29%  
+
+Ki-67 Index: 23.29%
+
+===== 269.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 47  
+
+Ki-67 Index = (17 / (17 + 47)) x 100  
+Ki-67 Index = (17 / 64) x 100  
+Ki-67 Index = 26.56%  
+
+Ki-67 Index: 26.56%
+
+===== 27.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 34  
+
+Ki-67 Index = (20 / (20 + 34)) x 100  
+Ki-67 Index = (20 / 54) x 100  
+Ki-67 Index = 37.04%
+
+Ki-67 Index: 37.04%
+
+===== 270.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 36  
+
+Ki-67 Index = (14 / (14 + 36)) x 100  
+Ki-67 Index = (14 / 50) x 100  
+Ki-67 Index = 28.00%  
+
+Ki-67 Index: 28.00%
+
+===== 271.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 60  
+Ki-67 Index = (13 / (13 + 60)) x 100  
+Ki-67 Index: 17.81%
+
+===== 272.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 47  
+
+Ki-67 Index = (23 / (23 + 47)) x 100  
+Ki-67 Index = (23 / 70) x 100  
+Ki-67 Index = 32.86%  
+
+Ki-67 Index: 32.86%
+
+===== 273.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 56  
+
+Ki-67 Index = (22 / (22 + 56)) x 100  
+Ki-67 Index = (22 / 78) x 100  
+Ki-67 Index = 28.21%  
+
+Ki-67 Index: 28.21%
+
+===== 274.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+
+Ki-67 Index = (34 / (34 + 66)) x 100  
+Ki-67 Index = (34 / 100) x 100  
+Ki-67 Index = 34.00%  
+
+Ki-67 Index: 34.00%
+
+===== 275.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 60  
+
+Ki-67 Index = (32 / (32 + 60)) x 100  
+Ki-67 Index = (32 / 92) x 100  
+Ki-67 Index = 34.78%  
+
+Ki-67 Index: 34.78%
+
+===== 276.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 95  
+
+Ki-67 Index = (13 / (13 + 95)) x 100  
+Ki-67 Index = (13 / 108) x 100  
+Ki-67 Index = 12.04%
+
+Ki-67 Index: 12.04%
+
+===== 277.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 95  
+Ki-67 Index = (9 / (9 + 95)) x 100  
+Ki-67 Index: 8.65%
+
+===== 278.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 72  
+Ki-67 Index = (6 / (6 + 72)) x 100  
+Ki-67 Index: 7.69%
+
+===== 279.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 72  
+Ki-67 Index = (6 / (6 + 72)) x 100  
+Ki-67 Index: 7.69%
+
+===== 28.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 72  
+Ki-67 Index = (6 / (6 + 72)) x 100  
+Ki-67 Index: 7.69%
+
+===== 280.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 72  
+Ki-67 Index = (6 / (6 + 72)) x 100  
+Ki-67 Index: 7.69%
+
+===== 281.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 72  
+Ki-67 Index = (6 / (6 + 72)) x 100  
+Ki-67 Index: 7.69%
+
+===== 282.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 72  
+Ki-67 Index = (6 / (6 + 72)) x 100  
+Ki-67 Index: 7.69%
+
+===== 283.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 72  
+Ki-67 Index = (6 / (6 + 72)) x 100  
+Ki-67 Index: 7.69%
+
+===== 284.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 72  
+Ki-67 Index = (6 / (6 + 72)) x 100  
+Ki-67 Index: 7.69%
+
+===== 18.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 15  
+
+Ki-67 Index = (27 / (27 + 15)) x 100  
+Ki-67 Index = (27 / 42) x 100  
+Ki-67 Index = 64.29%  
+
+Ki-67 Index: 64.29%
+
+===== 279.jpg =====
+Immunopositive cells: 21  
+Immunonegative cells: 67  
+
+Ki-67 Index = (21 / (21 + 67)) x 100  
+Ki-67 Index = (21 / 88) x 100  
+Ki-67 Index = 23.86%  
+
+Ki-67 Index: 23.86%
+
+===== 28.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 24  
+
+Ki-67 Index = (36 / (36 + 24)) x 100  
+Ki-67 Index = (36 / 60) x 100  
+Ki-67 Index = 60.00%  
+
+Ki-67 Index: 60.00%
+
+===== 280.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 56  
+
+Ki-67 Index = (16 / (16 + 56)) x 100  
+Ki-67 Index = (16 / 72) x 100  
+Ki-67 Index = 22.22%  
+
+Ki-67 Index: 22.22%
+
+===== 281.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 66  
+
+Ki-67 Index = (16 / (16 + 66)) x 100  
+Ki-67 Index = (16 / 82) x 100  
+Ki-67 Index = 19.51%  
+
+Ki-67 Index: 19.51%
+
+===== 282.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 66  
+Ki-67 Index = (24 / (24 + 66)) x 100  
+Ki-67 Index: 26.67%
+
+===== 283.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 74  
+Ki-67 Index = (10 / (10 + 74)) x 100  
+Ki-67 Index: 11.90%
+
+===== 284.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 66  
+
+Ki-67 Index = (24 / (24 + 66)) x 100  
+Ki-67 Index = (24 / 90) x 100  
+Ki-67 Index = 26.67%  
+
+Ki-67 Index: 26.67%
+
+===== 285.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 74  
+
+Ki-67 Index = (14 / (14 + 74)) x 100  
+Ki-67 Index = (14 / 88) x 100  
+Ki-67 Index = 15.91%  
+
+Ki-67 Index: 15.91%
+
+===== 286.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 56  
+
+Ki-67 Index = (24 / (24 + 56)) x 100  
+Ki-67 Index = (24 / 80) x 100  
+Ki-67 Index = 30.00%  
+
+Ki-67 Index: 30.00%
+
+===== 287.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 61  
+
+Ki-67 Index = (23 / (23 + 61)) x 100  
+Ki-67 Index = (23 / 84) x 100  
+Ki-67 Index = 27.38%  
+
+Ki-67 Index: 27.38%
+
+===== 288.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 41  
+
+Ki-67 Index = (36 / (36 + 41)) x 100  
+Ki-67 Index = (36 / 77) x 100  
+Ki-67 Index = 46.75%  
+
+Ki-67 Index: 46.75%
+
+===== 289.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 61  
+
+Ki-67 Index = (20 / (20 + 61)) x 100  
+Ki-67 Index = (20 / 81) x 100  
+Ki-67 Index = 24.69%  
+
+Ki-67 Index: 24.69%
+
+===== 29.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 95  
+Ki-67 Index = (7 / (7 + 95)) x 100  
+Ki-67 Index: 6.86%
+
+===== 290.jpg =====
+Immunopositive cells: 21  
+Immunonegative cells: 66  
+
+Ki-67 Index = (21 / (21 + 66)) x 100  
+Ki-67 Index = (21 / 87) x 100  
+Ki-67 Index = 24.14%
+
+Ki-67 Index: 24.14%
+
+===== 291.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 84  
+
+Ki-67 Index = (13 / (13 + 84)) x 100  
+Ki-67 Index = (13 / 97) x 100  
+Ki-67 Index = 13.40%  
+
+Ki-67 Index: 13.40%
+
+===== 292.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 74  
+Ki-67 Index = (10 / (10 + 74)) x 100  
+Ki-67 Index: 11.90%
+
+===== 293.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 41  
+Ki-67 Index = (27 / (27 + 41)) x 100  
+Ki-67 Index: 39.71%
+
+===== 294.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 78  
+
+Ki-67 Index = (10 / (10 + 78)) x 100  
+Ki-67 Index = (10 / 88) x 100  
+Ki-67 Index = 11.36%  
+
+Ki-67 Index: 11.36%
+
+===== 295.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 74  
+Ki-67 Index = (13 / (13 + 74)) x 100  
+Ki-67 Index: 14.94%
+
+===== 296.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 66  
+
+Ki-67 Index = (23 / (23 + 66)) x 100  
+Ki-67 Index = (23 / 89) x 100  
+Ki-67 Index = 25.84%
+
+Ki-67 Index: 25.84%
+
+===== 297.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 74  
+Ki-67 Index = (15 / (15 + 74)) x 100  
+Ki-67 Index: 16.85%
+
+===== 298.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 47  
+
+Ki-67 Index = (32 / (32 + 47)) x 100  
+Ki-67 Index = (32 / 79) x 100  
+Ki-67 Index = 40.51%  
+
+Ki-67 Index: 40.51%
+
+===== 299.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 85  
+
+Ki-67 Index = (15 / (15 + 85)) x 100  
+Ki-67 Index = (15 / 100) x 100  
+Ki-67 Index = 15.00%  
+
+Ki-67 Index: 15.00%
+
+===== 3.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 8  
+
+Ki-67 Index = (24 / (24 + 8)) x 100  
+Ki-67 Index = (24 / 32) x 100  
+Ki-67 Index = 75.00%  
+
+Ki-67 Index: 75.00%
+
+===== 30.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 22  
+
+Ki-67 Index = (47 / (47 + 22)) x 100  
+
+Ki-67 Index: 68.12%
+
+===== 300.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 66  
+Ki-67 Index = (11 / (11 + 66)) x 100  
+Ki-67 Index: 14.29%
+
+===== 301.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 78  
+
+Ki-67 Index = (17 / (17 + 78)) x 100  
+Ki-67 Index = (17 / 95) x 100  
+Ki-67 Index = 17.89%  
+
+Ki-67 Index: 17.89%
+
+===== 302.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 66  
+Ki-67 Index = (14 / (14 + 66)) x 100  
+Ki-67 Index: 17.50%
+
+===== 303.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 78  
+
+Ki-67 Index = (20 / (20 + 78)) x 100  
+Ki-67 Index = (20 / 98) x 100  
+Ki-67 Index = 20.41%  
+
+Ki-67 Index: 20.41%
+
+===== 304.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 62  
+Ki-67 Index = (13 / (13 + 62)) x 100  
+Ki-67 Index: 17.33%
+
+===== 305.jpg =====
+Immunopositive cells: 78  
+Immunonegative cells: 72  
+Ki-67 Index = (78 / (78 + 72)) x 100  
+Ki-67 Index: 52.00%
+
+===== 306.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 66  
+
+Ki-67 Index = (56 / (56 + 66)) x 100  
+Ki-67 Index = (56 / 122) x 100  
+Ki-67 Index = 45.90%  
+
+Ki-67 Index: 45.90%
+
+===== 307.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 54  
+Ki-67 Index = (67 / (67 + 54)) x 100  
+Ki-67 Index: 55.37%
+
+===== 308.jpg =====
+Immunopositive cells: 89  
+Immunonegative cells: 95  
+
+Ki-67 Index = (89 / (89 + 95)) x 100  
+Ki-67 Index = (89 / 184) x 100  
+Ki-67 Index = 48.37%  
+
+Ki-67 Index: 48.37%
+
+===== 309.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 95  
+
+Ki-67 Index = (17 / (17 + 95)) x 100  
+Ki-67 Index = (17 / 112) x 100  
+Ki-67 Index = 15.18%
+
+Ki-67 Index: 15.18%
+
+===== 31.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 54  
+
+Ki-67 Index = (56 / (56 + 54)) x 100  
+Ki-67 Index = (56 / 110) x 100  
+Ki-67 Index = 50.91%  
+
+Ki-67 Index: 50.91%
+
+===== 310.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 116  
+
+Ki-67 Index = (22 / (22 + 116)) x 100  
+Ki-67 Index = (22 / 138) x 100  
+Ki-67 Index = 15.94%  
+
+Ki-67 Index: 15.94%
+
+===== 311.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 39  
+
+Ki-67 Index = (41 / (41 + 39)) x 100  
+Ki-67 Index = (41 / 80) x 100  
+Ki-67 Index = 51.25%  
+
+Ki-67 Index: 51.25%
+
+===== 312.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 52  
+
+Ki-67 Index = (38 / (38 + 52)) x 100  
+Ki-67 Index = (38 / 90) x 100  
+Ki-67 Index = 42.22%  
+
+Ki-67 Index: 42.22%
+
+===== 313.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 54  
+
+Ki-67 Index = (56 / (56 + 54)) x 100  
+Ki-67 Index = (56 / 110) x 100  
+Ki-67 Index = 50.91%
+
+Ki-67 Index: 50.91%
+
+===== 314.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 52  
+
+Ki-67 Index = (34 / (34 + 52)) x 100  
+Ki-67 Index = (34 / 86) x 100  
+Ki-67 Index = 39.53%  
+
+Ki-67 Index: 39.53%
+
+===== 315.jpg =====
+Immunopositive cells: 39  
+Immunonegative cells: 74  
+
+Ki-67 Index = (39 / (39 + 74)) x 100  
+Ki-67 Index = (39 / 113) x 100  
+Ki-67 Index = 34.51%  
+
+Ki-67 Index: 34.51%
+
+===== 316.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 56  
+
+Ki-67 Index = (26 / (26 + 56)) x 100  
+Ki-67 Index = (26 / 82) x 100  
+Ki-67 Index = 31.71%  
+
+Ki-67 Index: 31.71%
+
+===== 317.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 66  
+
+Ki-67 Index = (27 / (27 + 66)) x 100  
+
+Ki-67 Index: 29.03%
+
+===== 318.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 47  
+
+Ki-67 Index = (15 / (15 + 47)) x 100  
+Ki-67 Index = (15 / 62) x 100  
+Ki-67 Index = 24.19%
+
+Ki-67 Index: 24.19%
+
+===== 319.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 52  
+
+Ki-67 Index = (36 / (36 + 52)) x 100  
+Ki-67 Index = (36 / 88) x 100  
+Ki-67 Index = 40.91%  
+
+Ki-67 Index: 40.91%
+
+===== 32.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 66  
+
+Ki-67 Index = (62 / (62 + 66)) x 100  
+Ki-67 Index = (62 / 128) x 100  
+Ki-67 Index = 48.44%  
+
+Ki-67 Index: 48.44%
+
+===== 320.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 74  
+
+Ki-67 Index = (15 / (15 + 74)) x 100  
+Ki-67 Index = (15 / 89) x 100  
+Ki-67 Index = 16.85%
+
+Ki-67 Index: 16.85%
+
+===== 321.jpg =====
+Immunopositive cells: 21  
+Immunonegative cells: 58  
+
+Ki-67 Index = (21 / (21 + 58)) x 100  
+Ki-67 Index = (21 / 79) x 100  
+Ki-67 Index = 26.58%
+
+Ki-67 Index: 26.58%
+
+===== 322.jpg =====
+Immunopositive cells: 38  
+Immunonegative cells: 78  
+
+Ki-67 Index = (38 / (38 + 78)) x 100  
+Ki-67 Index = (38 / 116) x 100  
+Ki-67 Index = 32.76%
+
+Ki-67 Index: 32.76%
+
+===== 323.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 78  
+
+Ki-67 Index = (24 / (24 + 78)) x 100  
+Ki-67 Index = (24 / 102) x 100  
+Ki-67 Index = 23.53%  
+
+Ki-67 Index: 23.53%
+
+===== 324.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 66  
+Ki-67 Index = (15 / (15 + 66)) x 100  
+Ki-67 Index: 18.52%
+
+===== 325.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 56  
+
+Ki-67 Index = (23 / (23 + 56)) x 100  
+Ki-67 Index = (23 / 79) x 100  
+Ki-67 Index = 29.11%
+
+Ki-67 Index: 29.11%
+
+===== 326.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 74  
+
+Ki-67 Index = (34 / (34 + 74)) x 100  
+Ki-67 Index = (34 / 108) x 100  
+Ki-67 Index = 31.48%  
+
+Ki-67 Index: 31.48%
+
+===== 327.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 66  
+
+Ki-67 Index = (42 / (42 + 66)) x 100  
+Ki-67 Index = (42 / 108) x 100  
+Ki-67 Index = 38.89%  
+
+Ki-67 Index: 38.89%
+
+===== 328.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+Ki-67 Index = (34 / (34 + 66)) x 100  
+Ki-67 Index: 34.00%
+
+===== 329.jpg =====
+Immunopositive cells: 39  
+Immunonegative cells: 52  
+
+Ki-67 Index = (39 / (39 + 52)) x 100  
+Ki-67 Index = (39 / 91) x 100  
+Ki-67 Index = 42.86%  
+
+Ki-67 Index: 42.86%
+
+===== 33.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 49  
+
+Ki-67 Index = (42 / (42 + 49)) x 100  
+Ki-67 Index = (42 / 91) x 100  
+Ki-67 Index = 46.15%  
+
+Ki-67 Index: 46.15%
+
+===== 330.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+Ki-67 Index = (34 / (34 + 66)) x 100  
+Ki-67 Index: 34.00%
+
+===== 331.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 66  
+Ki-67 Index = (34 / (34 + 66)) x 100  
+Ki-67 Index: 34.00%
+
+===== 332.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 92  
+
+Ki-67 Index = (26 / (26 + 92)) x 100  
+Ki-67 Index = (26 / 118) x 100  
+Ki-67 Index = 22.03%  
+
+Ki-67 Index: 22.03%
+
+===== 333.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 72  
+Ki-67 Index = (18 / (18 + 72)) x 100  
+Ki-67 Index: 20.00%
+
+===== 334.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 103  
+Ki-67 Index = (12 / (12 + 103)) x 100  
+Ki-67 Index: 10.43%
+
+===== 335.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 74  
+Ki-67 Index = (11 / (11 + 74)) x 100  
+Ki-67 Index: 12.94%
+
+===== 336.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 41  
+
+Ki-67 Index = (23 / (23 + 41)) x 100  
+Ki-67 Index = (23 / 64) x 100  
+Ki-67 Index = 35.94%  
+
+Ki-67 Index: 35.94%
+
+===== 337.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 47  
+
+Ki-67 Index = (23 / (23 + 47)) x 100  
+
+Ki-67 Index: 32.86%
+
+===== 338.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 41  
+Ki-67 Index = (32 / (32 + 41)) x 100  
+Ki-67 Index: 43.84%
+
+===== 339.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 41  
+
+Ki-67 Index = (56 / (56 + 41)) x 100  
+Ki-67 Index = (56 / 97) x 100  
+Ki-67 Index = 57.73%  
+
+Ki-67 Index: 57.73%
+
+===== 34.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 54  
+Ki-67 Index = (27 / (27 + 54)) x 100  
+Ki-67 Index: 33.33%
+
+===== 340.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 33  
+
+Ki-67 Index = (67 / (67 + 33)) x 100  
+Ki-67 Index = (67 / 100) x 100  
+Ki-67 Index = 67.00%  
+
+Ki-67 Index: 67.00%
+
+===== 341.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 160  
+Ki-67 Index = (2 / (2 + 160)) x 100  
+Ki-67 Index: 1.23%
+
+===== 342.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 120  
+Ki-67 Index = (5 / (5 + 120)) x 100  
+Ki-67 Index: 4.00%
+
+===== 343.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 66  
+Ki-67 Index = (6 / (6 + 66)) x 100  
+Ki-67 Index: 8.33%
+
+===== 344.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 74  
+
+Ki-67 Index = (13 / (13 + 74)) x 100  
+Ki-67 Index = (13 / 87) x 100  
+Ki-67 Index = 14.94%
+
+Ki-67 Index: 14.94%
+
+===== 345.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 105  
+Ki-67 Index = (11 / (11 + 105)) x 100  
+Ki-67 Index: 9.48%
+
+===== 346.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 90  
+Ki-67 Index = (10 / (10 + 90)) x 100  
+Ki-67 Index: 10.00%
+
+===== 347.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 86  
+Ki-67 Index = (11 / (11 + 86)) x 100  
+Ki-67 Index: 11.34%
+
+===== 348.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 66  
+
+Ki-67 Index = (14 / (14 + 66)) x 100  
+Ki-67 Index = (14 / 80) x 100  
+Ki-67 Index = 17.50%  
+
+Ki-67 Index: 17.50%
+
+===== 349.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 66  
+Ki-67 Index = (10 / (10 + 66)) x 100  
+Ki-67 Index: 13.16%
+
+===== 35.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 62  
+
+Ki-67 Index = (29 / (29 + 62)) x 100  
+Ki-67 Index = (29 / 91) x 100  
+Ki-67 Index = 31.87%  
+
+Ki-67 Index: 31.87%
+
+===== 350.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 56  
+
+Ki-67 Index = (17 / (17 + 56)) x 100  
+Ki-67 Index = (17 / 73) x 100  
+Ki-67 Index = 23.29%  
+
+Ki-67 Index: 23.29%
+
+===== 351.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 95  
+
+Ki-67 Index = (11 / (11 + 95)) x 100  
+Ki-67 Index = (11 / 106) x 100  
+Ki-67 Index = 10.38%  
+
+Ki-67 Index: 10.38%
+
+===== 352.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 74  
+Ki-67 Index = (13 / (13 + 74)) x 100  
+Ki-67 Index: 14.94%
+
+===== 353.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 41  
+Ki-67 Index = (34 / (34 + 41)) x 100  
+Ki-67 Index: 45.33%
+
+===== 354.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 36  
+Ki-67 Index = (27 / (27 + 36)) x 100  
+Ki-67 Index: 42.86%
+
+===== 355.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 34  
+
+Ki-67 Index = (36 / (36 + 34)) x 100  
+
+Ki-67 Index: 51.43%
+
+===== 356.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 52  
+
+Ki-67 Index = (17 / (17 + 52)) x 100  
+Ki-67 Index = (17 / 69) x 100  
+Ki-67 Index = 24.64%  
+
+Ki-67 Index: 24.64%
+
+===== 357.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 52  
+
+Ki-67 Index = (16 / (16 + 52)) x 100  
+Ki-67 Index = (16 / 68) x 100  
+Ki-67 Index = 23.53%  
+
+Ki-67 Index: 23.53%
+
+===== 358.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 64  
+
+Ki-67 Index = (36 / (36 + 64)) x 100  
+Ki-67 Index = (36 / 100) x 100  
+Ki-67 Index = 36.00%  
+
+Ki-67 Index: 36.00%
+
+===== 359.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 41  
+Ki-67 Index = (32 / (32 + 41)) x 100  
+Ki-67 Index: 43.84%
+
+===== 36.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 156  
+Ki-67 Index = (47 / (47 + 156)) x 100  
+Ki-67 Index: 23.15%
+
+===== 360.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 41  
+
+Ki-67 Index = (47 / (47 + 41)) x 100  
+
+Ki-67 Index: 53.41%
+
+===== 361.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 89  
+Ki-67 Index = (22 / (22 + 89)) x 100  
+Ki-67 Index: 19.82%
+
+===== 362.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 61  
+
+Ki-67 Index = (17 / (17 + 61)) x 100  
+Ki-67 Index = (17 / 78) x 100  
+Ki-67 Index = 21.79%  
+
+Ki-67 Index: 21.79%
+
+===== 363.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 74  
+Ki-67 Index = (16 / (16 + 74)) x 100  
+Ki-67 Index: 17.78%
+
+===== 364.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 64  
+
+Ki-67 Index = (14 / (14 + 64)) x 100  
+Ki-67 Index = (14 / 78) x 100  
+Ki-67 Index = 17.95%
+
+Ki-67 Index: 17.95%
+
+===== 365.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 72  
+Ki-67 Index = (22 / (22 + 72)) x 100  
+Ki-67 Index: 23.40%
+
+===== 366.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 74  
+Ki-67 Index = (26 / (26 + 74)) x 100  
+Ki-67 Index: 26.00%
+
+===== 367.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 142  
+Ki-67 Index = (0 / (0 + 142)) x 100  
+Ki-67 Index: 0.00%
+
+===== 368.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 95  
+Ki-67 Index = (15 / (15 + 95)) x 100  
+Ki-67 Index: 13.64%
+
+===== 369.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 86  
+
+Ki-67 Index = (14 / (14 + 86)) x 100  
+Ki-67 Index = (14 / 100) x 100  
+Ki-67 Index: 14.00%
+
+===== 37.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 103  
+
+Ki-67 Index = (42 / (42 + 103)) x 100  
+Ki-67 Index = (42 / 145) x 100  
+Ki-67 Index = 28.97%  
+
+Ki-67 Index: 28.97%
+
+===== 370.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 103  
+Ki-67 Index = (10 / (10 + 103)) x 100  
+Ki-67 Index: 8.85%
+
+===== 371.jpg =====
+Immunopositive cells: 7  
+Immunonegative cells: 95  
+Ki-67 Index = (7 / (7 + 95)) x 100  
+Ki-67 Index: 6.86%
+
+===== 372.jpg =====
+Immunopositive cells: 3  
+Immunonegative cells: 120  
+
+Ki-67 Index = (3 / (3 + 120)) x 100  
+Ki-67 Index = (3 / 123) x 100  
+Ki-67 Index = 2.44%  
+
+Ki-67 Index: 2.44%
+
+===== 373.jpg =====
+Immunopositive cells: 21  
+Immunonegative cells: 120  
+
+Ki-67 Index = (21 / (21 + 120)) x 100  
+Ki-67 Index = (21 / 141) x 100  
+Ki-67 Index = 14.89%
+
+Ki-67 Index: 14.89%
+
+===== 374.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 130  
+Ki-67 Index = (20 / (20 + 130)) x 100  
+Ki-67 Index: 13.33%
+
+===== 375.jpg =====
+Immunopositive cells: 16  
+Immunonegative cells: 78  
+
+Ki-67 Index = (16 / (16 + 78)) x 100  
+Ki-67 Index = (16 / 94) x 100  
+Ki-67 Index = 17.02%  
+
+Ki-67 Index: 17.02%
+
+===== 376.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 95  
+
+Ki-67 Index = (9 / (9 + 95)) x 100  
+Ki-67 Index = (9 / 104) x 100  
+Ki-67 Index = 8.65%
+
+Ki-67 Index: 8.65%
+
+===== 377.jpg =====
+Immunopositive cells: 11  
+Immunonegative cells: 120  
+
+Ki-67 Index = (11 / (11 + 120)) x 100  
+Ki-67 Index = (11 / 131) x 100  
+Ki-67 Index = 8.40%  
+
+Ki-67 Index: 8.40%
+
+===== 378.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 162  
+Ki-67 Index = (0 / (0 + 162)) x 100  
+Ki-67 Index: 0.00%
+
+===== 379.jpg =====
+Immunopositive cells: 0  
+Immunonegative cells: 120  
+Ki-67 Index = (0 / (0 + 120)) x 100  
+Ki-67 Index: 0.00%
+
+===== 38.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 54  
+
+Ki-67 Index = (22 / (22 + 54)) x 100  
+Ki-67 Index = (22 / 76) x 100  
+Ki-67 Index = 28.95%  
+
+Ki-67 Index: 28.95%
+
+===== 380.jpg =====
+Immunopositive cells: 2  
+Immunonegative cells: 120  
+
+Ki-67 Index = (2 / (2 + 120)) x 100  
+Ki-67 Index = (2 / 122) x 100  
+Ki-67 Index = 1.64%  
+
+Ki-67 Index: 1.64%
+
+===== 381.jpg =====
+Immunopositive cells: 1  
+Immunonegative cells: 106  
+Ki-67 Index = (1 / (1 + 106)) x 100  
+Ki-67 Index: 0.93%
+
+===== 382.jpg =====
+Immunopositive cells: 10  
+Immunonegative cells: 106  
+Ki-67 Index = (10 / (10 + 106)) x 100  
+Ki-67 Index: 8.62%
+
+===== 383.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 106  
+Ki-67 Index = (5 / (5 + 106)) x 100  
+Ki-67 Index: 4.50%
+
+===== 384.jpg =====
+Immunopositive cells: 9  
+Immunonegative cells: 89  
+
+Ki-67 Index = (9 / (9 + 89)) x 100  
+Ki-67 Index = (9 / 98) x 100  
+Ki-67 Index = 9.18%
+
+Ki-67 Index: 9.18%
+
+===== 385.jpg =====
+Immunopositive cells: 5  
+Immunonegative cells: 116  
+Ki-67 Index = (5 / (5 + 116)) x 100  
+Ki-67 Index: 4.13%
+
+===== 386.jpg =====
+Immunopositive cells: 6  
+Immunonegative cells: 106  
+Ki-67 Index = (6 / (6 + 106)) x 100  
+Ki-67 Index: 5.36%
+
+===== 387.jpg =====
+Immunopositive cells: 4  
+Immunonegative cells: 66  
+Ki-67 Index = (4 / (4 + 66)) x 100  
+Ki-67 Index: 5.71%
+
+===== 388.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 128  
+Ki-67 Index = (24 / (24 + 128)) x 100  
+Ki-67 Index: 15.79%
+
+===== 389.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 138  
+
+Ki-67 Index = (34 / (34 + 138)) x 100  
+Ki-67 Index = (34 / 172) x 100  
+Ki-67 Index = 19.77%  
+
+Ki-67 Index: 19.77%
+
+===== 39.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 56  
+
+Ki-67 Index = (22 / (22 + 56)) x 100  
+Ki-67 Index = (22 / 78) x 100  
+Ki-67 Index = 28.21%  
+
+Ki-67 Index: 28.21%
+
+===== 390.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 74  
+
+Ki-67 Index = (32 / (32 + 74)) x 100  
+Ki-67 Index = (32 / 106) x 100  
+Ki-67 Index = 30.19%  
+
+Ki-67 Index: 30.19%
+
+===== 391.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 183  
+
+Ki-67 Index = (23 / (23 + 183)) x 100  
+Ki-67 Index = (23 / 206) x 100  
+Ki-67 Index = 11.17%  
+
+Ki-67 Index: 11.17%
+
+===== 392.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 116  
+
+Ki-67 Index = (47 / (47 + 116)) x 100  
+Ki-67 Index = (47 / 163) x 100  
+Ki-67 Index = 28.83%  
+
+Ki-67 Index: 28.83%
+
+===== 393.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 120  
+
+Ki-67 Index = (22 / (22 + 120)) x 100  
+Ki-67 Index = (22 / 142) x 100  
+Ki-67 Index = 15.49%  
+
+Ki-67 Index: 15.49%
+
+===== 394.jpg =====
+Immunopositive cells: 20  
+Immunonegative cells: 170  
+Ki-67 Index = (20 / (20 + 170)) x 100  
+Ki-67 Index: 10.53%
+
+===== 395.jpg =====
+Immunopositive cells: 15  
+Immunonegative cells: 148  
+
+Ki-67 Index = (15 / (15 + 148)) x 100  
+Ki-67 Index = (15 / 163) x 100  
+Ki-67 Index = 9.20%  
+
+Ki-67 Index: 9.20%
+
+===== 396.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 118  
+
+Ki-67 Index = (32 / (32 + 118)) x 100  
+Ki-67 Index = (32 / 150) x 100  
+Ki-67 Index = 21.33%  
+
+Ki-67 Index: 21.33%
+
+===== 397.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 106  
+
+Ki-67 Index = (32 / (32 + 106)) x 100  
+Ki-67 Index = (32 / 138) x 100  
+Ki-67 Index = 23.19%  
+
+Ki-67 Index: 23.19%
+
+===== 398.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 144  
+Ki-67 Index = (22 / (22 + 144)) x 100  
+Ki-67 Index: 13.25%
+
+===== 399.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 141  
+
+Ki-67 Index = (32 / (32 + 141)) x 100  
+Ki-67 Index = (32 / 173) x 100  
+Ki-67 Index = 18.50%  
+
+Ki-67 Index: 18.50%
+
+===== 4.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 13  
+
+Ki-67 Index = (47 / (47 + 13)) x 100  
+Ki-67 Index = (47 / 60) x 100  
+Ki-67 Index = 78.33%  
+
+Ki-67 Index: 78.33%
+
+===== 40.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 103  
+Ki-67 Index = (36 / (36 + 103)) x 100  
+Ki-67 Index: 25.90%
+
+===== 400.jpg =====
+Immunopositive cells: 12  
+Immunonegative cells: 120  
+
+Ki-67 Index = (12 / (12 + 120)) x 100  
+Ki-67 Index = (12 / 132) x 100  
+Ki-67 Index = 9.09%  
+
+Ki-67 Index: 9.09%
+
+===== 401.jpg =====
+Immunopositive cells: 13  
+Immunonegative cells: 167  
+Ki-67 Index = (13 / (13 + 167)) x 100  
+Ki-67 Index: 7.22%
+
+===== 41.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 66  
+
+Ki-67 Index = (23 / (23 + 66)) x 100  
+Ki-67 Index = (23 / 89) x 100  
+Ki-67 Index = 25.84%  
+
+Ki-67 Index: 25.84%
+
+===== 42.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 103  
+
+Ki-67 Index = (23 / (23 + 103)) x 100  
+
+Ki-67 Index: 18.25%
+
+===== 43.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 83  
+
+Ki-67 Index = (26 / (26 + 83)) x 100  
+Ki-67 Index = (26 / 109) x 100  
+Ki-67 Index = 23.85%  
+
+Ki-67 Index: 23.85%
+
+===== 44.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 47  
+
+Ki-67 Index = (32 / (32 + 47)) x 100  
+Ki-67 Index = (32 / 79) x 100  
+Ki-67 Index = 40.51%  
+
+Ki-67 Index: 40.51%
+
+===== 45.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 78  
+
+Ki-67 Index = (32 / (32 + 78)) x 100  
+Ki-67 Index = (32 / 110) x 100  
+Ki-67 Index = 29.09%  
+
+Ki-67 Index: 29.09%
+
+===== 46.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 54  
+
+Ki-67 Index = (42 / (42 + 54)) x 100  
+Ki-67 Index = (42 / 96) x 100  
+Ki-67 Index = 43.75%
+
+Ki-67 Index: 43.75%
+
+===== 47.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 44  
+
+Ki-67 Index = (36 / (36 + 44)) x 100  
+Ki-67 Index = (36 / 80) x 100  
+Ki-67 Index = 45.00%  
+
+Ki-67 Index: 45.00%
+
+===== 48.jpg =====
+Immunopositive cells: 27  
+Immunonegative cells: 41  
+
+Ki-67 Index = (27 / (27 + 41)) x 100  
+Ki-67 Index = (27 / 68) x 100  
+Ki-67 Index = 39.71%  
+
+Ki-67 Index: 39.71%
+
+===== 49.jpg =====
+Immunopositive cells: 39  
+Immunonegative cells: 58  
+
+Ki-67 Index = (39 / (39 + 58)) x 100  
+Ki-67 Index = (39 / 97) x 100  
+Ki-67 Index = 40.21%
+
+Ki-67 Index: 40.21%
+
+===== 5.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 24  
+
+Ki-67 Index = (32 / (32 + 24)) x 100  
+
+Ki-67 Index: 57.14%
+
+===== 50.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 29  
+
+Ki-67 Index = (67 / (67 + 29)) x 100  
+Ki-67 Index = (67 / 96) x 100  
+Ki-67 Index = 69.79%  
+
+Ki-67 Index: 69.79%
+
+===== 51.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 38  
+Ki-67 Index = (62 / (62 + 38)) x 100  
+Ki-67 Index: 62.00%
+
+===== 52.jpg =====
+Immunopositive cells: 67  
+Immunonegative cells: 20  
+
+Ki-67 Index = (67 / (67 + 20)) x 100  
+Ki-67 Index = (67 / 87) x 100  
+Ki-67 Index = 77.01%  
+
+Ki-67 Index: 77.01%
+
+===== 53.jpg =====
+Immunopositive cells: 83  
+Immunonegative cells: 17  
+
+Ki-67 Index = (83 / (83 + 17)) x 100  
+Ki-67 Index = (83 / 100) x 100  
+Ki-67 Index = 83.00%  
+
+Ki-67 Index: 83.00%
+
+===== 54.jpg =====
+Immunopositive cells: 74  
+Immunonegative cells: 20  
+
+Ki-67 Index = (74 / (74 + 20)) x 100  
+Ki-67 Index = (74 / 94) x 100  
+Ki-67 Index = 78.72%
+
+Ki-67 Index: 78.72%
+
+===== 55.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 20  
+Ki-67 Index = (26 / (26 + 20)) x 100  
+Ki-67 Index: 56.52%
+
+===== 56.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 47  
+
+Ki-67 Index = (34 / (34 + 47)) x 100  
+Ki-67 Index = (34 / 81) x 100  
+Ki-67 Index = 41.98%  
+
+Ki-67 Index: 41.98%
+
+===== 57.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 32  
+
+Ki-67 Index = (54 / (54 + 32)) x 100  
+Ki-67 Index = (54 / 86) x 100  
+Ki-67 Index = 62.79%  
+
+Ki-67 Index: 62.79%
+
+===== 58.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 34  
+Ki-67 Index = (47 / (47 + 34)) x 100  
+Ki-67 Index: 58.02%
+
+===== 59.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 21  
+
+Ki-67 Index = (54 / (54 + 21)) x 100  
+Ki-67 Index = (54 / 75) x 100  
+Ki-67 Index = 72.00%  
+
+Ki-67 Index: 72.00%
+
+===== 6.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 29  
+Ki-67 Index = (36 / (36 + 29)) x 100  
+Ki-67 Index: 55.38%
+
+===== 60.jpg =====
+Immunopositive cells: 74  
+Immunonegative cells: 26  
+
+Ki-67 Index = (74 / (74 + 26)) x 100  
+Ki-67 Index = (74 / 100) x 100  
+Ki-67 Index = 74.00%  
+
+Ki-67 Index: 74.00%
+
+===== 61.jpg =====
+Immunopositive cells: 74  
+Immunonegative cells: 32  
+
+Ki-67 Index = (74 / (74 + 32)) x 100  
+Ki-67 Index = (74 / 106) x 100  
+Ki-67 Index = 69.81%  
+
+Ki-67 Index: 69.81%
+
+===== 62.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 26  
+
+Ki-67 Index = (54 / (54 + 26)) x 100  
+Ki-67 Index = (54 / 80) x 100  
+Ki-67 Index = 67.50%  
+
+Ki-67 Index: 67.50%
+
+===== 63.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 20  
+
+Ki-67 Index = (62 / (62 + 20)) x 100  
+Ki-67 Index = (62 / 82) x 100  
+Ki-67 Index = 75.61%  
+
+Ki-67 Index: 75.61%
+
+===== 64.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 74  
+
+Ki-67 Index = (56 / (56 + 74)) x 100  
+Ki-67 Index = (56 / 130) x 100  
+Ki-67 Index = 43.08%
+
+Ki-67 Index: 43.08%
+
+===== 65.jpg =====
+Immunopositive cells: 36  
+Immunonegative cells: 78  
+
+Ki-67 Index = (36 / (36 + 78)) x 100  
+Ki-67 Index = (36 / 114) x 100  
+Ki-67 Index = 31.58%  
+
+Ki-67 Index: 31.58%
+
+===== 66.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 72  
+
+Ki-67 Index = (23 / (23 + 72)) x 100  
+Ki-67 Index = (23 / 95) x 100  
+Ki-67 Index = 24.21%
+
+Ki-67 Index: 24.21%
+
+===== 67.jpg =====
+Immunopositive cells: 47  
+Immunonegative cells: 66  
+
+Ki-67 Index = (47 / (47 + 66)) x 100  
+Ki-67 Index = (47 / 113) x 100  
+Ki-67 Index = 41.59%  
+
+Ki-67 Index: 41.59%
+
+===== 68.jpg =====
+Immunopositive cells: 24  
+Immunonegative cells: 32  
+
+Ki-67 Index = (24 / (24 + 32)) x 100  
+Ki-67 Index = (24 / 56) x 100  
+Ki-67 Index = 42.86%  
+
+Ki-67 Index: 42.86%
+
+===== 69.jpg =====
+Immunopositive cells: 23  
+Immunonegative cells: 95  
+
+Ki-67 Index = (23 / (23 + 95)) x 100  
+Ki-67 Index = (23 / 118) x 100  
+Ki-67 Index = 19.49%  
+
+Ki-67 Index: 19.49%
+
+===== 7.jpg =====
+Immunopositive cells: 49  
+Immunonegative cells: 22  
+
+Ki-67 Index = (49 / (49 + 22)) x 100  
+Ki-67 Index = (49 / 71) x 100  
+Ki-67 Index = 69.01%  
+
+Ki-67 Index: 69.01%
+
+===== 70.jpg =====
+Immunopositive cells: 34  
+Immunonegative cells: 41  
+Ki-67 Index = (34 / (34 + 41)) x 100  
+Ki-67 Index: 45.33%
+
+===== 71.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 29  
+Ki-67 Index = (22 / (22 + 29)) x 100  
+Ki-67 Index: 43.14%
+
+===== 72.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 24  
+
+Ki-67 Index = (32 / (32 + 24)) x 100  
+Ki-67 Index = (32 / 56) x 100  
+Ki-67 Index = 57.14%  
+
+Ki-67 Index: 57.14%
+
+===== 73.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 38  
+Ki-67 Index = (22 / (22 + 38)) x 100  
+Ki-67 Index: 36.67%
+
+===== 74.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 56  
+
+Ki-67 Index = (52 / (52 + 56)) x 100  
+
+Ki-67 Index: 48.15%
+
+===== 75.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 41  
+
+Ki-67 Index = (62 / (62 + 41)) x 100  
+Ki-67 Index = (62 / 103) x 100  
+Ki-67 Index = 60.19%  
+
+Ki-67 Index: 60.19%
+
+===== 76.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 54  
+
+Ki-67 Index = (56 / (56 + 54)) x 100  
+Ki-67 Index = (56 / 110) x 100  
+Ki-67 Index = 50.91%  
+
+Ki-67 Index: 50.91%
+
+===== 77.jpg =====
+Immunopositive cells: 62  
+Immunonegative cells: 95  
+
+Ki-67 Index = (62 / (62 + 95)) x 100  
+Ki-67 Index = (62 / 157) x 100  
+Ki-67 Index = 39.49%  
+
+Ki-67 Index: 39.49%
+
+===== 78.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 50  
+
+Ki-67 Index = (54 / (54 + 50)) x 100  
+Ki-67 Index = (54 / 104) x 100  
+Ki-67 Index = 51.92%  
+
+Ki-67 Index: 51.92%
+
+===== 79.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 41  
+Ki-67 Index = (32 / (32 + 41)) x 100  
+Ki-67 Index: 43.84%
+
+===== 8.jpg =====
+Immunopositive cells: 41  
+Immunonegative cells: 22  
+
+Ki-67 Index = (41 / (41 + 22)) x 100  
+Ki-67 Index = (41 / 63) x 100  
+Ki-67 Index = 65.08%  
+
+Ki-67 Index: 65.08%
+
+===== 80.jpg =====
+Immunopositive cells: 22  
+Immunonegative cells: 41  
+
+Ki-67 Index = (22 / (22 + 41)) x 100  
+Ki-67 Index = (22 / 63) x 100  
+Ki-67 Index = 34.92%  
+
+Ki-67 Index: 34.92%
+
+===== 81.jpg =====
+Immunopositive cells: 17  
+Immunonegative cells: 34  
+
+Ki-67 Index = (17 / (17 + 34)) x 100  
+Ki-67 Index = (17 / 51) x 100  
+Ki-67 Index = 33.33%  
+
+Ki-67 Index: 33.33%
+
+===== 82.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 56  
+
+Ki-67 Index = (32 / (32 + 56)) x 100  
+Ki-67 Index = (32 / 88) x 100  
+Ki-67 Index = 36.36%  
+
+Ki-67 Index: 36.36%
+
+===== 83.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 56  
+
+Ki-67 Index = (26 / (26 + 56)) x 100  
+Ki-67 Index = (26 / 82) x 100  
+Ki-67 Index = 31.71%  
+
+Ki-67 Index: 31.71%
+
+===== 84.jpg =====
+Immunopositive cells: 32  
+Immunonegative cells: 60  
+Ki-67 Index = (32 / (32 + 60)) x 100  
+Ki-67 Index: 34.78%
+
+===== 85.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 52  
+
+Ki-67 Index = (29 / (29 + 52)) x 100  
+Ki-67 Index = (29 / 81) x 100  
+Ki-67 Index = 35.80%  
+
+Ki-67 Index: 35.80%
+
+===== 86.jpg =====
+Immunopositive cells: 29  
+Immunonegative cells: 51  
+
+Ki-67 Index = (29 / (29 + 51)) x 100  
+Ki-67 Index = (29 / 80) x 100  
+Ki-67 Index = 36.25%  
+
+Ki-67 Index: 36.25%
+
+===== 87.jpg =====
+Immunopositive cells: 14  
+Immunonegative cells: 32  
+
+Ki-67 Index = (14 / (14 + 32)) x 100  
+Ki-67 Index = (14 / 46) x 100  
+Ki-67 Index = 30.43%  
+
+Ki-67 Index: 30.43%
+
+===== 88.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 20  
+
+Ki-67 Index = (52 / (52 + 20)) x 100  
+Ki-67 Index = (52 / 72) x 100  
+Ki-67 Index = 72.22%  
+
+Ki-67 Index: 72.22%
+
+===== 89.jpg =====
+Immunopositive cells: 49  
+Immunonegative cells: 17  
+
+Ki-67 Index = (49 / (49 + 17)) x 100  
+Ki-67 Index = (49 / 66) x 100  
+Ki-67 Index = 74.24%  
+
+Ki-67 Index: 74.24%
+
+===== 9.jpg =====
+Immunopositive cells: 18  
+Immunonegative cells: 40  
+
+Ki-67 Index = (18 / (18 + 40)) x 100  
+Ki-67 Index = (18 / 58) x 100  
+Ki-67 Index = 31.03%  
+
+Ki-67 Index: 31.03%
+
+===== 90.jpg =====
+Immunopositive cells: 49  
+Immunonegative cells: 20  
+
+Ki-67 Index = (49 / (49 + 20)) x 100  
+Ki-67 Index = (49 / 69) x 100  
+Ki-67 Index = 71.01%  
+
+Ki-67 Index: 71.01%
+
+===== 91.jpg =====
+Immunopositive cells: 26  
+Immunonegative cells: 27  
+Ki-67 Index = (26 / (26 + 27)) x 100  
+Ki-67 Index: 49.06%
+
+===== 92.jpg =====
+Immunopositive cells: 42  
+Immunonegative cells: 22  
+
+Ki-67 Index = (42 / (42 + 22)) x 100  
+Ki-67 Index = (42 / 64) x 100  
+Ki-67 Index = 65.63%  
+
+Ki-67 Index: 65.63%
+
+===== 93.jpg =====
+Immunopositive cells: 54  
+Immunonegative cells: 27  
+
+Ki-67 Index = (54 / (54 + 27)) x 100  
+Ki-67 Index = (54 / 81) x 100  
+Ki-67 Index = 66.67%  
+
+Ki-67 Index: 66.67%
+
+===== 94.jpg =====
+Immunopositive cells: 52  
+Immunonegative cells: 22  
+
+Ki-67 Index = (52 / (52 + 22)) x 100  
+Ki-67 Index = (52 / 74) x 100  
+Ki-67 Index = 70.27%  
+
+Ki-67 Index: 70.27%
+
+===== 95.jpg =====
+Immunopositive cells: 43  
+Immunonegative cells: 20  
+
+Ki-67 Index = (43 / (43 + 20)) x 100  
+Ki-67 Index = (43 / 63) x 100  
+Ki-67 Index = 68.25%  
+
+Ki-67 Index: 68.25%
+
+===== 96.jpg =====
+Immunopositive cells: 43  
+Immunonegative cells: 20  
+
+Ki-67 Index = (43 / (43 + 20)) x 100  
+Ki-67 Index = (43 / 63) x 100  
+Ki-67 Index = 68.25%  
+
+Ki-67 Index: 68.25%
+
+===== 97.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 16  
+
+Ki-67 Index = (56 / (56 + 16)) x 100  
+Ki-67 Index = (56 / 72) x 100  
+Ki-67 Index = 77.78%  
+
+Ki-67 Index: 77.78%
+
+===== 98.jpg =====
+Immunopositive cells: 49  
+Immunonegative cells: 24  
+
+Ki-67 Index = (49 / (49 + 24)) x 100  
+Ki-67 Index = (49 / 73) x 100  
+Ki-67 Index = 67.12%  
+
+Ki-67 Index: 67.12%
+
+===== 99.jpg =====
+Immunopositive cells: 56  
+Immunonegative cells: 44  
+
+Ki-67 Index = (56 / (56 + 44)) x 100  
+
+Ki-67 Index: 56.00%

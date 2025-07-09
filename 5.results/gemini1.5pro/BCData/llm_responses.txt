@@ -1,0 +1,3934 @@
+
+===== 0.jpg =====
+Positive cells: 57
+Negative cells: 142
+Proliferation Index = (57)/(57+142)
+Proliferation Index = (57)/(199)
+Proliferation Index: 0.286432
+Proliferation Index: 0.286432 * 100
+Proliferation Index: 28.6432%
+Proliferation Index: 28.64%
+
+===== 1.jpg =====
+Positive cells: 28
+Negative cells: 102
+Proliferation Index = (28)/(28+102)
+Proliferation Index = (28)/(130)
+Proliferation Index: 0.215384
+Proliferation Index: 0.215384 * 100
+Proliferation Index: 21.5384%
+Proliferation Index: 21.54%
+
+===== 10.jpg =====
+Positive cells: 22
+Negative cells: 26
+Proliferation Index = (22)/(22+26)
+Proliferation Index = (22)/(48)
+Proliferation Index: 0.458333
+Proliferation Index: 45.83%
+
+===== 100.jpg =====
+Positive cells: 150
+Negative cells: 72
+Proliferation Index = (150)/(150+72)
+Proliferation Index = (150)/(222)
+Proliferation Index: 0.675675
+Proliferation Index: 0.675675 * 100
+Proliferation Index: 67.5675%
+Proliferation Index: 67.57%
+
+===== 101.jpg =====
+Positive cells: 108
+Negative cells: 12
+Proliferation Index = (108)/(108+12)
+Proliferation Index = (108)/(120)
+Proliferation Index: 0.9
+Proliferation Index: 0.9 * 100
+Proliferation Index: 90.0000%
+Proliferation Index: 90.00%
+
+===== 102.jpg =====
+Positive cells: 108
+Negative cells: 22
+Proliferation Index = (108)/(108+22)
+Proliferation Index = (108)/(130)
+Proliferation Index: 0.830769
+Proliferation Index: 0.830769 * 100
+Proliferation Index: 83.0769%
+Proliferation Index: 83.08%
+
+===== 103.jpg =====
+Positive cells: 92
+Negative cells: 41
+Proliferation Index = (92)/(92+41)
+Proliferation Index = (92)/(133)
+Proliferation Index: 0.691729
+Proliferation Index: 0.691729 * 100
+Proliferation Index: 69.1729%
+Proliferation Index: 69.17%
+
+===== 104.jpg =====
+Positive cells: 108
+Negative cells: 2
+Proliferation Index = (108)/(108+2)
+Proliferation Index = (108)/(110)
+Proliferation Index: 0.981818
+Proliferation Index: 0.981818 * 100
+Proliferation Index: 98.1818%
+Proliferation Index: 98.18%
+
+===== 105.jpg =====
+Positive cells: 70
+Negative cells: 41
+Proliferation Index = (70)/(70+41)
+Proliferation Index = (70)/(111)
+Proliferation Index: 0.630630
+Proliferation Index: 0.630630 * 100
+Proliferation Index: 63.0630%
+Proliferation Index: 63.06%
+
+===== 106.jpg =====
+Positive cells: 40
+Negative cells: 20
+Proliferation Index = (40)/(40+20)
+Proliferation Index = (40)/(60)
+Proliferation Index: 0.666666
+Proliferation Index: 66.67%
+
+===== 107.jpg =====
+Positive cells: 47
+Negative cells: 11
+Proliferation Index = (47)/(47+11)
+Proliferation Index = (47)/(58)
+Proliferation Index: 0.810344
+Proliferation Index: 0.810344 * 100
+Proliferation Index: 81.0344%
+Proliferation Index: 81.03%
+
+===== 108.jpg =====
+Positive cells: 112
+Negative cells: 20
+Proliferation Index = (112)/(112+20)
+Proliferation Index = (112)/(132)
+Proliferation Index: 0.848484
+Proliferation Index: 0.848484 * 100
+Proliferation Index: 84.8484%
+Proliferation Index: 84.85%
+
+===== 109.jpg =====
+Positive cells: 112
+Negative cells: 12
+Proliferation Index = (112)/(112+12)
+Proliferation Index = (112)/(124)
+Proliferation Index: 0.903225
+Proliferation Index: 0.903225 * 100
+Proliferation Index: 90.3225%
+Proliferation Index: 90.32%
+
+===== 11.jpg =====
+Positive cells: 38
+Negative cells: 41
+Proliferation Index = (38)/(38+41)
+Proliferation Index = (38)/(79)
+Proliferation Index: 0.481012
+Proliferation Index: 0.481012 * 100
+Proliferation Index: 48.1012%
+Proliferation Index: 48.10%
+
+===== 110.jpg =====
+Positive cells: 108
+Negative cells: 22
+Proliferation Index = (108)/(108+22)
+Proliferation Index = (108)/(130)
+Proliferation Index: 0.830769
+Proliferation Index: 0.830769 * 100
+Proliferation Index: 83.0769%
+Proliferation Index: 83.08%
+
+===== 111.jpg =====
+Positive cells: 112
+Negative cells: 30
+Proliferation Index = (112)/(112+30)
+Proliferation Index = (112)/(142)
+Proliferation Index: 0.788732
+Proliferation Index: 0.788732 * 100
+Proliferation Index: 78.8732%
+Proliferation Index: 78.87%
+
+===== 112.jpg =====
+Positive cells: 70
+Negative cells: 20
+Proliferation Index = (70)/(70+20)
+Proliferation Index = (70)/(90)
+Proliferation Index: 0.777777
+Proliferation Index: 0.777777 * 100
+Proliferation Index: 77.7777%
+Proliferation Index: 77.78%
+
+===== 113.jpg =====
+Positive cells: 158
+Negative cells: 32
+Proliferation Index = (158)/(158+32)
+Proliferation Index = (158)/(190)
+Proliferation Index: 0.831578947368
+Proliferation Index: 0.831578947368 * 100
+Proliferation Index: 83.1578947368%
+Proliferation Index: 83.16%
+
+===== 114.jpg =====
+Positive cells: 60
+Negative cells: 150
+Proliferation Index = (60)/(60+150)
+Proliferation Index = (60)/(210)
+Proliferation Index: 0.285714
+Proliferation Index: 0.285714 * 100
+Proliferation Index: 28.5714%
+Proliferation Index: 28.57%
+
+===== 115.jpg =====
+Positive cells: 47
+Negative cells: 20
+Proliferation Index = (47)/(47+20)
+Proliferation Index = (47)/(67)
+Proliferation Index: 0.701492
+Proliferation Index: 0.701492 * 100
+Proliferation Index: 70.1492%
+Proliferation Index: 70.15%
+
+===== 116.jpg =====
+Positive cells: 30
+Negative cells: 62
+Proliferation Index = (30)/(30+62)
+Proliferation Index = (30)/(92)
+Proliferation Index: 0.3260869565
+Proliferation Index: 32.61%
+
+===== 117.jpg =====
+Positive cells: 60
+Negative cells: 52
+Proliferation Index = (60)/(60+52)
+Proliferation Index = (60)/(112)
+Proliferation Index: 0.535714
+Proliferation Index: 0.535714 * 100
+Proliferation Index: 53.5714%
+Proliferation Index: 53.57%
+
+===== 118.jpg =====
+Positive cells: 37
+Negative cells: 112
+Proliferation Index = (37)/(37+112)
+Proliferation Index = (37)/(149)
+Proliferation Index: 0.248322
+Proliferation Index: 0.248322 * 100
+Proliferation Index: 24.8322%
+Proliferation Index: 24.83%
+
+===== 119.jpg =====
+Positive cells: 47
+Negative cells: 62
+Proliferation Index = (47)/(47+62)
+Proliferation Index = (47)/(109)
+Proliferation Index: 0.431192
+Proliferation Index: 0.431192 * 100
+Proliferation Index: 43.1192%
+Proliferation Index: 43.12%
+
+===== 12.jpg =====
+Positive cells: 62
+Negative cells: 51
+Proliferation Index = (62)/(62+51)
+Proliferation Index = (62)/(113)
+Proliferation Index: 0.548672
+Proliferation Index: 0.548672 * 100
+Proliferation Index: 54.8672%
+Proliferation Index: 54.87%
+
+===== 120.jpg =====
+Positive cells: 58
+Negative cells: 120
+Proliferation Index = (58)/(58+120)
+Proliferation Index = (58)/(178)
+Proliferation Index: 0.325842
+Proliferation Index: 0.325842 * 100
+Proliferation Index: 32.5842%
+Proliferation Index: 32.58%
+
+===== 121.jpg =====
+Positive cells: 58
+Negative cells: 152
+Proliferation Index = (58)/(58+152)
+Proliferation Index = (58)/(210)
+Proliferation Index: 0.276190
+Proliferation Index: 0.276190 * 100
+Proliferation Index: 27.6190%
+Proliferation Index: 27.62%
+
+===== 122.jpg =====
+Positive cells: 67
+Negative cells: 62
+Proliferation Index = (67)/(67+62)
+Proliferation Index = (67)/(129)
+Proliferation Index: 0.519379
+Proliferation Index: 0.519379 * 100
+Proliferation Index: 51.9379%
+Proliferation Index: 51.94%
+
+===== 123.jpg =====
+Positive cells: 78
+Negative cells: 22
+Proliferation Index = (78)/(78+22)
+Proliferation Index = (78)/(100)
+Proliferation Index: 0.78
+Proliferation Index: 0.78 * 100
+Proliferation Index: 78.0000%
+Proliferation Index: 78.00%
+
+===== 124.jpg =====
+Positive cells: 88
+Negative cells: 41
+Proliferation Index = (88)/(88+41)
+Proliferation Index = (88)/(129)
+Proliferation Index: 0.682170
+Proliferation Index: 0.682170 * 100
+Proliferation Index: 68.2170%
+Proliferation Index: 68.22%
+
+===== 125.jpg =====
+Positive cells: 112
+Negative cells: 52
+Proliferation Index = (112)/(112+52)
+Proliferation Index = (112)/(164)
+Proliferation Index: 0.682926
+Proliferation Index: 0.682926 * 100
+Proliferation Index: 68.2926%
+Proliferation Index: 68.29%
+
+===== 126.jpg =====
+Positive cells: 150
+Negative cells: 61
+Proliferation Index = (150)/(150+61)
+Proliferation Index = (150)/(211)
+Proliferation Index: 0.710900
+Proliferation Index: 0.710900 * 100
+Proliferation Index: 71.0900%
+Proliferation Index: 71.09%
+
+===== 127.jpg =====
+Positive cells: 108
+Negative cells: 62
+Proliferation Index = (108)/(108+62)
+Proliferation Index = (108)/(170)
+Proliferation Index: 0.635294
+Proliferation Index: 0.635294 * 100
+Proliferation Index: 63.5294%
+Proliferation Index: 63.53%
+
+===== 128.jpg =====
+Positive cells: 87
+Negative cells: 25
+Proliferation Index = (87)/(87+25)
+Proliferation Index = (87)/(112)
+Proliferation Index: 0.776785
+Proliferation Index: 0.776785 * 100
+Proliferation Index: 77.6785%
+Proliferation Index: 77.68%
+
+===== 129.jpg =====
+Positive cells: 108
+Negative cells: 112
+Proliferation Index = (108)/(108+112)
+Proliferation Index = (108)/(220)
+Proliferation Index: 0.490909
+Proliferation Index: 0.490909 * 100
+Proliferation Index: 49.0909%
+Proliferation Index: 49.09%
+
+===== 13.jpg =====
+Positive cells: 80
+Negative cells: 107
+Proliferation Index = (80)/(80+107)
+Proliferation Index = (80)/(187)
+Proliferation Index: 0.427754
+Proliferation Index: 0.427754 * 100
+Proliferation Index: 42.7754%
+Proliferation Index: 42.78%
+
+===== 130.jpg =====
+Positive cells: 70
+Negative cells: 82
+Proliferation Index = (70)/(70+82)
+Proliferation Index = (70)/(152)
+Proliferation Index: 0.460526
+Proliferation Index: 0.460526 * 100
+Proliferation Index: 46.0526%
+Proliferation Index: 46.05%
+
+===== 131.jpg =====
+Positive cells: 50
+Negative cells: 20
+Proliferation Index = (50)/(50+20)
+Proliferation Index = (50)/(70)
+Proliferation Index: 0.714285
+Proliferation Index: 0.714285 * 100
+Proliferation Index: 71.4285%
+Proliferation Index: 71.43%
+
+===== 132.jpg =====
+Positive cells: 70
+Negative cells: 112
+Proliferation Index = (70)/(70+112)
+Proliferation Index = (70)/(182)
+Proliferation Index: 0.384615
+Proliferation Index: 0.384615 * 100
+Proliferation Index: 38.4615%
+Proliferation Index: 38.46%
+
+===== 133.jpg =====
+Positive cells: 30
+Negative cells: 102
+Proliferation Index = (30)/(30+102)
+Proliferation Index = (30)/(132)
+Proliferation Index: 0.227272
+Proliferation Index: 0.227272 * 100
+Proliferation Index: 22.7272%
+Proliferation Index: 22.73%
+
+===== 134.jpg =====
+Positive cells: 30
+Negative cells: 102
+Proliferation Index = (30)/(30+102)
+Proliferation Index = (30)/(132)
+Proliferation Index: 0.227272
+Proliferation Index: 0.227272 * 100
+Proliferation Index: 22.7272%
+Proliferation Index: 22.73%
+
+===== 135.jpg =====
+Positive cells: 57
+Negative cells: 120
+Proliferation Index = (57)/(57+120)
+Proliferation Index = (57)/(177)
+Proliferation Index: 0.322033
+Proliferation Index: 0.322033 * 100
+Proliferation Index: 32.2033%
+Proliferation Index: 32.20%
+
+===== 136.jpg =====
+Positive cells: 38
+Negative cells: 102
+Proliferation Index = (38)/(38+102)
+Proliferation Index = (38)/(140)
+Proliferation Index: 0.271428
+Proliferation Index: 0.271428 * 100
+Proliferation Index: 27.1428%
+Proliferation Index: 27.14%
+
+===== 137.jpg =====
+Positive cells: 20
+Negative cells: 112
+Proliferation Index = (20)/(20+112)
+Proliferation Index = (20)/(132)
+Proliferation Index: 0.151515
+Proliferation Index: 0.151515 * 100
+Proliferation Index: 15.1515%
+Proliferation Index: 15.15%
+
+===== 138.jpg =====
+Positive cells: 28
+Negative cells: 150
+Proliferation Index = (28)/(28+150)
+Proliferation Index = (28)/(178)
+Proliferation Index: 0.157303
+Proliferation Index: 0.157303 * 100
+Proliferation Index: 15.7303%
+Proliferation Index: 15.73%
+
+===== 139.jpg =====
+Positive cells: 70
+Negative cells: 180
+Proliferation Index = (70)/(70+180)
+Proliferation Index = (70)/(250)
+Proliferation Index: 0.28
+Proliferation Index: 0.28 * 100
+Proliferation Index: 28.0000%
+Proliferation Index: 28.00%
+
+===== 14.jpg =====
+Positive cells: 47
+Negative cells: 62
+Proliferation Index = (47)/(47+62)
+Proliferation Index = (47)/(109)
+Proliferation Index: 0.431192
+Proliferation Index: 0.431192 * 100
+Proliferation Index: 43.1192%
+Proliferation Index: 43.12%
+
+===== 140.jpg =====
+Positive cells: 150
+Negative cells: 62
+Proliferation Index = (150)/(150+62)
+Proliferation Index = (150)/(212)
+Proliferation Index: 0.707547
+Proliferation Index: 0.707547 * 100
+Proliferation Index: 70.7547%
+Proliferation Index: 70.75%
+
+===== 141.jpg =====
+Positive cells: 147
+Negative cells: 28
+Proliferation Index = (147)/(147+28)
+Proliferation Index = (147)/(175)
+Proliferation Index: 0.84
+Proliferation Index: 0.84 * 100
+Proliferation Index: 84.0000%
+Proliferation Index: 84.00%
+
+===== 142.jpg =====
+Positive cells: 150
+Negative cells: 47
+Proliferation Index = (150)/(150+47)
+Proliferation Index = (150)/(197)
+Proliferation Index: 0.761421
+Proliferation Index: 0.761421 * 100
+Proliferation Index: 76.1421%
+Proliferation Index: 76.14%
+
+===== 143.jpg =====
+Positive cells: 108
+Negative cells: 15
+Proliferation Index = (108)/(108+15)
+Proliferation Index = (108)/(123)
+Proliferation Index: 0.878048
+Proliferation Index: 0.878048 * 100
+Proliferation Index: 87.8048%
+Proliferation Index: 87.80%
+
+===== 144.jpg =====
+Positive cells: 108
+Negative cells: 42
+Proliferation Index = (108)/(108+42)
+Proliferation Index = (108)/(150)
+Proliferation Index: 0.72
+Proliferation Index: 0.72 * 100
+Proliferation Index: 72.0000%
+Proliferation Index: 72.00%
+
+===== 145.jpg =====
+Positive cells: 108
+Negative cells: 62
+Proliferation Index = (108)/(108+62)
+Proliferation Index = (108)/(170)
+Proliferation Index: 0.635294
+Proliferation Index: 0.635294 * 100
+Proliferation Index: 63.5294%
+Proliferation Index: 63.53%
+
+===== 146.jpg =====
+Positive cells: 108
+Negative cells: 142
+Proliferation Index = (108)/(108+142)
+Proliferation Index = (108)/(250)
+Proliferation Index: 0.432
+Proliferation Index: 0.432 * 100
+Proliferation Index: 43.2%
+Proliferation Index: 43.20%
+
+===== 147.jpg =====
+Positive cells: 97
+Negative cells: 112
+Proliferation Index = (97)/(97+112)
+Proliferation Index = (97)/(209)
+Proliferation Index: 0.464114
+Proliferation Index: 0.464114 * 100
+Proliferation Index: 46.4114%
+Proliferation Index: 46.41%
+
+===== 148.jpg =====
+Positive cells: 108
+Negative cells: 42
+Proliferation Index = (108)/(108+42)
+Proliferation Index = (108)/(150)
+Proliferation Index: 0.72
+Proliferation Index: 0.72 * 100
+Proliferation Index: 72.0000%
+Proliferation Index: 72.00%
+
+===== 149.jpg =====
+Positive cells: 108
+Negative cells: 162
+Proliferation Index = (108)/(108+162)
+Proliferation Index = (108)/(270)
+Proliferation Index: 0.4
+Proliferation Index: 0.4 * 100
+Proliferation Index: 40.0000%
+Proliferation Index: 40.00%
+
+===== 15.jpg =====
+Positive cells: 118
+Negative cells: 22
+Proliferation Index = (118)/(118+22)
+Proliferation Index = (118)/(140)
+Proliferation Index: 0.842857
+Proliferation Index: 0.842857 * 100
+Proliferation Index: 84.2857%
+Proliferation Index: 84.29%
+
+===== 150.jpg =====
+Positive cells: 92
+Negative cells: 78
+Proliferation Index = (92)/(92+78)
+Proliferation Index = (92)/(170)
+Proliferation Index: 0.541176
+Proliferation Index: 0.541176 * 100
+Proliferation Index: 54.1176%
+Proliferation Index: 54.12%
+
+===== 151.jpg =====
+Positive cells: 57
+Negative cells: 52
+Proliferation Index = (57)/(57+52)
+Proliferation Index = (57)/(109)
+Proliferation Index: 0.522935
+Proliferation Index: 0.522935 * 100
+Proliferation Index: 52.2935%
+Proliferation Index: 52.29%
+
+===== 152.jpg =====
+Positive cells: 58
+Negative cells: 132
+Proliferation Index = (58)/(58+132)
+Proliferation Index = (58)/(190)
+Proliferation Index: 0.305263
+Proliferation Index: 0.305263 * 100
+Proliferation Index: 30.5263%
+Proliferation Index: 30.53%
+
+===== 153.jpg =====
+Positive cells: 18
+Negative cells: 62
+Proliferation Index = (18)/(18+62)
+Proliferation Index = (18)/(80)
+Proliferation Index: 0.225
+Proliferation Index: 0.225 * 100
+Proliferation Index: 22.5%
+Proliferation Index: 22.50%
+
+===== 154.jpg =====
+Positive cells: 57
+Negative cells: 122
+Proliferation Index = (57)/(57+122)
+Proliferation Index = (57)/(179)
+Proliferation Index: 0.318435
+Proliferation Index: 0.318435 * 100
+Proliferation Index: 31.8435%
+Proliferation Index: 31.84%
+
+===== 155.jpg =====
+Positive cells: 30
+Negative cells: 62
+Proliferation Index = (30)/(30+62)
+Proliferation Index = (30)/(92)
+Proliferation Index: 32.608695%
+Proliferation Index: 32.61%
+
+===== 156.jpg =====
+Positive cells: 20
+Negative cells: 52
+Proliferation Index = (20)/(20+52)
+Proliferation Index = (20)/(72)
+Proliferation Index: 0.277777
+Proliferation Index: 0.277777 * 100
+Proliferation Index: 27.7777%
+Proliferation Index: 27.78%
+
+===== 157.jpg =====
+Positive cells: 41
+Negative cells: 62
+Proliferation Index = (41)/(41+62)
+Proliferation Index = (41)/(103)
+Proliferation Index: 0.398058
+Proliferation Index: 0.398058 * 100
+Proliferation Index: 39.8058%
+Proliferation Index: 39.81%
+
+===== 158.jpg =====
+Positive cells: 70
+Negative cells: 52
+Proliferation Index = (70)/(70+52)
+Proliferation Index = (70)/(122)
+Proliferation Index: 0.573770
+Proliferation Index: 0.573770 * 100
+Proliferation Index: 57.3770%
+Proliferation Index: 57.38%
+
+===== 159.jpg =====
+Positive cells: 102
+Negative cells: 68
+Proliferation Index = (102)/(102+68)
+Proliferation Index = (102)/(170)
+Proliferation Index: 0.6
+Proliferation Index: 0.6 * 100
+Proliferation Index: 60.0000%
+Proliferation Index: 60.00%
+
+===== 16.jpg =====
+Positive cells: 47
+Negative cells: 20
+Proliferation Index = (47)/(47+20)
+Proliferation Index = (47)/(67)
+Proliferation Index: 0.701492
+Proliferation Index: 0.701492 * 100
+Proliferation Index: 70.1492%
+Proliferation Index: 70.15%
+
+===== 160.jpg =====
+Positive cells: 112
+Negative cells: 43
+Proliferation Index = (112)/(112+43)
+Proliferation Index = (112)/(155)
+Proliferation Index: 0.722580
+Proliferation Index: 0.722580 * 100
+Proliferation Index: 72.2580%
+Proliferation Index: 72.26%
+
+===== 161.jpg =====
+Positive cells: 67
+Negative cells: 164
+Proliferation Index = (67)/(67+164)
+Proliferation Index = (67)/(231)
+Proliferation Index: 0.289004
+Proliferation Index: 0.289004 * 100
+Proliferation Index: 28.9004%
+Proliferation Index: 28.90%
+
+===== 162.jpg =====
+Positive cells: 108
+Negative cells: 32
+Proliferation Index = (108)/(108+32)
+Proliferation Index = (108)/(140)
+Proliferation Index: 0.77142857142
+Proliferation Index: 0.77142857142 * 100
+Proliferation Index: 77.142857142%
+Proliferation Index: 77.14%
+
+===== 163.jpg =====
+Positive cells: 70
+Negative cells: 28
+Proliferation Index = (70)/(70+28)
+Proliferation Index = (70)/(98)
+Proliferation Index: 0.714285
+Proliferation Index: 0.714285 * 100
+Proliferation Index: 71.4285%
+Proliferation Index: 71.43%
+
+===== 164.jpg =====
+Positive cells: 40
+Negative cells: 188
+Proliferation Index = (40)/(40+188)
+Proliferation Index = (40)/(228)
+Proliferation Index: 0.17543859649
+Proliferation Index: 17.543859649 * 100
+Proliferation Index: 17.54%
+Proliferation Index: 17.54%
+
+===== 165.jpg =====
+Positive cells: 4
+Negative cells: 18
+Proliferation Index = (4)/(4+18)
+Proliferation Index = (4)/(22)
+Proliferation Index: 0.181818
+Proliferation Index: 0.181818 * 100
+Proliferation Index: 18.1818%
+Proliferation Index: 18.18%
+
+===== 166.jpg =====
+Positive cells: 7
+Negative cells: 40
+Proliferation Index = (7)/(7+40)
+Proliferation Index = (7)/(47)
+Proliferation Index: 0.148936
+Proliferation Index: 0.148936 * 100
+Proliferation Index: 14.8936%
+Proliferation Index: 14.89%
+
+===== 167.jpg =====
+Positive cells: 12
+Negative cells: 112
+Proliferation Index = (12)/(12+112)
+Proliferation Index = (12)/(124)
+Proliferation Index: 9.6774%
+Proliferation Index: 9.68%
+
+===== 168.jpg =====
+Positive cells: 28
+Negative cells: 145
+Proliferation Index = (28)/(28+145)
+Proliferation Index = (28)/(173)
+Proliferation Index: 0.161849
+Proliferation Index: 0.161849 * 100
+Proliferation Index: 16.1849%
+Proliferation Index: 16.18%
+
+===== 169.jpg =====
+Positive cells: 17
+Negative cells: 180
+Proliferation Index = (17)/(17+180)
+Proliferation Index = (17)/(197)
+Proliferation Index: 0.086294
+Proliferation Index: 0.086294 * 100
+Proliferation Index: 8.6294%
+Proliferation Index: 8.63%
+
+===== 17.jpg =====
+Positive cells: 47
+Negative cells: 54
+Proliferation Index = (47)/(47+54)
+Proliferation Index = (47)/(101)
+Proliferation Index: 0.465346
+Proliferation Index: 0.465346 * 100
+Proliferation Index: 46.5346%
+Proliferation Index: 46.53%
+
+===== 170.jpg =====
+Positive cells: 78
+Negative cells: 157
+Proliferation Index = (78)/(78+157)
+Proliferation Index = (78)/(235)
+Proliferation Index: 0.331914
+Proliferation Index: 0.331914 * 100
+Proliferation Index: 33.1914%
+Proliferation Index: 33.19%
+
+===== 171.jpg =====
+Positive cells: 40
+Negative cells: 112
+Proliferation Index = (40)/(40+112)
+Proliferation Index = (40)/(152)
+Proliferation Index: 0.263157
+Proliferation Index: 0.263157 * 100
+Proliferation Index: 26.3157%
+Proliferation Index: 26.32%
+
+===== 172.jpg =====
+Positive cells: 60
+Negative cells: 162
+Proliferation Index = (60)/(60+162)
+Proliferation Index = (60)/(222)
+Proliferation Index: 27.0270%
+Proliferation Index: 27.03%
+
+===== 173.jpg =====
+Positive cells: 60
+Negative cells: 101
+Proliferation Index = (60)/(60+101)
+Proliferation Index = (60)/(161)
+Proliferation Index: 37.2670%
+Proliferation Index: 37.27%
+
+===== 174.jpg =====
+Positive cells: 30
+Negative cells: 102
+Proliferation Index = (30)/(30+102)
+Proliferation Index = (30)/(132)
+Proliferation Index: 22.7272%
+Proliferation Index: 22.73%
+
+===== 175.jpg =====
+Positive cells: 70
+Negative cells: 229
+Proliferation Index = (70)/(70+229)
+Proliferation Index = (70)/(299)
+Proliferation Index: 0.23411371237
+Proliferation Index: 0.23411371237 * 100
+Proliferation Index: 23.411371237%
+Proliferation Index: 23.41%
+
+===== 176.jpg =====
+Positive cells: 78
+Negative cells: 164
+Proliferation Index = (78)/(78+164)
+Proliferation Index = (78)/(242)
+Proliferation Index: 0.322314
+Proliferation Index: 0.322314 * 100
+Proliferation Index: 32.2314%
+Proliferation Index: 32.23%
+
+===== 177.jpg =====
+Positive cells: 62
+Negative cells: 112
+Proliferation Index = (62)/(62+112)
+Proliferation Index = (62)/(174)
+Proliferation Index: 0.356321839
+Proliferation Index: 35.63%
+
+===== 178.jpg =====
+Positive cells: 47
+Negative cells: 112
+Proliferation Index = (47)/(47+112)
+Proliferation Index = (47)/(159)
+Proliferation Index: 0.295597
+Proliferation Index: 0.295597 * 100
+Proliferation Index: 29.5597%
+Proliferation Index: 29.56%
+
+===== 179.jpg =====
+Positive cells: 42
+Negative cells: 118
+Proliferation Index = (42)/(42+118)
+Proliferation Index = (42)/(160)
+Proliferation Index: 0.2625
+Proliferation Index: 0.2625 * 100
+Proliferation Index: 26.25%
+Proliferation Index: 26.25%
+
+===== 18.jpg =====
+Positive cells: 67
+Negative cells: 20
+Proliferation Index = (67)/(67+20)
+Proliferation Index = (67)/(87)
+Proliferation Index: 0.771428
+Proliferation Index: 0.771428 * 100
+Proliferation Index: 77.1428%
+Proliferation Index: 77.14%
+
+===== 180.jpg =====
+Positive cells: 40
+Negative cells: 101
+Proliferation Index = (40)/(40+101)
+Proliferation Index = (40)/(141)
+Proliferation Index: 0.283687
+Proliferation Index: 0.283687 * 100
+Proliferation Index: 28.3687%
+Proliferation Index: 28.37%
+
+===== 181.jpg =====
+Positive cells: 47
+Negative cells: 62
+Proliferation Index = (47)/(47+62)
+Proliferation Index = (47)/(109)
+Proliferation Index: 0.431192
+Proliferation Index: 0.431192 * 100
+Proliferation Index: 43.1192%
+Proliferation Index: 43.12%
+
+===== 182.jpg =====
+Positive cells: 37
+Negative cells: 142
+Proliferation Index = (37)/(37+142)
+Proliferation Index = (37)/(179)
+Proliferation Index: 0.206703
+Proliferation Index: 0.206703 * 100
+Proliferation Index: 20.6703%
+Proliferation Index: 20.67%
+
+===== 183.jpg =====
+Positive cells: 47
+Negative cells: 202
+Proliferation Index = (47)/(47+202)
+Proliferation Index = (47)/(249)
+Proliferation Index: 0.188755
+Proliferation Index: 0.188755 * 100
+Proliferation Index: 18.8755%
+Proliferation Index: 18.88%
+
+===== 184.jpg =====
+Positive cells: 70
+Negative cells: 225
+Proliferation Index = (70)/(70+225)
+Proliferation Index = (70)/(295)
+Proliferation Index: 0.237288
+Proliferation Index: 0.237288 * 100
+Proliferation Index: 23.7288%
+Proliferation Index: 23.73%
+
+===== 185.jpg =====
+Positive cells: 70
+Negative cells: 180
+Proliferation Index = (70)/(70+180)
+Proliferation Index = (70)/(250)
+Proliferation Index: 0.28
+Proliferation Index: 0.28 * 100
+Proliferation Index: 28.0000%
+Proliferation Index: 28.00%
+
+===== 186.jpg =====
+Positive cells: 150
+Negative cells: 22
+Proliferation Index = (150)/(150+22)
+Proliferation Index = (150)/(172)
+Proliferation Index: 0.872093
+Proliferation Index: 0.872093 * 100
+Proliferation Index: 87.2093%
+Proliferation Index: 87.21%
+
+===== 187.jpg =====
+Positive cells: 60
+Negative cells: 162
+Proliferation Index = (60)/(60+162)
+Proliferation Index = (60)/(222)
+Proliferation Index: 27.0270%
+Proliferation Index: 27.03%
+
+===== 188.jpg =====
+Positive cells: 88
+Negative cells: 117
+Proliferation Index = (88)/(88+117)
+Proliferation Index = (88)/(205)
+Proliferation Index: 0.429268
+Proliferation Index: 0.429268 * 100
+Proliferation Index: 42.9268%
+Proliferation Index: 42.93%
+
+===== 189.jpg =====
+Positive cells: 20
+Negative cells: 70
+Proliferation Index = (20)/(20+70)
+Proliferation Index = (20)/(90)
+Proliferation Index: 0.222222
+Proliferation Index: 0.222222 * 100
+Proliferation Index: 22.2222%
+Proliferation Index: 22.22%
+
+===== 19.jpg =====
+Positive cells: 57
+Negative cells: 10
+Proliferation Index = (57)/(57+10)
+Proliferation Index = (57)/(67)
+Proliferation Index: 0.850746
+Proliferation Index: 0.850746 * 100
+Proliferation Index: 85.0746%
+Proliferation Index: 85.07%
+
+===== 190.jpg =====
+Positive cells: 18
+Negative cells: 102
+Proliferation Index = (18)/(18+102)
+Proliferation Index = (18)/(120)
+Proliferation Index: 0.15
+Proliferation Index: 0.15 * 100
+Proliferation Index: 15.0000%
+Proliferation Index: 15.00%
+
+===== 191.jpg =====
+Positive cells: 58
+Negative cells: 102
+Proliferation Index = (58)/(58+102)
+Proliferation Index = (58)/(160)
+Proliferation Index: 0.3625
+Proliferation Index: 0.3625 * 100
+Proliferation Index: 36.25%
+Proliferation Index: 36.25%
+
+===== 192.jpg =====
+Positive cells: 57
+Negative cells: 41
+Proliferation Index = (57)/(57+41)
+Proliferation Index = (57)/(98)
+Proliferation Index: 0.581632
+Proliferation Index: 0.581632 * 100
+Proliferation Index: 58.1632%
+Proliferation Index: 58.16%
+
+===== 193.jpg =====
+Positive cells: 20
+Negative cells: 112
+Proliferation Index = (20)/(20+112)
+Proliferation Index = (20)/(132)
+Proliferation Index: 0.151515
+Proliferation Index: 0.151515 * 100
+Proliferation Index: 15.1515%
+Proliferation Index: 15.15%
+
+===== 194.jpg =====
+Positive cells: 97
+Negative cells: 112
+Proliferation Index = (97)/(97+112)
+Proliferation Index = (97)/(209)
+Proliferation Index: 0.464114
+Proliferation Index: 0.464114 * 100
+Proliferation Index: 46.4114%
+Proliferation Index: 46.41%
+
+===== 195.jpg =====
+Positive cells: 95
+Negative cells: 112
+Proliferation Index = (95)/(95+112)
+Proliferation Index = (95)/(207)
+Proliferation Index: 0.458937
+Proliferation Index: 0.458937 * 100
+Proliferation Index: 45.8937%
+Proliferation Index: 45.89%
+
+===== 196.jpg =====
+Positive cells: 150
+Negative cells: 112
+Proliferation Index = (150)/(150+112)
+Proliferation Index = (150)/(262)
+Proliferation Index: 0.572519
+Proliferation Index: 0.572519 * 100
+Proliferation Index: 57.2519%
+Proliferation Index: 57.25%
+
+===== 197.jpg =====
+Positive cells: 67
+Negative cells: 52
+Proliferation Index = (67)/(67+52)
+Proliferation Index = (67)/(119)
+Proliferation Index: 0.563025
+Proliferation Index: 0.563025 * 100
+Proliferation Index: 56.3025%
+Proliferation Index: 56.30%
+
+===== 198.jpg =====
+Positive cells: 70
+Negative cells: 52
+Proliferation Index = (70)/(70+52)
+Proliferation Index = (70)/(122)
+Proliferation Index: 0.573770
+Proliferation Index: 0.573770 * 100
+Proliferation Index: 57.3770%
+Proliferation Index: 57.38%
+
+===== 199.jpg =====
+Positive cells: 70
+Negative cells: 112
+Proliferation Index = (70)/(70+112)
+Proliferation Index = (70)/(182)
+Proliferation Index: 0.384615
+Proliferation Index: 0.384615 * 100
+Proliferation Index: 38.4615%
+Proliferation Index: 38.46%
+
+===== 2.jpg =====
+Positive cells: 78
+Negative cells: 32
+Proliferation Index = (78)/(78+32)
+Proliferation Index = (78)/(110)
+Proliferation Index: 0.709090
+Proliferation Index: 0.709090 * 100
+Proliferation Index: 70.9090%
+Proliferation Index: 70.91%
+
+===== 20.jpg =====
+Positive cells: 67
+Negative cells: 28
+Proliferation Index = (67)/(67+28)
+Proliferation Index = (67)/(95)
+Proliferation Index: 0.705263
+Proliferation Index: 0.705263 * 100
+Proliferation Index: 70.5263%
+Proliferation Index: 70.53%
+
+===== 200.jpg =====
+Positive cells: 30
+Negative cells: 152
+Proliferation Index = (30)/(30+152)
+Proliferation Index = (30)/(182)
+Proliferation Index: 0.164835
+Proliferation Index: 0.164835 * 100
+Proliferation Index: 16.4835%
+Proliferation Index: 16.48%
+
+===== 201.jpg =====
+Positive cells: 70
+Negative cells: 170
+Proliferation Index = (70)/(70+170)
+Proliferation Index = (70)/(240)
+Proliferation Index: 0.291666
+Proliferation Index: 0.291666 * 100
+Proliferation Index: 29.1666%
+Proliferation Index: 29.17%
+
+===== 202.jpg =====
+Positive cells: 28
+Negative cells: 112
+Proliferation Index = (28)/(28+112)
+Proliferation Index = (28)/(140)
+Proliferation Index: 0.2
+Proliferation Index: 0.2 * 100
+Proliferation Index: 20.0000%
+Proliferation Index: 20.00%
+
+===== 203.jpg =====
+Positive cells: 70
+Negative cells: 112
+Proliferation Index = (70)/(70+112)
+Proliferation Index = (70)/(182)
+Proliferation Index: 0.384615
+Proliferation Index: 0.384615 * 100
+Proliferation Index: 38.4615%
+Proliferation Index: 38.46%
+
+===== 204.jpg =====
+Positive cells: 202
+Negative cells: 22
+Proliferation Index = (202)/(202+22)
+Proliferation Index = (202)/(224)
+Proliferation Index: 0.901785
+Proliferation Index: 0.901785 * 100
+Proliferation Index: 90.1785%
+Proliferation Index: 90.18%
+
+===== 205.jpg =====
+Positive cells: 147
+Negative cells: 10
+Proliferation Index = (147)/(147+10)
+Proliferation Index = (147)/(157)
+Proliferation Index: 0.936305
+Proliferation Index: 0.936305 * 100
+Proliferation Index: 93.6305%
+Proliferation Index: 93.63%
+
+===== 206.jpg =====
+Positive cells: 57
+Negative cells: 164
+Proliferation Index = (57)/(57+164)
+Proliferation Index = (57)/(221)
+Proliferation Index: 0.257963
+Proliferation Index: 0.257963 * 100
+Proliferation Index: 25.7963%
+Proliferation Index: 25.80%
+
+===== 207.jpg =====
+Positive cells: 108
+Negative cells: 78
+Proliferation Index = (108)/(108+78)
+Proliferation Index = (108)/(186)
+Proliferation Index: 0.580645
+Proliferation Index: 0.580645 * 100
+Proliferation Index: 58.0645%
+Proliferation Index: 58.06%
+
+===== 208.jpg =====
+Positive cells: 102
+Negative cells: 41
+Proliferation Index = (102)/(102+41)
+Proliferation Index = (102)/(143)
+Proliferation Index: 0.713286
+Proliferation Index: 0.713286 * 100
+Proliferation Index: 71.3286%
+Proliferation Index: 71.33%
+
+===== 209.jpg =====
+Positive cells: 200
+Negative cells: 25
+Proliferation Index = (200)/(200+25)
+Proliferation Index = (200)/(225)
+Proliferation Index: 0.888888
+Proliferation Index: 0.888888 * 100
+Proliferation Index: 88.8888%
+Proliferation Index: 88.89%
+
+===== 21.jpg =====
+Positive cells: 50
+Negative cells: 71
+Proliferation Index = (50)/(50+71)
+Proliferation Index = (50)/(121)
+Proliferation Index: 0.413223
+Proliferation Index: 0.413223 * 100
+Proliferation Index: 41.3223%
+Proliferation Index: 41.32%
+
+===== 210.jpg =====
+Positive cells: 118
+Negative cells: 52
+Proliferation Index = (118)/(118+52)
+Proliferation Index = (118)/(170)
+Proliferation Index: 0.694117
+Proliferation Index: 0.694117 * 100
+Proliferation Index: 69.4117%
+Proliferation Index: 69.41%
+
+===== 211.jpg =====
+Positive cells: 97
+Negative cells: 72
+Proliferation Index = (97)/(97+72)
+Proliferation Index = (97)/(169)
+Proliferation Index: 0.573964
+Proliferation Index: 0.573964 * 100
+Proliferation Index: 57.3964%
+Proliferation Index: 57.40%
+
+===== 212.jpg =====
+Positive cells: 97
+Negative cells: 112
+Proliferation Index = (97)/(97+112)
+Proliferation Index = (97)/(209)
+Proliferation Index: 0.464114
+Proliferation Index: 0.464114 * 100
+Proliferation Index: 46.4114%
+Proliferation Index: 46.41%
+
+===== 213.jpg =====
+Positive cells: 158
+Negative cells: 32
+Proliferation Index = (158)/(158+32)
+Proliferation Index = (158)/(190)
+Proliferation Index: 0.831578
+Proliferation Index: 0.831578 * 100
+Proliferation Index: 83.1578%
+Proliferation Index: 83.16%
+
+===== 214.jpg =====
+Positive cells: 108
+Negative cells: 52
+Proliferation Index = (108)/(108+52)
+Proliferation Index = (108)/(160)
+Proliferation Index: 0.675
+Proliferation Index: 0.675 * 100
+Proliferation Index: 67.5%
+Proliferation Index: 67.50%
+
+===== 215.jpg =====
+Positive cells: 67
+Negative cells: 112
+Proliferation Index = (67)/(67+112)
+Proliferation Index = (67)/(179)
+Proliferation Index: 0.374301
+Proliferation Index: 0.374301 * 100
+Proliferation Index: 37.4301%
+Proliferation Index: 37.43%
+
+===== 216.jpg =====
+Positive cells: 67
+Negative cells: 201
+Proliferation Index = (67)/(67+201)
+Proliferation Index = (67)/(268)
+Proliferation Index: 0.25
+Proliferation Index: 25.00%
+
+===== 217.jpg =====
+Positive cells: 70
+Negative cells: 112
+Proliferation Index = (70)/(70+112)
+Proliferation Index = (70)/(182)
+Proliferation Index: 0.384615
+Proliferation Index: 0.384615 * 100
+Proliferation Index: 38.4615%
+Proliferation Index: 38.46%
+
+===== 218.jpg =====
+Positive cells: 28
+Negative cells: 67
+Proliferation Index = (28)/(28+67)
+Proliferation Index = (28)/(95)
+Proliferation Index: 0.294736
+Proliferation Index: 0.294736 * 100
+Proliferation Index: 29.4736%
+Proliferation Index: 29.47%
+
+===== 219.jpg =====
+Positive cells: 58
+Negative cells: 50
+Proliferation Index = (58)/(58+50)
+Proliferation Index = (58)/(108)
+Proliferation Index: 0.537037
+Proliferation Index: 0.537037 * 100
+Proliferation Index: 53.7037%
+Proliferation Index: 53.70%
+
+===== 22.jpg =====
+Positive cells: 57
+Negative cells: 20
+Proliferation Index = (57)/(57+20)
+Proliferation Index = (57)/(77)
+Proliferation Index: 0.740259
+Proliferation Index: 0.740259 * 100
+Proliferation Index: 74.0259%
+Proliferation Index: 74.03%
+
+===== 220.jpg =====
+Positive cells: 60
+Negative cells: 117
+Proliferation Index = (60)/(60+117)
+Proliferation Index = (60)/(177)
+Proliferation Index: 0.338983
+Proliferation Index: 0.338983 * 100
+Proliferation Index: 33.8983%
+Proliferation Index: 33.90%
+
+===== 221.jpg =====
+Positive cells: 60
+Negative cells: 51
+Proliferation Index = (60)/(60+51)
+Proliferation Index = (60)/(111)
+Proliferation Index: 0.540540
+Proliferation Index: 0.540540 * 100
+Proliferation Index: 54.0540%
+Proliferation Index: 54.05%
+
+===== 222.jpg =====
+Positive cells: 20
+Negative cells: 72
+Proliferation Index = (20)/(20+72)
+Proliferation Index = (20)/(92)
+Proliferation Index: 0.217391
+Proliferation Index: 0.217391 * 100
+Proliferation Index: 21.7391%
+Proliferation Index: 21.74%
+
+===== 223.jpg =====
+Positive cells: 170
+Negative cells: 10
+Proliferation Index = (170)/(170+10)
+Proliferation Index = (170)/(180)
+Proliferation Index: 0.944444
+Proliferation Index: 94.44%
+
+===== 224.jpg =====
+Positive cells: 178
+Negative cells: 12
+Proliferation Index = (178)/(178+12)
+Proliferation Index = (178)/(190)
+Proliferation Index: 0.936842
+Proliferation Index: 0.936842 * 100
+Proliferation Index: 93.6842%
+Proliferation Index: 93.68%
+
+===== 225.jpg =====
+Positive cells: 200
+Negative cells: 10
+Proliferation Index = (200)/(200+10)
+Proliferation Index = (200)/(210)
+Proliferation Index: 0.952380
+Proliferation Index: 0.952380 * 100
+Proliferation Index: 95.2380%
+Proliferation Index: 95.24%
+
+===== 226.jpg =====
+Positive cells: 170
+Negative cells: 15
+Proliferation Index = (170)/(170+15)
+Proliferation Index = (170)/(185)
+Proliferation Index: 0.918918
+Proliferation Index: 0.918918 * 100
+Proliferation Index: 91.8918%
+Proliferation Index: 91.89%
+
+===== 227.jpg =====
+Positive cells: 97
+Negative cells: 25
+Proliferation Index = (97)/(97+25)
+Proliferation Index = (97)/(122)
+Proliferation Index: 0.795081
+Proliferation Index: 0.795081 * 100
+Proliferation Index: 79.5081%
+Proliferation Index: 79.51%
+
+===== 228.jpg =====
+Positive cells: 112
+Negative cells: 20
+Proliferation Index = (112)/(112+20)
+Proliferation Index = (112)/(132)
+Proliferation Index: 0.848484
+Proliferation Index: 0.848484 * 100
+Proliferation Index: 84.8484%
+Proliferation Index: 84.85%
+
+===== 229.jpg =====
+Positive cells: 92
+Negative cells: 112
+Proliferation Index = (92)/(92+112)
+Proliferation Index = (92)/(204)
+Proliferation Index: 0.450980
+Proliferation Index: 0.450980 * 100
+Proliferation Index: 45.0980%
+Proliferation Index: 45.10%
+
+===== 23.jpg =====
+Positive cells: 30
+Negative cells: 180
+Proliferation Index = (30)/(30+180)
+Proliferation Index = (30)/(210)
+Proliferation Index: 0.142857
+Proliferation Index: 0.142857 * 100
+Proliferation Index: 14.2857%
+Proliferation Index: 14.29%
+
+===== 230.jpg =====
+Positive cells: 70
+Negative cells: 41
+Proliferation Index = (70)/(70+41)
+Proliferation Index = (70)/(111)
+Proliferation Index: 0.630630
+Proliferation Index: 0.630630 * 100
+Proliferation Index: 63.0630%
+Proliferation Index: 63.06%
+
+===== 231.jpg =====
+Positive cells: 118
+Negative cells: 42
+Proliferation Index = (118)/(118+42)
+Proliferation Index = (118)/(160)
+Proliferation Index: 0.7375
+Proliferation Index: 0.7375 * 100
+Proliferation Index: 73.75%
+Proliferation Index: 73.75%
+
+===== 232.jpg =====
+Positive cells: 67
+Negative cells: 42
+Proliferation Index = (67)/(67+42)
+Proliferation Index = (67)/(109)
+Proliferation Index: 0.614678
+Proliferation Index: 0.614678 * 100
+Proliferation Index: 61.4678%
+Proliferation Index: 61.47%
+
+===== 233.jpg =====
+Positive cells: 58
+Negative cells: 41
+Proliferation Index = (58)/(58+41)
+Proliferation Index = (58)/(99)
+Proliferation Index: 0.585858
+Proliferation Index: 0.585858 * 100
+Proliferation Index: 58.5858%
+Proliferation Index: 58.59%
+
+===== 234.jpg =====
+Positive cells: 108
+Negative cells: 62
+Proliferation Index = (108)/(108+62)
+Proliferation Index = (108)/(170)
+Proliferation Index: 0.635294
+Proliferation Index: 0.635294 * 100
+Proliferation Index: 63.5294%
+Proliferation Index: 63.53%
+
+===== 235.jpg =====
+Positive cells: 70
+Negative cells: 52
+Proliferation Index = (70)/(70+52)
+Proliferation Index = (70)/(122)
+Proliferation Index: 0.573770
+Proliferation Index: 0.573770 * 100
+Proliferation Index: 57.3770%
+Proliferation Index: 57.38%
+
+===== 236.jpg =====
+Positive cells: 88
+Negative cells: 162
+Proliferation Index = (88)/(88+162)
+Proliferation Index = (88)/(250)
+Proliferation Index: 0.352
+Proliferation Index: 0.352 * 100
+Proliferation Index: 35.2%
+Proliferation Index: 35.20%
+
+===== 237.jpg =====
+Positive cells: 67
+Negative cells: 152
+Proliferation Index = (67)/(67+152)
+Proliferation Index = (67)/(219)
+Proliferation Index: 0.305936
+Proliferation Index: 0.305936 * 100
+Proliferation Index: 30.5936%
+Proliferation Index: 30.59%
+
+===== 238.jpg =====
+Positive cells: 97
+Negative cells: 68
+Proliferation Index = (97)/(97+68)
+Proliferation Index = (97)/(165)
+Proliferation Index: 0.587878
+Proliferation Index: 0.587878 * 100
+Proliferation Index: 58.7878%
+Proliferation Index: 58.79%
+
+===== 239.jpg =====
+Positive cells: 80
+Negative cells: 71
+Proliferation Index = (80)/(80+71)
+Proliferation Index = (80)/(151)
+Proliferation Index: 0.529801
+Proliferation Index: 0.529801 * 100
+Proliferation Index: 52.9801%
+Proliferation Index: 52.98%
+
+===== 24.jpg =====
+Positive cells: 57
+Negative cells: 142
+Proliferation Index = (57)/(57+142)
+Proliferation Index = (57)/(199)
+Proliferation Index: 0.286432
+Proliferation Index: 0.286432 * 100
+Proliferation Index: 28.6432%
+Proliferation Index: 28.64%
+
+===== 240.jpg =====
+Positive cells: 60
+Negative cells: 162
+Proliferation Index = (60)/(60+162)
+Proliferation Index = (60)/(222)
+Proliferation Index: 27.0270%
+Proliferation Index: 27.03%
+
+===== 241.jpg =====
+Positive cells: 67
+Negative cells: 112
+Proliferation Index = (67)/(67+112)
+Proliferation Index = (67)/(179)
+Proliferation Index: 0.374301
+Proliferation Index: 0.374301 * 100
+Proliferation Index: 37.4301%
+Proliferation Index: 37.43%
+
+===== 242.jpg =====
+Positive cells: 102
+Negative cells: 41
+Proliferation Index = (102)/(102+41)
+Proliferation Index = (102)/(143)
+Proliferation Index: 0.713286
+Proliferation Index: 0.713286 * 100
+Proliferation Index: 71.3286%
+Proliferation Index: 71.33%
+
+===== 243.jpg =====
+Positive cells: 138
+Negative cells: 22
+Proliferation Index = (138)/(138+22)
+Proliferation Index = (138)/(160)
+Proliferation Index: 0.8625
+Proliferation Index: 0.8625 * 100
+Proliferation Index: 86.25%
+Proliferation Index: 86.25%
+
+===== 244.jpg =====
+Positive cells: 170
+Negative cells: 20
+Proliferation Index = (170)/(170+20)
+Proliferation Index = (170)/(190)
+Proliferation Index: 0.894736
+Proliferation Index: 0.894736 * 100
+Proliferation Index: 89.4736%
+Proliferation Index: 89.47%
+
+===== 245.jpg =====
+Positive cells: 108
+Negative cells: 202
+Proliferation Index = (108)/(108+202)
+Proliferation Index = (108)/(310)
+Proliferation Index: 34.8387%
+Proliferation Index: 34.84%
+
+===== 246.jpg =====
+Positive cells: 80
+Negative cells: 71
+Proliferation Index = (80)/(80+71)
+Proliferation Index = (80)/(151)
+Proliferation Index: 0.529801
+Proliferation Index: 0.529801 * 100
+Proliferation Index: 52.9801%
+Proliferation Index: 52.98%
+
+===== 247.jpg =====
+Positive cells: 112
+Negative cells: 53
+Proliferation Index = (112)/(112+53)
+Proliferation Index = (112)/(165)
+Proliferation Index: 0.678787
+Proliferation Index: 0.678787 * 100
+Proliferation Index: 67.8787%
+Proliferation Index: 67.88%
+
+===== 248.jpg =====
+Positive cells: 70
+Negative cells: 102
+Proliferation Index = (70)/(70+102)
+Proliferation Index = (70)/(172)
+Proliferation Index: 0.406976
+Proliferation Index: 0.406976 * 100
+Proliferation Index: 40.6976%
+Proliferation Index: 40.70%
+
+===== 249.jpg =====
+Positive cells: 67
+Negative cells: 112
+Proliferation Index = (67)/(67+112)
+Proliferation Index = (67)/(179)
+Proliferation Index: 0.374301
+Proliferation Index: 0.374301 * 100
+Proliferation Index: 37.4301%
+Proliferation Index: 37.43%
+
+===== 25.jpg =====
+Positive cells: 42
+Negative cells: 48
+Proliferation Index = (42)/(42+48)
+Proliferation Index = (42)/(90)
+Proliferation Index: 0.466666
+Proliferation Index: 0.466666 * 100
+Proliferation Index: 46.6666%
+Proliferation Index: 46.67%
+
+===== 250.jpg =====
+Positive cells: 67
+Negative cells: 112
+Proliferation Index = (67)/(67+112)
+Proliferation Index = (67)/(179)
+Proliferation Index: 0.374301
+Proliferation Index: 0.374301 * 100
+Proliferation Index: 37.4301%
+Proliferation Index: 37.43%
+
+===== 251.jpg =====
+Positive cells: 70
+Negative cells: 162
+Proliferation Index = (70)/(70+162)
+Proliferation Index = (70)/(232)
+Proliferation Index: 0.301724
+Proliferation Index: 0.301724 * 100
+Proliferation Index: 30.1724%
+Proliferation Index: 30.17%
+
+===== 252.jpg =====
+Positive cells: 60
+Negative cells: 140
+Proliferation Index = (60)/(60+140)
+Proliferation Index = (60)/(200)
+Proliferation Index: 0.3
+Proliferation Index: 0.3 * 100
+Proliferation Index: 30.0000%
+Proliferation Index: 30.00%
+
+===== 253.jpg =====
+Positive cells: 170
+Negative cells: 58
+Proliferation Index = (170)/(170+58)
+Proliferation Index = (170)/(228)
+Proliferation Index: 0.745614
+Proliferation Index: 0.745614 * 100
+Proliferation Index: 74.5614%
+Proliferation Index: 74.56%
+
+===== 254.jpg =====
+Positive cells: 200
+Negative cells: 75
+Proliferation Index = (200)/(200+75)
+Proliferation Index = (200)/(275)
+Proliferation Index: 0.727272
+Proliferation Index: 0.727272 * 100
+Proliferation Index: 72.7272%
+Proliferation Index: 72.73%
+
+===== 255.jpg =====
+Positive cells: 95
+Negative cells: 67
+Proliferation Index = (95)/(95+67)
+Proliferation Index = (95)/(162)
+Proliferation Index: 0.586419753086
+Proliferation Index: 58.64%
+
+===== 256.jpg =====
+Positive cells: 158
+Negative cells: 52
+Proliferation Index = (158)/(158+52)
+Proliferation Index = (158)/(210)
+Proliferation Index: 0.752380
+Proliferation Index: 0.752380 * 100
+Proliferation Index: 75.2380%
+Proliferation Index: 75.24%
+
+===== 257.jpg =====
+Positive cells: 118
+Negative cells: 77
+Proliferation Index = (118)/(118+77)
+Proliferation Index = (118)/(195)
+Proliferation Index: 0.605128
+Proliferation Index: 0.605128 * 100
+Proliferation Index: 60.5128%
+Proliferation Index: 60.51%
+
+===== 258.jpg =====
+Positive cells: 150
+Negative cells: 25
+Proliferation Index = (150)/(150+25)
+Proliferation Index = (150)/(175)
+Proliferation Index: 0.857142
+Proliferation Index: 0.857142 * 100
+Proliferation Index: 85.7142%
+Proliferation Index: 85.71%
+
+===== 259.jpg =====
+Positive cells: 70
+Negative cells: 41
+Proliferation Index = (70)/(70+41)
+Proliferation Index = (70)/(111)
+Proliferation Index: 0.630630
+Proliferation Index: 0.630630 * 100
+Proliferation Index: 63.0630%
+Proliferation Index: 63.06%
+
+===== 26.jpg =====
+Positive cells: 60
+Negative cells: 137
+Proliferation Index = (60)/(60+137)
+Proliferation Index = (60)/(197)
+Proliferation Index: 0.304568
+Proliferation Index: 0.304568 * 100
+Proliferation Index: 30.4568%
+Proliferation Index: 30.46%
+
+===== 260.jpg =====
+Positive cells: 60
+Negative cells: 112
+Proliferation Index = (60)/(60+112)
+Proliferation Index = (60)/(172)
+Proliferation Index: 0.348837
+Proliferation Index: 0.348837 * 100
+Proliferation Index: 34.8837%
+Proliferation Index: 34.88%
+
+===== 261.jpg =====
+Positive cells: 225
+Negative cells: 41
+Proliferation Index = (225)/(225+41)
+Proliferation Index = (225)/(266)
+Proliferation Index: 0.845864
+Proliferation Index: 0.845864 * 100
+Proliferation Index: 84.5864%
+Proliferation Index: 84.59%
+
+===== 262.jpg =====
+Positive cells: 22
+Negative cells: 112
+Proliferation Index = (22)/(22+112)
+Proliferation Index = (22)/(134)
+Proliferation Index: 0.164179
+Proliferation Index: 0.164179 * 100
+Proliferation Index: 16.4179%
+Proliferation Index: 16.42%
+
+===== 263.jpg =====
+Positive cells: 12
+Negative cells: 112
+Proliferation Index = (12)/(12+112)
+Proliferation Index = (12)/(124)
+Proliferation Index: 9.6774%
+Proliferation Index: 9.68%
+
+===== 264.jpg =====
+Positive cells: 12
+Negative cells: 92
+Proliferation Index = (12)/(12+92)
+Proliferation Index = (12)/(104)
+Proliferation Index: 0.115384
+Proliferation Index: 0.115384 * 100
+Proliferation Index: 11.5384%
+Proliferation Index: 11.54%
+
+===== 265.jpg =====
+Positive cells: 14
+Negative cells: 120
+Proliferation Index = (14)/(14+120)
+Proliferation Index = (14)/(134)
+Proliferation Index: 0.1044776119
+Proliferation Index: 0.1044776119 * 100
+Proliferation Index: 10.44776119%
+Proliferation Index: 10.45%
+
+===== 266.jpg =====
+Positive cells: 14
+Negative cells: 112
+Proliferation Index = (14)/(14+112)
+Proliferation Index = (14)/(126)
+Proliferation Index: 0.111111
+Proliferation Index: 0.111111 * 100
+Proliferation Index: 11.1111%
+Proliferation Index: 11.11%
+
+===== 267.jpg =====
+Positive cells: 18
+Negative cells: 122
+Proliferation Index = (18)/(18+122)
+Proliferation Index = (18)/(140)
+Proliferation Index: 0.128571
+Proliferation Index: 0.128571 * 100
+Proliferation Index: 12.8571%
+Proliferation Index: 12.86%
+
+===== 268.jpg =====
+Positive cells: 28
+Negative cells: 77
+Proliferation Index = (28)/(28+77)
+Proliferation Index = (28)/(105)
+Proliferation Index: 0.266666
+Proliferation Index: 0.266666 * 100
+Proliferation Index: 26.6666%
+Proliferation Index: 26.67%
+
+===== 269.jpg =====
+Positive cells: 52
+Negative cells: 82
+Proliferation Index = (52)/(52+82)
+Proliferation Index = (52)/(134)
+Proliferation Index: 0.388059
+Proliferation Index: 0.388059 * 100
+Proliferation Index: 38.8059%
+Proliferation Index: 38.81%
+
+===== 27.jpg =====
+Positive cells: 30
+Negative cells: 61
+Proliferation Index = (30)/(30+61)
+Proliferation Index = (30)/(91)
+Proliferation Index: 32.97%
+Proliferation Index: 32.97%
+
+===== 270.jpg =====
+Positive cells: 12
+Negative cells: 68
+Proliferation Index = (12)/(12+68)
+Proliferation Index = (12)/(80)
+Proliferation Index: 0.15
+Proliferation Index: 0.15 * 100
+Proliferation Index: 15.0000%
+Proliferation Index: 15.00%
+
+===== 271.jpg =====
+Positive cells: 18
+Negative cells: 82
+Proliferation Index = (18)/(18+82)
+Proliferation Index = (18)/(100)
+Proliferation Index: 0.18
+Proliferation Index: 0.18 * 100
+Proliferation Index: 18.0000%
+Proliferation Index: 18.00%
+
+===== 272.jpg =====
+Positive cells: 28
+Negative cells: 52
+Proliferation Index = (28)/(28+52)
+Proliferation Index = (28)/(80)
+Proliferation Index: 0.35
+Proliferation Index: 0.35 * 100
+Proliferation Index: 35.0000%
+Proliferation Index: 35.00%
+
+===== 273.jpg =====
+Positive cells: 58
+Negative cells: 67
+Proliferation Index = (58)/(58+67)
+Proliferation Index = (58)/(125)
+Proliferation Index: 0.464
+Proliferation Index: 0.464 * 100
+Proliferation Index: 46.4%
+Proliferation Index: 46.40%
+
+===== 274.jpg =====
+Positive cells: 67
+Negative cells: 78
+Proliferation Index = (67)/(67+78)
+Proliferation Index = (67)/(145)
+Proliferation Index: 0.462068
+Proliferation Index: 0.462068 * 100
+Proliferation Index: 46.2068%
+Proliferation Index: 46.21%
+
+===== 275.jpg =====
+Positive cells: 67
+Negative cells: 112
+Proliferation Index = (67)/(67+112)
+Proliferation Index = (67)/(179)
+Proliferation Index: 0.37430167597765363
+Proliferation Index: 37.43016759776536%
+Proliferation Index: 37.43%
+
+===== 276.jpg =====
+Positive cells: 27
+Negative cells: 164
+Proliferation Index = (27)/(27+164)
+Proliferation Index = (27)/(191)
+Proliferation Index: 0.141361
+Proliferation Index: 0.141361 * 100
+Proliferation Index: 14.1361%
+Proliferation Index: 14.14%
+
+===== 277.jpg =====
+Positive cells: 11
+Negative cells: 180
+Proliferation Index = (11)/(11+180)
+Proliferation Index = (11)/(191)
+Proliferation Index: 0.057591623
+Proliferation Index: 5.76%
+
+===== 278.jpg =====
+Positive cells: 8
+Negative cells: 107
+Proliferation Index = (8)/(8+107)
+Proliferation Index = (8)/(115)
+Proliferation Index: 0.069565
+Proliferation Index: 0.069565 * 100
+Proliferation Index: 6.9565%
+Proliferation Index: 6.96%
+
+===== 279.jpg =====
+Positive cells: 28
+Negative cells: 122
+Proliferation Index = (28)/(28+122)
+Proliferation Index = (28)/(150)
+Proliferation Index: 0.186666
+Proliferation Index: 0.186666 * 100
+Proliferation Index: 18.6666%
+Proliferation Index: 18.67%
+
+===== 28.jpg =====
+Positive cells: 78
+Negative cells: 41
+Proliferation Index = (78)/(78+41)
+Proliferation Index = (78)/(119)
+Proliferation Index: 0.655462
+Proliferation Index: 0.655462 * 100
+Proliferation Index: 65.5462%
+Proliferation Index: 65.55%
+
+===== 280.jpg =====
+Positive cells: 20
+Negative cells: 67
+Proliferation Index = (20)/(20+67)
+Proliferation Index = (20)/(87)
+Proliferation Index: 0.229885
+Proliferation Index: 0.229885 * 100
+Proliferation Index: 22.9885%
+Proliferation Index: 22.99%
+
+===== 281.jpg =====
+Positive cells: 28
+Negative cells: 67
+Proliferation Index = (28)/(28+67)
+Proliferation Index = (28)/(95)
+Proliferation Index: 0.294736
+Proliferation Index: 0.294736 * 100
+Proliferation Index: 29.4736%
+Proliferation Index: 29.47%
+
+===== 282.jpg =====
+Positive cells: 22
+Negative cells: 81
+Proliferation Index = (22)/(22+81)
+Proliferation Index = (22)/(103)
+Proliferation Index: 0.213592
+Proliferation Index: 0.213592 * 100
+Proliferation Index: 21.3592%
+Proliferation Index: 21.36%
+
+===== 283.jpg =====
+Positive cells: 12
+Negative cells: 108
+Proliferation Index = (12)/(12+108)
+Proliferation Index = (12)/(120)
+Proliferation Index: 0.1
+Proliferation Index: 10.00%
+
+===== 284.jpg =====
+Positive cells: 30
+Negative cells: 102
+Proliferation Index = (30)/(30+102)
+Proliferation Index = (30)/(132)
+Proliferation Index: 0.227272
+Proliferation Index: 0.227272 * 100
+Proliferation Index: 22.7272%
+Proliferation Index: 22.73%
+
+===== 285.jpg =====
+Positive cells: 22
+Negative cells: 122
+Proliferation Index = (22)/(22+122)
+Proliferation Index = (22)/(144)
+Proliferation Index: 0.152777
+Proliferation Index: 0.152777 * 100
+Proliferation Index: 15.2777%
+Proliferation Index: 15.28%
+
+===== 286.jpg =====
+Positive cells: 20
+Negative cells: 108
+Proliferation Index = (20)/(20+108)
+Proliferation Index = (20)/(128)
+Proliferation Index: 0.15625
+Proliferation Index: 0.15625 * 100
+Proliferation Index: 15.625%
+Proliferation Index: 15.63%
+
+===== 287.jpg =====
+Positive cells: 55
+Negative cells: 82
+Proliferation Index = (55)/(55+82)
+Proliferation Index = (55)/(137)
+Proliferation Index: 0.401459
+Proliferation Index: 0.401459 * 100
+Proliferation Index: 40.1459%
+Proliferation Index: 40.15%
+
+===== 288.jpg =====
+Positive cells: 67
+Negative cells: 61
+Proliferation Index = (67)/(67+61)
+Proliferation Index = (67)/(128)
+Proliferation Index: 0.5234375
+Proliferation Index: 0.5234375 * 100
+Proliferation Index: 52.34375%
+Proliferation Index: 52.34%
+
+===== 289.jpg =====
+Positive cells: 30
+Negative cells: 102
+Proliferation Index = (30)/(30+102)
+Proliferation Index = (30)/(132)
+Proliferation Index: 0.227272
+Proliferation Index: 0.227272 * 100
+Proliferation Index: 22.7272%
+Proliferation Index: 22.73%
+
+===== 29.jpg =====
+Positive cells: 7
+Negative cells: 200
+Proliferation Index = (7)/(7+200)
+Proliferation Index = (7)/(207)
+Proliferation Index: 0.033816
+Proliferation Index: 0.033816 * 100
+Proliferation Index: 3.3816%
+Proliferation Index: 3.38%
+
+===== 290.jpg =====
+Positive cells: 30
+Negative cells: 112
+Proliferation Index = (30)/(30+112)
+Proliferation Index = (30)/(142)
+Proliferation Index: 21.13%
+Proliferation Index: 21.13%
+
+===== 291.jpg =====
+Positive cells: 12
+Negative cells: 92
+Proliferation Index = (12)/(12+92)
+Proliferation Index = (12)/(104)
+Proliferation Index: 0.115384
+Proliferation Index: 0.115384 * 100
+Proliferation Index: 11.5384%
+Proliferation Index: 11.54%
+
+===== 292.jpg =====
+Positive cells: 14
+Negative cells: 92
+Proliferation Index = (14)/(14+92)
+Proliferation Index = (14)/(106)
+Proliferation Index: 0.132075
+Proliferation Index: 0.132075 * 100
+Proliferation Index: 13.2075%
+Proliferation Index: 13.21%
+
+===== 293.jpg =====
+Positive cells: 30
+Negative cells: 71
+Proliferation Index = (30)/(30+71)
+Proliferation Index = (30)/(101)
+Proliferation Index: 0.297029
+Proliferation Index: 0.297029 * 100
+Proliferation Index: 29.7029%
+Proliferation Index: 29.70%
+
+===== 294.jpg =====
+Positive cells: 8
+Negative cells: 97
+Proliferation Index = (8)/(8+97)
+Proliferation Index = (8)/(105)
+Proliferation Index: 0.076190
+Proliferation Index: 0.076190 * 100
+Proliferation Index: 7.6190%
+Proliferation Index: 7.62%
+
+===== 295.jpg =====
+Positive cells: 12
+Negative cells: 152
+Proliferation Index = (12)/(12+152)
+Proliferation Index = (12)/(164)
+Proliferation Index: 0.073170
+Proliferation Index: 0.073170 * 100
+Proliferation Index: 7.3170%
+Proliferation Index: 7.32%
+
+===== 296.jpg =====
+Positive cells: 27
+Negative cells: 82
+Proliferation Index = (27)/(27+82)
+Proliferation Index = (27)/(109)
+Proliferation Index: 24.7706%
+Proliferation Index: 24.77%
+
+===== 297.jpg =====
+Positive cells: 18
+Negative cells: 92
+Proliferation Index = (18)/(18+92)
+Proliferation Index = (18)/(110)
+Proliferation Index: 0.163636
+Proliferation Index: 0.163636 * 100
+Proliferation Index: 16.3636%
+Proliferation Index: 16.36%
+
+===== 298.jpg =====
+Positive cells: 22
+Negative cells: 81
+Proliferation Index = (22)/(22+81)
+Proliferation Index = (22)/(103)
+Proliferation Index: 0.213592
+Proliferation Index: 0.213592 * 100
+Proliferation Index: 21.3592%
+Proliferation Index: 21.36%
+
+===== 299.jpg =====
+Positive cells: 20
+Negative cells: 112
+Proliferation Index = (20)/(20+112)
+Proliferation Index = (20)/(132)
+Proliferation Index: 0.151515
+Proliferation Index: 0.151515 * 100
+Proliferation Index: 15.1515%
+Proliferation Index: 15.15%
+
+===== 3.jpg =====
+Positive cells: 40
+Negative cells: 11
+Proliferation Index = (40)/(40+11)
+Proliferation Index = (40)/(51)
+Proliferation Index: 0.784313
+Proliferation Index: 0.784313 * 100
+Proliferation Index: 78.4313%
+Proliferation Index: 78.43%
+
+===== 30.jpg =====
+Positive cells: 88
+Negative cells: 11
+Proliferation Index = (88)/(88+11)
+Proliferation Index = (88)/(99)
+Proliferation Index: 0.888888
+Proliferation Index: 0.888888 * 100
+Proliferation Index: 88.8888%
+Proliferation Index: 88.89%
+
+===== 300.jpg =====
+Positive cells: 17
+Negative cells: 108
+Proliferation Index = (17)/(17+108)
+Proliferation Index = (17)/(125)
+Proliferation Index: 0.136
+Proliferation Index: 0.136 * 100
+Proliferation Index: 13.6%
+Proliferation Index: 13.60%
+
+===== 301.jpg =====
+Positive cells: 14
+Negative cells: 102
+Proliferation Index = (14)/(14+102)
+Proliferation Index = (14)/(116)
+Proliferation Index: 0.120689
+Proliferation Index: 0.120689 * 100
+Proliferation Index: 12.0689%
+Proliferation Index: 12.07%
+
+===== 302.jpg =====
+Positive cells: 18
+Negative cells: 107
+Proliferation Index = (18)/(18+107)
+Proliferation Index = (18)/(125)
+Proliferation Index: 0.144
+Proliferation Index: 0.144 * 100
+Proliferation Index: 14.4%
+Proliferation Index: 14.40%
+
+===== 303.jpg =====
+Positive cells: 28
+Negative cells: 117
+Proliferation Index = (28)/(28+117)
+Proliferation Index = (28)/(145)
+Proliferation Index: 0.193103
+Proliferation Index: 0.193103 * 100
+Proliferation Index: 19.3103%
+Proliferation Index: 19.31%
+
+===== 304.jpg =====
+Positive cells: 12
+Negative cells: 78
+Proliferation Index = (12)/(12+78)
+Proliferation Index = (12)/(90)
+Proliferation Index: 0.133333
+Proliferation Index: 0.133333 * 100
+Proliferation Index: 13.3333%
+Proliferation Index: 13.33%
+
+===== 305.jpg =====
+Positive cells: 200
+Negative cells: 72
+Proliferation Index = (200)/(200+72)
+Proliferation Index = (200)/(272)
+Proliferation Index: 0.735294
+Proliferation Index: 0.735294 * 100
+Proliferation Index: 73.5294%
+Proliferation Index: 73.53%
+
+===== 306.jpg =====
+Positive cells: 108
+Negative cells: 22
+Proliferation Index = (108)/(108+22)
+Proliferation Index = (108)/(130)
+Proliferation Index: 0.830769
+Proliferation Index: 0.830769 * 100
+Proliferation Index: 83.0769%
+Proliferation Index: 83.08%
+
+===== 307.jpg =====
+Positive cells: 200
+Negative cells: 72
+Proliferation Index = (200)/(200+72)
+Proliferation Index = (200)/(272)
+Proliferation Index: 0.735294
+Proliferation Index: 0.735294 * 100
+Proliferation Index: 73.5294%
+Proliferation Index: 73.53%
+
+===== 308.jpg =====
+Positive cells: 220
+Negative cells: 51
+Proliferation Index = (220)/(220+51)
+Proliferation Index = (220)/(271)
+Proliferation Index: 0.811808
+Proliferation Index: 0.811808 * 100
+Proliferation Index: 81.1808%
+Proliferation Index: 81.18%
+
+===== 309.jpg =====
+Positive cells: 28
+Negative cells: 164
+Proliferation Index = (28)/(28+164)
+Proliferation Index = (28)/(192)
+Proliferation Index: 0.145833
+Proliferation Index: 0.145833 * 100
+Proliferation Index: 14.5833%
+Proliferation Index: 14.58%
+
+===== 31.jpg =====
+Positive cells: 118
+Negative cells: 72
+Proliferation Index = (118)/(118+72)
+Proliferation Index = (118)/(190)
+Proliferation Index: 0.621052
+Proliferation Index: 0.621052 * 100
+Proliferation Index: 62.1052%
+Proliferation Index: 62.11%
+
+===== 310.jpg =====
+Positive cells: 22
+Negative cells: 112
+Proliferation Index = (22)/(22+112)
+Proliferation Index = (22)/(134)
+Proliferation Index: 0.164179
+Proliferation Index: 0.164179 * 100
+Proliferation Index: 16.4179%
+Proliferation Index: 16.42%
+
+===== 311.jpg =====
+Positive cells: 67
+Negative cells: 40
+Proliferation Index = (67)/(67+40)
+Proliferation Index = (67)/(107)
+Proliferation Index: 0.626168
+Proliferation Index: 0.626168 * 100
+Proliferation Index: 62.6168%
+Proliferation Index: 62.62%
+
+===== 312.jpg =====
+Positive cells: 57
+Negative cells: 52
+Proliferation Index = (57)/(57+52)
+Proliferation Index = (57)/(109)
+Proliferation Index: 0.522935
+Proliferation Index: 0.522935 * 100
+Proliferation Index: 52.2935%
+Proliferation Index: 52.29%
+
+===== 313.jpg =====
+Positive cells: 108
+Negative cells: 47
+Proliferation Index = (108)/(108+47)
+Proliferation Index = (108)/(155)
+Proliferation Index: 0.696774
+Proliferation Index: 0.696774 * 100
+Proliferation Index: 69.6774%
+Proliferation Index: 69.68%
+
+===== 314.jpg =====
+Positive cells: 52
+Negative cells: 102
+Proliferation Index = (52)/(52+102)
+Proliferation Index = (52)/(154)
+Proliferation Index: 0.337662
+Proliferation Index: 0.337662 * 100
+Proliferation Index: 33.7662%
+Proliferation Index: 33.77%
+
+===== 315.jpg =====
+Positive cells: 60
+Negative cells: 160
+Proliferation Index = (60)/(60+160)
+Proliferation Index = (60)/(220)
+Proliferation Index: 27.2727%
+Proliferation Index: 27.27%
+
+===== 316.jpg =====
+Positive cells: 47
+Negative cells: 152
+Proliferation Index = (47)/(47+152)
+Proliferation Index = (47)/(199)
+Proliferation Index: 0.2361809
+Proliferation Index: 0.2361809 * 100
+Proliferation Index: 23.61809%
+Proliferation Index: 23.62%
+
+===== 317.jpg =====
+Positive cells: 20
+Negative cells: 112
+Proliferation Index = (20)/(20+112)
+Proliferation Index = (20)/(132)
+Proliferation Index: 0.151515
+Proliferation Index: 0.151515 * 100
+Proliferation Index: 15.1515%
+Proliferation Index: 15.15%
+
+===== 318.jpg =====
+Positive cells: 28
+Negative cells: 67
+Proliferation Index = (28)/(28+67)
+Proliferation Index = (28)/(95)
+Proliferation Index: 0.294736
+Proliferation Index: 0.294736 * 100
+Proliferation Index: 29.4736%
+Proliferation Index: 29.47%
+
+===== 319.jpg =====
+Positive cells: 55
+Negative cells: 67
+Proliferation Index = (55)/(55+67)
+Proliferation Index = (55)/(122)
+Proliferation Index: 0.450819
+Proliferation Index: 0.450819 * 100
+Proliferation Index: 45.0819%
+Proliferation Index: 45.08%
+
+===== 32.jpg =====
+Positive cells: 97
+Negative cells: 78
+Proliferation Index = (97)/(97+78)
+Proliferation Index = (97)/(175)
+Proliferation Index: 0.554285
+Proliferation Index: 0.554285 * 100
+Proliferation Index: 55.4285%
+Proliferation Index: 55.43%
+
+===== 320.jpg =====
+Positive cells: 11
+Negative cells: 100
+Proliferation Index = (11)/(11+100)
+Proliferation Index = (11)/(111)
+Proliferation Index: 0.099099
+Proliferation Index: 0.099099 * 100
+Proliferation Index: 9.9099%
+Proliferation Index: 9.91%
+
+===== 321.jpg =====
+Positive cells: 30
+Negative cells: 112
+Proliferation Index = (30)/(30+112)
+Proliferation Index = (30)/(142)
+Proliferation Index: 21.1267%
+Proliferation Index: 21.13%
+
+===== 322.jpg =====
+Positive cells: 70
+Negative cells: 112
+Proliferation Index = (70)/(70+112)
+Proliferation Index = (70)/(182)
+Proliferation Index: 0.384615
+Proliferation Index: 0.384615 * 100
+Proliferation Index: 38.4615%
+Proliferation Index: 38.46%
+
+===== 323.jpg =====
+Positive cells: 20
+Negative cells: 112
+Proliferation Index = (20)/(20+112)
+Proliferation Index = (20)/(132)
+Proliferation Index: 0.151515
+Proliferation Index: 0.151515 * 100
+Proliferation Index: 15.1515%
+Proliferation Index: 15.15%
+
+===== 324.jpg =====
+Positive cells: 30
+Negative cells: 180
+Proliferation Index = (30)/(30+180)
+Proliferation Index = (30)/(210)
+Proliferation Index: 0.142857
+Proliferation Index: 0.142857 * 100
+Proliferation Index: 14.2857%
+Proliferation Index: 14.29%
+
+===== 325.jpg =====
+Positive cells: 57
+Negative cells: 152
+Proliferation Index = (57)/(57+152)
+Proliferation Index = (57)/(209)
+Proliferation Index: 0.272727
+Proliferation Index: 0.272727 * 100
+Proliferation Index: 27.2727%
+Proliferation Index: 27.27%
+
+===== 326.jpg =====
+Positive cells: 70
+Negative cells: 61
+Proliferation Index = (70)/(70+61)
+Proliferation Index = (70)/(131)
+Proliferation Index: 0.534351
+Proliferation Index: 0.534351 * 100
+Proliferation Index: 53.4351%
+Proliferation Index: 53.44%
+
+===== 327.jpg =====
+Positive cells: 78
+Negative cells: 62
+Proliferation Index = (78)/(78+62)
+Proliferation Index = (78)/(140)
+Proliferation Index: 0.557142
+Proliferation Index = 0.557142 * 100
+Proliferation Index: 55.7142%
+Proliferation Index: 55.71%
+
+===== 328.jpg =====
+Positive cells: 108
+Negative cells: 112
+Proliferation Index = (108)/(108+112)
+Proliferation Index = (108)/(220)
+Proliferation Index: 49.0909%
+Proliferation Index: 49.09%
+
+===== 329.jpg =====
+Positive cells: 70
+Negative cells: 112
+Proliferation Index = (70)/(70+112)
+Proliferation Index = (70)/(182)
+Proliferation Index: 0.384615
+Proliferation Index: 0.384615 * 100
+Proliferation Index: 38.4615%
+Proliferation Index: 38.46%
+
+===== 33.jpg =====
+Positive cells: 88
+Negative cells: 141
+Proliferation Index = (88)/(88+141)
+Proliferation Index = (88)/(229)
+Proliferation Index: 0.384279
+Proliferation Index: 0.384279 * 100
+Proliferation Index: 38.4279%
+Proliferation Index: 38.43%
+
+===== 330.jpg =====
+Positive cells: 67
+Negative cells: 112
+Proliferation Index = (67)/(67+112)
+Proliferation Index = (67)/(179)
+Proliferation Index: 0.374301
+Proliferation Index: 0.374301 * 100
+Proliferation Index: 37.4301%
+Proliferation Index: 37.43%
+
+===== 331.jpg =====
+Positive cells: 67
+Negative cells: 112
+Proliferation Index = (67)/(67+112)
+Proliferation Index = (67)/(179)
+Proliferation Index: 0.374301
+Proliferation Index: 0.374301 * 100
+Proliferation Index: 37.4301%
+Proliferation Index: 37.43%
+
+===== 332.jpg =====
+Positive cells: 40
+Negative cells: 162
+Proliferation Index = (40)/(40+162)
+Proliferation Index = (40)/(202)
+Proliferation Index: 0.1980198
+Proliferation Index: 0.1980198 * 100
+Proliferation Index: 19.80198%
+Proliferation Index: 19.80%
+
+===== 333.jpg =====
+Positive cells: 22
+Negative cells: 122
+Proliferation Index = (22)/(22+122)
+Proliferation Index = (22)/(144)
+Proliferation Index: 0.152777
+Proliferation Index: 0.152777 * 100
+Proliferation Index: 15.2777%
+Proliferation Index: 15.28%
+
+===== 334.jpg =====
+Positive cells: 18
+Negative cells: 110
+Proliferation Index = (18)/(18+110)
+Proliferation Index = (18)/(128)
+Proliferation Index: 0.140625
+Proliferation Index: 0.140625 * 100
+Proliferation Index: 14.0625%
+Proliferation Index: 14.06%
+
+===== 335.jpg =====
+Positive cells: 12
+Negative cells: 112
+Proliferation Index = (12)/(12+112)
+Proliferation Index = (12)/(124)
+Proliferation Index: 9.6774%
+Proliferation Index: 9.68%
+
+===== 336.jpg =====
+Positive cells: 27
+Negative cells: 38
+Proliferation Index = (27)/(27+38)
+Proliferation Index = (27)/(65)
+Proliferation Index: 0.415384
+Proliferation Index: 0.415384 * 100
+Proliferation Index: 41.5384%
+Proliferation Index: 41.54%
+
+===== 337.jpg =====
+Positive cells: 20
+Negative cells: 58
+Proliferation Index = (20)/(20+58)
+Proliferation Index = (20)/(78)
+Proliferation Index: 0.256410
+Proliferation Index: 0.256410 * 100
+Proliferation Index: 25.6410%
+Proliferation Index: 25.64%
+
+===== 338.jpg =====
+Positive cells: 40
+Negative cells: 38
+Proliferation Index = (40)/(40+38)
+Proliferation Index = (40)/(78)
+Proliferation Index: 0.512820
+Proliferation Index: 0.512820 * 100
+Proliferation Index: 51.2820%
+Proliferation Index: 51.28%
+
+===== 339.jpg =====
+Positive cells: 118
+Negative cells: 42
+Proliferation Index = (118)/(118+42)
+Proliferation Index = (118)/(160)
+Proliferation Index: 0.7375
+Proliferation Index: 0.7375 * 100
+Proliferation Index: 73.75%
+Proliferation Index: 73.75%
+
+===== 34.jpg =====
+Positive cells: 78
+Negative cells: 122
+Proliferation Index = (78)/(78+122)
+Proliferation Index = (78)/(200)
+Proliferation Index: 0.39
+Proliferation Index: 0.39 * 100
+Proliferation Index: 39.0000%
+Proliferation Index: 39.00%
+
+===== 340.jpg =====
+Positive cells: 108
+Negative cells: 22
+Proliferation Index = (108)/(108+22)
+Proliferation Index = (108)/(130)
+Proliferation Index: 0.830769
+Proliferation Index: 0.830769 * 100
+Proliferation Index: 83.0769%
+Proliferation Index: 83.08%
+
+===== 341.jpg =====
+Positive cells: 2
+Negative cells: 202
+Proliferation Index = (2)/(2+202)
+Proliferation Index = (2)/(204)
+Proliferation Index: 0.980392%
+Proliferation Index: 0.98%
+
+===== 342.jpg =====
+Positive cells: 12
+Negative cells: 188
+Proliferation Index = (12)/(12+188)
+Proliferation Index = (12)/(200)
+Proliferation Index: 0.06
+Proliferation Index: 6.00%
+
+===== 343.jpg =====
+Positive cells: 5
+Negative cells: 72
+Proliferation Index = (5)/(5+72)
+Proliferation Index = (5)/(77)
+Proliferation Index: 0.064935
+Proliferation Index: 0.064935 * 100
+Proliferation Index: 6.4935%
+Proliferation Index: 6.49%
+
+===== 344.jpg =====
+Positive cells: 16
+Negative cells: 92
+Proliferation Index = (16)/(16+92)
+Proliferation Index = (16)/(108)
+Proliferation Index: 0.148148
+Proliferation Index: 0.148148 * 100
+Proliferation Index: 14.8148%
+Proliferation Index: 14.81%
+
+===== 345.jpg =====
+Positive cells: 11
+Negative cells: 112
+Proliferation Index = (11)/(11+112)
+Proliferation Index = (11)/(123)
+Proliferation Index: 0.089430
+Proliferation Index: 0.089430 * 100
+Proliferation Index: 8.9430%
+Proliferation Index: 8.94%
+
+===== 346.jpg =====
+Positive cells: 8
+Negative cells: 82
+Proliferation Index = (8)/(8+82)
+Proliferation Index = (8)/(90)
+Proliferation Index: 0.088888
+Proliferation Index: 0.088888 * 100
+Proliferation Index: 8.8888%
+Proliferation Index: 8.89%
+
+===== 347.jpg =====
+Positive cells: 11
+Negative cells: 100
+Proliferation Index = (11)/(11+100)
+Proliferation Index = (11)/(111)
+Proliferation Index: 0.099099
+Proliferation Index: 0.099099 * 100
+Proliferation Index: 9.9099%
+Proliferation Index: 9.91%
+
+===== 348.jpg =====
+Positive cells: 12
+Negative cells: 112
+Proliferation Index = (12)/(12+112)
+Proliferation Index = (12)/(124)
+Proliferation Index: 9.6774%
+Proliferation Index: 9.68%
+
+===== 349.jpg =====
+Positive cells: 12
+Negative cells: 152
+Proliferation Index = (12)/(12+152)
+Proliferation Index = (12)/(164)
+Proliferation Index: 0.073170
+Proliferation Index: 0.073170 * 100
+Proliferation Index: 7.3170%
+Proliferation Index: 7.32%
+
+===== 35.jpg =====
+Positive cells: 47
+Negative cells: 112
+Proliferation Index = (47)/(47+112)
+Proliferation Index = (47)/(159)
+Proliferation Index: 0.295597
+Proliferation Index: 0.295597 * 100
+Proliferation Index: 29.5597%
+Proliferation Index: 29.56%
+
+===== 350.jpg =====
+Positive cells: 28
+Negative cells: 150
+Proliferation Index = (28)/(28+150)
+Proliferation Index = (28)/(178)
+Proliferation Index: 0.157303
+Proliferation Index: 0.157303 * 100
+Proliferation Index: 15.7303%
+Proliferation Index: 15.73%
+
+===== 351.jpg =====
+Positive cells: 9
+Negative cells: 146
+Proliferation Index = (9)/(9+146)
+Proliferation Index = (9)/(155)
+Proliferation Index: 0.05806451612903226
+Proliferation Index: 0.05806451612903226 * 100
+Proliferation Index: 5.806451612903226%
+Proliferation Index: 5.81%
+
+===== 352.jpg =====
+Positive cells: 30
+Negative cells: 122
+Proliferation Index = (30)/(30+122)
+Proliferation Index = (30)/(152)
+Proliferation Index: 0.197368
+Proliferation Index: 0.197368 * 100
+Proliferation Index: 19.7368%
+Proliferation Index: 19.74%
+
+===== 353.jpg =====
+Positive cells: 60
+Negative cells: 61
+Proliferation Index = (60)/(60+61)
+Proliferation Index = (60)/(121)
+Proliferation Index: 49.5867%
+Proliferation Index: 49.59%
+
+===== 354.jpg =====
+Positive cells: 57
+Negative cells: 68
+Proliferation Index = (57)/(57+68)
+Proliferation Index = (57)/(125)
+Proliferation Index: 0.456
+Proliferation Index: 0.456 * 100
+Proliferation Index: 45.6%
+Proliferation Index: 45.60%
+
+===== 355.jpg =====
+Positive cells: 67
+Negative cells: 102
+Proliferation Index = (67)/(67+102)
+Proliferation Index = (67)/(169)
+Proliferation Index: 0.396449
+Proliferation Index: 0.396449 * 100
+Proliferation Index: 39.6449%
+Proliferation Index: 39.64%
+
+===== 356.jpg =====
+Positive cells: 16
+Negative cells: 77
+Proliferation Index = (16)/(16+77)
+Proliferation Index = (16)/(93)
+Proliferation Index: 0.172043
+Proliferation Index: 0.172043 * 100
+Proliferation Index: 17.2043%
+Proliferation Index: 17.20%
+
+===== 357.jpg =====
+Positive cells: 28
+Negative cells: 107
+Proliferation Index = (28)/(28+107)
+Proliferation Index = (28)/(135)
+Proliferation Index: 0.207407
+Proliferation Index: 0.207407 * 100
+Proliferation Index: 20.7407%
+Proliferation Index: 20.74%
+
+===== 358.jpg =====
+Positive cells: 92
+Negative cells: 78
+Proliferation Index = (92)/(92+78)
+Proliferation Index = (92)/(170)
+Proliferation Index: 0.541176
+Proliferation Index: 0.541176 * 100
+Proliferation Index: 54.1176%
+Proliferation Index: 54.12%
+
+===== 359.jpg =====
+Positive cells: 40
+Negative cells: 71
+Proliferation Index = (40)/(40+71)
+Proliferation Index = (40)/(111)
+Proliferation Index: 0.360360
+Proliferation Index: 0.360360 * 100
+Proliferation Index: 36.0360%
+Proliferation Index: 36.04%
+
+===== 36.jpg =====
+Positive cells: 102
+Negative cells: 188
+Proliferation Index = (102)/(102+188)
+Proliferation Index = (102)/(290)
+Proliferation Index: 0.351724
+Proliferation Index: 0.351724 * 100
+Proliferation Index: 35.1724%
+Proliferation Index: 35.17%
+
+===== 360.jpg =====
+Positive cells: 108
+Negative cells: 52
+Proliferation Index = (108)/(108+52)
+Proliferation Index = (108)/(160)
+Proliferation Index: 0.675
+Proliferation Index: 0.675 * 100
+Proliferation Index: 67.5%
+Proliferation Index: 67.50%
+
+===== 361.jpg =====
+Positive cells: 30
+Negative cells: 152
+Proliferation Index = (30)/(30+152)
+Proliferation Index = (30)/(182)
+Proliferation Index: 0.164835
+Proliferation Index: 0.164835 * 100
+Proliferation Index: 16.4835%
+Proliferation Index: 16.48%
+
+===== 362.jpg =====
+Positive cells: 42
+Negative cells: 168
+Proliferation Index = (42)/(42+168)
+Proliferation Index = (42)/(210)
+Proliferation Index: 0.2
+Proliferation Index: 0.2 * 100
+Proliferation Index: 20.0000%
+Proliferation Index: 20.00%
+
+===== 363.jpg =====
+Positive cells: 28
+Negative cells: 202
+Proliferation Index = (28)/(28+202)
+Proliferation Index = (28)/(230)
+Proliferation Index: 0.121739
+Proliferation Index: 0.121739 * 100
+Proliferation Index: 12.1739%
+Proliferation Index: 12.17%
+
+===== 364.jpg =====
+Positive cells: 22
+Negative cells: 152
+Proliferation Index = (22)/(22+152)
+Proliferation Index = (22)/(174)
+Proliferation Index: 0.126436
+Proliferation Index: 0.126436 * 100
+Proliferation Index: 12.6436%
+Proliferation Index: 12.64%
+
+===== 365.jpg =====
+Positive cells: 60
+Negative cells: 182
+Proliferation Index = (60)/(60+182)
+Proliferation Index = (60)/(242)
+Proliferation Index: 0.247933
+Proliferation Index: 0.247933 * 100
+Proliferation Index: 24.7933%
+Proliferation Index: 24.79%
+
+===== 366.jpg =====
+Positive cells: 60
+Negative cells: 152
+Proliferation Index = (60)/(60+152)
+Proliferation Index = (60)/(212)
+Proliferation Index: 0.283018
+Proliferation Index: 0.283018 * 100
+Proliferation Index: 28.3018%
+Proliferation Index: 28.30%
+
+===== 367.jpg =====
+Positive cells: 0
+Negative cells: 285
+Proliferation Index = (0)/(0+285)
+Proliferation Index = (0)/(285)
+Proliferation Index: 0.0000%
+Proliferation Index: 0.00%
+
+===== 368.jpg =====
+Positive cells: 16
+Negative cells: 200
+Proliferation Index = (16)/(16+200)
+Proliferation Index = (16)/(216)
+Proliferation Index: 0.074074
+Proliferation Index: 0.074074 * 100
+Proliferation Index: 7.4074%
+Proliferation Index: 7.41%
+
+===== 369.jpg =====
+Positive cells: 20
+Negative cells: 205
+Proliferation Index = (20)/(20+205)
+Proliferation Index = (20)/(225)
+Proliferation Index: 0.088888
+Proliferation Index: 0.088888 * 100
+Proliferation Index: 8.8888%
+Proliferation Index: 8.89%
+
+===== 37.jpg =====
+Positive cells: 112
+Negative cells: 202
+Proliferation Index = (112)/(112+202)
+Proliferation Index = (112)/(314)
+Proliferation Index: 0.356687
+Proliferation Index: 0.356687 * 100
+Proliferation Index: 35.6687%
+Proliferation Index: 35.67%
+
+===== 370.jpg =====
+Positive cells: 7
+Negative cells: 180
+Proliferation Index = (7)/(7+180)
+Proliferation Index = (7)/(187)
+Proliferation Index: 0.037433
+Proliferation Index: 0.037433 * 100
+Proliferation Index: 3.7433%
+Proliferation Index: 3.74%
+
+===== 371.jpg =====
+Positive cells: 12
+Negative cells: 180
+Proliferation Index = (12)/(12+180)
+Proliferation Index = (12)/(192)
+Proliferation Index: 0.0625
+Proliferation Index: 0.0625 * 100
+Proliferation Index: 6.25%
+Proliferation Index: 6.25%
+
+===== 372.jpg =====
+Positive cells: 2
+Negative cells: 202
+Proliferation Index = (2)/(2+202)
+Proliferation Index = (2)/(204)
+Proliferation Index: 0.980392%
+Proliferation Index: 0.98%
+
+===== 373.jpg =====
+Positive cells: 28
+Negative cells: 202
+Proliferation Index = (28)/(28+202)
+Proliferation Index = (28)/(230)
+Proliferation Index: 0.121739
+Proliferation Index: 0.121739 * 100
+Proliferation Index: 12.1739%
+Proliferation Index: 12.17%
+
+===== 374.jpg =====
+Positive cells: 28
+Negative cells: 202
+Proliferation Index = (28)/(28+202)
+Proliferation Index = (28)/(230)
+Proliferation Index: 0.121739
+Proliferation Index: 0.121739 * 100
+Proliferation Index: 12.1739%
+Proliferation Index: 12.17%
+
+===== 375.jpg =====
+Positive cells: 11
+Negative cells: 110
+Proliferation Index = (11)/(11+110)
+Proliferation Index = (11)/(121)
+Proliferation Index: 0.090909
+Proliferation Index: 0.090909 * 100
+Proliferation Index: 9.0909%
+Proliferation Index: 9.09%
+
+===== 376.jpg =====
+Positive cells: 14
+Negative cells: 200
+Proliferation Index = (14)/(14+200)
+Proliferation Index = (14)/(214)
+Proliferation Index: 0.065417
+Proliferation Index: 0.065417 * 100
+Proliferation Index: 6.5417%
+Proliferation Index: 6.54%
+
+===== 377.jpg =====
+Positive cells: 25
+Negative cells: 225
+Proliferation Index = (25)/(25+225)
+Proliferation Index = (25)/(250)
+Proliferation Index: 0.1
+Proliferation Index: 0.1 * 100
+Proliferation Index: 10.0000%
+Proliferation Index: 10.00%
+
+===== 378.jpg =====
+Positive cells: 2
+Negative cells: 248
+Proliferation Index = (2)/(2+248)
+Proliferation Index = (2)/(250)
+Proliferation Index: 0.008000
+Proliferation Index: 0.008000 * 100
+Proliferation Index: 0.8000%
+Proliferation Index: 0.80%
+
+===== 379.jpg =====
+Positive cells: 2
+Negative cells: 192
+Proliferation Index = (2)/(2+192)
+Proliferation Index = (2)/(194)
+Proliferation Index: 1.0309%
+Proliferation Index: 1.03%
+
+===== 38.jpg =====
+Positive cells: 57
+Negative cells: 142
+Proliferation Index = (57)/(57+142)
+Proliferation Index = (57)/(199)
+Proliferation Index: 0.286432
+Proliferation Index: 0.286432 * 100
+Proliferation Index: 28.6432%
+Proliferation Index: 28.64%
+
+===== 380.jpg =====
+Positive cells: 2
+Negative cells: 248
+Proliferation Index = (2)/(2+248)
+Proliferation Index = (2)/(250)
+Proliferation Index: 0.008000
+Proliferation Index: 0.008000 * 100
+Proliferation Index: 0.8000%
+Proliferation Index: 0.80%
+
+===== 381.jpg =====
+Positive cells: 2
+Negative cells: 248
+Proliferation Index = (2)/(2+248)
+Proliferation Index = (2)/(250)
+Proliferation Index: 0.008000
+Proliferation Index: 0.008000 * 100
+Proliferation Index: 0.8000%
+Proliferation Index: 0.80%
+
+===== 382.jpg =====
+Positive cells: 20
+Negative cells: 222
+Proliferation Index = (20)/(20+222)
+Proliferation Index = (20)/(242)
+Proliferation Index: 0.082644 * 100
+Proliferation Index: 8.2644%
+Proliferation Index: 8.26%
+
+===== 383.jpg =====
+Positive cells: 7
+Negative cells: 150
+Proliferation Index = (7)/(7+150)
+Proliferation Index = (7)/(157)
+Proliferation Index: 0.044585987 * 100
+Proliferation Index: 4.46%
+Proliferation Index: 4.46%
+
+===== 384.jpg =====
+Positive cells: 10
+Negative cells: 202
+Proliferation Index = (10)/(10+202)
+Proliferation Index = (10)/(212)
+Proliferation Index: 0.047169811320754715
+Proliferation Index: 0.047169811320754715 * 100
+Proliferation Index: 4.7169811320754715%
+Proliferation Index: 4.72%
+
+===== 385.jpg =====
+Positive cells: 5
+Negative cells: 202
+Proliferation Index = (5)/(5+202)
+Proliferation Index = (5)/(207)
+Proliferation Index: 2.415458%
+Proliferation Index: 2.42%
+
+===== 386.jpg =====
+Positive cells: 12
+Negative cells: 188
+Proliferation Index = (12)/(12+188)
+Proliferation Index = (12)/(200)
+Proliferation Index: 0.06
+Proliferation Index: 0.06 * 100
+Proliferation Index: 6.0000%
+Proliferation Index: 6.00%
+
+===== 387.jpg =====
+Positive cells: 4
+Negative cells: 120
+Proliferation Index = (4)/(4+120)
+Proliferation Index = (4)/(124)
+Proliferation Index: 0.032258
+Proliferation Index: 0.032258 * 100
+Proliferation Index: 3.2258%
+Proliferation Index: 3.23%
+
+===== 388.jpg =====
+Positive cells: 30
+Negative cells: 150
+Proliferation Index = (30)/(30+150)
+Proliferation Index = (30)/(180)
+Proliferation Index: 0.166666
+Proliferation Index: 0.166666 * 100
+Proliferation Index: 16.6666%
+Proliferation Index: 16.67%
+
+===== 389.jpg =====
+Positive cells: 70
+Negative cells: 182
+Proliferation Index = (70)/(70+182)
+Proliferation Index = (70)/(252)
+Proliferation Index: 0.277777
+Proliferation Index: 0.277777 * 100
+Proliferation Index: 27.7777%
+Proliferation Index: 27.78%
+
+===== 39.jpg =====
+Positive cells: 38
+Negative cells: 107
+Proliferation Index = (38)/(38+107)
+Proliferation Index = (38)/(145)
+Proliferation Index: 0.262068
+Proliferation Index: 0.262068 * 100
+Proliferation Index: 26.2068%
+Proliferation Index: 26.21%
+
+===== 390.jpg =====
+Positive cells: 70
+Negative cells: 112
+Proliferation Index = (70)/(70+112)
+Proliferation Index = (70)/(182)
+Proliferation Index: 0.384615
+Proliferation Index: 0.384615 * 100
+Proliferation Index: 38.4615%
+Proliferation Index: 38.46%
+
+===== 391.jpg =====
+Positive cells: 47
+Negative cells: 225
+Proliferation Index = (47)/(47+225)
+Proliferation Index = (47)/(272)
+Proliferation Index: 0.172794
+Proliferation Index: 0.172794 * 100
+Proliferation Index: 17.2794%
+Proliferation Index: 17.28%
+
+===== 392.jpg =====
+Positive cells: 108
+Negative cells: 87
+Proliferation Index = (108)/(108+87)
+Proliferation Index = (108)/(195)
+Proliferation Index: 0.553846
+Proliferation Index: 0.553846 * 100
+Proliferation Index: 55.3846%
+Proliferation Index: 55.38%
+
+===== 393.jpg =====
+Positive cells: 40
+Negative cells: 261
+Proliferation Index = (40)/(40+261)
+Proliferation Index = (40)/(301)
+Proliferation Index: 0.132890
+Proliferation Index: 0.132890 * 100
+Proliferation Index: 13.2890%
+Proliferation Index: 13.29%
+
+===== 394.jpg =====
+Positive cells: 28
+Negative cells: 212
+Proliferation Index = (28)/(28+212)
+Proliferation Index = (28)/(240)
+Proliferation Index: 0.116666
+Proliferation Index: 0.116666 * 100
+Proliferation Index: 11.6666%
+Proliferation Index: 11.67%
+
+===== 395.jpg =====
+Positive cells: 20
+Negative cells: 212
+Proliferation Index = (20)/(20+212)
+Proliferation Index = (20)/(232)
+Proliferation Index: 0.08620689655172414
+Proliferation Index: 0.08620689655172414 * 100
+Proliferation Index: 8.620689655172414%
+Proliferation Index: 8.62%
+
+===== 396.jpg =====
+Positive cells: 95
+Negative cells: 164
+Proliferation Index = (95)/(95+164)
+Proliferation Index = (95)/(259)
+Proliferation Index: 0.366795
+Proliferation Index: 0.366795 * 100
+Proliferation Index: 36.6795%
+Proliferation Index: 36.68%
+
+===== 397.jpg =====
+Positive cells: 88
+Negative cells: 152
+Proliferation Index = (88)/(88+152)
+Proliferation Index = (88)/(240)
+Proliferation Index: 0.366666
+Proliferation Index: 0.366666 * 100
+Proliferation Index: 36.6666%
+Proliferation Index: 36.67%
+
+===== 398.jpg =====
+Positive cells: 70
+Negative cells: 229
+Proliferation Index = (70)/(70+229)
+Proliferation Index = (70)/(299)
+Proliferation Index: 0.234113
+Proliferation Index: 0.234113 * 100
+Proliferation Index: 23.4113%
+Proliferation Index: 23.41%
+
+===== 399.jpg =====
+Positive cells: 70
+Negative cells: 222
+Proliferation Index = (70)/(70+222)
+Proliferation Index = (70)/(292)
+Proliferation Index: 0.239726
+Proliferation Index: 0.239726 * 100
+Proliferation Index: 23.9726%
+Proliferation Index: 23.97%
+
+===== 4.jpg =====
+Positive cells: 62
+Negative cells: 41
+Proliferation Index = (62)/(62+41)
+Proliferation Index = (62)/(103)
+Proliferation Index: 0.601941
+Proliferation Index: 0.601941 * 100
+Proliferation Index: 60.1941%
+Proliferation Index: 60.19%
+
+===== 40.jpg =====
+Positive cells: 78
+Negative cells: 156
+Proliferation Index = (78)/(78+156)
+Proliferation Index = (78)/(234)
+Proliferation Index: 33.3333%
+Proliferation Index: 33.33%
+
+===== 400.jpg =====
+Positive cells: 20
+Negative cells: 222
+Proliferation Index = (20)/(20+222)
+Proliferation Index = (20)/(242)
+Proliferation Index: 0.082644 * 100
+Proliferation Index: 8.26%
+Proliferation Index: 8.26%
+
+===== 401.jpg =====
+Positive cells: 28
+Negative cells: 225
+Proliferation Index = (28)/(28+225)
+Proliferation Index = (28)/(253)
+Proliferation Index: 0.11067193675889328
+Proliferation Index: 0.11067193675889328 * 100
+Proliferation Index: 11.067193675889328%
+Proliferation Index: 11.07%
+
+===== 41.jpg =====
+Positive cells: 57
+Negative cells: 180
+Proliferation Index = (57)/(57+180)
+Proliferation Index = (57)/(237)
+Proliferation Index: 24.0506%
+Proliferation Index: 24.05%
+
+===== 42.jpg =====
+Positive cells: 50
+Negative cells: 212
+Proliferation Index = (50)/(50+212)
+Proliferation Index = (50)/(262)
+Proliferation Index: 0.19083969 * 100
+Proliferation Index: 19.08%
+Proliferation Index: 19.08%
+
+===== 43.jpg =====
+Positive cells: 41
+Negative cells: 150
+Proliferation Index = (41)/(41+150)
+Proliferation Index = (41)/(191)
+Proliferation Index: 0.214659685863874345549738219895287958115183246073298429319371727748691099476439790575916230366492146597
+Proliferation Index: 21.47%
+Proliferation Index: 21.47%
+
+===== 44.jpg =====
+Positive cells: 70
+Negative cells: 68
+Proliferation Index = (70)/(70+68)
+Proliferation Index = (70)/(138)
+Proliferation Index: 0.507246
+Proliferation Index: 0.507246 * 100
+Proliferation Index: 50.7246%
+Proliferation Index: 50.72%
+
+===== 45.jpg =====
+Positive cells: 57
+Negative cells: 124
+Proliferation Index = (57)/(57+124)
+Proliferation Index = (57)/(181)
+Proliferation Index: 0.314917
+Proliferation Index: 0.314917 * 100
+Proliferation Index: 31.4917%
+Proliferation Index: 31.49%
+
+===== 46.jpg =====
+Positive cells: 108
+Negative cells: 87
+Proliferation Index = (108)/(108+87)
+Proliferation Index = (108)/(195)
+Proliferation Index: 0.553846
+Proliferation Index: 0.553846 * 100
+Proliferation Index: 55.3846%
+Proliferation Index: 55.38%
+
+===== 47.jpg =====
+Positive cells: 78
+Negative cells: 112
+Proliferation Index = (78)/(78+112)
+Proliferation Index = (78)/(190)
+Proliferation Index: 0.410526
+Proliferation Index: 0.410526 * 100
+Proliferation Index: 41.0526%
+Proliferation Index: 41.05%
+
+===== 48.jpg =====
+Positive cells: 60
+Negative cells: 152
+Proliferation Index = (60)/(60+152)
+Proliferation Index = (60)/(212)
+Proliferation Index: 0.2830
+Proliferation Index: 0.2830 * 100
+Proliferation Index: 28.30%
+Proliferation Index: 28.30%
+
+===== 49.jpg =====
+Positive cells: 88
+Negative cells: 91
+Proliferation Index = (88)/(88+91)
+Proliferation Index = (88)/(179)
+Proliferation Index: 0.491620
+Proliferation Index: 0.491620 * 100
+Proliferation Index: 49.1620%
+Proliferation Index: 49.16%
+
+===== 5.jpg =====
+Positive cells: 70
+Negative cells: 27
+Proliferation Index = (70)/(70+27)
+Proliferation Index = (70)/(97)
+Proliferation Index: 0.721649
+Proliferation Index: 0.721649 * 100
+Proliferation Index: 72.1649%
+Proliferation Index: 72.16%
+
+===== 50.jpg =====
+Positive cells: 92
+Negative cells: 28
+Proliferation Index = (92)/(92+28)
+Proliferation Index = (92)/(120)
+Proliferation Index: 0.766666
+Proliferation Index: 0.766666 * 100
+Proliferation Index: 76.6666%
+Proliferation Index: 76.67%
+
+===== 51.jpg =====
+Positive cells: 168
+Negative cells: 22
+Proliferation Index = (168)/(168+22)
+Proliferation Index = (168)/(190)
+Proliferation Index: 0.884210
+Proliferation Index: 0.884210 * 100
+Proliferation Index: 88.4210%
+Proliferation Index: 88.42%
+
+===== 52.jpg =====
+Positive cells: 112
+Negative cells: 31
+Proliferation Index = (112)/(112+31)
+Proliferation Index = (112)/(143)
+Proliferation Index: 0.783216
+Proliferation Index: 0.783216 * 100
+Proliferation Index: 78.3216%
+Proliferation Index: 78.32%
+
+===== 53.jpg =====
+Positive cells: 178
+Negative cells: 15
+Proliferation Index = (178)/(178+15)
+Proliferation Index = (178)/(193)
+Proliferation Index: 0.92227979
+Proliferation Index: 92.23%
+
+===== 54.jpg =====
+Positive cells: 168
+Negative cells: 22
+Proliferation Index = (168)/(168+22)
+Proliferation Index = (168)/(190)
+Proliferation Index: 0.884210
+Proliferation Index: 0.884210 * 100
+Proliferation Index: 88.4210%
+Proliferation Index: 88.42%
+
+===== 55.jpg =====
+Positive cells: 35
+Negative cells: 48
+Proliferation Index = (35)/(35+48)
+Proliferation Index = (35)/(83)
+Proliferation Index: 0.421686
+Proliferation Index: 0.421686 * 100
+Proliferation Index: 42.1686%
+Proliferation Index: 42.17%
+
+===== 56.jpg =====
+Positive cells: 41
+Negative cells: 102
+Proliferation Index = (41)/(41+102)
+Proliferation Index = (41)/(143)
+Proliferation Index: 0.286713
+Proliferation Index: 0.286713 * 100
+Proliferation Index: 28.6713%
+Proliferation Index: 28.67%
+
+===== 57.jpg =====
+Positive cells: 108
+Negative cells: 12
+Proliferation Index = (108)/(108+12)
+Proliferation Index = (108)/(120)
+Proliferation Index: 0.9
+Proliferation Index: 0.9 * 100
+Proliferation Index: 90.0000%
+Proliferation Index: 90.00%
+
+===== 58.jpg =====
+Positive cells: 62
+Negative cells: 51
+Proliferation Index = (62)/(62+51)
+Proliferation Index = (62)/(113)
+Proliferation Index: 0.548672
+Proliferation Index: 0.548672 * 100
+Proliferation Index: 54.8672%
+Proliferation Index: 54.87%
+
+===== 59.jpg =====
+Positive cells: 95
+Negative cells: 45
+Proliferation Index = (95)/(95+45)
+Proliferation Index = (95)/(140)
+Proliferation Index: 0.678571
+Proliferation Index: 0.678571 * 100
+Proliferation Index: 67.8571%
+Proliferation Index: 67.86%
+
+===== 6.jpg =====
+Positive cells: 78
+Negative cells: 31
+Proliferation Index = (78)/(78+31)
+Proliferation Index = (78)/(109)
+Proliferation Index: 0.715596
+Proliferation Index: 0.715596 * 100
+Proliferation Index: 71.5596%
+Proliferation Index: 71.56%
+
+===== 60.jpg =====
+Positive cells: 97
+Negative cells: 40
+Proliferation Index = (97)/(97+40)
+Proliferation Index = (97)/(137)
+Proliferation Index: 0.708029
+Proliferation Index: 0.708029 * 100
+Proliferation Index: 70.8029%
+Proliferation Index: 70.80%
+
+===== 61.jpg =====
+Positive cells: 88
+Negative cells: 22
+Proliferation Index = (88)/(88+22)
+Proliferation Index = (88)/(110)
+Proliferation Index: 0.8
+Proliferation Index: 0.8 * 100
+Proliferation Index: 80.0000%
+Proliferation Index: 80.00%
+
+===== 62.jpg =====
+Positive cells: 78
+Negative cells: 22
+Proliferation Index = (78)/(78+22)
+Proliferation Index = (78)/(100)
+Proliferation Index: 0.78
+Proliferation Index: 0.78 * 100
+Proliferation Index: 78.0000%
+Proliferation Index: 78.00%
+
+===== 63.jpg =====
+Positive cells: 108
+Negative cells: 30
+Proliferation Index = (108)/(108+30)
+Proliferation Index = (108)/(138)
+Proliferation Index: 78.2608695652%
+Proliferation Index: 78.26%
+
+===== 64.jpg =====
+Positive cells: 78
+Negative cells: 112
+Proliferation Index = (78)/(78+112)
+Proliferation Index = (78)/(190)
+Proliferation Index: 0.410526
+Proliferation Index: 0.410526 * 100
+Proliferation Index: 41.0526%
+Proliferation Index: 41.05%
+
+===== 65.jpg =====
+Positive cells: 41
+Negative cells: 120
+Proliferation Index = (41)/(41+120)
+Proliferation Index = (41)/(161)
+Proliferation Index: 0.254658
+Proliferation Index: 0.254658 * 100
+Proliferation Index: 25.4658%
+Proliferation Index: 25.47%
+
+===== 66.jpg =====
+Positive cells: 58
+Negative cells: 107
+Proliferation Index = (58)/(58+107)
+Proliferation Index = (58)/(165)
+Proliferation Index: 0.351515
+Proliferation Index: 0.351515 * 100
+Proliferation Index: 35.1515%
+Proliferation Index: 35.15%
+
+===== 67.jpg =====
+Positive cells: 47
+Negative cells: 122
+Proliferation Index = (47)/(47+122)
+Proliferation Index = (47)/(169)
+Proliferation Index: 0.278106
+Proliferation Index: 0.278106 * 100
+Proliferation Index: 27.8106%
+Proliferation Index: 27.81%
+
+===== 68.jpg =====
+Positive cells: 57
+Negative cells: 120
+Proliferation Index = (57)/(57+120)
+Proliferation Index = (57)/(177)
+Proliferation Index: 0.322033
+Proliferation Index: 0.322033 * 100
+Proliferation Index: 32.2033%
+Proliferation Index: 32.20%
+
+===== 69.jpg =====
+Positive cells: 30
+Negative cells: 180
+Proliferation Index = (30)/(30+180)
+Proliferation Index = (30)/(210)
+Proliferation Index: 0.142857
+Proliferation Index: 0.142857 * 100
+Proliferation Index: 14.2857%
+Proliferation Index: 14.29%
+
+===== 7.jpg =====
+Positive cells: 97
+Negative cells: 54
+Proliferation Index = (97)/(97+54)
+Proliferation Index = (97)/(151)
+Proliferation Index: 0.642384
+Proliferation Index: 0.642384 * 100
+Proliferation Index: 64.2384%
+Proliferation Index: 64.24%
+
+===== 70.jpg =====
+Positive cells: 47
+Negative cells: 158
+Proliferation Index = (47)/(47+158)
+Proliferation Index = (47)/(205)
+Proliferation Index: 0.229268
+Proliferation Index: 0.229268 * 100
+Proliferation Index: 22.9268%
+Proliferation Index: 22.93%
+
+===== 71.jpg =====
+Positive cells: 30
+Negative cells: 112
+Proliferation Index = (30)/(30+112)
+Proliferation Index = (30)/(142)
+Proliferation Index: 0.211267
+Proliferation Index: 0.211267 * 100
+Proliferation Index: 21.1267%
+Proliferation Index: 21.13%
+
+===== 72.jpg =====
+Positive cells: 47
+Negative cells: 11
+Proliferation Index = (47)/(47+11)
+Proliferation Index = (47)/(58)
+Proliferation Index: 0.810344
+Proliferation Index: 0.810344 * 100
+Proliferation Index: 81.0344%
+Proliferation Index: 81.03%
+
+===== 73.jpg =====
+Positive cells: 70
+Negative cells: 180
+Proliferation Index = (70)/(70+180)
+Proliferation Index = (70)/(250)
+Proliferation Index: 0.28
+Proliferation Index: 0.28 * 100
+Proliferation Index: 28.0000%
+Proliferation Index: 28.00%
+
+===== 74.jpg =====
+Positive cells: 118
+Negative cells: 52
+Proliferation Index = (118)/(118+52)
+Proliferation Index = (118)/(170)
+Proliferation Index: 0.694117
+Proliferation Index: 0.694117 * 100
+Proliferation Index: 69.4117%
+Proliferation Index: 69.41%
+
+===== 75.jpg =====
+Positive cells: 92
+Negative cells: 35
+Proliferation Index = (92)/(92+35)
+Proliferation Index = (92)/(127)
+Proliferation Index: 0.724409
+Proliferation Index: 0.724409 * 100
+Proliferation Index: 72.4409%
+Proliferation Index: 72.44%
+
+===== 76.jpg =====
+Positive cells: 108
+Negative cells: 62
+Proliferation Index = (108)/(108+62)
+Proliferation Index = (108)/(170)
+Proliferation Index: 0.635294
+Proliferation Index: 0.635294 * 100
+Proliferation Index: 63.5294%
+Proliferation Index: 63.53%
+
+===== 77.jpg =====
+Positive cells: 150
+Negative cells: 62
+Proliferation Index = (150)/(150+62)
+Proliferation Index = (150)/(212)
+Proliferation Index: 0.707547
+Proliferation Index: 0.707547 * 100
+Proliferation Index: 70.7547%
+Proliferation Index: 70.75%
+
+===== 78.jpg =====
+Positive cells: 118
+Negative cells: 52
+Proliferation Index = (118)/(118+52)
+Proliferation Index = (118)/(170)
+Proliferation Index: 0.694117
+Proliferation Index: 0.694117 * 100
+Proliferation Index: 69.4117%
+Proliferation Index: 69.41%
+
+===== 79.jpg =====
+Positive cells: 67
+Negative cells: 58
+Proliferation Index = (67)/(67+58)
+Proliferation Index = (67)/(125)
+Proliferation Index: 0.536
+Proliferation Index: 0.536 * 100
+Proliferation Index: 53.6%
+Proliferation Index: 53.60%
+
+===== 8.jpg =====
+Positive cells: 60
+Negative cells: 41
+Proliferation Index = (60)/(60+41)
+Proliferation Index = (60)/(101)
+Proliferation Index: 0.594059
+Proliferation Index: 0.594059 * 100
+Proliferation Index: 59.4059%
+Proliferation Index: 59.41%
+
+===== 80.jpg =====
+Positive cells: 30
+Negative cells: 62
+Proliferation Index = (30)/(30+62)
+Proliferation Index = (30)/(92)
+Proliferation Index: 0.3260869565
+Proliferation Index: 32.61%
+
+===== 81.jpg =====
+Positive cells: 47
+Negative cells: 30
+Proliferation Index = (47)/(47+30)
+Proliferation Index = (47)/(77)
+Proliferation Index: 0.610389
+Proliferation Index: 0.610389 * 100
+Proliferation Index: 61.0389%
+Proliferation Index: 61.04%
+
+===== 82.jpg =====
+Positive cells: 60
+Negative cells: 112
+Proliferation Index = (60)/(60+112)
+Proliferation Index = (60)/(172)
+Proliferation Index: 0.348837
+Proliferation Index: 0.348837 * 100
+Proliferation Index: 34.8837%
+Proliferation Index: 34.88%
+
+===== 83.jpg =====
+Positive cells: 67
+Negative cells: 164
+Proliferation Index = (67)/(67+164)
+Proliferation Index = (67)/(231)
+Proliferation Index: 0.289004
+Proliferation Index: 0.289004 * 100
+Proliferation Index: 28.9004%
+Proliferation Index: 28.90%
+
+===== 84.jpg =====
+Positive cells: 62
+Negative cells: 158
+Proliferation Index = (62)/(62+158)
+Proliferation Index = (62)/(220)
+Proliferation Index: 0.281818
+Proliferation Index: 0.281818 * 100
+Proliferation Index: 28.1818%
+Proliferation Index: 28.18%
+
+===== 85.jpg =====
+Positive cells: 60
+Negative cells: 152
+Proliferation Index = (60)/(60+152)
+Proliferation Index = (60)/(212)
+Proliferation Index: 0.282051
+Proliferation Index: 0.282051 * 100
+Proliferation Index: 28.3051%
+Proliferation Index: 28.31%
+
+===== 86.jpg =====
+Positive cells: 70
+Negative cells: 112
+Proliferation Index = (70)/(70+112)
+Proliferation Index = (70)/(182)
+Proliferation Index: 0.384615
+Proliferation Index: 0.384615 * 100
+Proliferation Index: 38.4615%
+Proliferation Index: 38.46%
+
+===== 87.jpg =====
+Positive cells: 28
+Negative cells: 20
+Proliferation Index = (28)/(28+20)
+Proliferation Index = (28)/(48)
+Proliferation Index: 0.583333
+Proliferation Index: 58.33%
+
+===== 88.jpg =====
+Positive cells: 70
+Negative cells: 22
+Proliferation Index = (70)/(70+22)
+Proliferation Index = (70)/(92)
+Proliferation Index: 0.760869
+Proliferation Index: 0.760869 * 100
+Proliferation Index: 76.0869%
+Proliferation Index: 76.09%
+
+===== 89.jpg =====
+Positive cells: 68
+Negative cells: 11
+Proliferation Index = (68)/(68+11)
+Proliferation Index = (68)/(79)
+Proliferation Index: 0.860759
+Proliferation Index: 0.860759 * 100
+Proliferation Index: 86.0759%
+Proliferation Index: 86.08%
+
+===== 9.jpg =====
+Positive cells: 28
+Negative cells: 107
+Proliferation Index = (28)/(28+107)
+Proliferation Index = (28)/(135)
+Proliferation Index: 0.207407
+Proliferation Index: 0.207407 * 100
+Proliferation Index: 20.7407%
+Proliferation Index: 20.74%
+
+===== 90.jpg =====
+Positive cells: 50
+Negative cells: 22
+Proliferation Index = (50)/(50+22)
+Proliferation Index = (50)/(72)
+Proliferation Index: 0.694444
+Proliferation Index: 0.694444 * 100
+Proliferation Index: 69.4444%
+Proliferation Index: 69.44%
+
+===== 91.jpg =====
+Positive cells: 30
+Negative cells: 41
+Proliferation Index = (30)/(30+41)
+Proliferation Index = (30)/(71)
+Proliferation Index: 0.422535
+Proliferation Index: 0.422535 * 100
+Proliferation Index: 42.2535%
+Proliferation Index: 42.25%
+
+===== 92.jpg =====
+Positive cells: 60
+Negative cells: 40
+Proliferation Index = (60)/(60+40)
+Proliferation Index = (60)/(100)
+Proliferation Index: 0.6
+Proliferation Index: 0.6 * 100
+Proliferation Index: 60.0000%
+Proliferation Index: 60.00%
+
+===== 93.jpg =====
+Positive cells: 78
+Negative cells: 42
+Proliferation Index = (78)/(78+42)
+Proliferation Index = (78)/(120)
+Proliferation Index: 0.65
+Proliferation Index: 0.65 * 100
+Proliferation Index: 65.0000%
+Proliferation Index: 65.00%
+
+===== 94.jpg =====
+Positive cells: 88
+Negative cells: 31
+Proliferation Index = (88)/(88+31)
+Proliferation Index = (88)/(119)
+Proliferation Index: 0.739495
+Proliferation Index: 0.739495 * 100
+Proliferation Index: 73.9495%
+Proliferation Index: 73.95%
+
+===== 95.jpg =====
+Positive cells: 67
+Negative cells: 28
+Proliferation Index = (67)/(67+28)
+Proliferation Index = (67)/(95)
+Proliferation Index: 0.705263
+Proliferation Index: 0.705263 * 100
+Proliferation Index: 70.5263%
+Proliferation Index: 70.53%
+
+===== 96.jpg =====
+Positive cells: 52
+Negative cells: 51
+Proliferation Index = (52)/(52+51)
+Proliferation Index = (52)/(103)
+Proliferation Index: 50.4854%
+Proliferation Index: 50.49%
+
+===== 97.jpg =====
+Positive cells: 70
+Negative cells: 15
+Proliferation Index = (70)/(70+15)
+Proliferation Index = (70)/(85)
+Proliferation Index: 0.823529
+Proliferation Index: 0.823529 * 100
+Proliferation Index: 82.3529%
+Proliferation Index: 82.35%
+
+===== 98.jpg =====
+Positive cells: 62
+Negative cells: 12
+Proliferation Index = (62)/(62+12)
+Proliferation Index = (62)/(74)
+Proliferation Index: 0.837837
+Proliferation Index: 0.837837 * 100
+Proliferation Index: 83.7837%
+Proliferation Index: 83.78%
+
+===== 99.jpg =====
+Positive cells: 97
+Negative cells: 62
+Proliferation Index = (97)/(97+62)
+Proliferation Index = (97)/(159)
+Proliferation Index: 0.610062
+Proliferation Index: 0.610062 * 100
+Proliferation Index: 61.0062%
+Proliferation Index: 61.01%
