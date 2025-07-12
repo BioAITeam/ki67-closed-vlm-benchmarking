@@ -678,12 +678,12 @@ Here's a breakdown of the available utility scripts:
 
   Example BCData
   ```bash
-  python 4.utils/plot_multiple_models.py 5.results/4.5/BCData/ki67_results.csv 5.results/4.1-mini-2025-04-14/BCData/ki67_results.csv 5.results/4.1-2025-04-14/BCData/ki67_results.csv 5.results/4o/BCData/ki67_results.csv 5.results/gemini1.5pro/BCData/ki67_results.csv 5.results/gemini1.5flash/BCData/ki67_results.csv 5.results/grok2vision/BCData/ki67_results.csv 5.results/claude-3-5-sonnet/BCData/ki67_results.csv --rows 2 --cols 4 --out 5.results/ki67_comparison_plot_bcdata.pdf
+  python 4.utils/plot_multiple_models.py 5.results/4.5/BCData/ki67_results.csv 5.results/4.1-mini-2025-04-14/BCData/ki67_results.csv 5.results/4.1-2025-04-14/BCData/ki67_results.csv 5.results/4o/BCData/ki67_results.csv 5.results/gemini1.5pro/BCData/ki67_results.csv 5.results/gemini1.5flash/BCData/ki67_results.csv 5.results/grok2vision/BCData/ki67_results.csv 5.results/claude-3-5-sonnet/BCData/ki67_results.csv --rows 1 --cols 8 --out 5.results/ki67_comparison_plot_bcdata.pdf
   ```
 
   Example SHIDC-B-Ki-67
   ```bash
-  python 4.utils/plot_multiple_models.py 5.results/4.5/SHIDC-B-Ki-67/ki67_results.csv 5.results/4.1-mini-2025-04-14/SHIDC-B-Ki-67/ki67_results.csv 5.results/4.1-2025-04-14/SHIDC-B-Ki-67/ki67_results.csv 5.results/4o/SHIDC-B-Ki-67/ki67_results.csv 5.results/gemini1.5pro/SHIDC-B-Ki-67/ki67_results.csv 5.results/gemini1.5flash/SHIDC-B-Ki-67/ki67_results.csv 5.results/grok2vision/SHIDC-B-Ki-67/ki67_results.csv 5.results/claude-3-5-sonnet/SHIDC-B-Ki-67/ki67_results.csv --rows 2 --cols 4 --out 5.results/ki67_comparison_plot_shidc-b-ki-67.pdf
+  python 4.utils/plot_multiple_models.py 5.results/4.5/SHIDC-B-Ki-67/ki67_results.csv 5.results/4.1-mini-2025-04-14/SHIDC-B-Ki-67/ki67_results.csv 5.results/4.1-2025-04-14/SHIDC-B-Ki-67/ki67_results.csv 5.results/4o/SHIDC-B-Ki-67/ki67_results.csv 5.results/gemini1.5pro/SHIDC-B-Ki-67/ki67_results.csv 5.results/gemini1.5flash/SHIDC-B-Ki-67/ki67_results.csv 5.results/grok2vision/SHIDC-B-Ki-67/ki67_results.csv 5.results/claude-3-5-sonnet/SHIDC-B-Ki-67/ki67_results.csv --rows 1 --cols 8 --out 5.results/ki67_comparison_plot_shidc-b-ki-67.pdf
   ```
 
   *(If you call the script **without arguments** it will fall back to that same default list.)*
